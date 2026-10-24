@@ -654,7 +654,7 @@ export const PracticeBankTab: React.FC<PracticeBankTabProps> = ({ onAddErrorLog,
               <span className="font-bold px-2.5 py-1 bg-blue-50 dark:bg-blue-950 text-blue-700 dark:text-blue-300 rounded-lg">
                 Audio Script {itemIndex + 1} of {filteredListening.length} • Part {item.part} ({item.type})
               </span>
-              <span className="text-slate-400">Offline SpeechSynthesis Engine</span>
+              <span className="text-slate-400">{item.audioFile ? 'Recorded MP3 audio' : 'Offline SpeechSynthesis Engine'}</span>
             </div>
 
             {item.imageFile && (
@@ -722,7 +722,7 @@ export const PracticeBankTab: React.FC<PracticeBankTabProps> = ({ onAddErrorLog,
               <div className="flex items-start gap-2 text-xs text-blue-800 dark:text-blue-300">
                 <Info className="w-4 h-4 shrink-0 mt-0.5" />
                 <span>
-                  Audio is synthesized natively by your browser's TTS API without sending data to servers. Voice accent clarity depends on installed device voices.
+                  {item.audioFile ? 'Recorded audio (MP3). The statements and answer choices are spoken only, as in the real test. Use Show Spoken Audio Script to read them after you answer.' : "Audio is synthesized natively by your browser's TTS API without sending data to servers. Voice accent clarity depends on installed device voices."}
                 </span>
               </div>
             </div>
@@ -780,7 +780,7 @@ export const PracticeBankTab: React.FC<PracticeBankTabProps> = ({ onAddErrorLog,
                           >
                             <div className="flex items-center gap-2">
                               <span className="font-bold">{opt.key}.</span>
-                              <span>{item.part === 1 && !isAnswered && !isRevealed ? 'Listen to the statement' : opt.text}</span>
+                              <span>{(item.part === 1 || item.part === 2) && !isAnswered && !isRevealed ? '' : opt.text}</span>
                             </div>
                             {isAnswered && isTargetCorrect && <CheckCircle2 className="w-3.5 h-3.5 text-emerald-600 shrink-0" />}
                           </button>
