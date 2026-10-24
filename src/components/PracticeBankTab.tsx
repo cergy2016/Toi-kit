@@ -759,8 +759,9 @@ export const PracticeBankTab: React.FC<PracticeBankTabProps> = ({ onAddErrorLog,
                       {qIdx + 1}. {q.questionText}
                     </div>
 
-                    <div className="space-y-2">
+                    <div className={(item.part === 1 || item.part === 2) && !isAnswered && !isRevealed ? 'grid grid-cols-2 sm:grid-cols-4 gap-3' : 'space-y-2'}>
                       {q.options.map(opt => {
+                        const hideText = (item.part === 1 || item.part === 2) && !isAnswered && !isRevealed;
                         const isSelected = userChoice === opt.key;
                         const isTargetCorrect = opt.key === q.correctAnswer;
 
@@ -776,11 +777,11 @@ export const PracticeBankTab: React.FC<PracticeBankTabProps> = ({ onAddErrorLog,
                             key={opt.key}
                             onClick={() => handleAnswerListening(item.id, q.id, opt.key)}
                             disabled={isAnswered}
-                            className={`w-full text-left p-2.5 rounded-lg border text-xs flex items-center justify-between cursor-pointer ${style}`}
+                            className={`w-full text-left rounded-lg border flex items-center cursor-pointer ${hideText ? 'justify-center py-4' : 'justify-between p-2.5 text-xs'} ${style}`}
                           >
                             <div className="flex items-center gap-2">
-                              <span className="font-bold">{opt.key}.</span>
-                              <span>{(item.part === 1 || item.part === 2) && !isAnswered && !isRevealed ? '' : opt.text}</span>
+                              <span className={hideText ? 'font-bold text-xl' : 'font-bold'}>{hideText ? opt.key : `${opt.key}.`}</span>
+                              {!hideText && <span>{opt.text}</span>}
                             </div>
                             {isAnswered && isTargetCorrect && <CheckCircle2 className="w-3.5 h-3.5 text-emerald-600 shrink-0" />}
                           </button>
