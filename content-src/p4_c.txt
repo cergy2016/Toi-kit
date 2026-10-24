@@ -1,0 +1,60 @@
+@Meeting excerpt|Customer complaint review|us
+W: Let's turn to the next item, which is the number of customer complaints about our delivery service. Last month we received ninety-two, which is nearly double the usual number. Most of them said that packages arrived damaged.
+W: I've talked to the warehouse team, and they believe the problem began when we changed packaging suppliers in June. So here's the plan. First, we'll switch back to our previous supplier for fragile items. Second, Mr. Ito will inspect a sample of every shipment for the next two weeks. Finally, we'll send a short apology and a discount code to every affected customer.
+Q|What problem does the speaker describe?|Damaged deliveries|Late payments|Incorrect prices|Missing orders|She says most complaints said that packages arrived damaged.
+Q|What does the speaker say happened in June?|A new supplier was selected.|A warehouse closed.|A price was raised.|A manager left.|She says the problem began when they changed packaging suppliers in June.
+Q|What will customers receive?|A discount code|A free package|A phone call|A replacement item|She says they will send an apology and a discount code.
+@Announcement|Train line maintenance|uk
+W: Attention, passengers. Due to track maintenance this weekend, trains on the Green Line will not run between Harbor Station and Millbrook. Replacement buses will leave from the east exit of each station every fifteen minutes.
+W: Please allow an extra thirty minutes for your journey. Tickets will be valid on the replacement buses, and passengers traveling with bicycles should note that bikes are not allowed on the buses. Full service will return on Monday morning. For updates, please check our Web site or follow us on social media.
+Q|What is the reason for the change?|Track maintenance|A staff shortage|Bad weather|A special event|She says trains will not run due to track maintenance.
+Q|What are passengers advised to do?|Allow extra travel time|Buy new tickets|Arrive at a different station|Travel on Monday|She says to allow an extra thirty minutes.
+Q|What is NOT permitted on the replacement buses?|Bicycles|Luggage|Pets|Strollers|She says bikes are not allowed on the buses.
+@Telephone message|Training room reservation|us
+M: Hi, this is Jerome from the facilities office, returning your call about the training room. I checked the reservation system, and the room is available on the twentieth. However, the projector there is being repaired, and it may not be ready until the day after.
+M: If you need a projector, I could lend you one from the sales department. You'd have to sign it out at the front desk and return it by five. Please let me know by Wednesday so I can mark the room as reserved for you. You can reach me at extension 305.
+Q|Why is the speaker calling?|To respond to a request|To report a broken room|To cancel a class|To announce a new rule|He is returning the listener's call about the training room.
+Q|What problem does the speaker mention?|A projector is being repaired.|A room is too small.|A date is unavailable.|A key is missing.|He says the projector is being repaired and may not be ready.
+Q|What does the speaker ask the listener to do by Wednesday?|Confirm a reservation|Sign out a projector|Return a call to the sales department|Submit a payment|He asks the listener to let him know so that he can mark the room as reserved.
+@Advertisement|Used furniture sale|us
+W: Are you moving or redecorating? Come to Second Chance Furniture, where quality used furniture is up to seventy percent off the original price. We carry desks, dining tables, sofas, and bookshelves, all inspected by our team and cleaned before they go on the floor.
+W: This weekend only, we're offering free local delivery on any purchase over three hundred dollars. And if you bring in an old piece of furniture in good condition, we'll give you a store credit. We're open from nine to seven, Thursday through Sunday, at 22 Lincoln Road, just behind the post office.
+Q|What kind of business is being advertised?|A used furniture store|A moving company|A decorating school|A post office|She advertises quality used furniture at reduced prices.
+Q|How can customers receive free delivery?|By spending over three hundred dollars|By ordering online|By visiting on Thursday|By joining a club|She says delivery is free on purchases over three hundred dollars.
+Q|What will customers get for bringing in old furniture?|A store credit|A cash payment|A free cleaning|A gift card|She says they will give a store credit.
+@Tour talk|Orchard visit instructions|us
+M: Good morning, and welcome to Hillside Orchards. Today you'll be picking apples, and I want to go over a few simple rules before we head out. First, each family will get a basket, and you may fill it up as you like. The price is five dollars per kilogram, and we'll weigh your basket when you finish.
+M: Second, please pick only from the trees with a green ribbon. Those are the ones that are ripe. Finally, there's a map of the orchard in your information packet, and we'll be serving fresh cider at noon next to the barn. Let me know if you have any questions, and enjoy your day.
+Q|Where is the talk taking place?|At an orchard|At a supermarket|At a cider factory|At a farmers' market|He welcomes visitors to Hillside Orchards.
+Q|What are the listeners told about the trees?|Only some trees may be picked.|All trees have apples.|The trees are being sold.|Some trees are closed for the winter.|He says they should pick only from trees with a green ribbon.
+Q|What will happen at noon?|Cider will be served.|Prizes will be given.|A tour will begin.|The orchard will close.|He says fresh cider will be served at noon next to the barn.
+@Speech|Opening a community garden|us
+W: Thank you all for coming this morning to celebrate the opening of the Riverside Community Garden. A year ago, this was an empty lot filled with trash. Today, thanks to more than two hundred volunteers, it holds forty garden plots and a small playground.
+W: I want to thank the city council for donating the land and the Rowan Hardware Store for supplying tools. Residents who want a plot can sign up at the table by the gate. Plots are free for the first year. Now, to officially open the garden, I'll ask our youngest volunteer, Mia, to help me cut the ribbon.
+Q|What is being celebrated?|The opening of a garden|The end of a construction project|A neighborhood cleanup|A hardware store sale|She thanks everyone for celebrating the opening of the community garden.
+Q|Who donated the land?|The city council|A hardware store|A group of volunteers|A local school|She thanks the city council for donating the land.
+Q|What will happen next?|A ribbon will be cut.|Plots will be sold.|Tools will be distributed.|A lunch will be served.|She asks Mia to help her cut the ribbon.
+@Radio broadcast|Weather and event update|us
+M: And now for your weekend weather update. Tomorrow will start with clear skies and a high of twenty-four degrees, perfect for the Riverfront Food Festival, which opens at eleven. By late afternoon, clouds will roll in, with a chance of showers after six.
+M: On Sunday, a cold front will bring rain throughout the day, and temperatures will drop to around fifteen degrees. Festival organizers have announced that the Sunday events will move to the covered market hall. For updates and a map of the new locations, check the festival's Web site. This is Kevin Brandt, and you're listening to Morning Radio.
+Q|What event is mentioned?|A food festival|A sports game|A concert|A parade|He mentions the Riverfront Food Festival opening tomorrow.
+Q|What will the weather be like on Sunday?|Rainy|Clear|Windy|Snowy|He says a cold front will bring rain throughout the day.
+Q|What will change for Sunday's events?|They will be held indoors.|They will be shortened.|They will be canceled.|They will start earlier.|He says the events will move to the covered market hall.
+@Meeting excerpt|Moving to a four-day week trial|us
+W: I'm happy to share some news about a trial we are launching this autumn. For three months, employees in the design and finance departments will work four longer days instead of five. Fridays will be free, but our offices will remain open, and a small team will be available to handle urgent issues.
+W: The goal is to see whether productivity and morale improve. Everyone taking part will fill out a short survey every month, and I'll report the results to the board in December. If you have concerns, you can talk to your department head or send a message to the human resources office. I'd like to hear your thoughts.
+Q|What is the speaker announcing?|A work schedule trial|A new building|A hiring freeze|A salary increase|She describes a three-month trial of a four-day work week.
+Q|What will employees do each month?|Complete a survey|Attend a meeting|Submit a report|Take a vacation|She says everyone taking part will fill out a short survey every month.
+Q|What will the speaker do in December?|Report to the board|Interview applicants|Close an office|Change a policy|She says she will report the results to the board in December.
+@Telephone message|Reply to a catering inquiry|mix
+M: Good afternoon, Ms. Bianchi, this is Anton from Taste of Tuscany Catering. Thank you for your inquiry about the company party on the fourteenth. We'd be delighted to cater it. For fifty guests, I'd suggest our buffet menu, which includes three main dishes and two desserts.
+M: The price is thirty-two dollars per person, with a ten percent discount if you confirm by the end of the month. I've attached a sample menu, and I'm available to meet at your office on Tuesday or Thursday afternoon to discuss details. Please call me back at 555-0173.
+Q|Who is the speaker?|A caterer|A party guest|An event manager|A restaurant critic|He introduces himself as being from a catering company.
+Q|What does the speaker suggest?|A buffet menu|A different date|A smaller group|A cooking class|He suggests the buffet menu for fifty guests.
+Q|How can the listener receive a discount?|By confirming early|By booking a larger group|By paying cash|By choosing a dessert|He says there is a ten percent discount if she confirms by the end of the month.
+@Announcement|Parking structure inspection|us
+M: Attention, employees. The Central parking structure will be closed for a safety inspection next Wednesday, from six in the morning until noon. During this time, please use the overflow lot on Carter Street, which has more than two hundred spaces. A free shuttle will bring you to the main entrance every ten minutes.
+M: Because of the closure, the building will open fifteen minutes later than usual, at eight fifteen. Anyone who needs a handicapped space should contact the security office by Monday so we can reserve spots near the entrance. Thank you for your cooperation.
+Q|What will happen next Wednesday?|A parking area will be inspected.|A building will open earlier.|A road will be repaired.|A new lot will open.|He says the Central parking structure will be closed for a safety inspection.
+Q|What can employees do during the closure?|Take a shuttle|Park on the street|Work from home|Use public transportation for free|He says a free shuttle will bring them from the overflow lot to the main entrance.
+Q|What should some employees do by Monday?|Contact security|Reserve a shuttle|Submit a form|Move their cars|He says anyone who needs a handicapped space should contact security by Monday.

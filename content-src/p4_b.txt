@@ -1,0 +1,60 @@
+@Announcement|Cafeteria menu change|us
+W: Good morning, everyone. This is an announcement from the cafeteria. Beginning Monday, we'll be introducing a new weekly menu with more vegetarian options and a daily soup. We've also added a salad bar near the entrance, which will be open from eleven thirty until two.
+W: Because of the new equipment, the cafeteria will be closed this Friday for installation. Box lunches will be available at the reception desk between noon and one. They must be ordered by e-mail before four o'clock on Thursday. Thank you for your understanding.
+Q|What is the announcement mostly about?|Changes to a food service|A new employee benefit|A building renovation|A company picnic|She describes a new weekly menu, a salad bar and a closure.
+Q|Why will the cafeteria close on Friday?|New equipment will be installed.|The menu will be printed.|The staff will take a training course.|A health inspection is scheduled.|She says it is closed for the installation of new equipment.
+Q|What should employees do by Thursday at four?|Order a lunch by e-mail|Visit the reception desk|Fill out a survey|Choose a menu item|She says box lunches must be ordered by e-mail before four o'clock on Thursday.
+@Telephone message|Job offer follow-up|uk
+M: Hello, Ms. Tran, this is Oliver Grant from Redwood Engineering. I'm calling about the project coordinator position. First of all, congratulations. The hiring committee was very impressed with your interview, and we would like to offer you the job.
+M: The starting salary and benefits are described in the attached letter, which I e-mailed this morning. If you accept, we hope you can begin on the first of March. Please return the signed letter by Friday, and call me if you have any questions about the benefits. My direct line is 555-0142.
+Q|What is the purpose of the call?|To offer a position|To schedule an interview|To ask for references|To announce a promotion|He says the committee would like to offer her the job.
+Q|What did the speaker send this morning?|A letter|A contract template|A schedule|A list of benefits|He says the letter was e-mailed this morning.
+Q|What is Ms. Tran asked to do by Friday?|Return a document|Visit the office|Attend an orientation|Meet the committee|He asks her to return the signed letter by Friday.
+@Advertisement|Language app subscription|us
+M: Do you struggle to find time for language lessons? With LinguaGo, you can learn Spanish, French, or Japanese in just fifteen minutes a day. Our lessons are designed by teachers and fit into your busy schedule. You can practice on your phone during your commute or on your tablet at home.
+M: Download LinguaGo this month and enjoy your first thirty days free. After that, an annual subscription is just forty-nine dollars, which is half the usual price for new customers. Visit linguago dot com and enter the code SPRING at checkout to claim your offer.
+Q|What is being advertised?|A learning app|A language school|A travel agency|A tablet computer|He describes an app for learning languages in fifteen minutes a day.
+Q|What is offered to new customers?|A free trial|A free tablet|A personal tutor|A printed course book|He says that the first thirty days are free.
+Q|What should listeners do to get the offer?|Enter a code|Call a number|Visit a store|Fill out a survey|He says to enter the code SPRING at checkout.
+@Radio broadcast|Local business news|us
+W: In local business news, the Harmon Valley Chamber of Commerce announced today that the city will build a new convenience center for small businesses near the old train station. The center will offer low-cost office space, shared meeting rooms, and a business library.
+W: Construction is scheduled to begin in September, and the first tenants are expected by next spring. The mayor said the project should create about forty jobs. Anyone interested in renting space can sign up for information sessions, which begin this month. Details are available at the chamber's Web site. Now, back to our music program.
+Q|What is the report about?|A planned business center|A train schedule|A tax change|A job fair|She announces a new center for small businesses near the old train station.
+Q|When is construction scheduled to begin?|In September|This month|Next spring|Next year|She says construction is scheduled to begin in September.
+Q|Where can listeners find more information?|On a Web site|At the train station|From the mayor|In a newspaper|She says details are available at the chamber's Web site.
+@Meeting excerpt|Introducing a safety policy|us
+M: Before we end today's meeting, I want to remind everyone about the new safety policy that takes effect on Monday. From now on, all employees who work on the factory floor must wear protective glasses and closed shoes at all times. Visitors will be given glasses at the entrance.
+M: Some of you have asked about the cost. The company will pay for one pair of glasses per person. If you need prescription safety glasses, please give your receipt to Ms. Greene. I'll also be sending a checklist by e-mail this afternoon, so please read it carefully and sign it by Friday.
+Q|What is the topic of the talk?|A new safety requirement|A product recall|A production schedule|A visitor policy|He announces the new policy requiring protective glasses and closed shoes.
+Q|What will the company pay for?|One pair of glasses|Special shoes|A safety class|An inspection|He says the company will pay for one pair of glasses per person.
+Q|What are the listeners asked to do by Friday?|Sign a checklist|Attend a training|Return their glasses|Submit receipts|He says they should read and sign the checklist by Friday.
+@Tour talk|Hotel orientation|mix
+W: Welcome to the Lakeview Grand Hotel. My name is Susan, and I'm the guest services manager. Before you go to your rooms, let me quickly show you around. Breakfast is served on the first floor from six to ten, and the fitness center is on the third floor, open around the clock.
+W: The pool closes at nine in the evening. If you need extra towels or an iron, just dial zero on your room phone. And if you're interested in the city tour that departs every morning from the lobby, you can sign up at the front desk. Enjoy your stay.
+Q|Who is the speaker?|A hotel manager|A tour guide|A restaurant owner|A fitness trainer|She says she is the guest services manager.
+Q|What is available at all hours?|The fitness center|The pool|The breakfast room|The city tour|She says the fitness center is open around the clock.
+Q|What can guests do at the front desk?|Register for a tour|Order breakfast|Borrow an iron|Pay for towels|She says they can sign up for the city tour there.
+@Announcement|Library temporary closure|us
+M: This is a message for patrons of the Eastside Library. Our main reading room will be closed for floor repairs from the fifth to the ninth of May. During that time, books can still be borrowed or returned at the information desk near the entrance.
+M: Our children's story hour will move to the community center across the street, and the computer lab will remain open as usual. If you have placed a book on hold, you'll receive a message when it is ready. We thank you for your patience, and we look forward to showing you the improved reading room.
+Q|What is being repaired?|A floor|A roof|A computer lab|A door|He says the reading room will be closed for floor repairs.
+Q|Where can books be returned during the closure?|At the information desk|At the community center|At the computer lab|At the reading room|He says books can be borrowed or returned at the information desk.
+Q|What will happen to the children's story hour?|It will move to another location.|It will be canceled.|It will be shortened.|It will be held online.|He says it will move to the community center across the street.
+@Telephone message|Supplier price increase|us
+W: Hi Marcus, it's Ines from Valley Ingredients. I'm calling about your next order of flour. I wanted to let you know in advance that our prices will increase by six percent next month, because the cost of transportation has gone up.
+W: Since you're one of our oldest customers, I can guarantee the current price if you place your order before the end of this week. You'd need to order at least four hundred kilograms. Please call me back at 555-0198 or send an e-mail if you'd like me to prepare it.
+Q|What is the message about?|A price change|A late delivery|A new product|A quality problem|She says the prices will increase by six percent next month.
+Q|Why will the prices go up?|Transportation costs have risen.|Wages have increased.|Flour is in short supply.|A tax has been added.|She says the cost of transportation has gone up.
+Q|What does the speaker offer?|A guaranteed price|A free sample|An early delivery|A larger discount|She says she can guarantee the current price if he orders before the end of the week.
+@Speech|Welcoming new graduates to the company|us
+M: Good morning, and congratulations to all of you for joining the graduate program at Norland Energy. I know you've worked hard to get here. Over the next year, you will rotate through three departments, so you can see which areas fit your interests best.
+M: Please remember that nobody expects you to know everything. Ask questions, and don't be afraid to make mistakes, because that's how you learn. Each of you will be paired with a mentor, and you'll meet him or her for lunch every second Friday. Now, let me hand over to Ms. Kaur, who will explain the schedule for your first week.
+Q|Who is the audience for the talk?|New employees|Customers|Investors|Retired staff|He congratulates them for joining the graduate program.
+Q|What will the listeners do over the next year?|Work in different departments|Study at a university|Travel to other countries|Train other graduates|He says they will rotate through three departments.
+Q|What will Ms. Kaur talk about?|The first week's schedule|The company history|The mentor program|The lunch menu|He says she will explain the schedule for the first week.
+@Recorded message|Cinema information line|uk
+M: Thank you for calling Starlight Cinemas. Today's new releases are The Last Harbor, showing at four, seven, and ten, and Moonlight Café, showing at five thirty and eight forty-five. Tickets for evening shows are nine pounds, and matinee tickets before five o'clock are six pounds.
+M: Members of our Starlight Club receive a free popcorn with every ticket. To join, visit the ticket counter or our Web site. Please note that the five thirty show of Moonlight Café on Saturday has been replaced by a special event with the director. To book tickets, press one now.
+Q|What is the message mostly about?|Movie information|A concert schedule|A restaurant menu|A theater renovation|He lists movies, showtimes and ticket prices.
+Q|What benefit do club members receive?|Free popcorn|Cheaper tickets|Priority seating|Free parking|He says members receive a free popcorn with every ticket.
+Q|What special event will occur on Saturday?|A meeting with a director|A film festival|A concert|A food sale|He says the five thirty show is replaced by a special event with the director.

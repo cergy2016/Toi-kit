@@ -1,0 +1,1402 @@
+[
+{
+"id": "l1-01",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) She is writing in a notebook.\n(B) She is drinking from a cup.\n(C) She is answering the telephone.\n(D) She is typing on a computer.",
+"audioFile": "audio/l1-01.mp3",
+"imageFile": "img/p1-01.jpg",
+"imageAlt": "A woman typing on a laptop at an office desk",
+"questions": [
+{
+"id": "l1-01-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "She is writing in a notebook."
+},
+{
+"key": "B",
+"text": "She is drinking from a cup."
+},
+{
+"key": "C",
+"text": "She is answering the telephone."
+},
+{
+"key": "D",
+"text": "She is typing on a computer."
+}
+],
+"correctAnswer": "D",
+"explanation": "The woman's hands are on the keyboard of a laptop. The notebook and the cup are on the desk, but she is not using them."
+}
+]
+},
+{
+"id": "l1-02",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) He is cutting some vegetables.\n(B) He is setting a table.\n(C) He is washing some dishes.\n(D) He is stirring a pot on the stove.",
+"audioFile": "audio/l1-02.mp3",
+"imageFile": "img/p1-02.jpg",
+"imageAlt": "A man in an apron slicing vegetables in a restaurant kitchen",
+"questions": [
+{
+"id": "l1-02-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "He is cutting some vegetables."
+},
+{
+"key": "B",
+"text": "He is setting a table."
+},
+{
+"key": "C",
+"text": "He is washing some dishes."
+},
+{
+"key": "D",
+"text": "He is stirring a pot on the stove."
+}
+],
+"correctAnswer": "A",
+"explanation": "The man holds a knife and is slicing vegetables on a cutting board. No dishes are being washed and no table is being set."
+}
+]
+},
+{
+"id": "l1-03",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) She is writing on a whiteboard.\n(B) She is filing papers in a cabinet.\n(C) She is using a copy machine.\n(D) She is stapling some pages together.",
+"audioFile": "audio/l1-03.mp3",
+"imageFile": "img/p1-03.jpg",
+"imageAlt": "A woman placing a sheet of paper on a photocopier",
+"questions": [
+{
+"id": "l1-03-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "She is writing on a whiteboard."
+},
+{
+"key": "B",
+"text": "She is filing papers in a cabinet."
+},
+{
+"key": "C",
+"text": "She is using a copy machine."
+},
+{
+"key": "D",
+"text": "She is stapling some pages together."
+}
+],
+"correctAnswer": "C",
+"explanation": "The woman is placing a sheet of paper on the glass of a photocopier. She is not stapling, filing or writing."
+}
+]
+},
+{
+"id": "l1-04",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) He is opening a box with a knife.\n(B) He is carrying some boxes.\n(C) He is driving a forklift.\n(D) He is climbing a ladder.",
+"audioFile": "audio/l1-04.mp3",
+"imageFile": "img/p1-04.jpg",
+"imageAlt": "A man in a hard hat carrying a stack of boxes in a warehouse",
+"questions": [
+{
+"id": "l1-04-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "He is opening a box with a knife."
+},
+{
+"key": "B",
+"text": "He is carrying some boxes."
+},
+{
+"key": "C",
+"text": "He is driving a forklift."
+},
+{
+"key": "D",
+"text": "He is climbing a ladder."
+}
+],
+"correctAnswer": "B",
+"explanation": "The man is holding a tall stack of boxes in front of him as he walks through a warehouse."
+}
+]
+},
+{
+"id": "l1-05",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) She is hanging laundry on a line.\n(B) She is sweeping a balcony.\n(C) She is picking some flowers.\n(D) She is watering some plants.",
+"audioFile": "audio/l1-05.mp3",
+"imageFile": "img/p1-05.jpg",
+"imageAlt": "A woman watering potted plants on a balcony",
+"questions": [
+{
+"id": "l1-05-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "She is hanging laundry on a line."
+},
+{
+"key": "B",
+"text": "She is sweeping a balcony."
+},
+{
+"key": "C",
+"text": "She is picking some flowers."
+},
+{
+"key": "D",
+"text": "She is watering some plants."
+}
+],
+"correctAnswer": "D",
+"explanation": "The woman is pouring water from a watering can onto the potted plants on the balcony."
+}
+]
+},
+{
+"id": "l1-06",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) He is opening a window.\n(B) He is talking on the phone.\n(C) He is reading a newspaper.\n(D) He is signing a document.",
+"audioFile": "audio/l1-06.mp3",
+"imageFile": "img/p1-06.jpg",
+"imageAlt": "A man in a suit talking on a mobile phone near a window",
+"questions": [
+{
+"id": "l1-06-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "He is opening a window."
+},
+{
+"key": "B",
+"text": "He is talking on the phone."
+},
+{
+"key": "C",
+"text": "He is reading a newspaper."
+},
+{
+"key": "D",
+"text": "He is signing a document."
+}
+],
+"correctAnswer": "B",
+"explanation": "The man is holding a mobile phone to his ear and speaking. He holds no newspaper or document."
+}
+]
+},
+{
+"id": "l1-07",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) She is handing over a bag.\n(B) She is wrapping a gift.\n(C) She is stocking a shelf.\n(D) She is counting some money.",
+"audioFile": "audio/l1-07.mp3",
+"imageFile": "img/p1-07.jpg",
+"imageAlt": "A shop employee handing a paper bag to a customer",
+"questions": [
+{
+"id": "l1-07-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "She is handing over a bag."
+},
+{
+"key": "B",
+"text": "She is wrapping a gift."
+},
+{
+"key": "C",
+"text": "She is stocking a shelf."
+},
+{
+"key": "D",
+"text": "She is counting some money."
+}
+],
+"correctAnswer": "A",
+"explanation": "The woman behind the counter is giving a paper bag to a customer, whose hand can be seen on the right."
+}
+]
+},
+{
+"id": "l1-08",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) He is hanging a picture on a wall.\n(B) He is climbing a ladder.\n(C) He is painting a wall.\n(D) He is sweeping the floor.",
+"audioFile": "audio/l1-08.mp3",
+"imageFile": "img/p1-08.jpg",
+"imageAlt": "A man painting a white wall with a roller",
+"questions": [
+{
+"id": "l1-08-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "He is hanging a picture on a wall."
+},
+{
+"key": "B",
+"text": "He is climbing a ladder."
+},
+{
+"key": "C",
+"text": "He is painting a wall."
+},
+{
+"key": "D",
+"text": "He is sweeping the floor."
+}
+],
+"correctAnswer": "C",
+"explanation": "The man is using a roller to paint the wall white. The floor is covered with paint supplies, and he is standing on the floor, not on a ladder."
+}
+]
+},
+{
+"id": "l1-09",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) She is looking into a microscope.\n(B) She is typing a report.\n(C) She is pouring liquid into a bottle.\n(D) She is taking a photograph.",
+"audioFile": "audio/l1-09.mp3",
+"imageFile": "img/p1-09.jpg",
+"imageAlt": "A woman in a lab coat using a microscope",
+"questions": [
+{
+"id": "l1-09-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "She is looking into a microscope."
+},
+{
+"key": "B",
+"text": "She is typing a report."
+},
+{
+"key": "C",
+"text": "She is pouring liquid into a bottle."
+},
+{
+"key": "D",
+"text": "She is taking a photograph."
+}
+],
+"correctAnswer": "A",
+"explanation": "The woman in the white coat has her eye at the lens of a microscope on the laboratory bench."
+}
+]
+},
+{
+"id": "l1-10",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) He is changing a tire.\n(B) He is washing a car.\n(C) He is working on a car.\n(D) He is parking a vehicle.",
+"audioFile": "audio/l1-10.mp3",
+"imageFile": "img/p1-10.jpg",
+"imageAlt": "A mechanic leaning over the open hood of a car",
+"questions": [
+{
+"id": "l1-10-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "He is changing a tire."
+},
+{
+"key": "B",
+"text": "He is washing a car."
+},
+{
+"key": "C",
+"text": "He is working on a car."
+},
+{
+"key": "D",
+"text": "He is parking a vehicle."
+}
+],
+"correctAnswer": "C",
+"explanation": "The man is leaning over the open hood and working on the engine. The car is not being washed, and no tire is being changed."
+}
+]
+},
+{
+"id": "l1-11",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) She is pouring a drink.\n(B) She is reading a document.\n(C) She is carrying a folder.\n(D) She is answering the phone.",
+"audioFile": "audio/l1-11.mp3",
+"imageFile": "img/p1-11.jpg",
+"imageAlt": "A woman reading a document at a desk",
+"questions": [
+{
+"id": "l1-11-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "She is pouring a drink."
+},
+{
+"key": "B",
+"text": "She is reading a document."
+},
+{
+"key": "C",
+"text": "She is carrying a folder."
+},
+{
+"key": "D",
+"text": "She is answering the phone."
+}
+],
+"correctAnswer": "B",
+"explanation": "The woman is looking at a document on her desk with a pen in her hand. A coffee cup stands next to it, but she is not pouring or carrying anything."
+}
+]
+},
+{
+"id": "l1-12",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) He is carrying a tray of glasses.\n(B) He is lighting a stove.\n(C) He is washing a plate.\n(D) He is putting a plate on a counter.",
+"audioFile": "audio/l1-12.mp3",
+"imageFile": "img/p1-12.jpg",
+"imageAlt": "A chef placing a plated dish on a kitchen counter",
+"questions": [
+{
+"id": "l1-12-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "He is carrying a tray of glasses."
+},
+{
+"key": "B",
+"text": "He is lighting a stove."
+},
+{
+"key": "C",
+"text": "He is washing a plate."
+},
+{
+"key": "D",
+"text": "He is putting a plate on a counter."
+}
+],
+"correctAnswer": "D",
+"explanation": "The chef is placing a prepared dish on the metal counter of the kitchen."
+}
+]
+},
+{
+"id": "l1-13",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) They are walking down a hallway.\n(B) They are pointing at a chart on a wall.\n(C) They are looking at a computer screen.\n(D) They are shaking hands.",
+"audioFile": "audio/l1-13.mp3",
+"imageFile": "img/p1-13.jpg",
+"imageAlt": "Two colleagues looking at a laptop screen together",
+"questions": [
+{
+"id": "l1-13-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "They are walking down a hallway."
+},
+{
+"key": "B",
+"text": "They are pointing at a chart on a wall."
+},
+{
+"key": "C",
+"text": "They are looking at a computer screen."
+},
+{
+"key": "D",
+"text": "They are shaking hands."
+}
+],
+"correctAnswer": "C",
+"explanation": "The man and the woman sit side by side and both look at the screen of the laptop in front of them."
+}
+]
+},
+{
+"id": "l1-14",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) They are painting a conference room.\n(B) They are waiting for a bus.\n(C) They are packing their briefcases.\n(D) They are attending a meeting.",
+"audioFile": "audio/l1-14.mp3",
+"imageFile": "img/p1-14.jpg",
+"imageAlt": "Four business people in a meeting while one presents a chart",
+"questions": [
+{
+"id": "l1-14-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "They are painting a conference room."
+},
+{
+"key": "B",
+"text": "They are waiting for a bus."
+},
+{
+"key": "C",
+"text": "They are packing their briefcases."
+},
+{
+"key": "D",
+"text": "They are attending a meeting."
+}
+],
+"correctAnswer": "D",
+"explanation": "Four people sit around a table while one man points at a chart on the wall screen. This is a business meeting."
+}
+]
+},
+{
+"id": "l1-15",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) They are shaking hands.\n(B) They are opening a door.\n(C) They are sitting at a desk.\n(D) They are carrying a table.",
+"audioFile": "audio/l1-15.mp3",
+"imageFile": "img/p1-15.jpg",
+"imageAlt": "Two men in suits shaking hands in an office lobby",
+"questions": [
+{
+"id": "l1-15-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "They are shaking hands."
+},
+{
+"key": "B",
+"text": "They are opening a door."
+},
+{
+"key": "C",
+"text": "They are sitting at a desk."
+},
+{
+"key": "D",
+"text": "They are carrying a table."
+}
+],
+"correctAnswer": "A",
+"explanation": "The two men in suits stand face to face in a lobby and shake hands."
+}
+]
+},
+{
+"id": "l1-16",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) A group is posing for a photograph.\n(B) People are standing in line.\n(C) People are boarding a train.\n(D) Passengers are buying some food.",
+"audioFile": "audio/l1-16.mp3",
+"imageFile": "img/p1-16.jpg",
+"imageAlt": "People waiting in line at a ticket counter in a station",
+"questions": [
+{
+"id": "l1-16-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "A group is posing for a photograph."
+},
+{
+"key": "B",
+"text": "People are standing in line."
+},
+{
+"key": "C",
+"text": "People are boarding a train."
+},
+{
+"key": "D",
+"text": "Passengers are buying some food."
+}
+],
+"correctAnswer": "B",
+"explanation": "Several people wait one behind the other in front of the ticket counter."
+}
+]
+},
+{
+"id": "l1-17",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) A woman is opening a suitcase.\n(B) A man is signing a form.\n(C) A man is carrying a tray.\n(D) A woman is handing keys to a man.",
+"audioFile": "audio/l1-17.mp3",
+"imageFile": "img/p1-17.jpg",
+"imageAlt": "A hotel receptionist handing keys to a guest",
+"questions": [
+{
+"id": "l1-17-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "A woman is opening a suitcase."
+},
+{
+"key": "B",
+"text": "A man is signing a form."
+},
+{
+"key": "C",
+"text": "A man is carrying a tray."
+},
+{
+"key": "D",
+"text": "A woman is handing keys to a man."
+}
+],
+"correctAnswer": "D",
+"explanation": "The woman behind the reception desk holds out a key and the man takes it."
+}
+]
+},
+{
+"id": "l1-18",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) They are operating a crane.\n(B) They are carrying some lumber.\n(C) They are examining a plan.\n(D) They are digging a hole.",
+"audioFile": "audio/l1-18.mp3",
+"imageFile": "img/p1-18.jpg",
+"imageAlt": "Two construction workers studying a blueprint",
+"questions": [
+{
+"id": "l1-18-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "They are operating a crane."
+},
+{
+"key": "B",
+"text": "They are carrying some lumber."
+},
+{
+"key": "C",
+"text": "They are examining a plan."
+},
+{
+"key": "D",
+"text": "They are digging a hole."
+}
+],
+"correctAnswer": "C",
+"explanation": "Both workers wear safety helmets and bend over a large construction drawing spread out on a table."
+}
+]
+},
+{
+"id": "l1-19",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) A waiter is taking an order.\n(B) A waiter is filling a glass.\n(C) A waiter is clearing a table.\n(D) A customer is paying a bill.",
+"audioFile": "audio/l1-19.mp3",
+"imageFile": "img/p1-19.jpg",
+"imageAlt": "A waiter pouring water for two customers in a restaurant",
+"questions": [
+{
+"id": "l1-19-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "A waiter is taking an order."
+},
+{
+"key": "B",
+"text": "A waiter is filling a glass."
+},
+{
+"key": "C",
+"text": "A waiter is clearing a table."
+},
+{
+"key": "D",
+"text": "A customer is paying a bill."
+}
+],
+"correctAnswer": "B",
+"explanation": "The waiter holds a glass jug and pours water into a glass at the customers' table."
+}
+]
+},
+{
+"id": "l1-20",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) One person is giving a presentation.\n(B) They are watching a video.\n(C) Everyone is leaving the room.\n(D) All of them are standing.",
+"audioFile": "audio/l1-20.mp3",
+"imageFile": "img/p1-20.jpg",
+"imageAlt": "A man presenting at a whiteboard to two seated people",
+"questions": [
+{
+"id": "l1-20-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "One person is giving a presentation."
+},
+{
+"key": "B",
+"text": "They are watching a video."
+},
+{
+"key": "C",
+"text": "Everyone is leaving the room."
+},
+{
+"key": "D",
+"text": "All of them are standing."
+}
+],
+"correctAnswer": "A",
+"explanation": "One man stands at the whiteboard and explains something while two people sit at desks and listen."
+}
+]
+},
+{
+"id": "l1-21",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) They are paying a cashier.\n(B) They are stocking some shelves.\n(C) They are unloading a truck.\n(D) They are shopping for groceries.",
+"audioFile": "audio/l1-21.mp3",
+"imageFile": "img/p1-21.jpg",
+"imageAlt": "Two women pushing shopping carts in a supermarket",
+"questions": [
+{
+"id": "l1-21-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "They are paying a cashier."
+},
+{
+"key": "B",
+"text": "They are stocking some shelves."
+},
+{
+"key": "C",
+"text": "They are unloading a truck."
+},
+{
+"key": "D",
+"text": "They are shopping for groceries."
+}
+],
+"correctAnswer": "D",
+"explanation": "Two women push shopping carts filled with food down a supermarket aisle."
+}
+]
+},
+{
+"id": "l1-22",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) A woman is typing on a keyboard.\n(B) A pharmacist is giving a bag to a customer.\n(C) A pharmacist is writing a prescription.\n(D) A customer is trying on a coat.",
+"audioFile": "audio/l1-22.mp3",
+"imageFile": "img/p1-22.jpg",
+"imageAlt": "A pharmacist handing a paper bag to a customer",
+"questions": [
+{
+"id": "l1-22-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "A woman is typing on a keyboard."
+},
+{
+"key": "B",
+"text": "A pharmacist is giving a bag to a customer."
+},
+{
+"key": "C",
+"text": "A pharmacist is writing a prescription."
+},
+{
+"key": "D",
+"text": "A customer is trying on a coat."
+}
+],
+"correctAnswer": "B",
+"explanation": "The pharmacist behind the counter hands a small paper bag to the customer."
+}
+]
+},
+{
+"id": "l1-23",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) They are driving a truck.\n(B) They are painting a house.\n(C) They are moving some furniture.\n(D) They are watering a lawn.",
+"audioFile": "audio/l1-23.mp3",
+"imageFile": "img/p1-23.jpg",
+"imageAlt": "Two movers lifting a sofa beside a moving truck",
+"questions": [
+{
+"id": "l1-23-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "They are driving a truck."
+},
+{
+"key": "B",
+"text": "They are painting a house."
+},
+{
+"key": "C",
+"text": "They are moving some furniture."
+},
+{
+"key": "D",
+"text": "They are watering a lawn."
+}
+],
+"correctAnswer": "C",
+"explanation": "Two workers in uniform are lifting a sofa next to a moving truck."
+}
+]
+},
+{
+"id": "l1-24",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) They are walking through an airport.\n(B) They are boarding a plane.\n(C) They are sitting at a gate.\n(D) They are checking in at a counter.",
+"audioFile": "audio/l1-24.mp3",
+"imageFile": "img/p1-24.jpg",
+"imageAlt": "Travelers with suitcases walking through an airport terminal",
+"questions": [
+{
+"id": "l1-24-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "They are walking through an airport."
+},
+{
+"key": "B",
+"text": "They are boarding a plane."
+},
+{
+"key": "C",
+"text": "They are sitting at a gate."
+},
+{
+"key": "D",
+"text": "They are checking in at a counter."
+}
+],
+"correctAnswer": "A",
+"explanation": "The travelers pull their suitcases as they walk through the terminal."
+}
+]
+},
+{
+"id": "l1-25",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) A presentation is being given.\n(B) The chairs are arranged around a table.\n(C) Some people are seated at the table.\n(D) The windows are being cleaned.",
+"audioFile": "audio/l1-25.mp3",
+"imageFile": "img/p1-25.jpg",
+"imageAlt": "An empty meeting room with chairs around a long table",
+"questions": [
+{
+"id": "l1-25-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "A presentation is being given."
+},
+{
+"key": "B",
+"text": "The chairs are arranged around a table."
+},
+{
+"key": "C",
+"text": "Some people are seated at the table."
+},
+{
+"key": "D",
+"text": "The windows are being cleaned."
+}
+],
+"correctAnswer": "B",
+"explanation": "The room is empty. Black chairs stand along both sides of a long table."
+}
+]
+},
+{
+"id": "l1-26",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) Some folders are stacked on a desk.\n(B) Some papers are scattered on the floor.\n(C) A coffee cup has been knocked over.\n(D) A computer monitor is on the desk.",
+"audioFile": "audio/l1-26.mp3",
+"imageFile": "img/p1-26.jpg",
+"imageAlt": "A stack of folders on a desk next to a lamp and keyboard",
+"questions": [
+{
+"id": "l1-26-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "Some folders are stacked on a desk."
+},
+{
+"key": "B",
+"text": "Some papers are scattered on the floor."
+},
+{
+"key": "C",
+"text": "A coffee cup has been knocked over."
+},
+{
+"key": "D",
+"text": "A computer monitor is on the desk."
+}
+],
+"correctAnswer": "A",
+"explanation": "A pile of folders sits on the desk next to a lamp, a keyboard and a cup. No monitor can be seen and nothing has fallen."
+}
+]
+},
+{
+"id": "l1-27",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) A cyclist is riding down the street.\n(B) Some bicycles are being repaired.\n(C) Some cars are parked along the curb.\n(D) Some bicycles are parked in a rack.",
+"audioFile": "audio/l1-27.mp3",
+"imageFile": "img/p1-27.jpg",
+"imageAlt": "Bicycles parked in a rack outside a building",
+"questions": [
+{
+"id": "l1-27-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "A cyclist is riding down the street."
+},
+{
+"key": "B",
+"text": "Some bicycles are being repaired."
+},
+{
+"key": "C",
+"text": "Some cars are parked along the curb."
+},
+{
+"key": "D",
+"text": "Some bicycles are parked in a rack."
+}
+],
+"correctAnswer": "D",
+"explanation": "Several bicycles stand in a metal rack in front of a building. Nobody is riding or repairing them."
+}
+]
+},
+{
+"id": "l1-28",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) Customers are ordering some food.\n(B) A waiter is serving a meal.\n(C) The table has been set.\n(D) The dishes are being washed.",
+"audioFile": "audio/l1-28.mp3",
+"imageFile": "img/p1-28.jpg",
+"imageAlt": "A restaurant table set with plates, glasses and napkins",
+"questions": [
+{
+"id": "l1-28-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "Customers are ordering some food."
+},
+{
+"key": "B",
+"text": "A waiter is serving a meal."
+},
+{
+"key": "C",
+"text": "The table has been set."
+},
+{
+"key": "D",
+"text": "The dishes are being washed."
+}
+],
+"correctAnswer": "C",
+"explanation": "Plates, glasses, cutlery and napkins are already arranged on the table, and nobody is in the picture."
+}
+]
+},
+{
+"id": "l1-29",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) A ladder is being carried across the room.\n(B) Some books are piled on the floor.\n(C) Some books are lined up on shelves.\n(D) A woman is reading a book.",
+"audioFile": "audio/l1-29.mp3",
+"imageFile": "img/p1-29.jpg",
+"imageAlt": "A tall bookcase filled with books and a rolling ladder",
+"questions": [
+{
+"id": "l1-29-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "A ladder is being carried across the room."
+},
+{
+"key": "B",
+"text": "Some books are piled on the floor."
+},
+{
+"key": "C",
+"text": "Some books are lined up on shelves."
+},
+{
+"key": "D",
+"text": "A woman is reading a book."
+}
+],
+"correctAnswer": "C",
+"explanation": "The books stand in rows on the tall shelves. A ladder leans against the shelves, but no one is in the room."
+}
+]
+},
+{
+"id": "l1-30",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) A plant is being watered.\n(B) Some chairs are being arranged.\n(C) A receptionist is greeting a visitor.\n(D) Some flowers are displayed on a counter.",
+"audioFile": "audio/l1-30.mp3",
+"imageFile": "img/p1-30.jpg",
+"imageAlt": "A vase of flowers on a reception counter",
+"questions": [
+{
+"id": "l1-30-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "A plant is being watered."
+},
+{
+"key": "B",
+"text": "Some chairs are being arranged."
+},
+{
+"key": "C",
+"text": "A receptionist is greeting a visitor."
+},
+{
+"key": "D",
+"text": "Some flowers are displayed on a counter."
+}
+],
+"correctAnswer": "D",
+"explanation": "A vase of pink flowers stands on the reception counter next to an open book. No people appear in the picture."
+}
+]
+},
+{
+"id": "l1-31",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) Some vegetables are being chopped.\n(B) Some fruit is in a bowl.\n(C) A knife is being sharpened.\n(D) The window is being opened.",
+"audioFile": "audio/l1-31.mp3",
+"imageFile": "img/p1-31.jpg",
+"imageAlt": "A bowl of fruit and a cutting board on a kitchen counter",
+"questions": [
+{
+"id": "l1-31-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "Some vegetables are being chopped."
+},
+{
+"key": "B",
+"text": "Some fruit is in a bowl."
+},
+{
+"key": "C",
+"text": "A knife is being sharpened."
+},
+{
+"key": "D",
+"text": "The window is being opened."
+}
+],
+"correctAnswer": "B",
+"explanation": "A bowl of fruit sits on the counter near the window. A knife rests on the cutting board, but nobody is using it."
+}
+]
+},
+{
+"id": "l1-32",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) The back of a vehicle is open.\n(B) The van is parked in a garage.\n(C) Some boxes are being loaded onto a truck.\n(D) A driver is unloading a package.",
+"audioFile": "audio/l1-32.mp3",
+"imageFile": "img/p1-32.jpg",
+"imageAlt": "A delivery van with its rear doors open on a city street",
+"questions": [
+{
+"id": "l1-32-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "The back of a vehicle is open."
+},
+{
+"key": "B",
+"text": "The van is parked in a garage."
+},
+{
+"key": "C",
+"text": "Some boxes are being loaded onto a truck."
+},
+{
+"key": "D",
+"text": "A driver is unloading a package."
+}
+],
+"correctAnswer": "A",
+"explanation": "The rear doors of the van stand open and boxes are visible inside. The van is on a street and no driver is shown."
+}
+]
+},
+{
+"id": "l1-33",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) Some people are fishing from the bank.\n(B) People are crossing a bridge.\n(C) A boat is passing under the bridge.\n(D) People are boarding a ferry.",
+"audioFile": "audio/l1-33.mp3",
+"imageFile": "img/p1-33.jpg",
+"imageAlt": "Pedestrians crossing a bridge over a river with a city skyline behind",
+"questions": [
+{
+"id": "l1-33-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "Some people are fishing from the bank."
+},
+{
+"key": "B",
+"text": "People are crossing a bridge."
+},
+{
+"key": "C",
+"text": "A boat is passing under the bridge."
+},
+{
+"key": "D",
+"text": "People are boarding a ferry."
+}
+],
+"correctAnswer": "B",
+"explanation": "A few pedestrians walk along the bridge over the river, with the city skyline behind them."
+}
+]
+},
+{
+"id": "l1-34",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) He is mowing a lawn.\n(B) He is raking some leaves.\n(C) He is trimming a hedge.\n(D) He is planting a tree.",
+"audioFile": "audio/l1-34.mp3",
+"imageFile": "img/p1-34.jpg",
+"imageAlt": "A gardener trimming a hedge with electric clippers",
+"questions": [
+{
+"id": "l1-34-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "He is mowing a lawn."
+},
+{
+"key": "B",
+"text": "He is raking some leaves."
+},
+{
+"key": "C",
+"text": "He is trimming a hedge."
+},
+{
+"key": "D",
+"text": "He is planting a tree."
+}
+],
+"correctAnswer": "C",
+"explanation": "The man holds electric clippers and cuts the top of the hedge in a park."
+}
+]
+},
+{
+"id": "l1-35",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) A boat is being repaired.\n(B) Passengers are getting off a bus.\n(C) Some people are swimming in the water.\n(D) Passengers are boarding a boat.",
+"audioFile": "audio/l1-35.mp3",
+"imageFile": "img/p1-35.jpg",
+"imageAlt": "Passengers boarding a ferry at a pier",
+"questions": [
+{
+"id": "l1-35-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "A boat is being repaired."
+},
+{
+"key": "B",
+"text": "Passengers are getting off a bus."
+},
+{
+"key": "C",
+"text": "Some people are swimming in the water."
+},
+{
+"key": "D",
+"text": "Passengers are boarding a boat."
+}
+],
+"correctAnswer": "D",
+"explanation": "People walk down the gangway from the pier onto the ferry that is tied up beside it."
+}
+]
+},
+{
+"id": "l1-36",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) Some people are sitting outside.\n(B) People are standing in line to order.\n(C) A waiter is cleaning an umbrella.\n(D) The tables are being moved indoors.",
+"audioFile": "audio/l1-36.mp3",
+"imageFile": "img/p1-36.jpg",
+"imageAlt": "Customers seated at an outdoor cafe table with a waiter nearby",
+"questions": [
+{
+"id": "l1-36-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "Some people are sitting outside."
+},
+{
+"key": "B",
+"text": "People are standing in line to order."
+},
+{
+"key": "C",
+"text": "A waiter is cleaning an umbrella."
+},
+{
+"key": "D",
+"text": "The tables are being moved indoors."
+}
+],
+"correctAnswer": "A",
+"explanation": "Two customers are seated at an outdoor table while a waiter walks past with a tray."
+}
+]
+},
+{
+"id": "l1-37",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) Workers are painting lines on the road.\n(B) Workers are repairing a road.\n(C) Cars are driving through an intersection.\n(D) Workers are planting trees along the street.",
+"audioFile": "audio/l1-37.mp3",
+"imageFile": "img/p1-37.jpg",
+"imageAlt": "A road crew repairing the pavement surrounded by traffic cones",
+"questions": [
+{
+"id": "l1-37-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "Workers are painting lines on the road."
+},
+{
+"key": "B",
+"text": "Workers are repairing a road."
+},
+{
+"key": "C",
+"text": "Cars are driving through an intersection."
+},
+{
+"key": "D",
+"text": "Workers are planting trees along the street."
+}
+],
+"correctAnswer": "B",
+"explanation": "The crew in safety vests kneel on the pavement and fix a hole, with traffic cones around them."
+}
+]
+},
+{
+"id": "l1-38",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) A man is riding a bicycle.\n(B) A man is locking his bicycle.\n(C) A man is pushing a bicycle uphill.\n(D) A man is sitting on a bench.",
+"audioFile": "audio/l1-38.mp3",
+"imageFile": "img/p1-38.jpg",
+"imageAlt": "A cyclist riding along a tree-lined path",
+"questions": [
+{
+"id": "l1-38-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "A man is riding a bicycle."
+},
+{
+"key": "B",
+"text": "A man is locking his bicycle."
+},
+{
+"key": "C",
+"text": "A man is pushing a bicycle uphill."
+},
+{
+"key": "D",
+"text": "A man is sitting on a bench."
+}
+],
+"correctAnswer": "A",
+"explanation": "The cyclist pedals along a path lined with trees. The bench beside the path is empty."
+}
+]
+},
+{
+"id": "l1-39",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) A customer is paying with a credit card.\n(B) A woman is cooking at a stall.\n(C) A vendor is weighing some produce.\n(D) A vendor is unloading boxes from a truck.",
+"audioFile": "audio/l1-39.mp3",
+"imageFile": "img/p1-39.jpg",
+"imageAlt": "A market vendor weighing fruit for a customer",
+"questions": [
+{
+"id": "l1-39-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "A customer is paying with a credit card."
+},
+{
+"key": "B",
+"text": "A woman is cooking at a stall."
+},
+{
+"key": "C",
+"text": "A vendor is weighing some produce."
+},
+{
+"key": "D",
+"text": "A vendor is unloading boxes from a truck."
+}
+],
+"correctAnswer": "C",
+"explanation": "The vendor puts fruit on a scale while a customer waits at his market stall."
+}
+]
+},
+{
+"id": "l1-40",
+"part": 1,
+"type": "Photographs",
+"audioScript": "(A) Passengers are buying tickets from a machine.\n(B) A driver is washing a bus.\n(C) People are getting off a train.\n(D) People are getting on a bus.",
+"audioFile": "audio/l1-40.mp3",
+"imageFile": "img/p1-40.jpg",
+"imageAlt": "People boarding a bus at a bus stop",
+"questions": [
+{
+"id": "l1-40-q1",
+"questionText": "Look at the photograph and listen to the four statements. Choose the one that best describes the photograph.",
+"options": [
+{
+"key": "A",
+"text": "Passengers are buying tickets from a machine."
+},
+{
+"key": "B",
+"text": "A driver is washing a bus."
+},
+{
+"key": "C",
+"text": "People are getting off a train."
+},
+{
+"key": "D",
+"text": "People are getting on a bus."
+}
+],
+"correctAnswer": "D",
+"explanation": "Passengers step through the door of the bus at the bus stop."
+}
+]
+}
+]

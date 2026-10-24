@@ -1,0 +1,135 @@
+@Single|Email|Team Lunch Rescheduled
+From: Rosa Delgado
+To: Marketing Team
+Date: April 9
+Subject: Team lunch moved to Friday
+
+Hello everyone,
+
+Because of a client visit on Thursday, we need to move our monthly team lunch to Friday, April 12. We will still meet at Garden Bistro, but the reservation is now for 12:30 p.m. instead of noon. The restaurant has asked us to confirm the number of guests by Wednesday morning, so please reply to this e-mail by 10:00 a.m. and tell me whether you can attend. If you have any dietary requirements, let me know and I will inform the restaurant. The company will pay for the meal, but drinks are at your own expense.
+
+Thank you,
+Rosa
+Q|Why was the lunch rescheduled?|A client is visiting on the original day.|The restaurant is closed on Thursday.|Rosa will be traveling.|The budget was reduced.|The e-mail says the move is "because of a client visit on Thursday".
+Q|By when must employees reply?|Wednesday at 10:00 a.m.|Thursday at noon|Friday at 12:30 p.m.|Monday morning|The e-mail asks for a reply by 10:00 a.m. on Wednesday morning.
+Q|What will employees pay for themselves?|Their drinks|Their meals|Their transportation|Nothing|The company pays for the meal, but drinks are at the employees' own expense.
+@Single|Notice|Fitness Center Hours
+FITNESS CENTER AT CROWN PLAZA — NEW HOURS
+Effective June 3, the fitness center will have new opening hours.
+
+Monday to Friday: 5:30 a.m. – 10:00 p.m.
+Saturday and Sunday: 7:00 a.m. – 8:00 p.m.
+
+Members may now bring one guest per month free of charge. Guests must be at least sixteen years old and must show photo identification at the front desk. Towels are available at the desk for a small fee; members who prefer to bring their own are welcome to do so. Group classes will continue to be held in Studio B, and the schedule can be found on our Web site. Because renovation work will take place in the locker rooms during June, the sauna will be temporarily out of service.
+Q|What is true about the new hours?|The center opens earlier on weekdays than on weekends.|The center closes at the same time every day.|The center is closed on Sundays.|The center opens at 7:00 a.m. every day.|Weekdays start at 5:30 a.m. and weekends at 7:00 a.m.
+Q|What must a guest do?|Show photo identification|Pay a monthly fee|Attend a class|Make a reservation|Guests "must show photo identification at the front desk".
+Q|Why is the sauna unavailable?|Locker room renovations are in progress.|It is too expensive to run.|It is being replaced by a studio.|Members rarely use it.|The notice says renovation work will take place in the locker rooms in June.
+@Single|Article|New Bridge Opens
+Millbrook — After three years of construction, the Harrison Bridge opened to traffic on Monday morning. The new bridge, which crosses the Millbrook River, replaces an older structure that had been closed since a safety inspection found serious cracks in 2021. Mayor Ellen Park said the bridge would cut the average commute between the north and south sides of the city by fifteen minutes. The $48 million project was funded by the state government and a local transportation tax. Drivers are advised to expect delays during the first week as traffic patterns adjust. A pedestrian and bicycle path on the east side of the bridge will open next month after landscaping is completed.
+Q|What is the purpose of the article?|To report the opening of a new bridge|To announce a road closure|To advertise a construction company|To describe a safety inspection|The article reports that the Harrison Bridge opened on Monday.
+Q|According to the article, how was the project paid for?|By state funds and a local tax|By a private company|By the mayor's office only|By tolls collected from drivers|The article says it was funded by the state government and a local transportation tax.
+Q|What will open next month?|A path for walkers and cyclists|A second bridge|A parking lot|A tollbooth|A pedestrian and bicycle path will open next month.
+@Single|Letter|Contract Renewal
+Dear Mr. Abrams,
+Your office cleaning contract with Brightline Services will expire on July 31. We have valued your business for the past two years and would like to continue serving you. To thank you for your loyalty, we are offering a renewal at the current rate for another twelve months, rather than the five percent increase that will apply to new customers. If you would like to renew, please sign the enclosed form and return it by July 10. You may also add extra services, such as window cleaning or carpet care, at a reduced price when you renew. Should you have questions, please call me at 555-0142.
+Sincerely,
+Dana Whitfield
+Account Manager, Brightline Services
+Q|Why is Ms. Whitfield writing to Mr. Abrams?|To offer a contract renewal|To announce a price increase|To ask for a payment|To cancel a service|The letter offers to renew the cleaning contract.
+Q|What benefit is Mr. Abrams offered?|The current rate for twelve more months|A free window cleaning|A five percent discount|A new contract manager|He can renew "at the current rate for another twelve months".
+Q|What should Mr. Abrams do by July 10?|Return the signed form|Call Ms. Whitfield|Pay an invoice|Order extra services|He should sign the enclosed form and return it by July 10.
+@Single|Web page|Rental Car Policy
+GREENWAY CAR RENTAL — RENTAL POLICY
+Age: Drivers must be at least twenty-one years old. Drivers under twenty-five pay a daily young driver fee.
+Fuel: Vehicles are provided with a full tank. Please return the car with a full tank to avoid a refueling charge of $9 per gallon.
+Mileage: All rentals include 150 miles per day. Additional miles are charged at $0.35 per mile.
+Late returns: A grace period of thirty minutes is allowed. After that, an additional hourly charge applies, and returns more than three hours late are billed as a full extra day.
+Cancellations: Reservations can be canceled free of charge up to forty-eight hours before pickup. Cancellations made later than this will result in a fee equal to one day's rental.
+Q|What is the minimum age to rent a car?|21|18|23|25|Drivers must be at least twenty-one years old.
+Q|What happens if a car is returned with an empty tank?|The customer pays a refueling charge.|The rental is canceled.|The customer receives a discount.|The car is not accepted.|A refueling charge of $9 per gallon applies.
+Q|When is a free cancellation possible?|Up to 48 hours before pickup|On the day of pickup|Up to one week before pickup|Only for young drivers|Free cancellation is allowed up to forty-eight hours before pickup.
+@Single|Text message chain|Delivery Problem
+Priya Shah (10:02 a.m.): Hi Tom, the new shelves haven't arrived at the store yet. The delivery was supposed to come at nine.
+Tom Reyes (10:05 a.m.): I'll call the driver now. Did you get the tracking number?
+Priya Shah (10:06 a.m.): Yes, it's in the confirmation e-mail. I'll forward it to you.
+Tom Reyes (10:20 a.m.): I just spoke to him. His truck had a flat tire, but he's on his way now. He should be there in about forty minutes.
+Priya Shah (10:21 a.m.): OK. The opening event is at two o'clock, so we have enough time to set up.
+Tom Reyes (10:22 a.m.): Right. I'll send two of my staff over to help you assemble them.
+Priya Shah (10:23 a.m.): That would be great, thanks!
+Q|Why was the delivery late?|The truck had a flat tire.|The driver got lost.|The shelves were damaged.|The order was canceled.|Tom says the driver's truck had a flat tire.
+Q|At 10:22 a.m., what does Tom offer to do?|Send staff to help assemble the shelves|Cancel the order|Drive to the store himself|Change the event time|He says he will send two of his staff over to help assemble them.
+Q|At what time will the driver most likely arrive?|About 11:00 a.m.|About 9:00 a.m.|About 2:00 p.m.|About 10:25 a.m.|He should arrive in about forty minutes after 10:20, so around 11:00 a.m.
+@Single|Advertisement|Job Opening at Coastal Foods
+COASTAL FOODS is looking for a warehouse supervisor to join our distribution center in Portland.
+Responsibilities: Supervise a team of twenty employees; manage incoming and outgoing shipments; maintain inventory records; ensure compliance with safety regulations.
+Requirements: At least three years of experience in a warehouse environment; one year in a supervisory role; strong communication skills; a valid forklift certificate (training can be provided).
+We offer a competitive salary, health insurance, and paid vacation. Applicants should send a résumé and a cover letter to hiring@coastalfoods.example by March 20. Interviews will be held the week of March 25. Please note that only shortlisted candidates will be contacted.
+Q|What is NOT a requirement for the job?|A college degree|Experience in a warehouse|Supervisory experience|Good communication skills|The advertisement lists no degree requirement.
+Q|What should applicants send?|A résumé and a cover letter|Three references|A forklift certificate|A portfolio|Applicants should send a résumé and a cover letter.
+Q|The word "shortlisted" in the last sentence is closest in meaning to|selected|rejected|delayed|interviewed twice|"Shortlisted" means chosen for the final group of candidates.
+@Single|Memo|Visitor Badge Procedure
+TO: All Employees
+FROM: Security Office
+Beginning May 1, all visitors must wear a visitor badge while inside the building. Employees who are expecting a guest should e-mail the Security Office at least one day in advance with the guest's name and the purpose of the visit. When guests arrive, they should check in at the front desk and show a photo ID. The guest's host must come to the lobby to meet them; visitors are not allowed to walk through the building alone. Badges must be returned at the end of the visit. Employees who fail to follow this procedure may lose the privilege of hosting guests.
+Q|What must employees do before a guest arrives?|Send the guest's information to the Security Office|Reserve a meeting room|Print a visitor badge|Call the front desk|Employees should e-mail the Security Office a day in advance with the guest's name and purpose.
+Q|What is a host required to do?|Meet the guest in the lobby|Show a photo ID|Collect the guest's badge by e-mail|Leave a key at the front desk|The memo says the host must come to the lobby to meet the guest.
+Q|What may happen if an employee does not follow the procedure?|The employee may lose hosting privileges.|The employee will be fined.|The guest will be refused entry.|The badge will be extended.|The memo says they may lose the privilege of hosting guests.
+@Multiple|Email & Invoice|Catering Order Dispute
+## Document 1: E-mail
+From: Henry Cole
+To: Sunnyside Catering
+Date: October 14
+Subject: Invoice 2208
+
+Dear Sunnyside Catering,
+Thank you for providing lunch for our workshop on October 10. The food was excellent. However, I noticed some differences between our order and the invoice. We ordered lunch for forty guests, but the invoice shows forty-five. We also did not request any dessert. Could you please send a corrected invoice? Our accounting department needs it before the end of the month.
+Henry Cole
+---
+## Document 2: Invoice
+SUNNYSIDE CATERING — INVOICE 2208
+Date: October 11
+Client: Cole Consulting
+Lunch buffet (45 guests at $18)      $810.00
+Dessert platters (2)                 $60.00
+Delivery                             $25.00
+Total due                            $895.00
+Payment due within 30 days
+Q|Why did Mr. Cole write the e-mail?|To request a corrected invoice|To cancel an event|To praise the chef|To order more food|He asks for a corrected invoice.
+Q|What does Mr. Cole say about the food?|It was excellent.|It arrived late.|It was too expensive.|It was not ordered.|He writes that the food was excellent.
+Q|How many guests were billed for?|45|40|2|18|The invoice shows 45 guests.
+Q|What charge did Mr. Cole NOT request?|Dessert platters|Lunch buffet|Delivery|A drink service|He says he did not request any dessert.
+Q|What is the correct total for the lunch at $18 for forty guests?|$720.00|$810.00|$895.00|$775.00|Forty guests at $18 equals $720.
+@Multiple|Schedule & E-mail|Training Day Change
+## Document 1: Training Schedule
+NORTHBRIDGE LOGISTICS — NEW HIRE TRAINING, WEDNESDAY
+9:00 – 10:30  Company overview (Room A)
+10:45 – 12:00  Safety procedures (Room A)
+12:00 – 1:00  Lunch
+1:00 – 2:30  Warehouse system demo (Computer Lab)
+2:45 – 4:00  Customer service basics (Room B)
+---
+## Document 2: E-mail
+To: New hires
+From: Jun Tanaka, Training Coordinator
+Subject: Change to Wednesday's schedule
+
+Please note that the computer lab will be closed on Wednesday because of a network upgrade. The warehouse system demo will take place in Room B instead, and the customer service session will move to Room A. The times of the sessions will not change. Also, lunch will be provided in the cafeteria, so you do not need to bring your own. Please arrive by 8:45 a.m. to receive your badge.
+Q|Why is the computer lab closed?|A network upgrade is taking place.|It is being cleaned.|It is reserved for lunch.|A meeting is being held there.|The e-mail mentions a network upgrade.
+Q|Where will the customer service session be held?|Room A|Room B|The Computer Lab|The cafeteria|The e-mail says it moves to Room A.
+Q|At what time does the warehouse system demo start?|1:00|9:00|10:45|2:45|The e-mail says the times do not change, so it starts at 1:00.
+Q|What are new hires told about lunch?|It will be provided.|They should bring it.|It is at 11:00.|It is optional.|The e-mail says lunch will be provided in the cafeteria.
+Q|What are the new hires asked to do?|Arrive by 8:45 a.m.|Bring a laptop|Reply to the e-mail|Complete a survey|They should arrive by 8:45 a.m. to receive a badge.
+@Multiple|Article & Letter|Community Garden Project
+## Document 1: Article
+GREENFIELD NEWS — Residents of Elm Street will soon have a community garden. The city council approved the project on Monday, giving the neighborhood association permission to turn an empty lot into a vegetable garden. The association must raise $5,000 for tools, soil, and fencing. The city will contribute water access and a small starting grant. Volunteers are being sought for the first work day on April 20.
+---
+## Document 2: Letter
+Dear Neighbors,
+I am pleased to share that our garden proposal was approved. We have already received $2,000 in donations, including $500 from Lowell Hardware. We still need $3,000 to reach our target. If you can donate, please send a check to the address below. Anyone who gives at least $50 will have their name displayed on the garden sign. We also need volunteers for April 20; please bring gloves and water.
+Maria Torres
+Elm Street Neighborhood Association
+Q|What will the garden be built on?|An empty lot|A rooftop|A school playground|A parking garage|The article says it will be built on an empty lot.
+Q|What will the city provide?|Water access and a small grant|All of the tools|Volunteers|A sign|The city will contribute water access and a starting grant.
+Q|How much money does the association still need?|$3,000|$2,000|$5,000|$500|The target is $5,000 and $2,000 has been raised, so $3,000 remains.
+Q|What is offered to donors who give $50 or more?|Their names on a sign|A free vegetable box|Tickets to an event|A tool set|The letter says their names will be displayed on the garden sign.
+Q|What are volunteers asked to bring on April 20?|Gloves and water|Soil and tools|A check|Lunch|The letter asks them to bring gloves and water.

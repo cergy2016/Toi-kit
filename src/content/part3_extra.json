@@ -1,0 +1,3335 @@
+[
+{
+"id": "l3x-001",
+"part": 3,
+"type": "Conversation",
+"title": "Printer jam before a training session",
+"audioScript": "Woman: Hi Daniel, the color printer on the third floor is jammed again. I need to print forty handouts for the training session at two o'clock.\nMan: Again? The technician fixed it on Monday. Try the printer in the accounting department. It's on the second floor, and I think everyone there is out to lunch until one.\nWoman: Good idea. Do I need a password?\nMan: No, but you have to choose the Accounting Shared option on your computer. I'll send you the instructions by e-mail.\nWoman: Thanks. I'll also call the technician and ask him to look at the third-floor machine again.",
+"audioFile": "audio/l3x-001.mp3",
+"questions": [
+{
+"id": "l3x-001-q1",
+"questionText": "What problem does the woman mention?",
+"options": [
+{
+"key": "A",
+"text": "Some handouts are missing."
+},
+{
+"key": "B",
+"text": "A printer is not working."
+},
+{
+"key": "C",
+"text": "A password has expired."
+},
+{
+"key": "D",
+"text": "A training session was canceled."
+}
+],
+"correctAnswer": "B",
+"explanation": "She says the color printer on the third floor is jammed."
+},
+{
+"id": "l3x-001-q2",
+"questionText": "Where does the man suggest the woman go?",
+"options": [
+{
+"key": "A",
+"text": "To the training room"
+},
+{
+"key": "B",
+"text": "To the technician's office"
+},
+{
+"key": "C",
+"text": "To the accounting department"
+},
+{
+"key": "D",
+"text": "To the third floor"
+}
+],
+"correctAnswer": "C",
+"explanation": "He tells her to use the printer in the accounting department on the second floor."
+},
+{
+"id": "l3x-001-q3",
+"questionText": "What will the woman do next?",
+"options": [
+{
+"key": "A",
+"text": "Buy some paper"
+},
+{
+"key": "B",
+"text": "Choose a new password"
+},
+{
+"key": "C",
+"text": "Reserve a room"
+},
+{
+"key": "D",
+"text": "Contact a technician"
+}
+],
+"correctAnswer": "D",
+"explanation": "She says she will call the technician about the third-floor machine."
+}
+]
+},
+{
+"id": "l3x-002",
+"part": 3,
+"type": "Conversation",
+"title": "Shortening a hotel stay",
+"audioScript": "Man: Hello, I have a reservation for three nights starting tomorrow, but my conference has been shortened. I'd like to stay only two nights.\nWoman: Let me check. Your booking was made through a travel Web site, so I'm afraid I can't change it from here. You would need to contact them directly.\nMan: Oh, that's inconvenient. Is there a fee if I simply check out a day early?\nWoman: Not at this hotel. As long as you tell the front desk before noon on the day you leave, there's no charge.\nMan: That's a relief. In that case, I'll keep the reservation as it is.",
+"audioFile": "audio/l3x-002.mp3",
+"questions": [
+{
+"id": "l3x-002-q1",
+"questionText": "Why is the man calling?",
+"options": [
+{
+"key": "A",
+"text": "To change a hotel reservation"
+},
+{
+"key": "B",
+"text": "To book a meeting room"
+},
+{
+"key": "C",
+"text": "To ask about a room upgrade"
+},
+{
+"key": "D",
+"text": "To cancel a conference"
+}
+],
+"correctAnswer": "A",
+"explanation": "He says he wants to stay only two nights instead of three."
+},
+{
+"id": "l3x-002-q2",
+"questionText": "What does the woman say about the reservation?",
+"options": [
+{
+"key": "A",
+"text": "It includes breakfast."
+},
+{
+"key": "B",
+"text": "It was made through another company."
+},
+{
+"key": "C",
+"text": "It has been paid in full."
+},
+{
+"key": "D",
+"text": "It cannot be extended."
+}
+],
+"correctAnswer": "B",
+"explanation": "She says the booking was made through a travel Web site."
+},
+{
+"id": "l3x-002-q3",
+"questionText": "What will the man most likely do?",
+"options": [
+{
+"key": "A",
+"text": "Keep his booking as it is"
+},
+{
+"key": "B",
+"text": "Pay a cancellation fee"
+},
+{
+"key": "C",
+"text": "Contact a travel Web site"
+},
+{
+"key": "D",
+"text": "Ask for a different room"
+}
+],
+"correctAnswer": "A",
+"explanation": "He decides to keep the reservation since leaving early costs nothing."
+}
+]
+},
+{
+"id": "l3x-003",
+"part": 3,
+"type": "Conversation",
+"title": "Choosing a room for a client presentation",
+"audioScript": "Woman: Kenji, I need a room for the client presentation next Wednesday. We'll have about twelve people.\nMan: Let me look at the booking sheet. Room A is too small for that. The other three are free in the morning, but Room D is being painted that day.\nWoman: What about the room with the video equipment? We'll need it for the demonstration.\nMan: That's the one I'd choose, then. It's free from ten, and I can set up the projector myself.\nWoman: Perfect. Please book it.",
+"audioFile": "audio/l3x-003.mp3",
+"questions": [
+{
+"id": "l3x-003-q1",
+"questionText": "What are the speakers preparing for?",
+"options": [
+{
+"key": "A",
+"text": "A training course"
+},
+{
+"key": "B",
+"text": "A job interview"
+},
+{
+"key": "C",
+"text": "A painting project"
+},
+{
+"key": "D",
+"text": "A client presentation"
+}
+],
+"correctAnswer": "D",
+"explanation": "The woman needs a room for a client presentation next Wednesday."
+},
+{
+"id": "l3x-003-q2",
+"questionText": "Look at the graphic. Which room will the woman most likely book?",
+"options": [
+{
+"key": "A",
+"text": "Room B"
+},
+{
+"key": "B",
+"text": "Room A"
+},
+{
+"key": "C",
+"text": "Room C"
+},
+{
+"key": "D",
+"text": "Room D"
+}
+],
+"correctAnswer": "C",
+"explanation": "Room A is too small, Room D is being painted, and Room B has no video equipment, so Room C fits."
+},
+{
+"id": "l3x-003-q3",
+"questionText": "What does the man offer to do?",
+"options": [
+{
+"key": "A",
+"text": "Send an invitation"
+},
+{
+"key": "B",
+"text": "Set up a projector"
+},
+{
+"key": "C",
+"text": "Move some furniture"
+},
+{
+"key": "D",
+"text": "Order some lunch"
+}
+],
+"correctAnswer": "B",
+"explanation": "He says he can set up the projector himself."
+}
+],
+"graphic": {
+"title": "Meeting Rooms",
+"headers": [
+"Room",
+"Seats",
+"Video Equipment"
+],
+"rows": [
+[
+"A",
+"8",
+"Yes"
+],
+[
+"B",
+"14",
+"No"
+],
+[
+"C",
+"12",
+"Yes"
+],
+[
+"D",
+"20",
+"Yes"
+]
+]
+}
+},
+{
+"id": "l3x-004",
+"part": 3,
+"type": "Conversation",
+"title": "Late delivery of office chairs",
+"audioScript": "Man: Good morning, this is Marcus from Delta Supply. I'm calling about your order of thirty office chairs. They were supposed to arrive today, but the shipment is delayed.\nWoman: That's a problem. We're moving into the new office on Monday, and the staff will need somewhere to sit.\nMan: I understand. The manufacturer had a shortage of wheels. I can deliver fifteen chairs on Friday and the rest early next week.\nWoman: Fifteen won't be enough, but it's better than nothing. Could you also reduce the delivery fee for the inconvenience?\nMan: I'll have to ask my manager, but I'm sure it won't be a problem. I'll call you back this afternoon.",
+"audioFile": "audio/l3x-004.mp3",
+"questions": [
+{
+"id": "l3x-004-q1",
+"questionText": "Why is the man calling?",
+"options": [
+{
+"key": "A",
+"text": "To confirm a new address"
+},
+{
+"key": "B",
+"text": "To request a payment"
+},
+{
+"key": "C",
+"text": "To report a delayed shipment"
+},
+{
+"key": "D",
+"text": "To advertise a product"
+}
+],
+"correctAnswer": "C",
+"explanation": "He says the thirty chairs were supposed to arrive today but are delayed."
+},
+{
+"id": "l3x-004-q2",
+"questionText": "What does the woman say will happen on Monday?",
+"options": [
+{
+"key": "A",
+"text": "The company will move to a new office."
+},
+{
+"key": "B",
+"text": "A new employee will start."
+},
+{
+"key": "C",
+"text": "An invoice will be due."
+},
+{
+"key": "D",
+"text": "A factory will open."
+}
+],
+"correctAnswer": "A",
+"explanation": "She says they are moving into the new office on Monday."
+},
+{
+"id": "l3x-004-q3",
+"questionText": "What does the man say he will do this afternoon?",
+"options": [
+{
+"key": "A",
+"text": "Contact the manufacturer"
+},
+{
+"key": "B",
+"text": "Send a refund"
+},
+{
+"key": "C",
+"text": "Visit the new office"
+},
+{
+"key": "D",
+"text": "Call the woman back"
+}
+],
+"correctAnswer": "D",
+"explanation": "He says he will ask his manager and call her back this afternoon."
+}
+]
+},
+{
+"id": "l3x-005",
+"part": 3,
+"type": "Conversation",
+"title": "New employee orientation",
+"audioScript": "Woman: Welcome to Harlan Insurance, Tomas. I'm Priya from human resources, and this is Greg, who will be your team leader.\nMan 2: Nice to meet you. I'm glad you could join us. Did you receive the schedule for your first week?\nMan: Yes, I printed it. I noticed that the safety training is on Thursday, but I'm not sure where it takes place.\nWoman: It's in the basement conference room. Greg will take you there. Before that, we need to take your photo for your security badge.\nMan 2: I'll show you your desk first, and then we can stop by the security office on the way to lunch.",
+"audioFile": "audio/l3x-005.mp3",
+"questions": [
+{
+"id": "l3x-005-q1",
+"questionText": "Who most likely is Priya?",
+"options": [
+{
+"key": "A",
+"text": "A team leader"
+},
+{
+"key": "B",
+"text": "A trainer"
+},
+{
+"key": "C",
+"text": "A security guard"
+},
+{
+"key": "D",
+"text": "A human resources employee"
+}
+],
+"correctAnswer": "D",
+"explanation": "She introduces herself as being from human resources."
+},
+{
+"id": "l3x-005-q2",
+"questionText": "What is the man unsure about?",
+"options": [
+{
+"key": "A",
+"text": "The time of a meeting"
+},
+{
+"key": "B",
+"text": "The name of a supervisor"
+},
+{
+"key": "C",
+"text": "The location of a training session"
+},
+{
+"key": "D",
+"text": "The price of a badge"
+}
+],
+"correctAnswer": "C",
+"explanation": "He says he is not sure where the safety training takes place."
+},
+{
+"id": "l3x-005-q3",
+"questionText": "What will the speakers do before lunch?",
+"options": [
+{
+"key": "A",
+"text": "Tour the basement"
+},
+{
+"key": "B",
+"text": "Visit the security office"
+},
+{
+"key": "C",
+"text": "Attend a safety class"
+},
+{
+"key": "D",
+"text": "Complete some forms"
+}
+],
+"correctAnswer": "B",
+"explanation": "Greg says they will stop by the security office on the way to lunch."
+}
+]
+},
+{
+"id": "l3x-006",
+"part": 3,
+"type": "Conversation",
+"title": "Catering order for a staff luncheon",
+"audioScript": "Woman: Hi, I'd like to order lunch for our staff luncheon next Friday. There will be twenty-four people, and three of them are vegetarians.\nMan: Certainly. Our most popular choice is the Garden Platter, which is vegetarian. The two sandwich platters come with a side salad.\nWoman: The budget is about two hundred dollars for the whole group, including delivery.\nMan: Delivery is free for orders over one hundred fifty dollars. If you order enough platters for all of your guests, I'd recommend the cheaper sandwich option and one Garden Platter.\nWoman: That sounds sensible. Let me confirm the numbers with my colleague and call you back.",
+"audioFile": "audio/l3x-006.mp3",
+"questions": [
+{
+"id": "l3x-006-q1",
+"questionText": "What is the woman's main concern?",
+"options": [
+{
+"key": "A",
+"text": "Staying within a budget"
+},
+{
+"key": "B",
+"text": "Finding a delivery driver"
+},
+{
+"key": "C",
+"text": "Booking a room"
+},
+{
+"key": "D",
+"text": "Choosing a date"
+}
+],
+"correctAnswer": "A",
+"explanation": "She says the budget is about two hundred dollars including delivery."
+},
+{
+"id": "l3x-006-q2",
+"questionText": "Look at the graphic. Which platters will the man most likely recommend for all of the guests?",
+"options": [
+{
+"key": "A",
+"text": "One Classic Sandwich Platter and two Garden Platters"
+},
+{
+"key": "B",
+"text": "Two Deluxe Sandwich Platters"
+},
+{
+"key": "C",
+"text": "Four Garden Platters"
+},
+{
+"key": "D",
+"text": "Two Classic Sandwich Platters and one Garden Platter"
+}
+],
+"correctAnswer": "D",
+"explanation": "He recommends the cheaper sandwich option plus one vegetarian platter, which serves twenty-four for about $198."
+},
+{
+"id": "l3x-006-q3",
+"questionText": "What will the woman do next?",
+"options": [
+{
+"key": "A",
+"text": "Visit the restaurant"
+},
+{
+"key": "B",
+"text": "Speak with a colleague"
+},
+{
+"key": "C",
+"text": "Cancel her order"
+},
+{
+"key": "D",
+"text": "Pay by credit card"
+}
+],
+"correctAnswer": "B",
+"explanation": "She says she will confirm the numbers with her colleague and call back."
+}
+],
+"graphic": {
+"title": "Lunch Platters",
+"headers": [
+"Platter",
+"Serves",
+"Price"
+],
+"rows": [
+[
+"Garden Platter (vegetarian)",
+"6",
+"$48"
+],
+[
+"Classic Sandwich Platter",
+"12",
+"$75"
+],
+[
+"Deluxe Sandwich Platter",
+"12",
+"$96"
+]
+]
+}
+},
+{
+"id": "l3x-007",
+"part": 3,
+"type": "Conversation",
+"title": "Scheduling a job interview",
+"audioScript": "Man: Ms. Alvarez, thank you for your application for the marketing assistant position. Are you available for an interview on Tuesday morning?\nWoman: I have a dentist appointment at ten on Tuesday, but I could come in at eight thirty if that works for you.\nMan: I'm afraid the director doesn't arrive until nine. What about Wednesday at two o'clock?\nWoman: Wednesday works well. Should I bring anything with me?\nMan: Please bring a copy of your résumé and two samples of your work. The interview will be in the building on Garner Street, and visitors need to sign in at the front desk.",
+"audioFile": "audio/l3x-007.mp3",
+"questions": [
+{
+"id": "l3x-007-q1",
+"questionText": "What is the conversation mainly about?",
+"options": [
+{
+"key": "A",
+"text": "Planning a marketing campaign"
+},
+{
+"key": "B",
+"text": "Changing a dentist appointment"
+},
+{
+"key": "C",
+"text": "Arranging an interview"
+},
+{
+"key": "D",
+"text": "Applying for a visa"
+}
+],
+"correctAnswer": "C",
+"explanation": "They discuss a time for the woman's interview."
+},
+{
+"id": "l3x-007-q2",
+"questionText": "Why can't the woman come on Tuesday at ten?",
+"options": [
+{
+"key": "A",
+"text": "She has another appointment."
+},
+{
+"key": "B",
+"text": "She is at a conference."
+},
+{
+"key": "C",
+"text": "She has a late meeting."
+},
+{
+"key": "D",
+"text": "She is traveling."
+}
+],
+"correctAnswer": "A",
+"explanation": "She mentions a dentist appointment at ten on Tuesday."
+},
+{
+"id": "l3x-007-q3",
+"questionText": "What does the man ask the woman to bring?",
+"options": [
+{
+"key": "A",
+"text": "A parking permit"
+},
+{
+"key": "B",
+"text": "Work samples"
+},
+{
+"key": "C",
+"text": "A photo ID"
+},
+{
+"key": "D",
+"text": "A letter of reference"
+}
+],
+"correctAnswer": "B",
+"explanation": "He asks her to bring a résumé and two samples of her work."
+}
+]
+},
+{
+"id": "l3x-008",
+"part": 3,
+"type": "Conversation",
+"title": "Resetting a computer password",
+"audioScript": "Woman: IT help desk, this is Claire. How can I help?\nMan: Hi, I've been locked out of my account. I typed my password wrong three times this morning.\nWoman: No problem. For security reasons, I'll need to ask you a few questions first. Can you give me your employee number?\nMan: It's 4471. Is this going to take long? I have to finish a report before noon.\nWoman: Only about two minutes. I'll send a temporary password to your phone, and the system will make you create a new one when you log in.\nMan: That works. I'm lucky I called now, because I wouldn't have been able to meet my deadline otherwise.",
+"audioFile": "audio/l3x-008.mp3",
+"questions": [
+{
+"id": "l3x-008-q1",
+"questionText": "Why is the man calling?",
+"options": [
+{
+"key": "A",
+"text": "He cannot access his account."
+},
+{
+"key": "B",
+"text": "He lost his employee number."
+},
+{
+"key": "C",
+"text": "He wants to report a security problem."
+},
+{
+"key": "D",
+"text": "He needs a new phone."
+}
+],
+"correctAnswer": "A",
+"explanation": "He says he has been locked out of his account."
+},
+{
+"id": "l3x-008-q2",
+"questionText": "What does the woman ask the man for?",
+"options": [
+{
+"key": "A",
+"text": "His e-mail address"
+},
+{
+"key": "B",
+"text": "His telephone number"
+},
+{
+"key": "C",
+"text": "His manager's name"
+},
+{
+"key": "D",
+"text": "His employee number"
+}
+],
+"correctAnswer": "D",
+"explanation": "She asks him for his employee number."
+},
+{
+"id": "l3x-008-q3",
+"questionText": "What will the man have to do after logging in?",
+"options": [
+{
+"key": "A",
+"text": "Complete a security survey"
+},
+{
+"key": "B",
+"text": "Call back the help desk"
+},
+{
+"key": "C",
+"text": "Create a new password"
+},
+{
+"key": "D",
+"text": "Update his phone"
+}
+],
+"correctAnswer": "C",
+"explanation": "The woman says the system will make him create a new password."
+}
+]
+},
+{
+"id": "l3x-009",
+"part": 3,
+"type": "Conversation",
+"title": "Picking up a rental car",
+"audioScript": "Man: Good afternoon. I have a reservation under the name Okafor for a compact car, collecting today and returning on Sunday.\nWoman: Yes, Mr. Okafor, I see it. Would you like to add our full insurance? It's twelve pounds a day, and it covers any damage to the vehicle.\nMan: My credit card company already provides cover for rental cars, so I'll decline that. But I would like a navigation system.\nWoman: Of course. That's five pounds a day. The car is in bay fourteen, and the tank is full. Please bring it back with a full tank, or we'll charge a refueling fee.\nMan: Understood. Is there a late fee if I return it a little after noon?\nWoman: There's a one-hour grace period. After that, you're charged for an extra day.",
+"audioFile": "audio/l3x-009.mp3",
+"questions": [
+{
+"id": "l3x-009-q1",
+"questionText": "What does the man decline?",
+"options": [
+{
+"key": "A",
+"text": "A compact car"
+},
+{
+"key": "B",
+"text": "A navigation system"
+},
+{
+"key": "C",
+"text": "A credit card"
+},
+{
+"key": "D",
+"text": "Extra insurance"
+}
+],
+"correctAnswer": "D",
+"explanation": "He says his credit card company already covers rental cars, so he declines the insurance."
+},
+{
+"id": "l3x-009-q2",
+"questionText": "What does the woman warn the man about?",
+"options": [
+{
+"key": "A",
+"text": "A fee for returning the car without a full tank"
+},
+{
+"key": "B",
+"text": "A fee for changing the reservation"
+},
+{
+"key": "C",
+"text": "A mileage limit"
+},
+{
+"key": "D",
+"text": "A deposit for the navigation system"
+}
+],
+"correctAnswer": "A",
+"explanation": "She says they will charge a refueling fee if the tank is not full."
+},
+{
+"id": "l3x-009-q3",
+"questionText": "What does the woman say about returning the car late?",
+"options": [
+{
+"key": "A",
+"text": "It is not possible."
+},
+{
+"key": "B",
+"text": "It costs five pounds an hour."
+},
+{
+"key": "C",
+"text": "There is a one-hour grace period."
+},
+{
+"key": "D",
+"text": "It requires written permission."
+}
+],
+"correctAnswer": "C",
+"explanation": "She says there is a one-hour grace period before an extra day is charged."
+}
+]
+},
+{
+"id": "l3x-010",
+"part": 3,
+"type": "Conversation",
+"title": "Applying for a small business loan",
+"audioScript": "Woman: Good morning, Mr. Brandt. I understand you're interested in a small business loan for your bakery.\nMan: That's right. I'd like to buy a second oven and rent a bigger kitchen. I need about forty thousand dollars.\nWoman: We can help with that. You'll need to provide your last two years of tax returns and a basic business plan. Do you have those?\nMan: I have the tax returns, but I'm still working on the plan. How detailed does it need to be?\nWoman: Just a few pages about your income, your costs, and how the loan will help you grow. I can send you a sample template this afternoon.\nMan: That would be a huge help. I'll bring everything back by next Friday.",
+"audioFile": "audio/l3x-010.mp3",
+"questions": [
+{
+"id": "l3x-010-q1",
+"questionText": "What does the man want to do?",
+"options": [
+{
+"key": "A",
+"text": "Hire more staff"
+},
+{
+"key": "B",
+"text": "Expand his bakery"
+},
+{
+"key": "C",
+"text": "Sell his business"
+},
+{
+"key": "D",
+"text": "Open a new account"
+}
+],
+"correctAnswer": "B",
+"explanation": "He wants to buy a second oven and rent a bigger kitchen for his bakery."
+},
+{
+"id": "l3x-010-q2",
+"questionText": "What does the man ask about?",
+"options": [
+{
+"key": "A",
+"text": "How much interest he will pay"
+},
+{
+"key": "B",
+"text": "How detailed a document should be"
+},
+{
+"key": "C",
+"text": "When a loan must be repaid"
+},
+{
+"key": "D",
+"text": "Where to submit a form"
+}
+],
+"correctAnswer": "B",
+"explanation": "He asks how detailed the business plan needs to be."
+},
+{
+"id": "l3x-010-q3",
+"questionText": "What does the woman say she will do this afternoon?",
+"options": [
+{
+"key": "A",
+"text": "Send a sample"
+},
+{
+"key": "B",
+"text": "Visit a bakery"
+},
+{
+"key": "C",
+"text": "Approve a loan"
+},
+{
+"key": "D",
+"text": "Call a tax advisor"
+}
+],
+"correctAnswer": "A",
+"explanation": "She says she will send a sample template."
+}
+]
+},
+{
+"id": "l3x-011",
+"part": 3,
+"type": "Conversation",
+"title": "Conference registration deadline",
+"audioScript": "Man: Hi Rosa, have you registered for the Logistics Summit in Denver yet? The early-bird rate ends on Friday.\nWoman: Not yet. I wasn't sure if I should go for two days or three. The workshops on the third day look interesting, though.\nMan: I'd go for all three. The package includes lunch and the evening reception, so it costs less than paying for each day separately.\nWoman: That's true. But I'll have to ask my manager first, since it means being out of the office on Monday.\nMan: Just send her the schedule. She approved my trip last year as soon as she saw the agenda.",
+"audioFile": "audio/l3x-011.mp3",
+"questions": [
+{
+"id": "l3x-011-q1",
+"questionText": "What does the man recommend?",
+"options": [
+{
+"key": "A",
+"text": "Choosing a single day"
+},
+{
+"key": "B",
+"text": "Skipping the reception"
+},
+{
+"key": "C",
+"text": "Registering for the full conference"
+},
+{
+"key": "D",
+"text": "Booking a flight early"
+}
+],
+"correctAnswer": "C",
+"explanation": "He says he would go for all three days because it costs less than paying for each day."
+},
+{
+"id": "l3x-011-q2",
+"questionText": "Look at the graphic. How much will the woman pay if she registers for three days on Thursday?",
+"options": [
+{
+"key": "A",
+"text": "$270"
+},
+{
+"key": "B",
+"text": "$340"
+},
+{
+"key": "C",
+"text": "$450"
+},
+{
+"key": "D",
+"text": "$360"
+}
+],
+"correctAnswer": "D",
+"explanation": "The early-bird price for three days applies until Friday, so a Thursday registration costs $360."
+},
+{
+"id": "l3x-011-q3",
+"questionText": "What does the woman say she must do first?",
+"options": [
+{
+"key": "A",
+"text": "Check her calendar"
+},
+{
+"key": "B",
+"text": "Choose a hotel"
+},
+{
+"key": "C",
+"text": "Update her passport"
+},
+{
+"key": "D",
+"text": "Get her manager's permission"
+}
+],
+"correctAnswer": "D",
+"explanation": "She says she has to ask her manager first because she will be out of the office."
+}
+],
+"graphic": {
+"title": "Logistics Summit Registration",
+"headers": [
+"Package",
+"Early-bird Price (until Friday)",
+"Regular Price"
+],
+"rows": [
+[
+"One day",
+"$150",
+"$195"
+],
+[
+"Two days",
+"$270",
+"$340"
+],
+[
+"Three days",
+"$360",
+"$450"
+]
+]
+}
+},
+{
+"id": "l3x-012",
+"part": 3,
+"type": "Conversation",
+"title": "Returning a jacket without a receipt",
+"audioScript": "Woman: Hello, I'd like to return this jacket. I received it as a gift, so I don't have the receipt.\nMan: I see. Without a receipt, I can't give you a refund, but I can offer you store credit for the current selling price.\nWoman: It's been on sale since I got it, hasn't it? What would the credit be?\nMan: Sixty-five dollars. The original price was ninety, but it's now discounted. Would you like to look around, or should I put it on a card for you?\nWoman: Let me browse for a few minutes first. I think I saw a scarf near the entrance that I'd like to try.\nMan: Take your time. Just bring it to me when you're ready.",
+"audioFile": "audio/l3x-012.mp3",
+"questions": [
+{
+"id": "l3x-012-q1",
+"questionText": "What does the woman want to do?",
+"options": [
+{
+"key": "A",
+"text": "Buy a gift"
+},
+{
+"key": "B",
+"text": "Return an item"
+},
+{
+"key": "C",
+"text": "Apply for a job"
+},
+{
+"key": "D",
+"text": "Report a lost receipt"
+}
+],
+"correctAnswer": "B",
+"explanation": "She says she would like to return a jacket."
+},
+{
+"id": "l3x-012-q2",
+"questionText": "What is the woman offered?",
+"options": [
+{
+"key": "A",
+"text": "A store credit"
+},
+{
+"key": "B",
+"text": "A discount coupon"
+},
+{
+"key": "C",
+"text": "A replacement jacket"
+},
+{
+"key": "D",
+"text": "A cash refund"
+}
+],
+"correctAnswer": "A",
+"explanation": "The man says he can offer store credit for the current selling price."
+},
+{
+"id": "l3x-012-q3",
+"questionText": "What will the woman probably do next?",
+"options": [
+{
+"key": "A",
+"text": "Leave the store"
+},
+{
+"key": "B",
+"text": "Fill out a form"
+},
+{
+"key": "C",
+"text": "Look at some merchandise"
+},
+{
+"key": "D",
+"text": "Call a manager"
+}
+],
+"correctAnswer": "C",
+"explanation": "She says she wants to browse and try a scarf near the entrance."
+}
+]
+},
+{
+"id": "l3x-013",
+"part": 3,
+"type": "Conversation",
+"title": "Moving the sales team to a new floor",
+"audioScript": "Woman: Hi, Jorge. Is it true that the sales team is moving to the fifth floor?\nMan: Yes, next weekend. The facilities department has already ordered the new desks, but the phone lines won't be installed until Monday.\nWoman 2: That might be a problem for us, because the clients call the old numbers first thing in the morning.\nMan: Good point, Leila. I'll ask the telephone company if they can come on Friday afternoon instead.\nWoman: And please remind everyone to label their boxes with their names. Last time, several files went missing.\nWoman 2: I'll send out a reminder e-mail this afternoon.",
+"audioFile": "audio/l3x-013.mp3",
+"questions": [
+{
+"id": "l3x-013-q1",
+"questionText": "What are the speakers discussing?",
+"options": [
+{
+"key": "A",
+"text": "A new hiring policy"
+},
+{
+"key": "B",
+"text": "A budget increase"
+},
+{
+"key": "C",
+"text": "An office move"
+},
+{
+"key": "D",
+"text": "A client complaint"
+}
+],
+"correctAnswer": "C",
+"explanation": "They talk about the sales team moving to the fifth floor."
+},
+{
+"id": "l3x-013-q2",
+"questionText": "What concern does Leila raise?",
+"options": [
+{
+"key": "A",
+"text": "The weekend is too busy."
+},
+{
+"key": "B",
+"text": "The fifth floor is too small."
+},
+{
+"key": "C",
+"text": "The desks have not arrived."
+},
+{
+"key": "D",
+"text": "Clients may not be able to reach the team."
+}
+],
+"correctAnswer": "D",
+"explanation": "She says clients call the old numbers first thing in the morning, and the phone lines will not be ready."
+},
+{
+"id": "l3x-013-q3",
+"questionText": "What will Leila do this afternoon?",
+"options": [
+{
+"key": "A",
+"text": "Contact the phone company"
+},
+{
+"key": "B",
+"text": "Send an e-mail"
+},
+{
+"key": "C",
+"text": "Label some files"
+},
+{
+"key": "D",
+"text": "Order some boxes"
+}
+],
+"correctAnswer": "B",
+"explanation": "She says she will send out a reminder e-mail this afternoon."
+}
+]
+},
+{
+"id": "l3x-014",
+"part": 3,
+"type": "Conversation",
+"title": "Approval for a software purchase",
+"audioScript": "Man: Sandra, did you see the proposal I sent about the new scheduling software? It would save our nurses a lot of time.\nWoman: I read it. The features look good, but the price is higher than I expected. It's about eight thousand dollars a year.\nMan: I know. But the current system takes each manager about five hours a week to maintain. The new one is automatic.\nWoman: That's a strong argument. Can you put those numbers in a short summary? I'll present it at Thursday's budget meeting.\nMan: Absolutely. I'll have it to you by tomorrow morning.",
+"audioFile": "audio/l3x-014.mp3",
+"questions": [
+{
+"id": "l3x-014-q1",
+"questionText": "What is the man proposing?",
+"options": [
+{
+"key": "A",
+"text": "Buying new software"
+},
+{
+"key": "B",
+"text": "Hiring more nurses"
+},
+{
+"key": "C",
+"text": "Changing a work schedule"
+},
+{
+"key": "D",
+"text": "Cutting a budget"
+}
+],
+"correctAnswer": "A",
+"explanation": "He is asking for approval of new scheduling software."
+},
+{
+"id": "l3x-014-q2",
+"questionText": "What is the woman's concern about the proposal?",
+"options": [
+{
+"key": "A",
+"text": "The quality"
+},
+{
+"key": "B",
+"text": "The cost"
+},
+{
+"key": "C",
+"text": "The training time"
+},
+{
+"key": "D",
+"text": "The delivery date"
+}
+],
+"correctAnswer": "B",
+"explanation": "She says the price is higher than she expected."
+},
+{
+"id": "l3x-014-q3",
+"questionText": "What will the man provide by tomorrow?",
+"options": [
+{
+"key": "A",
+"text": "A price quote"
+},
+{
+"key": "B",
+"text": "A demonstration"
+},
+{
+"key": "C",
+"text": "A budget meeting date"
+},
+{
+"key": "D",
+"text": "A written summary"
+}
+],
+"correctAnswer": "D",
+"explanation": "She asks for a short summary of the numbers, and he says she will have it by tomorrow morning."
+}
+]
+},
+{
+"id": "l3x-015",
+"part": 3,
+"type": "Conversation",
+"title": "Inventory count at the warehouse",
+"audioScript": "Man: Mina, are we ready for the inventory count on Saturday? I haven't seen the list of volunteers yet.\nWoman: I'm still waiting for two departments to reply. Right now I have eleven people, and I'd like at least fifteen so we can finish before dinner.\nMan: I'll talk to the shipping team. They owe us a favor after we covered their shifts last month.\nWoman: That would help. Remember that everyone has to wear safety shoes, and we're providing scanners at the entrance.\nMan: I'll make an announcement at tomorrow's staff meeting.",
+"audioFile": "audio/l3x-015.mp3",
+"questions": [
+{
+"id": "l3x-015-q1",
+"questionText": "What are the speakers organizing?",
+"options": [
+{
+"key": "A",
+"text": "A company dinner"
+},
+{
+"key": "B",
+"text": "A shipping schedule"
+},
+{
+"key": "C",
+"text": "A stock count"
+},
+{
+"key": "D",
+"text": "A safety course"
+}
+],
+"correctAnswer": "C",
+"explanation": "They discuss an inventory count planned for Saturday."
+},
+{
+"id": "l3x-015-q2",
+"questionText": "What does the woman say she needs?",
+"options": [
+{
+"key": "A",
+"text": "More volunteers"
+},
+{
+"key": "B",
+"text": "A larger warehouse"
+},
+{
+"key": "C",
+"text": "More scanners"
+},
+{
+"key": "D",
+"text": "A later deadline"
+}
+],
+"correctAnswer": "A",
+"explanation": "She says she has eleven people and would like at least fifteen."
+},
+{
+"id": "l3x-015-q3",
+"questionText": "What will the man do at tomorrow's meeting?",
+"options": [
+{
+"key": "A",
+"text": "Introduce a new employee"
+},
+{
+"key": "B",
+"text": "Present a schedule"
+},
+{
+"key": "C",
+"text": "Make an announcement"
+},
+{
+"key": "D",
+"text": "Hand out safety shoes"
+}
+],
+"correctAnswer": "C",
+"explanation": "He says he will make an announcement at tomorrow's staff meeting."
+}
+]
+},
+{
+"id": "l3x-016",
+"part": 3,
+"type": "Conversation",
+"title": "Booking a private dining room",
+"audioScript": "Woman: Good evening, Harbor Grill. How may I help you?\nMan: I'd like to reserve a private room for a retirement dinner on the twelfth of June. There will be about thirty guests.\nWoman: Our largest private room seats twenty-eight, I'm afraid. But we could set up tables in the lounge area next to it and open the dividing doors.\nMan: That sounds workable. Would we need to choose the menu in advance?\nWoman: Yes, we ask for the choices a week before the event. I'll e-mail you the menus today, along with a form for dietary requirements.\nMan: Thanks. My assistant will fill that in, so please copy her on the message.",
+"audioFile": "audio/l3x-016.mp3",
+"questions": [
+{
+"id": "l3x-016-q1",
+"questionText": "Why does the man call the restaurant?",
+"options": [
+{
+"key": "A",
+"text": "To arrange a dinner"
+},
+{
+"key": "B",
+"text": "To change a menu"
+},
+{
+"key": "C",
+"text": "To apply for a job"
+},
+{
+"key": "D",
+"text": "To complain about a meal"
+}
+],
+"correctAnswer": "A",
+"explanation": "He wants to reserve a private room for a retirement dinner."
+},
+{
+"id": "l3x-016-q2",
+"questionText": "What problem does the woman mention?",
+"options": [
+{
+"key": "A",
+"text": "A date is unavailable."
+},
+{
+"key": "B",
+"text": "A chef is on vacation."
+},
+{
+"key": "C",
+"text": "A menu has changed."
+},
+{
+"key": "D",
+"text": "A room is too small for the group."
+}
+],
+"correctAnswer": "D",
+"explanation": "She says the largest private room seats twenty-eight while he has thirty guests."
+},
+{
+"id": "l3x-016-q3",
+"questionText": "What does the man ask the woman to do?",
+"options": [
+{
+"key": "A",
+"text": "Lower the price"
+},
+{
+"key": "B",
+"text": "Send a message to his assistant"
+},
+{
+"key": "C",
+"text": "Call him tomorrow"
+},
+{
+"key": "D",
+"text": "Hold a table for lunch"
+}
+],
+"correctAnswer": "B",
+"explanation": "He asks her to copy his assistant on the e-mail."
+}
+]
+},
+{
+"id": "l3x-017",
+"part": 3,
+"type": "Conversation",
+"title": "Rescheduling a medical appointment",
+"audioScript": "Woman: Dr. Nakamura's office, how can I help you?\nMan: This is Peter Lindqvist. I have a checkup on Thursday at nine, but my company has just scheduled a mandatory meeting for that morning.\nWoman: I see. The doctor has an opening on Friday afternoon at three, or next Tuesday at eleven.\nMan: Friday would be best. I'm traveling for work the following week.\nWoman: All right, I've changed it. Please arrive fifteen minutes early to update your insurance information, and remember not to eat anything after midnight, since you're having blood tests.\nMan: Got it. Thank you very much.",
+"audioFile": "audio/l3x-017.mp3",
+"questions": [
+{
+"id": "l3x-017-q1",
+"questionText": "Why is the man calling?",
+"options": [
+{
+"key": "A",
+"text": "To renew insurance"
+},
+{
+"key": "B",
+"text": "To change an appointment"
+},
+{
+"key": "C",
+"text": "To ask about test results"
+},
+{
+"key": "D",
+"text": "To cancel a trip"
+}
+],
+"correctAnswer": "B",
+"explanation": "He says a meeting conflicts with his Thursday checkup."
+},
+{
+"id": "l3x-017-q2",
+"questionText": "Why does the man choose Friday?",
+"options": [
+{
+"key": "A",
+"text": "He has a meeting on Tuesday."
+},
+{
+"key": "B",
+"text": "He prefers afternoons."
+},
+{
+"key": "C",
+"text": "He will be away the following week."
+},
+{
+"key": "D",
+"text": "He wants to see a different doctor."
+}
+],
+"correctAnswer": "C",
+"explanation": "He says he is traveling for work the following week."
+},
+{
+"id": "l3x-017-q3",
+"questionText": "What does the woman remind the man to do?",
+"options": [
+{
+"key": "A",
+"text": "Not eat before the appointment"
+},
+{
+"key": "B",
+"text": "Pay a fee in advance"
+},
+{
+"key": "C",
+"text": "Call again on Thursday"
+},
+{
+"key": "D",
+"text": "Bring a doctor's note"
+}
+],
+"correctAnswer": "A",
+"explanation": "She tells him not to eat anything after midnight because of blood tests."
+}
+]
+},
+{
+"id": "l3x-018",
+"part": 3,
+"type": "Conversation",
+"title": "Viewing an apartment",
+"audioScript": "Woman: Thanks for coming, Mr. Silva. As you can see, the apartment has plenty of natural light, and the kitchen was renovated last year.\nMan: It's lovely. I was told the rent was eighteen hundred, though. Is that for this unit?\nWoman: No, that's for the unit on the second floor. This one is on the sixth floor with the balcony, and it's priced a little higher.\nMan: I see. Is parking included?\nWoman: One space is included. A second space costs extra. If you decide to apply, I'll need proof of employment and two references.",
+"audioFile": "audio/l3x-018.mp3",
+"questions": [
+{
+"id": "l3x-018-q1",
+"questionText": "What is the man's main interest?",
+"options": [
+{
+"key": "A",
+"text": "Finding a roommate"
+},
+{
+"key": "B",
+"text": "Buying a car"
+},
+{
+"key": "C",
+"text": "Renovating a kitchen"
+},
+{
+"key": "D",
+"text": "Renting an apartment"
+}
+],
+"correctAnswer": "D",
+"explanation": "He is viewing an apartment and asking about rent and parking."
+},
+{
+"id": "l3x-018-q2",
+"questionText": "Look at the graphic. Which unit is the man viewing?",
+"options": [
+{
+"key": "A",
+"text": "Unit 4C"
+},
+{
+"key": "B",
+"text": "Unit 6A"
+},
+{
+"key": "C",
+"text": "Unit 2B"
+},
+{
+"key": "D",
+"text": "Unit 8D"
+}
+],
+"correctAnswer": "B",
+"explanation": "The woman says it is on the sixth floor with the balcony."
+},
+{
+"id": "l3x-018-q3",
+"questionText": "What does the woman say she needs if the man applies?",
+"options": [
+{
+"key": "A",
+"text": "A signed lease"
+},
+{
+"key": "B",
+"text": "A security deposit"
+},
+{
+"key": "C",
+"text": "A parking permit"
+},
+{
+"key": "D",
+"text": "Proof of employment"
+}
+],
+"correctAnswer": "D",
+"explanation": "She says she will need proof of employment and two references."
+}
+],
+"graphic": {
+"title": "Available Units",
+"headers": [
+"Unit",
+"Floor",
+"Monthly Rent"
+],
+"rows": [
+[
+"2B",
+"2",
+"$1,800"
+],
+[
+"4C",
+"4",
+"$1,950"
+],
+[
+"6A",
+"6",
+"$2,150"
+],
+[
+"8D",
+"8",
+"$2,400"
+]
+]
+}
+},
+{
+"id": "l3x-019",
+"part": 3,
+"type": "Conversation",
+"title": "Reviewing campaign results",
+"audioScript": "Woman: Let's go over the results of the spring campaign. Online sales rose by twenty percent, which is better than we predicted.\nMan: And the e-mail newsletter drove most of that. The social media ads didn't bring in as many customers as we expected.\nWoman 2: I think the problem was the timing. We posted most of them during working hours. Next time we should try evenings.\nWoman: That's worth testing. Can you prepare two versions of the summer ad, Ines, so we can compare?\nWoman 2: Sure. I'll have them ready by the end of next week.\nMan: In the meantime, I'll ask the finance team how much of the budget is left.",
+"audioFile": "audio/l3x-019.mp3",
+"questions": [
+{
+"id": "l3x-019-q1",
+"questionText": "What are the speakers mainly discussing?",
+"options": [
+{
+"key": "A",
+"text": "The results of a marketing campaign"
+},
+{
+"key": "B",
+"text": "The launch of a new product"
+},
+{
+"key": "C",
+"text": "A schedule for interviews"
+},
+{
+"key": "D",
+"text": "A change in company policy"
+}
+],
+"correctAnswer": "A",
+"explanation": "They review spring campaign results including online sales and ads."
+},
+{
+"id": "l3x-019-q2",
+"questionText": "What does Ines suggest?",
+"options": [
+{
+"key": "A",
+"text": "Hiring a new designer"
+},
+{
+"key": "B",
+"text": "Writing fewer newsletters"
+},
+{
+"key": "C",
+"text": "Posting ads in the evening"
+},
+{
+"key": "D",
+"text": "Cutting the budget"
+}
+],
+"correctAnswer": "C",
+"explanation": "She says the ads were posted during working hours and suggests trying evenings."
+},
+{
+"id": "l3x-019-q3",
+"questionText": "What will the man do?",
+"options": [
+{
+"key": "A",
+"text": "Check the remaining budget"
+},
+{
+"key": "B",
+"text": "Write a newsletter"
+},
+{
+"key": "C",
+"text": "Design an advertisement"
+},
+{
+"key": "D",
+"text": "Contact a customer"
+}
+],
+"correctAnswer": "A",
+"explanation": "He says he will ask the finance team how much budget is left."
+}
+]
+},
+{
+"id": "l3x-020",
+"part": 3,
+"type": "Conversation",
+"title": "Missed flight connection",
+"audioScript": "Woman: Excuse me, my flight from Madrid arrived late, and I've just missed my connection to Chicago. Can I get on the next one?\nMan: Let me look. There's a flight at six forty, but it's fully booked. The next seat I can offer is on the nine o'clock departure.\nWoman: That's three hours from now. I have a presentation first thing tomorrow, so I can't take anything later than that.\nMan: In that case, I'll put you on the nine o'clock flight now. Because the delay was caused by the airline, you can also use the lounge, and I'll give you a meal voucher.\nWoman: Thank you. Is my luggage going to be moved automatically?\nMan: Yes, it will be transferred. You can collect it at the baggage claim in Chicago.",
+"audioFile": "audio/l3x-020.mp3",
+"questions": [
+{
+"id": "l3x-020-q1",
+"questionText": "What problem does the woman have?",
+"options": [
+{
+"key": "A",
+"text": "She booked the wrong date."
+},
+{
+"key": "B",
+"text": "Her passport is missing."
+},
+{
+"key": "C",
+"text": "She missed a connecting flight."
+},
+{
+"key": "D",
+"text": "Her luggage was damaged."
+}
+],
+"correctAnswer": "C",
+"explanation": "She says she has just missed her connection to Chicago."
+},
+{
+"id": "l3x-020-q2",
+"questionText": "Why can't the woman take a later flight?",
+"options": [
+{
+"key": "A",
+"text": "She has a train to catch."
+},
+{
+"key": "B",
+"text": "She has a presentation tomorrow."
+},
+{
+"key": "C",
+"text": "She has a meeting tonight."
+},
+{
+"key": "D",
+"text": "She has a hotel reservation."
+}
+],
+"correctAnswer": "B",
+"explanation": "She says she has a presentation first thing tomorrow."
+},
+{
+"id": "l3x-020-q3",
+"questionText": "What does the man give the woman?",
+"options": [
+{
+"key": "A",
+"text": "A luggage tag"
+},
+{
+"key": "B",
+"text": "A hotel room"
+},
+{
+"key": "C",
+"text": "A refund"
+},
+{
+"key": "D",
+"text": "A meal voucher"
+}
+],
+"correctAnswer": "D",
+"explanation": "He says he will give her a meal voucher and lounge access."
+}
+]
+},
+{
+"id": "l3x-021",
+"part": 3,
+"type": "Conversation",
+"title": "Joining a fitness club",
+"audioScript": "Man: I'm interested in a membership. What are my options?\nWoman: We have a monthly plan and an annual plan. The annual plan is cheaper per month, and it includes two free sessions with a personal trainer.\nMan: I travel a lot for my job, so I'm not sure I'd use it every week. Can I freeze the membership?\nWoman: Absolutely. You can pause it for up to three months a year. There's no charge as long as you tell us two weeks in advance.\nMan: That sounds fair. I'll take the annual plan, then. Can I start using the pool today?\nWoman: Of course. Let me get the paperwork, and we'll take your picture for the card.",
+"audioFile": "audio/l3x-021.mp3",
+"questions": [
+{
+"id": "l3x-021-q1",
+"questionText": "Why does the man ask about freezing a membership?",
+"options": [
+{
+"key": "A",
+"text": "He travels frequently."
+},
+{
+"key": "B",
+"text": "He is moving away."
+},
+{
+"key": "C",
+"text": "He wants a refund."
+},
+{
+"key": "D",
+"text": "He has an injury."
+}
+],
+"correctAnswer": "A",
+"explanation": "He says he travels a lot and might not use it every week."
+},
+{
+"id": "l3x-021-q2",
+"questionText": "What is included in the annual plan?",
+"options": [
+{
+"key": "A",
+"text": "A locker rental"
+},
+{
+"key": "B",
+"text": "A free towel service"
+},
+{
+"key": "C",
+"text": "Unlimited guest passes"
+},
+{
+"key": "D",
+"text": "Two sessions with a trainer"
+}
+],
+"correctAnswer": "D",
+"explanation": "The woman says it includes two free sessions with a personal trainer."
+},
+{
+"id": "l3x-021-q3",
+"questionText": "What will the woman do next?",
+"options": [
+{
+"key": "A",
+"text": "Call a trainer"
+},
+{
+"key": "B",
+"text": "Take a payment over the phone"
+},
+{
+"key": "C",
+"text": "Get some paperwork"
+},
+{
+"key": "D",
+"text": "Show the man the pool"
+}
+],
+"correctAnswer": "C",
+"explanation": "She says she will get the paperwork and take his picture."
+}
+]
+},
+{
+"id": "l3x-022",
+"part": 3,
+"type": "Conversation",
+"title": "Printing banners for a trade show",
+"audioScript": "Woman: Hi, I placed an order yesterday for two banners for the trade show. I just realized I gave you the wrong company logo.\nMan: Let me find it. Yes, order number 5832. The banners are in the print queue, but they haven't been printed yet.\nWoman: Oh, good. I can send the correct file right now. Will that change the price?\nMan: Not unless you want a different size. The files need to be at least three hundred pixels per inch, though, or the logo will look blurry on a banner that large.\nWoman: It's a vector file, so it should be fine. I'll e-mail it in the next five minutes.\nMan: Great. I'll hold the order until it arrives.",
+"audioFile": "audio/l3x-022.mp3",
+"questions": [
+{
+"id": "l3x-022-q1",
+"questionText": "Why is the woman calling?",
+"options": [
+{
+"key": "A",
+"text": "To request a refund"
+},
+{
+"key": "B",
+"text": "To correct an order"
+},
+{
+"key": "C",
+"text": "To reschedule a delivery"
+},
+{
+"key": "D",
+"text": "To ask about a price"
+}
+],
+"correctAnswer": "B",
+"explanation": "She says she gave the wrong company logo and wants to send the right one."
+},
+{
+"id": "l3x-022-q2",
+"questionText": "What does the man say about the files?",
+"options": [
+{
+"key": "A",
+"text": "They cannot be changed."
+},
+{
+"key": "B",
+"text": "They must be sent by mail."
+},
+{
+"key": "C",
+"text": "They need a certain quality."
+},
+{
+"key": "D",
+"text": "They should be in color."
+}
+],
+"correctAnswer": "C",
+"explanation": "He says the files need to be at least three hundred pixels per inch."
+},
+{
+"id": "l3x-022-q3",
+"questionText": "What will the man do?",
+"options": [
+{
+"key": "A",
+"text": "Call a client"
+},
+{
+"key": "B",
+"text": "Wait for a file"
+},
+{
+"key": "C",
+"text": "Lower the price"
+},
+{
+"key": "D",
+"text": "Print a proof"
+}
+],
+"correctAnswer": "B",
+"explanation": "He says he will hold the order until the new file arrives."
+}
+]
+},
+{
+"id": "l3x-023",
+"part": 3,
+"type": "Conversation",
+"title": "Factory tour for a supplier",
+"audioScript": "Woman: Mr. Dalton, thank you for coming. Before we start the tour, I need to give you a hard hat and safety glasses.\nMan: Of course. I'm especially interested in the packaging line. We're considering switching to recycled cardboard.\nWoman: Then you'll want to see Line Three. It was upgraded in March, and it handles the new materials well. Unfortunately, we can't go inside while the machines are running, but you'll see everything from the viewing platform.\nMan: That's fine. Could I speak with the line manager afterward?\nWoman: She's at a meeting until eleven, but she'll join us for coffee in the cafeteria after the tour.",
+"audioFile": "audio/l3x-023.mp3",
+"questions": [
+{
+"id": "l3x-023-q1",
+"questionText": "What is the man most interested in seeing?",
+"options": [
+{
+"key": "A",
+"text": "A testing laboratory"
+},
+{
+"key": "B",
+"text": "A training room"
+},
+{
+"key": "C",
+"text": "A shipping dock"
+},
+{
+"key": "D",
+"text": "A packaging line"
+}
+],
+"correctAnswer": "D",
+"explanation": "He says he is especially interested in the packaging line."
+},
+{
+"id": "l3x-023-q2",
+"questionText": "What does the woman say about Line Three?",
+"options": [
+{
+"key": "A",
+"text": "It was recently improved."
+},
+{
+"key": "B",
+"text": "It makes cardboard."
+},
+{
+"key": "C",
+"text": "It is closed for repair."
+},
+{
+"key": "D",
+"text": "It was moved to another floor."
+}
+],
+"correctAnswer": "A",
+"explanation": "She says it was upgraded in March and handles the new materials well."
+},
+{
+"id": "l3x-023-q3",
+"questionText": "What will happen after the tour?",
+"options": [
+{
+"key": "A",
+"text": "The man will talk to a manager."
+},
+{
+"key": "B",
+"text": "The woman will leave for a meeting."
+},
+{
+"key": "C",
+"text": "The woman will give a presentation."
+},
+{
+"key": "D",
+"text": "The man will sign a contract."
+}
+],
+"correctAnswer": "A",
+"explanation": "The line manager will join them for coffee after the tour."
+}
+]
+},
+{
+"id": "l3x-024",
+"part": 3,
+"type": "Conversation",
+"title": "Volunteers for a library book sale",
+"audioScript": "Woman: Hi, Tom. I'm putting together a schedule for the library's annual book sale. Would you be able to help for a few hours on Saturday?\nMan: I'd love to. I volunteered last year, and I worked at the cashier's table. I'm not very good with the heavy boxes, though.\nWoman: Then the cashier's table is yours again. We need two people there from ten until two, and the other person is Maria.\nMan: That's great. Is there anything I should bring?\nWoman: Only a calculator, if you have one. We'll supply the cash box and the bags. Also, we're expecting a big crowd, so please come a few minutes early to get oriented.",
+"audioFile": "audio/l3x-024.mp3",
+"questions": [
+{
+"id": "l3x-024-q1",
+"questionText": "What does the woman ask the man to do?",
+"options": [
+{
+"key": "A",
+"text": "Organize some boxes"
+},
+{
+"key": "B",
+"text": "Donate some books"
+},
+{
+"key": "C",
+"text": "Volunteer at an event"
+},
+{
+"key": "D",
+"text": "Train a new employee"
+}
+],
+"correctAnswer": "C",
+"explanation": "She asks whether he can help for a few hours on Saturday."
+},
+{
+"id": "l3x-024-q2",
+"questionText": "Why does the man mention heavy boxes?",
+"options": [
+{
+"key": "A",
+"text": "He needs help with them."
+},
+{
+"key": "B",
+"text": "He forgot to order them."
+},
+{
+"key": "C",
+"text": "He wants to buy them."
+},
+{
+"key": "D",
+"text": "He would prefer not to carry them."
+}
+],
+"correctAnswer": "D",
+"explanation": "He says he is not very good with the heavy boxes."
+},
+{
+"id": "l3x-024-q3",
+"questionText": "What does the woman say the man should bring?",
+"options": [
+{
+"key": "A",
+"text": "A cash box"
+},
+{
+"key": "B",
+"text": "A calculator"
+},
+{
+"key": "C",
+"text": "Some bags"
+},
+{
+"key": "D",
+"text": "A list of names"
+}
+],
+"correctAnswer": "B",
+"explanation": "She says to bring a calculator and that they will supply the cash box and the bags."
+}
+]
+},
+{
+"id": "l3x-025",
+"part": 3,
+"type": "Conversation",
+"title": "Preparing for an awards dinner",
+"audioScript": "Man: Have you finished the list for the employee awards dinner? I wanted to send out the invitations by Friday.\nWoman: Almost. There are three people I haven't been able to reach: Hana in accounting, and two from the Dallas office.\nMan: I can ask the Dallas manager. What about the speakers?\nWoman: The CEO will say a few words, and Mr. Okoye will present the Employee of the Year award. I still need to confirm the sound system with the hotel.\nMan: I wouldn't wait on that. Those systems get booked up quickly in December.\nWoman: You're right. I'll call them right after this meeting.",
+"audioFile": "audio/l3x-025.mp3",
+"questions": [
+{
+"id": "l3x-025-q1",
+"questionText": "What is the man planning to do by Friday?",
+"options": [
+{
+"key": "A",
+"text": "Present an award"
+},
+{
+"key": "B",
+"text": "Interview a candidate"
+},
+{
+"key": "C",
+"text": "Send invitations"
+},
+{
+"key": "D",
+"text": "Book a hotel"
+}
+],
+"correctAnswer": "C",
+"explanation": "He says he wants to send out the invitations by Friday."
+},
+{
+"id": "l3x-025-q2",
+"questionText": "What does the man mean when he says, \"I wouldn't wait on that\"?",
+"options": [
+{
+"key": "A",
+"text": "The woman should cancel a request."
+},
+{
+"key": "B",
+"text": "The woman should act quickly."
+},
+{
+"key": "C",
+"text": "The woman should ask someone else."
+},
+{
+"key": "D",
+"text": "The woman should change a date."
+}
+],
+"correctAnswer": "B",
+"explanation": "He warns that sound systems get booked up quickly, so she should call soon."
+},
+{
+"id": "l3x-025-q3",
+"questionText": "What will the woman do after the meeting?",
+"options": [
+{
+"key": "A",
+"text": "Update a list"
+},
+{
+"key": "B",
+"text": "Call the Dallas manager"
+},
+{
+"key": "C",
+"text": "Write a speech"
+},
+{
+"key": "D",
+"text": "Contact a hotel"
+}
+],
+"correctAnswer": "D",
+"explanation": "She says she will call the hotel about the sound system right after the meeting."
+}
+]
+},
+{
+"id": "l3x-026",
+"part": 3,
+"type": "Conversation",
+"title": "New parking arrangements",
+"audioScript": "Woman: Welcome to the new building, Mr. Chen. I'm Rhea from facilities. Have you chosen a parking lot yet?\nMan: Not yet. I heard Lot B is free for employees, but it's far from the main entrance.\nWoman: That's right. Lot A is closer, but it costs forty dollars a month. Lot C is a ten-minute walk but has a shuttle bus every fifteen minutes.\nMan: I usually arrive early, so the walk isn't a problem. I'd rather save the money.\nWoman: Then Lot B will do. I'll need your license plate number to register it. You can send it to me by e-mail.",
+"audioFile": "audio/l3x-026.mp3",
+"questions": [
+{
+"id": "l3x-026-q1",
+"questionText": "What does the man want to do?",
+"options": [
+{
+"key": "A",
+"text": "Save money"
+},
+{
+"key": "B",
+"text": "Change offices"
+},
+{
+"key": "C",
+"text": "Park near the entrance"
+},
+{
+"key": "D",
+"text": "Use the shuttle"
+}
+],
+"correctAnswer": "A",
+"explanation": "He says he would rather save the money."
+},
+{
+"id": "l3x-026-q2",
+"questionText": "Look at the graphic. Which lot will the man most likely use?",
+"options": [
+{
+"key": "A",
+"text": "None of the lots"
+},
+{
+"key": "B",
+"text": "Lot A"
+},
+{
+"key": "C",
+"text": "Lot C"
+},
+{
+"key": "D",
+"text": "Lot B"
+}
+],
+"correctAnswer": "D",
+"explanation": "He prefers the free lot even though it is farther from the entrance."
+},
+{
+"id": "l3x-026-q3",
+"questionText": "What does the woman ask the man to send?",
+"options": [
+{
+"key": "A",
+"text": "His license plate number"
+},
+{
+"key": "B",
+"text": "A signed form"
+},
+{
+"key": "C",
+"text": "A payment"
+},
+{
+"key": "D",
+"text": "His work schedule"
+}
+],
+"correctAnswer": "A",
+"explanation": "She says she needs his license plate number to register it."
+}
+],
+"graphic": {
+"title": "Employee Parking",
+"headers": [
+"Lot",
+"Distance to Entrance",
+"Monthly Cost"
+],
+"rows": [
+[
+"A",
+"2 minutes",
+"$40"
+],
+[
+"B",
+"12 minutes",
+"$0"
+],
+[
+"C",
+"10 minutes plus shuttle",
+"$15"
+]
+]
+}
+},
+{
+"id": "l3x-027",
+"part": 3,
+"type": "Conversation",
+"title": "Customer survey results",
+"audioScript": "Man: Priya, have you seen the customer survey results? Overall satisfaction went up, but there's one complaint that keeps appearing.\nWoman: Let me guess, the waiting time on the phone line?\nMan: Exactly. Many customers say they wait more than ten minutes before reaching someone.\nWoman: We could hire temporary staff for the busy hours, or offer a call-back option so people don't have to hold the line.\nMan: The call-back option would be cheaper and faster to set up. I'll find out what the software vendor charges for it.\nWoman: Good. Let's discuss the numbers in Friday's meeting.",
+"audioFile": "audio/l3x-027.mp3",
+"questions": [
+{
+"id": "l3x-027-q1",
+"questionText": "What is the main complaint in the survey?",
+"options": [
+{
+"key": "A",
+"text": "High prices"
+},
+{
+"key": "B",
+"text": "Long waits on the phone"
+},
+{
+"key": "C",
+"text": "Poor product quality"
+},
+{
+"key": "D",
+"text": "Rude staff"
+}
+],
+"correctAnswer": "B",
+"explanation": "He says customers complain about waiting more than ten minutes to reach someone."
+},
+{
+"id": "l3x-027-q2",
+"questionText": "Why does the man prefer the call-back option?",
+"options": [
+{
+"key": "A",
+"text": "It would please the staff."
+},
+{
+"key": "B",
+"text": "It was recommended by customers."
+},
+{
+"key": "C",
+"text": "It would cost less."
+},
+{
+"key": "D",
+"text": "It is already installed."
+}
+],
+"correctAnswer": "C",
+"explanation": "He says it would be cheaper and faster to set up than hiring temporary staff."
+},
+{
+"id": "l3x-027-q3",
+"questionText": "What will the man do next?",
+"options": [
+{
+"key": "A",
+"text": "Write a survey"
+},
+{
+"key": "B",
+"text": "Ask a vendor about a price"
+},
+{
+"key": "C",
+"text": "Interview temporary workers"
+},
+{
+"key": "D",
+"text": "Call some customers"
+}
+],
+"correctAnswer": "B",
+"explanation": "He says he will find out what the software vendor charges."
+}
+]
+},
+{
+"id": "l3x-028",
+"part": 3,
+"type": "Conversation",
+"title": "Expense report problem",
+"audioScript": "Woman: Hi Giorgio, I got your expense report from the Seattle trip, but I can't approve it yet. The hotel receipt is missing.\nMan: I thought I attached it. The hotel sent it to my personal e-mail, so I may have forgotten to forward it.\nWoman: Could you send it today? Finance closes the monthly reports at five, and anything late waits until next month.\nMan: I'm in a client meeting until four. Can you hold the report until then?\nWoman: I'll keep it open. Just make sure it's in my inbox by four thirty.\nMan: I'll do it during the break. Thanks for being flexible.",
+"audioFile": "audio/l3x-028.mp3",
+"questions": [
+{
+"id": "l3x-028-q1",
+"questionText": "What problem does the woman mention?",
+"options": [
+{
+"key": "A",
+"text": "A meeting was canceled."
+},
+{
+"key": "B",
+"text": "A receipt is illegible."
+},
+{
+"key": "C",
+"text": "A document is missing."
+},
+{
+"key": "D",
+"text": "A total is incorrect."
+}
+],
+"correctAnswer": "C",
+"explanation": "She says the hotel receipt is missing from the report."
+},
+{
+"id": "l3x-028-q2",
+"questionText": "What does the man ask the woman to do?",
+"options": [
+{
+"key": "A",
+"text": "Wait for a document"
+},
+{
+"key": "B",
+"text": "Approve a payment"
+},
+{
+"key": "C",
+"text": "Call a hotel"
+},
+{
+"key": "D",
+"text": "Extend a trip"
+}
+],
+"correctAnswer": "A",
+"explanation": "He asks her to hold the report until four."
+},
+{
+"id": "l3x-028-q3",
+"questionText": "What will the man do during a break?",
+"options": [
+{
+"key": "A",
+"text": "Book a hotel"
+},
+{
+"key": "B",
+"text": "Write a report"
+},
+{
+"key": "C",
+"text": "Meet a client"
+},
+{
+"key": "D",
+"text": "Send a receipt"
+}
+],
+"correctAnswer": "D",
+"explanation": "He says he will forward the hotel receipt during the break."
+}
+]
+},
+{
+"id": "l3x-029",
+"part": 3,
+"type": "Conversation",
+"title": "Choosing a delivery date for a sofa",
+"audioScript": "Woman: Hello, this is Lakeside Furniture. I'm calling to schedule the delivery of your sofa.\nMan: Great. I was hoping for a weekend, because I work during the week.\nWoman: We have a truck in your area on Saturday between one and five. Someone needs to be home to sign.\nMan: My sister will be there. But the sofa is large. Will the delivery team bring it up to the third floor, or only to the front door?\nWoman: Our standard service is to the front door, but for an additional thirty dollars, we'll carry it up and remove the packaging.\nMan: I'll pay for that. Please add it to my order.",
+"audioFile": "audio/l3x-029.mp3",
+"questions": [
+{
+"id": "l3x-029-q1",
+"questionText": "Why is the woman calling?",
+"options": [
+{
+"key": "A",
+"text": "To describe a product"
+},
+{
+"key": "B",
+"text": "To schedule a delivery"
+},
+{
+"key": "C",
+"text": "To offer a discount"
+},
+{
+"key": "D",
+"text": "To confirm a payment"
+}
+],
+"correctAnswer": "B",
+"explanation": "She says she is calling to schedule the delivery of the sofa."
+},
+{
+"id": "l3x-029-q2",
+"questionText": "What does the man say about Saturday?",
+"options": [
+{
+"key": "A",
+"text": "He is working all day."
+},
+{
+"key": "B",
+"text": "He will be traveling."
+},
+{
+"key": "C",
+"text": "His sister will be home."
+},
+{
+"key": "D",
+"text": "He wants an earlier time."
+}
+],
+"correctAnswer": "C",
+"explanation": "He says his sister will be there to sign."
+},
+{
+"id": "l3x-029-q3",
+"questionText": "What does the man ask the woman to do?",
+"options": [
+{
+"key": "A",
+"text": "Add a service to his order"
+},
+{
+"key": "B",
+"text": "Change his address"
+},
+{
+"key": "C",
+"text": "Cancel the packaging"
+},
+{
+"key": "D",
+"text": "Send an invoice"
+}
+],
+"correctAnswer": "A",
+"explanation": "He agrees to the extra thirty dollars and asks her to add it to his order."
+}
+]
+},
+{
+"id": "l3x-030",
+"part": 3,
+"type": "Conversation",
+"title": "A speaker cancels at the last minute",
+"audioScript": "Man: Hannah, I just got an e-mail from Dr. Weiss. She can't give the keynote speech on Thursday because her flight was canceled.\nWoman: That's terrible timing. We have two hundred people registered for it.\nMan: I know. I called Mr. Abara, who spoke at last year's conference. He says he could do it, but he'd need a few hours to adjust his presentation.\nWoman: Then let's put his session in the afternoon, and move the panel discussion to the morning slot.\nMan: I'll update the program and tell the printer tonight. We can still get the pages reprinted before the event.\nWoman: Please also post the change on the conference Web site.",
+"audioFile": "audio/l3x-030.mp3",
+"questions": [
+{
+"id": "l3x-030-q1",
+"questionText": "What problem do the speakers discuss?",
+"options": [
+{
+"key": "A",
+"text": "A flight is too expensive."
+},
+{
+"key": "B",
+"text": "A room is double-booked."
+},
+{
+"key": "C",
+"text": "A Web site is not working."
+},
+{
+"key": "D",
+"text": "A speaker is unable to attend."
+}
+],
+"correctAnswer": "D",
+"explanation": "He says Dr. Weiss cannot give the keynote because her flight was canceled."
+},
+{
+"id": "l3x-030-q2",
+"questionText": "What do the speakers decide to do?",
+"options": [
+{
+"key": "A",
+"text": "Cancel the event"
+},
+{
+"key": "B",
+"text": "Register more people"
+},
+{
+"key": "C",
+"text": "Change a schedule"
+},
+{
+"key": "D",
+"text": "Find a larger venue"
+}
+],
+"correctAnswer": "C",
+"explanation": "They decide to move the panel discussion and put Mr. Abara's session in the afternoon."
+},
+{
+"id": "l3x-030-q3",
+"questionText": "What does the woman ask the man to do?",
+"options": [
+{
+"key": "A",
+"text": "Give a refund"
+},
+{
+"key": "B",
+"text": "Update a Web site"
+},
+{
+"key": "C",
+"text": "Write a speech"
+},
+{
+"key": "D",
+"text": "Call the printer"
+}
+],
+"correctAnswer": "B",
+"explanation": "She asks him to post the change on the conference Web site."
+}
+]
+},
+{
+"id": "l3x-031",
+"part": 3,
+"type": "Conversation",
+"title": "Ordering uniforms for new staff",
+"audioScript": "Woman: Hi, I'm the manager of Bayview Dental. I'd like to order uniforms for six new employees.\nMan: Certainly. Do you have the sizes? Also, we can embroider your clinic's name on the pocket for a small extra charge.\nWoman: I have the sizes here, and I'd like the embroidery. How long will it take?\nMan: Ordinarily two weeks, but because of a holiday, it will be closer to three.\nWoman: Hmm, the new employees start in ten days. Is there any way to speed it up?\nMan: I can offer rush service, which cuts it to one week. It adds twenty percent to the total.\nWoman: That's acceptable. Please go ahead.",
+"audioFile": "audio/l3x-031.mp3",
+"questions": [
+{
+"id": "l3x-031-q1",
+"questionText": "What does the woman want to buy?",
+"options": [
+{
+"key": "A",
+"text": "Dental tools"
+},
+{
+"key": "B",
+"text": "Name tags"
+},
+{
+"key": "C",
+"text": "Office furniture"
+},
+{
+"key": "D",
+"text": "Uniforms"
+}
+],
+"correctAnswer": "D",
+"explanation": "She says she wants to order uniforms for six new employees."
+},
+{
+"id": "l3x-031-q2",
+"questionText": "Why does the woman ask about speeding up the order?",
+"options": [
+{
+"key": "A",
+"text": "The employees start soon."
+},
+{
+"key": "B",
+"text": "The sizes have changed."
+},
+{
+"key": "C",
+"text": "The price is too high."
+},
+{
+"key": "D",
+"text": "A holiday is coming."
+}
+],
+"correctAnswer": "A",
+"explanation": "She says the new employees start in ten days."
+},
+{
+"id": "l3x-031-q3",
+"questionText": "What does the man say about rush service?",
+"options": [
+{
+"key": "A",
+"text": "It is not available."
+},
+{
+"key": "B",
+"text": "It requires a deposit."
+},
+{
+"key": "C",
+"text": "It takes three weeks."
+},
+{
+"key": "D",
+"text": "It costs more."
+}
+],
+"correctAnswer": "D",
+"explanation": "He says it adds twenty percent to the total."
+}
+]
+},
+{
+"id": "l3x-032",
+"part": 3,
+"type": "Conversation",
+"title": "Choosing a laptop for field work",
+"audioScript": "Man: I need a laptop for my sales trips. I'm on the road about half the time, so battery life is important.\nWoman: Then I'd suggest the Orion 14. It lasts about twelve hours, and it weighs less than a kilogram and a half.\nMan: What about the Zenith? A colleague recommended it.\nWoman: The Zenith has a larger screen, but the battery only lasts six hours. For travel, I'd say the Orion is the better choice.\nMan: Does it come with a warranty?\nWoman: Two years, and you can extend it to four for sixty dollars.\nMan: I'll take the Orion, and I'll think about the extended warranty.",
+"audioFile": "audio/l3x-032.mp3",
+"questions": [
+{
+"id": "l3x-032-q1",
+"questionText": "What is the man's main concern?",
+"options": [
+{
+"key": "A",
+"text": "Color"
+},
+{
+"key": "B",
+"text": "Battery life"
+},
+{
+"key": "C",
+"text": "Price"
+},
+{
+"key": "D",
+"text": "Screen size"
+}
+],
+"correctAnswer": "B",
+"explanation": "He says that battery life is important because he is on the road half the time."
+},
+{
+"id": "l3x-032-q2",
+"questionText": "What does the woman say about the Zenith?",
+"options": [
+{
+"key": "A",
+"text": "It has a longer warranty."
+},
+{
+"key": "B",
+"text": "It costs less."
+},
+{
+"key": "C",
+"text": "It has a larger screen."
+},
+{
+"key": "D",
+"text": "It is lighter."
+}
+],
+"correctAnswer": "C",
+"explanation": "She says the Zenith has a larger screen but a shorter battery life."
+},
+{
+"id": "l3x-032-q3",
+"questionText": "What does the man say he will do?",
+"options": [
+{
+"key": "A",
+"text": "Buy the Orion"
+},
+{
+"key": "B",
+"text": "Order a Zenith"
+},
+{
+"key": "C",
+"text": "Visit another store"
+},
+{
+"key": "D",
+"text": "Return a laptop"
+}
+],
+"correctAnswer": "A",
+"explanation": "He says he will take the Orion."
+}
+]
+},
+{
+"id": "l3x-033",
+"part": 3,
+"type": "Conversation",
+"title": "Overbooked training room",
+"audioScript": "Woman: Samuel, I just checked the booking system, and the training room on the second floor is reserved by two groups on Wednesday morning.\nMan: Oh no. I made my reservation a month ago. Whose name is on the other one?\nWoman: Customer Service. They reserved it last week, but I guess it was a system error that allowed them to.\nMan: I can't move my workshop. Fifteen clients are coming from out of town. What about the large meeting room downstairs?\nWoman: It has no projector, but I can have one delivered. Would that work?\nMan: That would be fine. Please let the Customer Service team know it's their problem to solve.",
+"audioFile": "audio/l3x-033.mp3",
+"questions": [
+{
+"id": "l3x-033-q1",
+"questionText": "What problem does the woman describe?",
+"options": [
+{
+"key": "A",
+"text": "A workshop was canceled."
+},
+{
+"key": "B",
+"text": "A client is late."
+},
+{
+"key": "C",
+"text": "A room has been booked twice."
+},
+{
+"key": "D",
+"text": "A projector is broken."
+}
+],
+"correctAnswer": "C",
+"explanation": "She says the training room is reserved by two groups on Wednesday morning."
+},
+{
+"id": "l3x-033-q2",
+"questionText": "Why can't the man change his plans?",
+"options": [
+{
+"key": "A",
+"text": "Clients are traveling to attend."
+},
+{
+"key": "B",
+"text": "The equipment cannot be moved."
+},
+{
+"key": "C",
+"text": "The date is a holiday."
+},
+{
+"key": "D",
+"text": "The trainer is unavailable."
+}
+],
+"correctAnswer": "A",
+"explanation": "He says fifteen clients are coming from out of town."
+},
+{
+"id": "l3x-033-q3",
+"questionText": "What does the woman offer to do?",
+"options": [
+{
+"key": "A",
+"text": "Call a client"
+},
+{
+"key": "B",
+"text": "Cancel a booking"
+},
+{
+"key": "C",
+"text": "Fix the system"
+},
+{
+"key": "D",
+"text": "Have a projector delivered"
+}
+],
+"correctAnswer": "D",
+"explanation": "She says she can have a projector delivered to the meeting room."
+}
+]
+},
+{
+"id": "l3x-034",
+"part": 3,
+"type": "Conversation",
+"title": "Welcoming a new neighbor business",
+"audioScript": "Woman: Good morning! I'm Elena from the flower shop next door. I wanted to welcome you to the neighborhood.\nMan: That's very kind. I'm Brian, and this is my first bookstore. We're opening in two weeks.\nWoman: Wonderful. Many of my customers are always looking for gifts, so I'd be happy to recommend you. Do you have any events planned?\nMan: We're planning a book signing on opening day. I'd like to decorate the entrance, though, and I haven't found a good florist yet.\nWoman: Well, that's my specialty. I can give you a discount as a neighbor. Stop by this afternoon and we can choose a few arrangements.\nMan: I'll do that. Thank you!",
+"audioFile": "audio/l3x-034.mp3",
+"questions": [
+{
+"id": "l3x-034-q1",
+"questionText": "Who most likely is the woman?",
+"options": [
+{
+"key": "A",
+"text": "A bookstore owner"
+},
+{
+"key": "B",
+"text": "A florist"
+},
+{
+"key": "C",
+"text": "A real estate agent"
+},
+{
+"key": "D",
+"text": "A librarian"
+}
+],
+"correctAnswer": "B",
+"explanation": "She introduces herself as being from the flower shop next door."
+},
+{
+"id": "l3x-034-q2",
+"questionText": "What is the man planning for opening day?",
+"options": [
+{
+"key": "A",
+"text": "A discount sale"
+},
+{
+"key": "B",
+"text": "A staff party"
+},
+{
+"key": "C",
+"text": "A flower show"
+},
+{
+"key": "D",
+"text": "A book signing"
+}
+],
+"correctAnswer": "D",
+"explanation": "He says they are planning a book signing on opening day."
+},
+{
+"id": "l3x-034-q3",
+"questionText": "What does the woman invite the man to do?",
+"options": [
+{
+"key": "A",
+"text": "Visit her shop"
+},
+{
+"key": "B",
+"text": "Join a committee"
+},
+{
+"key": "C",
+"text": "Recommend a bookstore"
+},
+{
+"key": "D",
+"text": "Attend a class"
+}
+],
+"correctAnswer": "A",
+"explanation": "She tells him to stop by this afternoon to choose arrangements."
+}
+]
+},
+{
+"id": "l3x-035",
+"part": 3,
+"type": "Conversation",
+"title": "Complaint about a noisy renovation",
+"audioScript": "Woman: Good afternoon, building management. How can I help you?\nMan: Hello, this is Mr. Harris in apartment 4B. The construction in the apartment upstairs starts at seven every morning, and the noise is impossible. I work night shifts, and I can't sleep.\nWoman: I'm sorry about that. According to the building rules, work shouldn't begin before nine. I'll contact the contractor today.\nMan: That would help. How long will the renovation last?\nWoman: The permit says three more weeks. I'll ask them to keep the loudest work for the afternoon, and I'll call you back once I've heard from them.\nMan: Thanks. I'd appreciate hearing back before this evening.",
+"audioFile": "audio/l3x-035.mp3",
+"questions": [
+{
+"id": "l3x-035-q1",
+"questionText": "Why is the man calling?",
+"options": [
+{
+"key": "A",
+"text": "To request a repair"
+},
+{
+"key": "B",
+"text": "To cancel a permit"
+},
+{
+"key": "C",
+"text": "To complain about noise"
+},
+{
+"key": "D",
+"text": "To report a leak"
+}
+],
+"correctAnswer": "C",
+"explanation": "He says the construction noise at seven in the morning is impossible."
+},
+{
+"id": "l3x-035-q2",
+"questionText": "According to the woman, what do the building rules say?",
+"options": [
+{
+"key": "A",
+"text": "Renovations are not permitted."
+},
+{
+"key": "B",
+"text": "Work should not start before nine."
+},
+{
+"key": "C",
+"text": "Tenants must pay for repairs."
+},
+{
+"key": "D",
+"text": "Noise is allowed on weekends."
+}
+],
+"correctAnswer": "B",
+"explanation": "She says work shouldn't begin before nine."
+},
+{
+"id": "l3x-035-q3",
+"questionText": "What will the woman do first?",
+"options": [
+{
+"key": "A",
+"text": "Issue a new permit"
+},
+{
+"key": "B",
+"text": "Visit the man's apartment"
+},
+{
+"key": "C",
+"text": "Contact a contractor"
+},
+{
+"key": "D",
+"text": "Return a fee"
+}
+],
+"correctAnswer": "C",
+"explanation": "She says she will contact the contractor today."
+}
+]
+},
+{
+"id": "l3x-036",
+"part": 3,
+"type": "Conversation",
+"title": "Planning a team-building event",
+"audioScript": "Woman: I've been looking at options for the team-building day in June. A cooking class is popular, and so is the outdoor obstacle course.\nMan: The obstacle course is a bit risky for some of our older employees. What about the cooking class?\nWoman 2: I think it would be more fun, but the studio only holds twenty, and we have thirty-two people in the department.\nWoman: We could split the group into two sessions, one in the morning and one in the afternoon.\nMan: Then the other half would be working in the meantime, which would be a problem with the deadline.\nWoman 2: Let's ask people which they would prefer. I can create a short online survey this afternoon.",
+"audioFile": "audio/l3x-036.mp3",
+"questions": [
+{
+"id": "l3x-036-q1",
+"questionText": "What are the speakers planning?",
+"options": [
+{
+"key": "A",
+"text": "A product launch"
+},
+{
+"key": "B",
+"text": "A team event"
+},
+{
+"key": "C",
+"text": "A cooking show"
+},
+{
+"key": "D",
+"text": "A safety course"
+}
+],
+"correctAnswer": "B",
+"explanation": "They discuss options for the team-building day in June."
+},
+{
+"id": "l3x-036-q2",
+"questionText": "What is a problem with the cooking class?",
+"options": [
+{
+"key": "A",
+"text": "The studio is too small."
+},
+{
+"key": "B",
+"text": "The instructor is unavailable."
+},
+{
+"key": "C",
+"text": "It is on a holiday."
+},
+{
+"key": "D",
+"text": "It costs too much."
+}
+],
+"correctAnswer": "A",
+"explanation": "The studio holds twenty while the department has thirty-two people."
+},
+{
+"id": "l3x-036-q3",
+"questionText": "What will the second woman do?",
+"options": [
+{
+"key": "A",
+"text": "Plan a menu"
+},
+{
+"key": "B",
+"text": "Contact an instructor"
+},
+{
+"key": "C",
+"text": "Reserve a studio"
+},
+{
+"key": "D",
+"text": "Create a survey"
+}
+],
+"correctAnswer": "D",
+"explanation": "She says she will create a short online survey this afternoon."
+}
+]
+},
+{
+"id": "l3x-037",
+"part": 3,
+"type": "Conversation",
+"title": "Paying a supplier invoice",
+"audioScript": "Man: Hi Olga, I'm looking at the invoice from Northwest Paper. It says thirty days, but I think we negotiated forty-five.\nWoman: You're right. I have the contract here. Payment terms are forty-five days from the delivery date.\nMan: So we still have until the twentieth of next month. I'll let the supplier know the invoice is wrong.\nWoman: Would you also ask them to correct the quantity? We only received nine hundred boxes, not one thousand.\nMan: Good catch. I'll request a revised invoice by e-mail. Then I'll attach it to the order file.",
+"audioFile": "audio/l3x-037.mp3",
+"questions": [
+{
+"id": "l3x-037-q1",
+"questionText": "What are the speakers discussing?",
+"options": [
+{
+"key": "A",
+"text": "An error on an invoice"
+},
+{
+"key": "B",
+"text": "A new contract"
+},
+{
+"key": "C",
+"text": "A late delivery"
+},
+{
+"key": "D",
+"text": "A damaged shipment"
+}
+],
+"correctAnswer": "A",
+"explanation": "They find that the payment terms and quantity on the invoice are incorrect."
+},
+{
+"id": "l3x-037-q2",
+"questionText": "What does the woman ask the man to do?",
+"options": [
+{
+"key": "A",
+"text": "Find a new supplier"
+},
+{
+"key": "B",
+"text": "Cancel an order"
+},
+{
+"key": "C",
+"text": "Call the bank"
+},
+{
+"key": "D",
+"text": "Ask about the quantity"
+}
+],
+"correctAnswer": "D",
+"explanation": "She asks him to have the supplier correct the quantity of boxes."
+},
+{
+"id": "l3x-037-q3",
+"questionText": "What will the man most likely do next?",
+"options": [
+{
+"key": "A",
+"text": "Pay the bill"
+},
+{
+"key": "B",
+"text": "Request a corrected invoice"
+},
+{
+"key": "C",
+"text": "Sign a contract"
+},
+{
+"key": "D",
+"text": "Count some boxes"
+}
+],
+"correctAnswer": "B",
+"explanation": "He says he will request a revised invoice by e-mail."
+}
+]
+},
+{
+"id": "l3x-038",
+"part": 3,
+"type": "Conversation",
+"title": "Checking a tour schedule",
+"audioScript": "Woman: Hi, I'm calling about the walking tour of the old town. Your Web site says it starts at ten, but my confirmation e-mail says ten thirty.\nMan: The Web site is correct, I'm afraid. We changed the start time in March because of the heat. I'll send you an updated confirmation.\nWoman: Thank you. And is it all right to bring a small child? My son is five.\nMan: Children under six can join for free, and we have a stroller-friendly route. The tour lasts two hours, with a short break at a café.\nWoman: Perfect. Then I'll see you at ten at the fountain.\nMan: Yes. Our guide will be wearing a green jacket.",
+"audioFile": "audio/l3x-038.mp3",
+"questions": [
+{
+"id": "l3x-038-q1",
+"questionText": "Why does the woman call?",
+"options": [
+{
+"key": "A",
+"text": "To book a hotel"
+},
+{
+"key": "B",
+"text": "To pay a fee"
+},
+{
+"key": "C",
+"text": "To check a start time"
+},
+{
+"key": "D",
+"text": "To cancel a tour"
+}
+],
+"correctAnswer": "C",
+"explanation": "She points out that the Web site and her e-mail show different start times."
+},
+{
+"id": "l3x-038-q2",
+"questionText": "What does the man say about children under six?",
+"options": [
+{
+"key": "A",
+"text": "They can join for free."
+},
+{
+"key": "B",
+"text": "They must be carried."
+},
+{
+"key": "C",
+"text": "They are not allowed."
+},
+{
+"key": "D",
+"text": "They need a guide."
+}
+],
+"correctAnswer": "A",
+"explanation": "He says children under six can join for free."
+},
+{
+"id": "l3x-038-q3",
+"questionText": "How will the woman recognize the guide?",
+"options": [
+{
+"key": "A",
+"text": "By a map"
+},
+{
+"key": "B",
+"text": "By a flag"
+},
+{
+"key": "C",
+"text": "By a name tag"
+},
+{
+"key": "D",
+"text": "By a green jacket"
+}
+],
+"correctAnswer": "D",
+"explanation": "The man says the guide will be wearing a green jacket."
+}
+]
+},
+{
+"id": "l3x-039",
+"part": 3,
+"type": "Conversation",
+"title": "Changing a gym class schedule",
+"audioScript": "Man: Hi Dana, are you still teaching the Tuesday evening yoga class?\nWoman: For now, but attendance has dropped. Only five people came last week.\nMan: I think it's the time. Most of our members finish work at six, and the class starts at five thirty.\nWoman: That makes sense. Would you be able to move it to seven? I could do that, as long as I'm done by eight.\nMan: Seven to eight is fine. I'll update the schedule and the sign at the entrance. You should also announce it in class on Tuesday.\nWoman: I'll make sure everyone knows. Thanks for the suggestion.",
+"audioFile": "audio/l3x-039.mp3",
+"questions": [
+{
+"id": "l3x-039-q1",
+"questionText": "What problem does the man describe?",
+"options": [
+{
+"key": "A",
+"text": "A room is too small."
+},
+{
+"key": "B",
+"text": "A membership fee is too high."
+},
+{
+"key": "C",
+"text": "Few people are attending a class."
+},
+{
+"key": "D",
+"text": "An instructor is leaving."
+}
+],
+"correctAnswer": "C",
+"explanation": "The woman says only five people came to the yoga class last week."
+},
+{
+"id": "l3x-039-q2",
+"questionText": "What does the man suggest?",
+"options": [
+{
+"key": "A",
+"text": "Hiring another teacher"
+},
+{
+"key": "B",
+"text": "Changing the class time"
+},
+{
+"key": "C",
+"text": "Lowering the price"
+},
+{
+"key": "D",
+"text": "Using a bigger room"
+}
+],
+"correctAnswer": "B",
+"explanation": "He says the class starts before most members finish work, and they agree to move it to seven."
+},
+{
+"id": "l3x-039-q3",
+"questionText": "What will the woman do on Tuesday?",
+"options": [
+{
+"key": "A",
+"text": "Update a sign"
+},
+{
+"key": "B",
+"text": "Collect some fees"
+},
+{
+"key": "C",
+"text": "Announce a change"
+},
+{
+"key": "D",
+"text": "Teach two classes"
+}
+],
+"correctAnswer": "C",
+"explanation": "The man says she should announce the new time in class on Tuesday."
+}
+]
+}
+]

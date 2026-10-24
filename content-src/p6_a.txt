@@ -1,0 +1,98 @@
+@Email|Parking Changes at Head Office
+To: All Employees
+From: Facilities Management
+Subject: New parking arrangements
+
+Starting on June 1, the underground garage at our head office will be [1] for renovation. Employees who normally park there should use the lot on Baker Street instead. A free shuttle bus will run every ten minutes between the lot and the main entrance. [2]. Please note that visitor parking will not be affected by the work. We [3] your patience while the new lighting and security cameras are installed. If you have any questions, please [4] Facilities Management at extension 214.
+Q1|closed|close|closing|closure|After "will be", the past participle works as an adjective: "closed for renovation".
+Q2|The shuttle will operate from 7:00 a.m. to 7:00 p.m.|The garage was built in 1998.|Many employees prefer to take the train.|The renovation costs have not been announced.|The sentence after the shuttle announcement should give more details about the shuttle.
+Q3|appreciate|appreciation|appreciated|appreciative|After the subject "We", a present-tense verb is needed.
+Q4|contact|contacts|contacting|contacted|After "please", the base form of the verb is used.
+@Notice|Annual Safety Inspection
+Notice to Tenants of Maple Court
+The annual fire safety inspection will take place on Thursday, March 14. Inspectors will visit every apartment between 9:00 a.m. and 4:00 p.m. [1] you cannot be home, please leave a key with the building manager. The inspection takes about fifteen minutes per unit. [2], we ask all tenants to keep hallways and balconies clear of storage items. Smoke detectors will be tested, and batteries will be replaced [3] necessary. Tenants who fail to allow access may be charged an administrative fee. Thank you for your [4] in keeping our building safe.
+Q1|If|Although|Unless|Whereas|"If you cannot be home" gives a condition for leaving a key.
+Q2|In addition|Nevertheless|Instead|For example|"In addition" adds another request to the notice.
+Q3|where|what|when to|whose|"Where necessary" means in places or cases where it is needed.
+Q4|cooperation|cooperate|cooperative|cooperatively|After "your", a noun is required.
+@Memo|Updated Expense Policy
+MEMO
+To: Sales Team
+From: Finance Department
+Date: September 3
+We are updating our travel expense policy to make reimbursement faster and simpler. Beginning October 1, all expense reports must be [1] through the online portal instead of on paper. Receipts for amounts over fifty dollars must be uploaded as images. [2]. Reports submitted after the fifteenth of each month will be processed the following month. Employees who have questions about the new system are [3] to attend a short training session on September 20. The session will be [4] by Ms. Alvarez from the accounting team.
+Q1|submitted|submitting|submit|submission|After "must be", the past participle is needed for the passive.
+Q2|Reports that lack receipts will be returned to the employee.|The sales team exceeded its target last quarter.|The portal was designed by an outside company.|Paper forms are available in the supply room.|The sentence should explain a rule about receipts or reports.
+Q3|welcome|welcoming|welcomed|welcomes|"Are welcome to attend" is a standard phrase.
+Q4|led|leading|lead|leads|The session is led by someone, so the past participle fits the passive.
+@Article|Local Bakery Expands
+Sunrise Bakery, a family-owned business in Greenfield, will open its second location next month. The new shop on Oak Avenue will [1] a full breakfast menu in addition to the bread and pastries that made the original store famous. Owner Linda Moreno said the decision was driven by customer demand. "We were [2] to turn people away on busy weekends," she explained. The expansion will create twelve new jobs. [3]. Ms. Moreno also plans to offer baking classes on Saturday afternoons, [4] should appeal to families and hobby cooks.
+Q1|feature|featuring|featured|features of|After the modal "will", the base verb is needed.
+Q2|forced|forcing|force|forces|"Were forced to" is the passive structure with an infinitive.
+Q3|Applications are being accepted at the Greenfield Town Hall office.|The bakery sells about two hundred loaves each day.|Bread has been a staple food for centuries.|Oak Avenue is known for its trees.|The sentence after "twelve new jobs" should talk about applying for them.
+Q4|which|who|where|what|"Which" refers to the whole idea of baking classes in a non-defining clause.
+@Letter|Reply to a Customer Complaint
+Dear Mr. Hoffman,
+Thank you for contacting us about the damaged desk chair you received last week. We sincerely [1] for the inconvenience this has caused. Our records show that the chair was packed correctly, so the damage most likely occurred during transport. [2]. A replacement has already been shipped and should reach you within three business days. You do not need to return the damaged item. As a gesture of goodwill, we have also [3] a ten percent discount to your next order. We hope this resolves the matter and that you will [4] shopping with us.
+Sincerely,
+Customer Care Team
+Q1|apologize|apologetic|apology|apologetically|After the subject "We" and adverb "sincerely", a verb is needed.
+Q2|We have contacted the delivery company to investigate.|Our chairs are made from recycled materials.|Many customers enjoy working from home.|The warehouse is located near the port.|The sentence should describe what the company is doing about the damage.
+Q3|added|adding|adds|add|"Have also added" uses the present perfect with the past participle.
+Q4|continue|continues|continued|continuing|After "will", the base verb is needed.
+@Advertisement|Language Courses at Linden Institute
+Are you ready to improve your career prospects? Linden Institute offers evening language courses for working professionals. Classes are [1] at four levels, from beginner to advanced, and small groups guarantee personal attention. [2]. All instructors are native speakers with years of teaching experience. Registration for the autumn term opens on August 1, and students who sign up [3] August 15 will receive a twenty percent discount. Courses begin on September 9 and run for twelve weeks. Visit our Web site to find the schedule that [4] your needs.
+Q1|available|availability|avail|availably|After "are", an adjective is needed.
+Q2|Each class has no more than eight students.|Linden Institute was founded in 1985.|Foreign travel is more popular than ever.|The institute is closed on public holidays.|The sentence should support "small groups guarantee personal attention".
+Q3|before|since|during|between|"Before August 15" sets the deadline for the discount.
+Q4|suits|suiting|suit|suited to|The subject "schedule" is singular, so the verb takes "-s".
+@Announcement|New Employee Orientation
+We are pleased to announce that the new employee orientation program has been redesigned. [1] attending a single session on the first day, new hires will now take part in a three-week program. During the first week, participants will [2] the company's mission and values. In the second week, they will shadow experienced colleagues in their departments. [3]. By the end of the program, every new employee will have met with the senior management team. We [4] this change will help new staff feel welcomed and prepared.
+Q1|Instead of|Because of|In case of|Regardless|"Instead of attending" contrasts the old and new programs.
+Q2|learn about|learning about|learned about|to learn about|After "will", the base verb is needed.
+Q3|The final week will focus on technical training and software tools.|The company was founded in 1972.|Many employees use public transportation.|The cafeteria offers a variety of dishes.|The sentence should follow "In the second week" by describing the third week.
+Q4|believe|believing|belief|believes|After the subject "We", a present-tense verb is needed.
+@Email|Delayed Product Launch
+Dear Partners,
+I am writing to inform you that the launch of our new tablet has been [1] until November 12. The change was necessary because our final tests revealed a problem with the battery. [2], we decided that it was better to delay the release than to sell a product that did not meet our standards. Orders that were placed before today will be [3] automatically. You do not need to take any action. We will send a detailed update next week. Thank you for your understanding and [4] support.
+Best regards,
+Kevin Park, Product Director
+Q1|postponed|postpone|postponing|postponement|After "has been", the past participle is needed.
+Q2|Therefore|Meanwhile|Otherwise|Likewise|"Therefore" introduces the logical result of the battery problem.
+Q3|honored|honoring|honor|honors|The passive "will be honored" fits orders being kept valid.
+Q4|continued|continuously|continue|continuing to|An adjective is needed before the noun "support".
+@Article|Remote Work Trends
+More companies are offering flexible work arrangements than ever before. According to a recent survey, nearly sixty percent of firms now allow employees to work from home at least [1] a week. Managers report that productivity has remained stable, and many workers say they feel [2] satisfied with their jobs. [3]. However, some businesses worry that teams may lose a sense of community when staff are rarely in the same room. To address this concern, several firms hold weekly video meetings and organize [4] gatherings in the office.
+Q1|once|one|first|ones|"At least once a week" is the standard expression.
+Q2|more|most|much|many|"More satisfied" is the comparative form needed here.
+Q3|Employers also save money on office space and utilities.|The survey was conducted in twelve countries.|Video cameras have become less expensive.|Many offices are located downtown.|The sentence should add another benefit of flexible work.
+Q4|occasional|occasion|occasionally|occasions|An adjective is needed before the noun "gatherings".
+@Instructions|Installing the Software
+Thank you for purchasing our accounting software. To install the program, first [1] the setup file from the download page. Double-click the file and follow the on-screen instructions. [2]. The installation will take about five minutes, and you will be asked to restart your computer when it is [3]. After restarting, open the program and enter the license code that was sent to your e-mail address. If you [4] any problems during installation, please contact our support team.
+Q1|download|downloaded|downloading|downloads|In instructions, the base form of the verb is used.
+Q2|Make sure that all other programs are closed before you begin.|The software was designed by a team of accountants.|Many users prefer the older version.|Our company was founded in 2001.|The sentence should give a helpful step for the installation.
+Q3|finished|finish|finishing|finishes|"When it is finished" uses the past participle after "is".
+Q4|encounter|encounters|encountering|encountered|After the subject "you" in a present-tense condition, the base form is used.
+@Notice|Library Closure
+Please be advised that the main library will be closed from December 24 to January 2 [1] the winter holiday. During this period, books [2] be returned using the drop box outside the main entrance. No late fees will be charged for items due during the closure. [3]. Our branch libraries on Pine Street and Lake Road will remain open with regular hours. The online catalog and e-book service will also be [4] around the clock. Regular hours will resume on January 3.
+Q1|for|since|during to|while|"For the winter holiday" gives the reason or purpose.
+Q2|may|is|has|did|"May be returned" is the modal passive.
+Q3|Borrowers who need materials during this time may visit another branch.|The library was built in 1965.|Reading is a popular hobby for all ages.|The main entrance has a new door.|The sentence should explain what readers can do during the closure.
+Q4|accessible|accessibly|access|accessing|After "will be", an adjective is needed.
+@Memo|Office Renovation Schedule
+To: All Staff
+Subject: Renovation of the third floor
+Renovation work on the third floor is scheduled to begin on April 8 and is expected [1] eight weeks. During this time, the accounting and legal departments will relocate to the fifth floor. Staff will be notified [2] their new desk assignments by April 1. [3]. The building will remain open as usual, but some noise should be expected during working hours. We [4] your cooperation and apologize for any disturbance.
+Q1|to last|lasting|last|lasted|"Is expected to" is followed by the infinitive.
+Q2|of|at|on|for to|"Notified of" is the standard collocation.
+Q3|Moving boxes will be provided by the facilities team.|The legal team recently hired two lawyers.|Eight weeks is approximately two months.|The fifth floor has a large terrace.|The sentence should give practical information about the move.
+Q4|appreciate|appreciating|appreciation|appreciative|After the subject "We", a present-tense verb is needed.
+@Email|Interview Invitation
+Dear Ms. Navarro,
+Thank you for applying for the position of marketing coordinator. We were [1] impressed by your résumé and would like to invite you for an interview. The interview is scheduled for Tuesday, May 7, at 10:30 a.m. at our office on Harbor Street. [2]. You will meet with the marketing director and a member of the human resources team. Please bring a copy of your portfolio and two [3] of identification. If this time is not convenient, please let us know and we will [4] another appointment.
+Sincerely,
+Elena Brooks, Human Resources
+Q1|favorably|favor|favorable|favoring|An adverb modifies the participle "impressed".
+Q2|The meeting should take about forty-five minutes.|Harbor Street is a busy road.|Our company has over two hundred employees.|Parking is difficult downtown.|The sentence should give more detail about the interview.
+Q3|forms|form|formal|formation|After "two", a plural noun is needed.
+Q4|arrange|arrangement|arranged|arranging|After "will", the base verb is needed.

@@ -1,0 +1,111 @@
+@Conversation|Choosing a delivery date for a sofa|us
+W: Hello, this is Lakeside Furniture. I'm calling to schedule the delivery of your sofa.
+M: Great. I was hoping for a weekend, because I work during the week.
+W: We have a truck in your area on Saturday between one and five. Someone needs to be home to sign.
+M: My sister will be there. But the sofa is large. Will the delivery team bring it up to the third floor, or only to the front door?
+W: Our standard service is to the front door, but for an additional thirty dollars, we'll carry it up and remove the packaging.
+M: I'll pay for that. Please add it to my order.
+Q|Why is the woman calling?|To schedule a delivery|To confirm a payment|To offer a discount|To describe a product|She says she is calling to schedule the delivery of the sofa.
+Q|What does the man say about Saturday?|His sister will be home.|He will be traveling.|He wants an earlier time.|He is working all day.|He says his sister will be there to sign.
+Q|What does the man ask the woman to do?|Add a service to his order|Change his address|Send an invoice|Cancel the packaging|He agrees to the extra thirty dollars and asks her to add it to his order.
+@Conversation|A speaker cancels at the last minute|us
+M: Hannah, I just got an e-mail from Dr. Weiss. She can't give the keynote speech on Thursday because her flight was canceled.
+W: That's terrible timing. We have two hundred people registered for it.
+M: I know. I called Mr. Abara, who spoke at last year's conference. He says he could do it, but he'd need a few hours to adjust his presentation.
+W: Then let's put his session in the afternoon, and move the panel discussion to the morning slot.
+M: I'll update the program and tell the printer tonight. We can still get the pages reprinted before the event.
+W: Please also post the change on the conference Web site.
+Q|What problem do the speakers discuss?|A speaker is unable to attend.|A room is double-booked.|A flight is too expensive.|A Web site is not working.|He says Dr. Weiss cannot give the keynote because her flight was canceled.
+Q|What do the speakers decide to do?|Change a schedule|Register more people|Find a larger venue|Cancel the event|They decide to move the panel discussion and put Mr. Abara's session in the afternoon.
+Q|What does the woman ask the man to do?|Update a Web site|Call the printer|Write a speech|Give a refund|She asks him to post the change on the conference Web site.
+@Conversation|Ordering uniforms for new staff|us
+W: Hi, I'm the manager of Bayview Dental. I'd like to order uniforms for six new employees.
+M: Certainly. Do you have the sizes? Also, we can embroider your clinic's name on the pocket for a small extra charge.
+W: I have the sizes here, and I'd like the embroidery. How long will it take?
+M: Ordinarily two weeks, but because of a holiday, it will be closer to three.
+W: Hmm, the new employees start in ten days. Is there any way to speed it up?
+M: I can offer rush service, which cuts it to one week. It adds twenty percent to the total.
+W: That's acceptable. Please go ahead.
+Q|What does the woman want to buy?|Uniforms|Dental tools|Name tags|Office furniture|She says she wants to order uniforms for six new employees.
+Q|Why does the woman ask about speeding up the order?|The employees start soon.|The price is too high.|A holiday is coming.|The sizes have changed.|She says the new employees start in ten days.
+Q|What does the man say about rush service?|It costs more.|It is not available.|It takes three weeks.|It requires a deposit.|He says it adds twenty percent to the total.
+@Conversation|Choosing a laptop for field work|us
+M: I need a laptop for my sales trips. I'm on the road about half the time, so battery life is important.
+W: Then I'd suggest the Orion 14. It lasts about twelve hours, and it weighs less than a kilogram and a half.
+M: What about the Zenith? A colleague recommended it.
+W: The Zenith has a larger screen, but the battery only lasts six hours. For travel, I'd say the Orion is the better choice.
+M: Does it come with a warranty?
+W: Two years, and you can extend it to four for sixty dollars.
+M: I'll take the Orion, and I'll think about the extended warranty.
+Q|What is the man's main concern?|Battery life|Screen size|Price|Color|He says that battery life is important because he is on the road half the time.
+Q|What does the woman say about the Zenith?|It has a larger screen.|It is lighter.|It costs less.|It has a longer warranty.|She says the Zenith has a larger screen but a shorter battery life.
+Q|What does the man say he will do?|Buy the Orion|Visit another store|Return a laptop|Order a Zenith|He says he will take the Orion.
+@Conversation|Overbooked training room|us
+W: Samuel, I just checked the booking system, and the training room on the second floor is reserved by two groups on Wednesday morning.
+M: Oh no. I made my reservation a month ago. Whose name is on the other one?
+W: Customer Service. They reserved it last week, but I guess it was a system error that allowed them to.
+M: I can't move my workshop. Fifteen clients are coming from out of town. What about the large meeting room downstairs?
+W: It has no projector, but I can have one delivered. Would that work?
+M: That would be fine. Please let the Customer Service team know it's their problem to solve.
+Q|What problem does the woman describe?|A room has been booked twice.|A projector is broken.|A workshop was canceled.|A client is late.|She says the training room is reserved by two groups on Wednesday morning.
+Q|Why can't the man change his plans?|Clients are traveling to attend.|The equipment cannot be moved.|The trainer is unavailable.|The date is a holiday.|He says fifteen clients are coming from out of town.
+Q|What does the woman offer to do?|Have a projector delivered|Call a client|Fix the system|Cancel a booking|She says she can have a projector delivered to the meeting room.
+@Conversation|Welcoming a new neighbor business|us
+W: Good morning! I'm Elena from the flower shop next door. I wanted to welcome you to the neighborhood.
+M: That's very kind. I'm Brian, and this is my first bookstore. We're opening in two weeks.
+W: Wonderful. Many of my customers are always looking for gifts, so I'd be happy to recommend you. Do you have any events planned?
+M: We're planning a book signing on opening day. I'd like to decorate the entrance, though, and I haven't found a good florist yet.
+W: Well, that's my specialty. I can give you a discount as a neighbor. Stop by this afternoon and we can choose a few arrangements.
+M: I'll do that. Thank you!
+Q|Who most likely is the woman?|A florist|A librarian|A bookstore owner|A real estate agent|She introduces herself as being from the flower shop next door.
+Q|What is the man planning for opening day?|A book signing|A flower show|A discount sale|A staff party|He says they are planning a book signing on opening day.
+Q|What does the woman invite the man to do?|Visit her shop|Join a committee|Recommend a bookstore|Attend a class|She tells him to stop by this afternoon to choose arrangements.
+@Conversation|Complaint about a noisy renovation|uk
+W: Good afternoon, building management. How can I help you?
+M: Hello, this is Mr. Harris in apartment 4B. The construction in the apartment upstairs starts at seven every morning, and the noise is impossible. I work night shifts, and I can't sleep.
+W: I'm sorry about that. According to the building rules, work shouldn't begin before nine. I'll contact the contractor today.
+M: That would help. How long will the renovation last?
+W: The permit says three more weeks. I'll ask them to keep the loudest work for the afternoon, and I'll call you back once I've heard from them.
+M: Thanks. I'd appreciate hearing back before this evening.
+Q|Why is the man calling?|To complain about noise|To request a repair|To report a leak|To cancel a permit|He says the construction noise at seven in the morning is impossible.
+Q|According to the woman, what do the building rules say?|Work should not start before nine.|Renovations are not permitted.|Tenants must pay for repairs.|Noise is allowed on weekends.|She says work shouldn't begin before nine.
+Q|What will the woman do first?|Contact a contractor|Visit the man's apartment|Issue a new permit|Return a fee|She says she will contact the contractor today.
+@Conversation|Planning a team-building event|mix
+W: I've been looking at options for the team-building day in June. A cooking class is popular, and so is the outdoor obstacle course.
+M: The obstacle course is a bit risky for some of our older employees. What about the cooking class?
+W2: I think it would be more fun, but the studio only holds twenty, and we have thirty-two people in the department.
+W: We could split the group into two sessions, one in the morning and one in the afternoon.
+M: Then the other half would be working in the meantime, which would be a problem with the deadline.
+W2: Let's ask people which they would prefer. I can create a short online survey this afternoon.
+Q|What are the speakers planning?|A team event|A cooking show|A safety course|A product launch|They discuss options for the team-building day in June.
+Q|What is a problem with the cooking class?|The studio is too small.|It costs too much.|It is on a holiday.|The instructor is unavailable.|The studio holds twenty while the department has thirty-two people.
+Q|What will the second woman do?|Create a survey|Reserve a studio|Contact an instructor|Plan a menu|She says she will create a short online survey this afternoon.
+@Conversation|Paying a supplier invoice|us
+M: Hi Olga, I'm looking at the invoice from Northwest Paper. It says thirty days, but I think we negotiated forty-five.
+W: You're right. I have the contract here. Payment terms are forty-five days from the delivery date.
+M: So we still have until the twentieth of next month. I'll let the supplier know the invoice is wrong.
+W: Would you also ask them to correct the quantity? We only received nine hundred boxes, not one thousand.
+M: Good catch. I'll request a revised invoice by e-mail. Then I'll attach it to the order file.
+Q|What are the speakers discussing?|An error on an invoice|A late delivery|A damaged shipment|A new contract|They find that the payment terms and quantity on the invoice are incorrect.
+Q|What does the woman ask the man to do?|Ask about the quantity|Call the bank|Cancel an order|Find a new supplier|She asks him to have the supplier correct the quantity of boxes.
+Q|What will the man most likely do next?|Request a corrected invoice|Pay the bill|Count some boxes|Sign a contract|He says he will request a revised invoice by e-mail.
+@Conversation|Checking a tour schedule|us
+W: Hi, I'm calling about the walking tour of the old town. Your Web site says it starts at ten, but my confirmation e-mail says ten thirty.
+M: The Web site is correct, I'm afraid. We changed the start time in March because of the heat. I'll send you an updated confirmation.
+W: Thank you. And is it all right to bring a small child? My son is five.
+M: Children under six can join for free, and we have a stroller-friendly route. The tour lasts two hours, with a short break at a café.
+W: Perfect. Then I'll see you at ten at the fountain.
+M: Yes. Our guide will be wearing a green jacket.
+Q|Why does the woman call?|To check a start time|To book a hotel|To cancel a tour|To pay a fee|She points out that the Web site and her e-mail show different start times.
+Q|What does the man say about children under six?|They can join for free.|They need a guide.|They are not allowed.|They must be carried.|He says children under six can join for free.
+Q|How will the woman recognize the guide?|By a green jacket|By a flag|By a name tag|By a map|The man says the guide will be wearing a green jacket.
+@Conversation|Changing a gym class schedule|us
+M: Hi Dana, are you still teaching the Tuesday evening yoga class?
+W: For now, but attendance has dropped. Only five people came last week.
+M: I think it's the time. Most of our members finish work at six, and the class starts at five thirty.
+W: That makes sense. Would you be able to move it to seven? I could do that, as long as I'm done by eight.
+M: Seven to eight is fine. I'll update the schedule and the sign at the entrance. You should also announce it in class on Tuesday.
+W: I'll make sure everyone knows. Thanks for the suggestion.
+Q|What problem does the man describe?|Few people are attending a class.|An instructor is leaving.|A room is too small.|A membership fee is too high.|The woman says only five people came to the yoga class last week.
+Q|What does the man suggest?|Changing the class time|Hiring another teacher|Lowering the price|Using a bigger room|He says the class starts before most members finish work, and they agree to move it to seven.
+Q|What will the woman do on Tuesday?|Announce a change|Teach two classes|Update a sign|Collect some fees|The man says she should announce the new time in class on Tuesday.

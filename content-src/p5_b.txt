@@ -1,0 +1,114 @@
+Word Form - Noun|E|The hotel manager apologized for the _______ caused by the power outage.|inconvenience|inconvenient|inconveniently|inconvenience's|After "the", a noun is needed; "inconvenience" is the noun that fits the meaning.
+Word Form - Noun|I|Participation in the wellness program is _______ for all full-time employees.|voluntary|volunteer|voluntarily|volunteering|After "is", an adjective is needed to describe "participation".
+Word Form - Noun|I|The _______ of the new warehouse will create about fifty jobs.|construction|construct|constructive|constructively|After "the", a noun is needed, and "construction" fits the meaning.
+Word Form - Noun|I|Ms. Ramirez gave a clear _______ of how the software works.|explanation|explain|explanatory|explained|After the adjective "clear", a noun is required.
+Word Form - Noun|A|Strict _______ to safety rules is required in the chemical plant.|adherence|adhere|adherent|adhering|After the adjective "strict", a noun is needed; "adherence to" is the collocation.
+Word Form - Noun|A|The company's _______ on foreign suppliers has grown over the past decade.|reliance|reliable|reliably|relying|After the possessive, a noun is needed, and "reliance on" is the collocation.
+Word Form - Verb|E|The board will _______ the final decision on Thursday.|make|making|made|makes|After the modal "will", the base verb is used.
+Word Form - Verb|I|New employees are encouraged to _______ their ideas during team meetings.|share|sharing|shared|shares|After "to" in the infinitive, the base verb is needed.
+Word Form - Verb|I|The manager decided to _______ the training session until next week.|postpone|postponement|postponed|postponing|After "to", the base form of the verb is needed.
+Word Form - Verb|A|Cost-saving measures will _______ the company to remain profitable.|enable|ability|able|enabling|After the modal "will", the verb "enable" is used with an object and "to".
+Word Form - Adjective|E|The _______ report will be sent to all shareholders next week.|annual|annually|annuity|annul|An adjective is needed before the noun "report".
+Word Form - Adjective|I|The _______ results of the survey will be published next month.|final|finally|finalize|finality|An adjective is needed before the noun "results".
+Word Form - Adjective|I|It is _______ that all documents be signed before the deadline.|essential|essence|essentially|essentials|After "It is", an adjective is needed.
+Word Form - Adjective|I|Mr. Wong is a _______ salesperson who exceeds his targets every month.|dedicated|dedicate|dedication|dedicating|An adjective is needed to describe the noun "salesperson".
+Word Form - Adjective|A|The software update is _______ with both Windows and Mac systems.|compatible|compatibility|compatibly|compat|After "is", an adjective is needed; "compatible with" is the collocation.
+Word Form - Adverb|E|Please speak _______ so everyone in the hall can hear you.|clearly|clear|clearness|clarity|An adverb modifies the verb "speak".
+Word Form - Adverb|I|The new policy was _______ welcomed by the employees.|warmly|warm|warmth|warming|An adverb modifies the passive verb "was welcomed".
+Word Form - Adverb|I|The report is _______ complete, but a few charts are missing.|nearly|near|nearness|nearer|An adverb modifies the adjective "complete".
+Word Form - Adverb|A|The shipping costs were _______ higher than we had budgeted.|considerably|considerable|consider|consideration|An adverb modifies the comparative "higher".
+Verb Tense - Present Simple|E|The bank _______ at 9 a.m. and closes at 4 p.m. on weekdays.|opens|opened|is opened|has open|A routine schedule uses the present simple.
+Verb Tense - Present Perfect|I|The department _______ its monthly target for three months in a row.|has met|meet|will meet|was meeting|"For three months in a row" up to now needs the present perfect.
+Verb Tense - Past Simple|I|Ms. Obi _______ the company in 2015 and became CEO in 2022.|joined|has joined|joins|was joining|Finished past years such as 2015 require the past simple.
+Verb Tense - Future|I|The new store _______ next Saturday with a special sale.|will open|opened|has opened|opening|"Next Saturday" is in the future.
+Verb Tense - Past Continuous|A|While the technician _______ the network, the power suddenly went out.|was repairing|repairs|has repaired|will repair|The past continuous describes an action in progress when another action interrupted.
+Verb Tense - Present Perfect Continuous|A|We _______ for a reliable distributor for several months.|have been searching|are searching|search|will search|"For several months" with an ongoing action takes the present perfect continuous.
+Verb Tense - Conditional|I|If I were you, I _______ the contract carefully before signing.|would read|will read|read|have read|A second conditional uses "would" plus the base verb.
+Verb Tense - Conditional|A|_______ the shipment arrive late, please notify the customer immediately.|Should|If|Would|Had|Inverted "Should" replaces "If" in a formal first conditional.
+Verb Tense - Conditional|A|Had the company invested earlier, it _______ a larger market share today.|would have|will have|has|having|"Had the company invested" is an inverted third conditional.
+Passive Voice|I|The conference room _______ for the board meeting all day tomorrow.|has been reserved|reserves|is reserving|reserved to|The room is reserved by someone, so the passive is needed.
+Passive Voice|I|Several errors _______ in the first draft of the contract.|were found|found|have find|were finding|The errors are found by someone else, so the passive is used.
+Passive Voice|A|The new hires _______ an orientation packet upon arrival.|will be given|will give|will be giving|are give|"Give" with a person as the subject of the passive needs "will be given".
+Subject-Verb Agreement|E|The manager and her assistant _______ at the conference this week.|are|is|was|has|Two subjects joined by "and" take a plural verb.
+Subject-Verb Agreement|I|The results of the survey _______ that customers prefer faster delivery.|show|shows|is showing|has showed|The plural subject "results" takes the plural verb "show".
+Subject-Verb Agreement|I|Every employee in the sales departments _______ a company laptop.|receives|receive|are receiving|have received|"Every employee" is singular.
+Subject-Verb Agreement|A|The committee, along with several advisors, _______ the plan next week.|will review|review|have reviewed|are reviewing|The subject is the singular "committee", not the "advisors".
+Preposition|E|The seminar will be held _______ Room B on Friday.|in|at the|onto|by the|"In" is used with a named room.
+Preposition|E|Ms. Chang travels to London _______ business every month.|on|at|for the|in|"On business" is a fixed phrase.
+Preposition|I|The price is _______ to change without notice.|subject|object|prone|related|"Subject to" means likely to change depending on conditions.
+Preposition|I|Please send your application _______ the human resources department.|to|at|on|with|"Send to" marks the recipient.
+Preposition|I|The conference was well attended _______ the bad weather.|despite|although|because|whereas|"Despite" is followed by the noun phrase "the bad weather".
+Preposition|A|The funds will be distributed _______ the five regional offices.|among|between|within of|besides|"Among" is used for more than two items.
+Preposition|A|The merger took place _______ the CEO's strong objection.|despite|while|besides|unless|"Despite" introduces a contrast with the noun phrase.
+Dependent Preposition|I|The manager is in charge _______ the entire logistics operation.|of|for|at|on|"In charge of" is the standard phrase.
+Dependent Preposition|I|Employees must refrain _______ using personal phones on the production floor.|from|of|to|at|"Refrain from" is followed by a gerund.
+Dependent Preposition|I|The proposal depends _______ the approval of the finance committee.|on|from|to|at|The verb "depend" takes "on".
+Dependent Preposition|A|The new CEO is known _______ turning around struggling companies.|for|as|to|of|"Known for" means famous because of something.
+Dependent Preposition|A|The audit revealed discrepancies _______ the two sets of records.|between|among|about|on|"Between" is used for two things being compared.
+Conjunction|I|The seminar was canceled _______ too few people registered.|because|so|although|unless|"Because" introduces the reason.
+Conjunction|I|_______ the contract is signed, the work cannot begin.|Until|Unless|Although|While|"Until" shows the condition that must be met first.
+Conjunction|I|The product is popular _______ it is inexpensive and easy to use.|because|despite|although|even if|"Because" introduces the reason for the popularity.
+Conjunction|A|_______ you have any questions, please contact the help desk.|Should|Whether|Unless|Than|"Should you have" is a formal inverted condition.
+Conjunction|A|The proposal will be accepted _______ the budget is approved.|provided|even|despite|whereas|"Provided" before "the budget is approved" introduces a condition.
+Conjunction|A|You must wear a helmet _______ you are on the construction site.|whenever|whatever|whichever|however|"Whenever" means every time that.
+Pronoun|I|The two managers decided to handle the complaint _______ .|themselves|them|theirs|their|The reflexive pronoun refers to the two managers.
+Pronoun|I|The red folder is mine, and the blue one is _______ .|hers|her|she|herself|The possessive pronoun replaces "her folder".
+Pronoun|A|The proposal was written by Ms. Tanaka and _______ .|me|I|my|mine|After "and" in the object position of "by", the object pronoun is used.
+Relative Pronoun|I|The consultant _______ we hired last year has opened her own firm.|whom|which|whose|where|"Whom" refers to a person in the object position.
+Relative Pronoun|I|This is the office _______ the board meets every month.|where|which|who|whom|"Where" refers to a place and takes the place of "in which".
+Relative Pronoun|A|The merger, _______ was announced on Monday, surprised investors.|which|that|who|what|A non-defining clause with commas takes "which", not "that".
+Participle|I|The _______ manager decided to meet with each employee.|newly appointed|new appoint|newly appoints|appointing new|"Newly appointed" is the adverb plus participle that modifies "manager".
+Participle|I|Anyone _______ in the training must register by Friday.|interested|interesting|interest|interests|The person feels interest, so the past participle is used.
+Participle|A|The documents _______ in the folder are confidential.|contained|containing|contain|to contain|A reduced relative clause: "that are contained" or "which contain"; here "contained" suits the passive meaning with "in the folder".
+Gerund vs Infinitive|I|The firm is considering _______ a second office in Madrid.|opening|to open|open|opened|"Consider" is followed by a gerund.
+Gerund vs Infinitive|I|Ms. Park managed _______ the contract despite the tight deadline.|to finish|finishing|finish|finished|"Manage" is followed by the infinitive.
+Gerund vs Infinitive|I|Thank you for _______ us your catalog so quickly.|sending|to send|send|sent|After the preposition "for", a gerund is used.
+Gerund vs Infinitive|A|The board postponed _______ on the budget until next quarter.|voting|to vote|vote|voted|"Postpone" is followed by a gerund.
+Gerund vs Infinitive|A|The supervisor reminded the staff _______ the machines before leaving.|to turn off|turning off|turn off|turned off|"Remind someone" is followed by the infinitive.
+Comparatives|I|The second proposal is _______ expensive than the first one.|less|least|lesser of|the less|"Less ... than" is the comparative pattern.
+Comparatives|I|Our new printer is twice _______ as the old one.|as fast|faster|fastest|more fast|"Twice as ... as" needs the base adjective.
+Comparatives|A|The _______ we invest, the greater our return will be.|more|most|much|many|The pattern "the more ..., the greater ..." is a double comparative.
+Superlative|I|She is one of _______ negotiators in the industry.|the best|better|best|good|"One of the" is followed by a superlative.
+Quantifiers|I|_______ employee must wear an ID badge in the building.|Every|All|Many|Both|"Every" is followed by a singular noun.
+Quantifiers|I|We have _______ time before the client arrives, so let's review the slides.|little|few|many|some of|"Little" is used with uncountable nouns; here it gives a limited amount.
+Quantifiers|A|_______ of the two proposals met the budget limit.|Neither|None|Every|Any|"Neither of the two" is used for two items.
+Quantifiers|A|Only a _______ of employees attended the optional workshop.|few|little|much|least|"A few" is used with a plural countable noun, meaning some.
+Modal Verbs|I|Passengers _______ not use electronic devices during takeoff.|may|are|do|have|"May not" expresses a prohibition in a formal notice.
+Modal Verbs|I|The system _______ be restarted after the update is installed.|must|might to|can to|would to|"Must be restarted" is the modal passive for a requirement.
+Modal Verbs|A|The shipment _______ have arrived by now; let's check the tracking number.|should|must be|can|ought|"Should have arrived" means it was expected to arrive.
+Vocabulary in Business Context|E|The company will _______ a new product next spring.|launch|lunch|launder|lurch|To launch a product means to introduce it to the market.
+Vocabulary in Business Context|E|Please _______ the form with your name and address.|fill out|fill up to|full|filling|"Fill out" a form is a common phrasal verb.
+Vocabulary in Business Context|I|The factory had to _______ production because of a shortage of raw materials.|suspend|suspect|suspense|suppose|To suspend production means to stop it temporarily.
+Vocabulary in Business Context|I|Customers can _______ their orders online at any time.|track|trace to|trick|trade|To track an order means to follow its progress.
+Vocabulary in Business Context|I|The manager asked the team to _______ their expenses carefully.|monitor|monument|monotone|monopoly|To monitor expenses means to watch them closely.
+Vocabulary in Business Context|I|The new employee's _______ includes handling customer inquiries.|responsibility|responsible|responsibly|responsibilities of|After the possessive, a noun is needed; the singular fits "includes".
+Vocabulary in Business Context|I|The seminar will _______ practical tips for improving customer service.|cover|cave|cover up|covet|"Cover" means to include or discuss topics.
+Vocabulary in Business Context|I|The invoice shows the total _______ due, including tax.|amount|account|amend|amuse|"Amount due" is the sum that must be paid.
+Vocabulary in Business Context|I|Several candidates were _______ for the final interview.|shortlisted|shortage|shortened to|shortsighted|To be shortlisted means to be selected for the final group.
+Vocabulary in Business Context|A|The manufacturer issued a _______ of the faulty brake parts.|recall|recess|recite|recipe|A recall asks customers to return defective products.
+Vocabulary in Business Context|A|Mr. Fujita was asked to _______ the meeting while the chair was away.|preside over|present on|precede to|prescribe|To preside over a meeting means to lead it formally.
+Vocabulary in Business Context|A|The two firms signed a _______ agreement to share research costs.|joint|jointly|join up|joining|"Joint agreement" is an adjective plus noun.
+Vocabulary in Business Context|A|Only authorized staff may _______ access to the server room.|gain|gather|gamble|gauge|"Gain access" is the standard collocation.
+Vocabulary in Business Context|A|The company's profits _______ sharply after the new competitor entered the market.|plummeted|plunged to|planted|plotted|"Plummeted" means fell very quickly.
+Vocabulary in Business Context|A|We apologize for the _______ in delivering your order.|delay|delayed|delaying|delays on|After "the", a noun is needed; "delay in delivering" is the standard phrase.
+Vocabulary in Business Context|I|The tickets are _______ until the end of the month.|available|avail|availability|availably|After "are", an adjective is needed.
+Vocabulary in Business Context|I|Ms. Evans is _______ for the quarterly sales report; please contact her.|in charge|incharge|by charge|on charge|"In charge" is a fixed phrase.
+Vocabulary in Business Context|I|We need to find a more _______ way to store customer data.|secure|secured to|security|securely|An adjective is needed before the noun "way".
+Vocabulary in Business Context|A|The CEO announced that the company would _______ its operations into Asia.|expand|expend|expel|expire|To expand means to grow bigger or reach new areas.
+Vocabulary in Business Context|A|All claims must be _______ within thirty days of the incident.|filed|filled|filmed|fined|To file a claim means to submit it officially.
+Vocabulary in Business Context|I|The training will be _______ by an experienced consultant from Zurich.|conducted|conducting|conductor|conduct|The passive "will be conducted" fits a session led by someone.
+Vocabulary in Business Context|I|Please make sure all _______ are turned off before you leave.|appliances|appliance|applied|applications|A plural noun is needed, and "appliances" fits turning off equipment.
+Vocabulary in Business Context|I|Our new software will _______ the need for manual data entry.|eliminate|elevate|elaborate|elapse|To eliminate means to remove completely.
+Vocabulary in Business Context|A|The restaurant owner decided to _______ a loan to renovate the kitchen.|take out|take away from|take on to|take to|"Take out a loan" means to borrow money.
+Vocabulary in Business Context|A|The hotel's rooms are _______ with free Wi-Fi and a mini fridge.|equipped|equal|equate|equity|"Equipped with" means supplied with equipment.
+Vocabulary in Business Context|I|Applications must be _______ no later than May 31.|received|receive|receiving|receipt|After "must be", a past participle is needed.
+Vocabulary in Business Context|I|The two departments will _______ on the new advertising campaign.|collaborate|collection|collective|collide|To collaborate means to work together.
+Vocabulary in Business Context|A|A _______ of volunteers helped to organize the charity fundraiser.|number|numeral|numerous|numbered|"A number of" is a quantity phrase followed by a plural noun.
+Vocabulary in Business Context|A|The CEO's resignation took effect _______ .|immediately|immediacy|immediate|immediateness|An adverb at the end of the clause modifies "took effect".
+Vocabulary in Business Context|I|Employees who work overtime will be _______ at one and a half times their regular rate.|compensated|competed|complied|compared|"Compensated" means paid for work or a loss.
+Vocabulary in Business Context|E|We are happy to _______ you to our annual dinner.|invite|inform|insist|invest|"Invite someone to an event" is the standard use.
+Vocabulary in Business Context|I|Before the merger, the two companies were fierce _______ .|competitors|competition|competes|competitive|After the adjective "fierce", a plural noun is needed.
+Vocabulary in Business Context|I|The updated brochure will be _______ at the entrance to all visitors.|distributed|distributing|distributor|distribute|The passive participle "distributed" fits after "will be".
+Vocabulary in Business Context|A|Due to unforeseen _______, the product launch has been rescheduled.|circumstances|circumstantial|circumference|circulation|"Unforeseen circumstances" is a fixed business phrase.
+Vocabulary in Business Context|A|Revenues for the year _______ initial projections by twelve percent.|exceeded|excelled|excepted|excluded|"Exceeded" means went beyond.
+Vocabulary in Business Context|I|The sales team is _______ to meet the target by the end of the month.|expected|expecting|expectation|expect|"Is expected to" is a passive structure.

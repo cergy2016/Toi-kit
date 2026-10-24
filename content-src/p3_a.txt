@@ -1,0 +1,134 @@
+@Conversation|Printer jam before a training session|us
+W: Hi Daniel, the color printer on the third floor is jammed again. I need to print forty handouts for the training session at two o'clock.
+M: Again? The technician fixed it on Monday. Try the printer in the accounting department. It's on the second floor, and I think everyone there is out to lunch until one.
+W: Good idea. Do I need a password?
+M: No, but you have to choose the Accounting Shared option on your computer. I'll send you the instructions by e-mail.
+W: Thanks. I'll also call the technician and ask him to look at the third-floor machine again.
+Q|What problem does the woman mention?|A printer is not working.|A training session was canceled.|A password has expired.|Some handouts are missing.|She says the color printer on the third floor is jammed.
+Q|Where does the man suggest the woman go?|To the accounting department|To the third floor|To the technician's office|To the training room|He tells her to use the printer in the accounting department on the second floor.
+Q|What will the woman do next?|Contact a technician|Reserve a room|Buy some paper|Choose a new password|She says she will call the technician about the third-floor machine.
+@Conversation|Shortening a hotel stay|us
+M: Hello, I have a reservation for three nights starting tomorrow, but my conference has been shortened. I'd like to stay only two nights.
+W: Let me check. Your booking was made through a travel Web site, so I'm afraid I can't change it from here. You would need to contact them directly.
+M: Oh, that's inconvenient. Is there a fee if I simply check out a day early?
+W: Not at this hotel. As long as you tell the front desk before noon on the day you leave, there's no charge.
+M: That's a relief. In that case, I'll keep the reservation as it is.
+Q|Why is the man calling?|To change a hotel reservation|To cancel a conference|To book a meeting room|To ask about a room upgrade|He says he wants to stay only two nights instead of three.
+Q|What does the woman say about the reservation?|It was made through another company.|It has been paid in full.|It includes breakfast.|It cannot be extended.|She says the booking was made through a travel Web site.
+Q|What will the man most likely do?|Keep his booking as it is|Contact a travel Web site|Pay a cancellation fee|Ask for a different room|He decides to keep the reservation since leaving early costs nothing.
+@Conversation|Choosing a room for a client presentation|us
+W: Kenji, I need a room for the client presentation next Wednesday. We'll have about twelve people.
+M: Let me look at the booking sheet. Room A is too small for that. The other three are free in the morning, but Room D is being painted that day.
+W: What about the room with the video equipment? We'll need it for the demonstration.
+M: That's the one I'd choose, then. It's free from ten, and I can set up the projector myself.
+W: Perfect. Please book it.
+G|Meeting Rooms|Room;Seats;Video Equipment|A;8;Yes/B;14;No/C;12;Yes/D;20;Yes
+Q|What are the speakers preparing for?|A client presentation|A painting project|A training course|A job interview|The woman needs a room for a client presentation next Wednesday.
+Q|Look at the graphic. Which room will the woman most likely book?|Room C|Room A|Room B|Room D|Room A is too small, Room D is being painted, and Room B has no video equipment, so Room C fits.
+Q|What does the man offer to do?|Set up a projector|Order some lunch|Send an invitation|Move some furniture|He says he can set up the projector himself.
+@Conversation|Late delivery of office chairs|us
+M: Good morning, this is Marcus from Delta Supply. I'm calling about your order of thirty office chairs. They were supposed to arrive today, but the shipment is delayed.
+W: That's a problem. We're moving into the new office on Monday, and the staff will need somewhere to sit.
+M: I understand. The manufacturer had a shortage of wheels. I can deliver fifteen chairs on Friday and the rest early next week.
+W: Fifteen won't be enough, but it's better than nothing. Could you also reduce the delivery fee for the inconvenience?
+M: I'll have to ask my manager, but I'm sure it won't be a problem. I'll call you back this afternoon.
+Q|Why is the man calling?|To report a delayed shipment|To confirm a new address|To request a payment|To advertise a product|He says the thirty chairs were supposed to arrive today but are delayed.
+Q|What does the woman say will happen on Monday?|The company will move to a new office.|A new employee will start.|An invoice will be due.|A factory will open.|She says they are moving into the new office on Monday.
+Q|What does the man say he will do this afternoon?|Call the woman back|Visit the new office|Contact the manufacturer|Send a refund|He says he will ask his manager and call her back this afternoon.
+@Conversation|New employee orientation|us
+W: Welcome to Harlan Insurance, Tomas. I'm Priya from human resources, and this is Greg, who will be your team leader.
+M2: Nice to meet you. I'm glad you could join us. Did you receive the schedule for your first week?
+M: Yes, I printed it. I noticed that the safety training is on Thursday, but I'm not sure where it takes place.
+W: It's in the basement conference room. Greg will take you there. Before that, we need to take your photo for your security badge.
+M2: I'll show you your desk first, and then we can stop by the security office on the way to lunch.
+Q|Who most likely is Priya?|A human resources employee|A security guard|A team leader|A trainer|She introduces herself as being from human resources.
+Q|What is the man unsure about?|The location of a training session|The time of a meeting|The price of a badge|The name of a supervisor|He says he is not sure where the safety training takes place.
+Q|What will the speakers do before lunch?|Visit the security office|Complete some forms|Tour the basement|Attend a safety class|Greg says they will stop by the security office on the way to lunch.
+@Conversation|Catering order for a staff luncheon|us
+W: Hi, I'd like to order lunch for our staff luncheon next Friday. There will be twenty-four people, and three of them are vegetarians.
+M: Certainly. Our most popular choice is the Garden Platter, which is vegetarian. The two sandwich platters come with a side salad.
+W: The budget is about two hundred dollars for the whole group, including delivery.
+M: Delivery is free for orders over one hundred fifty dollars. If you order enough platters for all of your guests, I'd recommend the cheaper sandwich option and one Garden Platter.
+W: That sounds sensible. Let me confirm the numbers with my colleague and call you back.
+G|Lunch Platters|Platter;Serves;Price|Garden Platter (vegetarian);6;$48/Classic Sandwich Platter;12;$75/Deluxe Sandwich Platter;12;$96
+Q|What is the woman's main concern?|Staying within a budget|Finding a delivery driver|Choosing a date|Booking a room|She says the budget is about two hundred dollars including delivery.
+Q|Look at the graphic. Which platters will the man most likely recommend for all of the guests?|Two Classic Sandwich Platters and one Garden Platter|Two Deluxe Sandwich Platters|Four Garden Platters|One Classic Sandwich Platter and two Garden Platters|He recommends the cheaper sandwich option plus one vegetarian platter, which serves twenty-four for about $198.
+Q|What will the woman do next?|Speak with a colleague|Pay by credit card|Visit the restaurant|Cancel her order|She says she will confirm the numbers with her colleague and call back.
+@Conversation|Scheduling a job interview|us
+M: Ms. Alvarez, thank you for your application for the marketing assistant position. Are you available for an interview on Tuesday morning?
+W: I have a dentist appointment at ten on Tuesday, but I could come in at eight thirty if that works for you.
+M: I'm afraid the director doesn't arrive until nine. What about Wednesday at two o'clock?
+W: Wednesday works well. Should I bring anything with me?
+M: Please bring a copy of your résumé and two samples of your work. The interview will be in the building on Garner Street, and visitors need to sign in at the front desk.
+Q|What is the conversation mainly about?|Arranging an interview|Changing a dentist appointment|Applying for a visa|Planning a marketing campaign|They discuss a time for the woman's interview.
+Q|Why can't the woman come on Tuesday at ten?|She has another appointment.|She is traveling.|She is at a conference.|She has a late meeting.|She mentions a dentist appointment at ten on Tuesday.
+Q|What does the man ask the woman to bring?|Work samples|A photo ID|A letter of reference|A parking permit|He asks her to bring a résumé and two samples of her work.
+@Conversation|Resetting a computer password|us
+W: IT help desk, this is Claire. How can I help?
+M: Hi, I've been locked out of my account. I typed my password wrong three times this morning.
+W: No problem. For security reasons, I'll need to ask you a few questions first. Can you give me your employee number?
+M: It's 4471. Is this going to take long? I have to finish a report before noon.
+W: Only about two minutes. I'll send a temporary password to your phone, and the system will make you create a new one when you log in.
+M: That works. I'm lucky I called now, because I wouldn't have been able to meet my deadline otherwise.
+Q|Why is the man calling?|He cannot access his account.|He needs a new phone.|He lost his employee number.|He wants to report a security problem.|He says he has been locked out of his account.
+Q|What does the woman ask the man for?|His employee number|His telephone number|His manager's name|His e-mail address|She asks him for his employee number.
+Q|What will the man have to do after logging in?|Create a new password|Update his phone|Call back the help desk|Complete a security survey|The woman says the system will make him create a new password.
+@Conversation|Picking up a rental car|uk
+M: Good afternoon. I have a reservation under the name Okafor for a compact car, collecting today and returning on Sunday.
+W: Yes, Mr. Okafor, I see it. Would you like to add our full insurance? It's twelve pounds a day, and it covers any damage to the vehicle.
+M: My credit card company already provides cover for rental cars, so I'll decline that. But I would like a navigation system.
+W: Of course. That's five pounds a day. The car is in bay fourteen, and the tank is full. Please bring it back with a full tank, or we'll charge a refueling fee.
+M: Understood. Is there a late fee if I return it a little after noon?
+W: There's a one-hour grace period. After that, you're charged for an extra day.
+Q|What does the man decline?|Extra insurance|A navigation system|A compact car|A credit card|He says his credit card company already covers rental cars, so he declines the insurance.
+Q|What does the woman warn the man about?|A fee for returning the car without a full tank|A deposit for the navigation system|A mileage limit|A fee for changing the reservation|She says they will charge a refueling fee if the tank is not full.
+Q|What does the woman say about returning the car late?|There is a one-hour grace period.|It is not possible.|It costs five pounds an hour.|It requires written permission.|She says there is a one-hour grace period before an extra day is charged.
+@Conversation|Applying for a small business loan|us
+W: Good morning, Mr. Brandt. I understand you're interested in a small business loan for your bakery.
+M: That's right. I'd like to buy a second oven and rent a bigger kitchen. I need about forty thousand dollars.
+W: We can help with that. You'll need to provide your last two years of tax returns and a basic business plan. Do you have those?
+M: I have the tax returns, but I'm still working on the plan. How detailed does it need to be?
+W: Just a few pages about your income, your costs, and how the loan will help you grow. I can send you a sample template this afternoon.
+M: That would be a huge help. I'll bring everything back by next Friday.
+Q|What does the man want to do?|Expand his bakery|Open a new account|Sell his business|Hire more staff|He wants to buy a second oven and rent a bigger kitchen for his bakery.
+Q|What does the man ask about?|How detailed a document should be|When a loan must be repaid|How much interest he will pay|Where to submit a form|He asks how detailed the business plan needs to be.
+Q|What does the woman say she will do this afternoon?|Send a sample|Approve a loan|Call a tax advisor|Visit a bakery|She says she will send a sample template.
+@Conversation|Conference registration deadline|us
+M: Hi Rosa, have you registered for the Logistics Summit in Denver yet? The early-bird rate ends on Friday.
+W: Not yet. I wasn't sure if I should go for two days or three. The workshops on the third day look interesting, though.
+M: I'd go for all three. The package includes lunch and the evening reception, so it costs less than paying for each day separately.
+W: That's true. But I'll have to ask my manager first, since it means being out of the office on Monday.
+M: Just send her the schedule. She approved my trip last year as soon as she saw the agenda.
+G|Logistics Summit Registration|Package;Early-bird Price (until Friday);Regular Price|One day;$150;$195/Two days;$270;$340/Three days;$360;$450
+Q|What does the man recommend?|Registering for the full conference|Choosing a single day|Booking a flight early|Skipping the reception|He says he would go for all three days because it costs less than paying for each day.
+Q|Look at the graphic. How much will the woman pay if she registers for three days on Thursday?|$360|$270|$450|$340|The early-bird price for three days applies until Friday, so a Thursday registration costs $360.
+Q|What does the woman say she must do first?|Get her manager's permission|Check her calendar|Choose a hotel|Update her passport|She says she has to ask her manager first because she will be out of the office.
+@Conversation|Returning a jacket without a receipt|us
+W: Hello, I'd like to return this jacket. I received it as a gift, so I don't have the receipt.
+M: I see. Without a receipt, I can't give you a refund, but I can offer you store credit for the current selling price.
+W: It's been on sale since I got it, hasn't it? What would the credit be?
+M: Sixty-five dollars. The original price was ninety, but it's now discounted. Would you like to look around, or should I put it on a card for you?
+W: Let me browse for a few minutes first. I think I saw a scarf near the entrance that I'd like to try.
+M: Take your time. Just bring it to me when you're ready.
+Q|What does the woman want to do?|Return an item|Buy a gift|Report a lost receipt|Apply for a job|She says she would like to return a jacket.
+Q|What is the woman offered?|A store credit|A cash refund|A discount coupon|A replacement jacket|The man says he can offer store credit for the current selling price.
+Q|What will the woman probably do next?|Look at some merchandise|Fill out a form|Call a manager|Leave the store|She says she wants to browse and try a scarf near the entrance.
+@Conversation|Moving the sales team to a new floor|us
+W: Hi, Jorge. Is it true that the sales team is moving to the fifth floor?
+M: Yes, next weekend. The facilities department has already ordered the new desks, but the phone lines won't be installed until Monday.
+W2: That might be a problem for us, because the clients call the old numbers first thing in the morning.
+M: Good point, Leila. I'll ask the telephone company if they can come on Friday afternoon instead.
+W: And please remind everyone to label their boxes with their names. Last time, several files went missing.
+W2: I'll send out a reminder e-mail this afternoon.
+Q|What are the speakers discussing?|An office move|A new hiring policy|A budget increase|A client complaint|They talk about the sales team moving to the fifth floor.
+Q|What concern does Leila raise?|Clients may not be able to reach the team.|The desks have not arrived.|The weekend is too busy.|The fifth floor is too small.|She says clients call the old numbers first thing in the morning, and the phone lines will not be ready.
+Q|What will Leila do this afternoon?|Send an e-mail|Order some boxes|Contact the phone company|Label some files|She says she will send out a reminder e-mail this afternoon.
+@Conversation|Approval for a software purchase|us
+M: Sandra, did you see the proposal I sent about the new scheduling software? It would save our nurses a lot of time.
+W: I read it. The features look good, but the price is higher than I expected. It's about eight thousand dollars a year.
+M: I know. But the current system takes each manager about five hours a week to maintain. The new one is automatic.
+W: That's a strong argument. Can you put those numbers in a short summary? I'll present it at Thursday's budget meeting.
+M: Absolutely. I'll have it to you by tomorrow morning.
+Q|What is the man proposing?|Buying new software|Hiring more nurses|Changing a work schedule|Cutting a budget|He is asking for approval of new scheduling software.
+Q|What is the woman's concern about the proposal?|The cost|The training time|The quality|The delivery date|She says the price is higher than she expected.
+Q|What will the man provide by tomorrow?|A written summary|A price quote|A demonstration|A budget meeting date|She asks for a short summary of the numbers, and he says she will have it by tomorrow morning.

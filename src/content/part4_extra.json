@@ -1,0 +1,3099 @@
+[
+{
+"id": "l4x-001",
+"part": 4,
+"type": "Telephone message",
+"title": "Rescheduled equipment delivery",
+"audioScript": "Hello, this is Victor from Brightline Medical Supply, calling for Ms. Hartley. I'm sorry to say that the delivery of your new examination tables, planned for tomorrow, has to be pushed back. A truck broke down this morning, and we're short of drivers.\nWe can now deliver on Thursday between nine and noon. If that doesn't work for your staff, please call me at extension 218, and we'll find another time. We will also take twenty dollars off the delivery fee because of the delay. Thank you for your patience.",
+"audioFile": "audio/l4x-001.mp3",
+"questions": [
+{
+"id": "l4x-001-q1",
+"questionText": "What is the purpose of the message?",
+"options": [
+{
+"key": "A",
+"text": "To request a payment"
+},
+{
+"key": "B",
+"text": "To confirm an order"
+},
+{
+"key": "C",
+"text": "To announce a delay"
+},
+{
+"key": "D",
+"text": "To advertise a sale"
+}
+],
+"correctAnswer": "C",
+"explanation": "He says the delivery has to be pushed back."
+},
+{
+"id": "l4x-001-q2",
+"questionText": "What caused the problem?",
+"options": [
+{
+"key": "A",
+"text": "A road was closed."
+},
+{
+"key": "B",
+"text": "A vehicle broke down."
+},
+{
+"key": "C",
+"text": "A factory closed."
+},
+{
+"key": "D",
+"text": "An order was lost."
+}
+],
+"correctAnswer": "B",
+"explanation": "He says a truck broke down and they are short of drivers."
+},
+{
+"id": "l4x-001-q3",
+"questionText": "What will the listener receive?",
+"options": [
+{
+"key": "A",
+"text": "A free table"
+},
+{
+"key": "B",
+"text": "A gift certificate"
+},
+{
+"key": "C",
+"text": "A refund for the order"
+},
+{
+"key": "D",
+"text": "A reduced delivery fee"
+}
+],
+"correctAnswer": "D",
+"explanation": "He says they will take twenty dollars off the delivery fee."
+}
+]
+},
+{
+"id": "l4x-002",
+"part": 4,
+"type": "Announcement",
+"title": "Store closing early",
+"audioScript": "Attention, shoppers. The Pembroke Department Store will be closing one hour earlier than usual this evening, at eight o'clock, because of the storm warning in our area. Please bring your final purchases to the registers within the next fifteen minutes.\nCustomers who have items on hold may collect them tomorrow morning when we open at nine. Parking in the east garage will remain free until midnight. We apologize for the inconvenience and thank you for shopping with us.",
+"audioFile": "audio/l4x-002.mp3",
+"questions": [
+{
+"id": "l4x-002-q1",
+"questionText": "Why is the store closing early?",
+"options": [
+{
+"key": "A",
+"text": "A storm is expected."
+},
+{
+"key": "B",
+"text": "There is a staff meeting."
+},
+{
+"key": "C",
+"text": "An inventory count is scheduled."
+},
+{
+"key": "D",
+"text": "A sale has ended."
+}
+],
+"correctAnswer": "A",
+"explanation": "She says the closing is because of the storm warning in the area."
+},
+{
+"id": "l4x-002-q2",
+"questionText": "What are customers asked to do within fifteen minutes?",
+"options": [
+{
+"key": "A",
+"text": "Fill out a survey"
+},
+{
+"key": "B",
+"text": "Move their cars"
+},
+{
+"key": "C",
+"text": "Return their items"
+},
+{
+"key": "D",
+"text": "Go to the registers"
+}
+],
+"correctAnswer": "D",
+"explanation": "She asks them to bring their final purchases to the registers."
+},
+{
+"id": "l4x-002-q3",
+"questionText": "What will happen tomorrow morning?",
+"options": [
+{
+"key": "A",
+"text": "A sale will start."
+},
+{
+"key": "B",
+"text": "A new store will open."
+},
+{
+"key": "C",
+"text": "Held items can be collected."
+},
+{
+"key": "D",
+"text": "Parking will be free."
+}
+],
+"correctAnswer": "C",
+"explanation": "She says customers with items on hold may collect them when the store opens at nine."
+}
+]
+},
+{
+"id": "l4x-003",
+"part": 4,
+"type": "Radio broadcast",
+"title": "Traffic and road work report",
+"audioScript": "Good morning, commuters, and welcome to the Eight O'Clock Traffic Report. If you're heading into the city center, expect delays on Bridge Road, where one lane is closed for repairs until the end of the week.\nThe best alternative is the ring road, though traffic is heavy near the stadium because of tonight's concert. Trains on the Blue Line are running on time, and extra buses have been added on Route 12. Stay tuned for the weather forecast right after the news.",
+"audioFile": "audio/l4x-003.mp3",
+"questions": [
+{
+"id": "l4x-003-q1",
+"questionText": "Who is the audience for this report?",
+"options": [
+{
+"key": "A",
+"text": "People traveling to work"
+},
+{
+"key": "B",
+"text": "Concert fans"
+},
+{
+"key": "C",
+"text": "Tourists"
+},
+{
+"key": "D",
+"text": "Construction workers"
+}
+],
+"correctAnswer": "A",
+"explanation": "He addresses commuters heading into the city center."
+},
+{
+"id": "l4x-003-q2",
+"questionText": "What does the speaker recommend?",
+"options": [
+{
+"key": "A",
+"text": "Leaving after the concert"
+},
+{
+"key": "B",
+"text": "Using the ring road"
+},
+{
+"key": "C",
+"text": "Avoiding Route 12"
+},
+{
+"key": "D",
+"text": "Taking the Blue Line"
+}
+],
+"correctAnswer": "B",
+"explanation": "He says the best alternative to Bridge Road is the ring road."
+},
+{
+"id": "l4x-003-q3",
+"questionText": "What will the listeners hear next?",
+"options": [
+{
+"key": "A",
+"text": "A music program"
+},
+{
+"key": "B",
+"text": "A weather forecast"
+},
+{
+"key": "C",
+"text": "A news summary"
+},
+{
+"key": "D",
+"text": "A concert review"
+}
+],
+"correctAnswer": "B",
+"explanation": "He says to stay tuned for the weather forecast right after the news."
+}
+]
+},
+{
+"id": "l4x-004",
+"part": 4,
+"type": "Advertisement",
+"title": "Grand opening of a bicycle shop",
+"audioScript": "Are you ready to ride? Come to the grand opening of Spoke and Wheel, the newest bicycle shop on Maple Street, this Saturday from ten to six. We carry more than two hundred bikes, from children's models to electric commuter bikes.\nThe first fifty customers will receive a free helmet, and everyone who attends gets a coupon for fifteen percent off any repair service. There will also be free test rides and live music in the parking lot. Visit our Web site to see the full list of events.",
+"audioFile": "audio/l4x-004.mp3",
+"questions": [
+{
+"id": "l4x-004-q1",
+"questionText": "What is being advertised?",
+"options": [
+{
+"key": "A",
+"text": "A repair class"
+},
+{
+"key": "B",
+"text": "A cycling race"
+},
+{
+"key": "C",
+"text": "A music festival"
+},
+{
+"key": "D",
+"text": "A new store"
+}
+],
+"correctAnswer": "D",
+"explanation": "She announces the grand opening of a bicycle shop."
+},
+{
+"id": "l4x-004-q2",
+"questionText": "What will the first fifty customers get?",
+"options": [
+{
+"key": "A",
+"text": "A discount card"
+},
+{
+"key": "B",
+"text": "A music ticket"
+},
+{
+"key": "C",
+"text": "A helmet"
+},
+{
+"key": "D",
+"text": "A bicycle"
+}
+],
+"correctAnswer": "C",
+"explanation": "She says the first fifty customers will receive a free helmet."
+},
+{
+"id": "l4x-004-q3",
+"questionText": "How can listeners find a list of events?",
+"options": [
+{
+"key": "A",
+"text": "By visiting a Web site"
+},
+{
+"key": "B",
+"text": "By calling the store"
+},
+{
+"key": "C",
+"text": "By stopping by on Friday"
+},
+{
+"key": "D",
+"text": "By reading a flyer"
+}
+],
+"correctAnswer": "A",
+"explanation": "She tells listeners to visit the Web site for the full list of events."
+}
+]
+},
+{
+"id": "l4x-005",
+"part": 4,
+"type": "Tour talk",
+"title": "Welcome to a historic mill museum",
+"audioScript": "Welcome to the Kinsley Textile Mill, ladies and gentlemen. My name is Ravi, and I'll be your guide today. The mill was built in 1892, and at its peak it employed nearly eight hundred people. Today it is a museum, and many of the machines still work.\nOur tour begins on the ground floor, where you'll see the weaving machines in action. Please stay behind the yellow lines, and note that photographs are welcome, but flash photography is not allowed near the looms. After the tour, you're invited to visit the gift shop, which features scarves made on the same machines.",
+"audioFile": "audio/l4x-005.mp3",
+"questions": [
+{
+"id": "l4x-005-q1",
+"questionText": "Where is the talk most likely taking place?",
+"options": [
+{
+"key": "A",
+"text": "At a school"
+},
+{
+"key": "B",
+"text": "At a museum"
+},
+{
+"key": "C",
+"text": "At a factory outlet"
+},
+{
+"key": "D",
+"text": "At an airport"
+}
+],
+"correctAnswer": "B",
+"explanation": "He welcomes visitors to the Kinsley Textile Mill, which is now a museum."
+},
+{
+"id": "l4x-005-q2",
+"questionText": "What are the listeners asked not to do?",
+"options": [
+{
+"key": "A",
+"text": "Speak loudly"
+},
+{
+"key": "B",
+"text": "Bring food"
+},
+{
+"key": "C",
+"text": "Use flash photography"
+},
+{
+"key": "D",
+"text": "Touch the displays"
+}
+],
+"correctAnswer": "C",
+"explanation": "He says that flash photography is not allowed near the looms."
+},
+{
+"id": "l4x-005-q3",
+"questionText": "What can listeners do after the tour?",
+"options": [
+{
+"key": "A",
+"text": "Visit a gift shop"
+},
+{
+"key": "B",
+"text": "Operate a machine"
+},
+{
+"key": "C",
+"text": "Join a workshop"
+},
+{
+"key": "D",
+"text": "Buy a ticket"
+}
+],
+"correctAnswer": "A",
+"explanation": "He says they are invited to visit the gift shop."
+}
+]
+},
+{
+"id": "l4x-006",
+"part": 4,
+"type": "Meeting excerpt",
+"title": "Quarterly sales results",
+"audioScript": "Good morning, everyone. Thank you for coming. I'd like to begin with a quick look at last quarter's numbers. Total sales were up eight percent, mostly thanks to the new line of kitchen appliances. However, our sales in the northern region fell short of the target by about five percent.\nTo address this, I've asked Mr. Delgado to lead a small team to visit our top ten northern customers next month. We'll listen to their concerns and see how we can help. Before we start the discussion, please take a moment to look at the chart in your handout.",
+"audioFile": "audio/l4x-006.mp3",
+"questions": [
+{
+"id": "l4x-006-q1",
+"questionText": "What is the main topic of the talk?",
+"options": [
+{
+"key": "A",
+"text": "A product design"
+},
+{
+"key": "B",
+"text": "A new policy"
+},
+{
+"key": "C",
+"text": "A hiring plan"
+},
+{
+"key": "D",
+"text": "Sales results"
+}
+],
+"correctAnswer": "D",
+"explanation": "She starts with a review of last quarter's numbers."
+},
+{
+"id": "l4x-006-q2",
+"questionText": "What does the speaker say about the northern region?",
+"options": [
+{
+"key": "A",
+"text": "It has a new manager."
+},
+{
+"key": "B",
+"text": "It did not reach its goal."
+},
+{
+"key": "C",
+"text": "It sold the most appliances."
+},
+{
+"key": "D",
+"text": "It is the largest market."
+}
+],
+"correctAnswer": "B",
+"explanation": "She says it fell short of the target by about five percent."
+},
+{
+"id": "l4x-006-q3",
+"questionText": "What does the speaker ask the listeners to do?",
+"options": [
+{
+"key": "A",
+"text": "Vote on a proposal"
+},
+{
+"key": "B",
+"text": "Introduce themselves"
+},
+{
+"key": "C",
+"text": "Look at a handout"
+},
+{
+"key": "D",
+"text": "Visit customers today"
+}
+],
+"correctAnswer": "C",
+"explanation": "She asks them to look at the chart in the handout."
+}
+]
+},
+{
+"id": "l4x-007",
+"part": 4,
+"type": "Recorded message",
+"title": "Pharmacy phone menu",
+"audioScript": "Thank you for calling Greenfield Pharmacy. Our hours this week are Monday through Friday, eight a.m. to eight p.m., and Saturday, nine a.m. to five p.m. We are closed on Sunday.\nTo refill a prescription, press one. To speak with a pharmacist, press two. To hear about our flu shot clinic, press three. If you are calling about a prescription that is ready for pickup, you do not need to call back. Just bring a photo ID to the counter. For all other questions, please stay on the line.",
+"audioFile": "audio/l4x-007.mp3",
+"questions": [
+{
+"id": "l4x-007-q1",
+"questionText": "Where would the message most likely be heard?",
+"options": [
+{
+"key": "A",
+"text": "On a radio program"
+},
+{
+"key": "B",
+"text": "In a store aisle"
+},
+{
+"key": "C",
+"text": "At a hospital reception"
+},
+{
+"key": "D",
+"text": "On a pharmacy's phone line"
+}
+],
+"correctAnswer": "D",
+"explanation": "She says \"Thank you for calling Greenfield Pharmacy\" and lists phone options."
+},
+{
+"id": "l4x-007-q2",
+"questionText": "What should callers do to speak with a pharmacist?",
+"options": [
+{
+"key": "A",
+"text": "Press two"
+},
+{
+"key": "B",
+"text": "Stay on the line"
+},
+{
+"key": "C",
+"text": "Press one"
+},
+{
+"key": "D",
+"text": "Press three"
+}
+],
+"correctAnswer": "A",
+"explanation": "She says to press two to speak with a pharmacist."
+},
+{
+"id": "l4x-007-q3",
+"questionText": "What should callers bring to collect a prescription?",
+"options": [
+{
+"key": "A",
+"text": "A doctor's note"
+},
+{
+"key": "B",
+"text": "A photo ID"
+},
+{
+"key": "C",
+"text": "A receipt"
+},
+{
+"key": "D",
+"text": "An insurance card"
+}
+],
+"correctAnswer": "B",
+"explanation": "She says to bring a photo ID to the counter."
+}
+]
+},
+{
+"id": "l4x-008",
+"part": 4,
+"type": "Speech",
+"title": "Retirement of a department head",
+"audioScript": "Friends and colleagues, it's a pleasure to be here tonight to honor Margaret Ellis, who is retiring after thirty-one years with our company. Margaret began her career as an assistant in the accounting department and rose to lead it for the last twelve years.\nUnder her leadership, we adopted our first computerized billing system, and the department won the company's excellence award three times. More importantly, she has always taken the time to mentor new employees. Please join me in raising a glass to Margaret, and in wishing her a wonderful retirement.",
+"audioFile": "audio/l4x-008.mp3",
+"questions": [
+{
+"id": "l4x-008-q1",
+"questionText": "What is the speaker doing?",
+"options": [
+{
+"key": "A",
+"text": "Announcing a promotion"
+},
+{
+"key": "B",
+"text": "Opening a new office"
+},
+{
+"key": "C",
+"text": "Thanking customers"
+},
+{
+"key": "D",
+"text": "Honoring a colleague"
+}
+],
+"correctAnswer": "D",
+"explanation": "He is honoring Margaret Ellis, who is retiring."
+},
+{
+"id": "l4x-008-q2",
+"questionText": "What did Margaret Ellis do during her career?",
+"options": [
+{
+"key": "A",
+"text": "She trained customers."
+},
+{
+"key": "B",
+"text": "She designed software."
+},
+{
+"key": "C",
+"text": "She led a department."
+},
+{
+"key": "D",
+"text": "She opened a branch."
+}
+],
+"correctAnswer": "C",
+"explanation": "He says she led the accounting department for the last twelve years."
+},
+{
+"id": "l4x-008-q3",
+"questionText": "What does the speaker ask the listeners to do?",
+"options": [
+{
+"key": "A",
+"text": "Raise a glass"
+},
+{
+"key": "B",
+"text": "Sign a card"
+},
+{
+"key": "C",
+"text": "Give a donation"
+},
+{
+"key": "D",
+"text": "Join a committee"
+}
+],
+"correctAnswer": "A",
+"explanation": "He asks them to join him in raising a glass."
+}
+]
+},
+{
+"id": "l4x-009",
+"part": 4,
+"type": "Telephone message",
+"title": "Dental appointment reminder",
+"audioScript": "This is a reminder from Dr. Okonkwo's dental office for Mr. Lund. You have an appointment this Friday at two thirty. Please arrive ten minutes early to complete a short health form. If you would like to confirm, press one. To reschedule, press two.\nAlso, please note that our office has moved. We're now located at 410 Cedar Avenue, on the second floor, in the same building as the pharmacy. There is free parking behind the building. Thank you, and we look forward to seeing you.",
+"audioFile": "audio/l4x-009.mp3",
+"questions": [
+{
+"id": "l4x-009-q1",
+"questionText": "What is the message mainly about?",
+"options": [
+{
+"key": "A",
+"text": "A new service"
+},
+{
+"key": "B",
+"text": "A product recall"
+},
+{
+"key": "C",
+"text": "An appointment"
+},
+{
+"key": "D",
+"text": "A bill"
+}
+],
+"correctAnswer": "C",
+"explanation": "She is reminding him of an appointment on Friday."
+},
+{
+"id": "l4x-009-q2",
+"questionText": "What is Mr. Lund asked to do?",
+"options": [
+{
+"key": "A",
+"text": "Pay in advance"
+},
+{
+"key": "B",
+"text": "Arrive early"
+},
+{
+"key": "C",
+"text": "Bring his records"
+},
+{
+"key": "D",
+"text": "Call the pharmacy"
+}
+],
+"correctAnswer": "B",
+"explanation": "She asks him to arrive ten minutes early to complete a form."
+},
+{
+"id": "l4x-009-q3",
+"questionText": "What has changed?",
+"options": [
+{
+"key": "A",
+"text": "The location of the office"
+},
+{
+"key": "B",
+"text": "The fees"
+},
+{
+"key": "C",
+"text": "The dentist's name"
+},
+{
+"key": "D",
+"text": "The appointment time"
+}
+],
+"correctAnswer": "A",
+"explanation": "She says the office has moved to 410 Cedar Avenue."
+}
+]
+},
+{
+"id": "l4x-010",
+"part": 4,
+"type": "Announcement",
+"title": "Airport gate change",
+"audioScript": "Attention passengers on Skyway flight 482 to Toronto. Please note a gate change. The flight will now depart from Gate 27 instead of Gate 14. Boarding will begin at four fifteen, about twenty minutes later than planned, due to a late arrival of the aircraft.\nPassengers in rows twenty and above will be invited to board first. Please have your boarding pass and passport ready. Gate 27 is located at the end of Terminal B, and a moving walkway will take you there. We apologize for the change and thank you for your understanding.",
+"audioFile": "audio/l4x-010.mp3",
+"questions": [
+{
+"id": "l4x-010-q1",
+"questionText": "What has changed?",
+"options": [
+{
+"key": "A",
+"text": "The destination"
+},
+{
+"key": "B",
+"text": "The airline"
+},
+{
+"key": "C",
+"text": "The terminal"
+},
+{
+"key": "D",
+"text": "The departure gate"
+}
+],
+"correctAnswer": "D",
+"explanation": "She announces that the flight will now depart from Gate 27 instead of Gate 14."
+},
+{
+"id": "l4x-010-q2",
+"questionText": "Why is boarding delayed?",
+"options": [
+{
+"key": "A",
+"text": "Some luggage is missing."
+},
+{
+"key": "B",
+"text": "The aircraft arrived late."
+},
+{
+"key": "C",
+"text": "There is bad weather."
+},
+{
+"key": "D",
+"text": "A gate is closed."
+}
+],
+"correctAnswer": "B",
+"explanation": "She says it is due to the late arrival of the aircraft."
+},
+{
+"id": "l4x-010-q3",
+"questionText": "Which passengers will board first?",
+"options": [
+{
+"key": "A",
+"text": "Those holding business tickets"
+},
+{
+"key": "B",
+"text": "Those with large bags"
+},
+{
+"key": "C",
+"text": "Those traveling with children"
+},
+{
+"key": "D",
+"text": "Those seated in the rear rows"
+}
+],
+"correctAnswer": "D",
+"explanation": "She says passengers in rows twenty and above will board first."
+}
+]
+},
+{
+"id": "l4x-011",
+"part": 4,
+"type": "Workshop introduction",
+"title": "Presentation skills class",
+"audioScript": "Good afternoon, everyone, and welcome to Presenting with Confidence. I'm Daniel Ortiz, and for the next three hours I'll be helping you improve the way you speak in front of groups. We'll start with a short exercise, and then we'll look at how to organize a talk so that people remember it.\nEveryone will deliver a two-minute practice talk, and I'll record each one on video so you can watch yourself afterward. Please don't worry. Nobody else will see the videos. Let's begin by moving the chairs into a circle, and then I'll hand out the first exercise.",
+"audioFile": "audio/l4x-011.mp3",
+"questions": [
+{
+"id": "l4x-011-q1",
+"questionText": "What is the purpose of the workshop?",
+"options": [
+{
+"key": "A",
+"text": "To improve speaking skills"
+},
+{
+"key": "B",
+"text": "To discuss a company policy"
+},
+{
+"key": "C",
+"text": "To introduce new staff"
+},
+{
+"key": "D",
+"text": "To teach video editing"
+}
+],
+"correctAnswer": "A",
+"explanation": "He says he will help them improve how they speak in front of groups."
+},
+{
+"id": "l4x-011-q2",
+"questionText": "What will each participant do?",
+"options": [
+{
+"key": "A",
+"text": "Write a report"
+},
+{
+"key": "B",
+"text": "Lead a discussion"
+},
+{
+"key": "C",
+"text": "Give a short talk"
+},
+{
+"key": "D",
+"text": "Interview a colleague"
+}
+],
+"correctAnswer": "C",
+"explanation": "He says everyone will deliver a two-minute practice talk."
+},
+{
+"id": "l4x-011-q3",
+"questionText": "What does the speaker say about the videos?",
+"options": [
+{
+"key": "A",
+"text": "Only the speaker will see them."
+},
+{
+"key": "B",
+"text": "They will be posted online."
+},
+{
+"key": "C",
+"text": "They will be sent to managers."
+},
+{
+"key": "D",
+"text": "They will be shown to the class."
+}
+],
+"correctAnswer": "A",
+"explanation": "He says nobody else will see the videos."
+}
+]
+},
+{
+"id": "l4x-012",
+"part": 4,
+"type": "Announcement",
+"title": "Cafeteria menu change",
+"audioScript": "Good morning, everyone. This is an announcement from the cafeteria. Beginning Monday, we'll be introducing a new weekly menu with more vegetarian options and a daily soup. We've also added a salad bar near the entrance, which will be open from eleven thirty until two.\nBecause of the new equipment, the cafeteria will be closed this Friday for installation. Box lunches will be available at the reception desk between noon and one. They must be ordered by e-mail before four o'clock on Thursday. Thank you for your understanding.",
+"audioFile": "audio/l4x-012.mp3",
+"questions": [
+{
+"id": "l4x-012-q1",
+"questionText": "What is the announcement mostly about?",
+"options": [
+{
+"key": "A",
+"text": "A building renovation"
+},
+{
+"key": "B",
+"text": "A new employee benefit"
+},
+{
+"key": "C",
+"text": "Changes to a food service"
+},
+{
+"key": "D",
+"text": "A company picnic"
+}
+],
+"correctAnswer": "C",
+"explanation": "She describes a new weekly menu, a salad bar and a closure."
+},
+{
+"id": "l4x-012-q2",
+"questionText": "Why will the cafeteria close on Friday?",
+"options": [
+{
+"key": "A",
+"text": "A health inspection is scheduled."
+},
+{
+"key": "B",
+"text": "New equipment will be installed."
+},
+{
+"key": "C",
+"text": "The staff will take a training course."
+},
+{
+"key": "D",
+"text": "The menu will be printed."
+}
+],
+"correctAnswer": "B",
+"explanation": "She says it is closed for the installation of new equipment."
+},
+{
+"id": "l4x-012-q3",
+"questionText": "What should employees do by Thursday at four?",
+"options": [
+{
+"key": "A",
+"text": "Choose a menu item"
+},
+{
+"key": "B",
+"text": "Visit the reception desk"
+},
+{
+"key": "C",
+"text": "Fill out a survey"
+},
+{
+"key": "D",
+"text": "Order a lunch by e-mail"
+}
+],
+"correctAnswer": "D",
+"explanation": "She says box lunches must be ordered by e-mail before four o'clock on Thursday."
+}
+]
+},
+{
+"id": "l4x-013",
+"part": 4,
+"type": "Telephone message",
+"title": "Job offer follow-up",
+"audioScript": "Hello, Ms. Tran, this is Oliver Grant from Redwood Engineering. I'm calling about the project coordinator position. First of all, congratulations. The hiring committee was very impressed with your interview, and we would like to offer you the job.\nThe starting salary and benefits are described in the attached letter, which I e-mailed this morning. If you accept, we hope you can begin on the first of March. Please return the signed letter by Friday, and call me if you have any questions about the benefits. My direct line is 555-0142.",
+"audioFile": "audio/l4x-013.mp3",
+"questions": [
+{
+"id": "l4x-013-q1",
+"questionText": "What is the purpose of the call?",
+"options": [
+{
+"key": "A",
+"text": "To ask for references"
+},
+{
+"key": "B",
+"text": "To announce a promotion"
+},
+{
+"key": "C",
+"text": "To offer a position"
+},
+{
+"key": "D",
+"text": "To schedule an interview"
+}
+],
+"correctAnswer": "C",
+"explanation": "He says the committee would like to offer her the job."
+},
+{
+"id": "l4x-013-q2",
+"questionText": "What did the speaker send this morning?",
+"options": [
+{
+"key": "A",
+"text": "A schedule"
+},
+{
+"key": "B",
+"text": "A contract template"
+},
+{
+"key": "C",
+"text": "A list of benefits"
+},
+{
+"key": "D",
+"text": "A letter"
+}
+],
+"correctAnswer": "D",
+"explanation": "He says the letter was e-mailed this morning."
+},
+{
+"id": "l4x-013-q3",
+"questionText": "What is Ms. Tran asked to do by Friday?",
+"options": [
+{
+"key": "A",
+"text": "Return a document"
+},
+{
+"key": "B",
+"text": "Attend an orientation"
+},
+{
+"key": "C",
+"text": "Visit the office"
+},
+{
+"key": "D",
+"text": "Meet the committee"
+}
+],
+"correctAnswer": "A",
+"explanation": "He asks her to return the signed letter by Friday."
+}
+]
+},
+{
+"id": "l4x-014",
+"part": 4,
+"type": "Advertisement",
+"title": "Language app subscription",
+"audioScript": "Do you struggle to find time for language lessons? With LinguaGo, you can learn Spanish, French, or Japanese in just fifteen minutes a day. Our lessons are designed by teachers and fit into your busy schedule. You can practice on your phone during your commute or on your tablet at home.\nDownload LinguaGo this month and enjoy your first thirty days free. After that, an annual subscription is just forty-nine dollars, which is half the usual price for new customers. Visit linguago dot com and enter the code SPRING at checkout to claim your offer.",
+"audioFile": "audio/l4x-014.mp3",
+"questions": [
+{
+"id": "l4x-014-q1",
+"questionText": "What is being advertised?",
+"options": [
+{
+"key": "A",
+"text": "A travel agency"
+},
+{
+"key": "B",
+"text": "A learning app"
+},
+{
+"key": "C",
+"text": "A language school"
+},
+{
+"key": "D",
+"text": "A tablet computer"
+}
+],
+"correctAnswer": "B",
+"explanation": "He describes an app for learning languages in fifteen minutes a day."
+},
+{
+"id": "l4x-014-q2",
+"questionText": "What is offered to new customers?",
+"options": [
+{
+"key": "A",
+"text": "A printed course book"
+},
+{
+"key": "B",
+"text": "A free tablet"
+},
+{
+"key": "C",
+"text": "A free trial"
+},
+{
+"key": "D",
+"text": "A personal tutor"
+}
+],
+"correctAnswer": "C",
+"explanation": "He says that the first thirty days are free."
+},
+{
+"id": "l4x-014-q3",
+"questionText": "What should listeners do to get the offer?",
+"options": [
+{
+"key": "A",
+"text": "Call a number"
+},
+{
+"key": "B",
+"text": "Enter a code"
+},
+{
+"key": "C",
+"text": "Visit a store"
+},
+{
+"key": "D",
+"text": "Fill out a survey"
+}
+],
+"correctAnswer": "B",
+"explanation": "He says to enter the code SPRING at checkout."
+}
+]
+},
+{
+"id": "l4x-015",
+"part": 4,
+"type": "Radio broadcast",
+"title": "Local business news",
+"audioScript": "In local business news, the Harmon Valley Chamber of Commerce announced today that the city will build a new convenience center for small businesses near the old train station. The center will offer low-cost office space, shared meeting rooms, and a business library.\nConstruction is scheduled to begin in September, and the first tenants are expected by next spring. The mayor said the project should create about forty jobs. Anyone interested in renting space can sign up for information sessions, which begin this month. Details are available at the chamber's Web site. Now, back to our music program.",
+"audioFile": "audio/l4x-015.mp3",
+"questions": [
+{
+"id": "l4x-015-q1",
+"questionText": "What is the report about?",
+"options": [
+{
+"key": "A",
+"text": "A tax change"
+},
+{
+"key": "B",
+"text": "A train schedule"
+},
+{
+"key": "C",
+"text": "A job fair"
+},
+{
+"key": "D",
+"text": "A planned business center"
+}
+],
+"correctAnswer": "D",
+"explanation": "She announces a new center for small businesses near the old train station."
+},
+{
+"id": "l4x-015-q2",
+"questionText": "When is construction scheduled to begin?",
+"options": [
+{
+"key": "A",
+"text": "In September"
+},
+{
+"key": "B",
+"text": "Next spring"
+},
+{
+"key": "C",
+"text": "Next year"
+},
+{
+"key": "D",
+"text": "This month"
+}
+],
+"correctAnswer": "A",
+"explanation": "She says construction is scheduled to begin in September."
+},
+{
+"id": "l4x-015-q3",
+"questionText": "Where can listeners find more information?",
+"options": [
+{
+"key": "A",
+"text": "At the train station"
+},
+{
+"key": "B",
+"text": "In a newspaper"
+},
+{
+"key": "C",
+"text": "From the mayor"
+},
+{
+"key": "D",
+"text": "On a Web site"
+}
+],
+"correctAnswer": "D",
+"explanation": "She says details are available at the chamber's Web site."
+}
+]
+},
+{
+"id": "l4x-016",
+"part": 4,
+"type": "Meeting excerpt",
+"title": "Introducing a safety policy",
+"audioScript": "Before we end today's meeting, I want to remind everyone about the new safety policy that takes effect on Monday. From now on, all employees who work on the factory floor must wear protective glasses and closed shoes at all times. Visitors will be given glasses at the entrance.\nSome of you have asked about the cost. The company will pay for one pair of glasses per person. If you need prescription safety glasses, please give your receipt to Ms. Greene. I'll also be sending a checklist by e-mail this afternoon, so please read it carefully and sign it by Friday.",
+"audioFile": "audio/l4x-016.mp3",
+"questions": [
+{
+"id": "l4x-016-q1",
+"questionText": "What is the topic of the talk?",
+"options": [
+{
+"key": "A",
+"text": "A product recall"
+},
+{
+"key": "B",
+"text": "A production schedule"
+},
+{
+"key": "C",
+"text": "A new safety requirement"
+},
+{
+"key": "D",
+"text": "A visitor policy"
+}
+],
+"correctAnswer": "C",
+"explanation": "He announces the new policy requiring protective glasses and closed shoes."
+},
+{
+"id": "l4x-016-q2",
+"questionText": "What will the company pay for?",
+"options": [
+{
+"key": "A",
+"text": "Special shoes"
+},
+{
+"key": "B",
+"text": "One pair of glasses"
+},
+{
+"key": "C",
+"text": "A safety class"
+},
+{
+"key": "D",
+"text": "An inspection"
+}
+],
+"correctAnswer": "B",
+"explanation": "He says the company will pay for one pair of glasses per person."
+},
+{
+"id": "l4x-016-q3",
+"questionText": "What are the listeners asked to do by Friday?",
+"options": [
+{
+"key": "A",
+"text": "Sign a checklist"
+},
+{
+"key": "B",
+"text": "Submit receipts"
+},
+{
+"key": "C",
+"text": "Attend a training"
+},
+{
+"key": "D",
+"text": "Return their glasses"
+}
+],
+"correctAnswer": "A",
+"explanation": "He says they should read and sign the checklist by Friday."
+}
+]
+},
+{
+"id": "l4x-017",
+"part": 4,
+"type": "Tour talk",
+"title": "Hotel orientation",
+"audioScript": "Welcome to the Lakeview Grand Hotel. My name is Susan, and I'm the guest services manager. Before you go to your rooms, let me quickly show you around. Breakfast is served on the first floor from six to ten, and the fitness center is on the third floor, open around the clock.\nThe pool closes at nine in the evening. If you need extra towels or an iron, just dial zero on your room phone. And if you're interested in the city tour that departs every morning from the lobby, you can sign up at the front desk. Enjoy your stay.",
+"audioFile": "audio/l4x-017.mp3",
+"questions": [
+{
+"id": "l4x-017-q1",
+"questionText": "Who is the speaker?",
+"options": [
+{
+"key": "A",
+"text": "A tour guide"
+},
+{
+"key": "B",
+"text": "A restaurant owner"
+},
+{
+"key": "C",
+"text": "A fitness trainer"
+},
+{
+"key": "D",
+"text": "A hotel manager"
+}
+],
+"correctAnswer": "D",
+"explanation": "She says she is the guest services manager."
+},
+{
+"id": "l4x-017-q2",
+"questionText": "What is available at all hours?",
+"options": [
+{
+"key": "A",
+"text": "The breakfast room"
+},
+{
+"key": "B",
+"text": "The fitness center"
+},
+{
+"key": "C",
+"text": "The pool"
+},
+{
+"key": "D",
+"text": "The city tour"
+}
+],
+"correctAnswer": "B",
+"explanation": "She says the fitness center is open around the clock."
+},
+{
+"id": "l4x-017-q3",
+"questionText": "What can guests do at the front desk?",
+"options": [
+{
+"key": "A",
+"text": "Register for a tour"
+},
+{
+"key": "B",
+"text": "Borrow an iron"
+},
+{
+"key": "C",
+"text": "Order breakfast"
+},
+{
+"key": "D",
+"text": "Pay for towels"
+}
+],
+"correctAnswer": "A",
+"explanation": "She says they can sign up for the city tour there."
+}
+]
+},
+{
+"id": "l4x-018",
+"part": 4,
+"type": "Announcement",
+"title": "Library temporary closure",
+"audioScript": "This is a message for patrons of the Eastside Library. Our main reading room will be closed for floor repairs from the fifth to the ninth of May. During that time, books can still be borrowed or returned at the information desk near the entrance.\nOur children's story hour will move to the community center across the street, and the computer lab will remain open as usual. If you have placed a book on hold, you'll receive a message when it is ready. We thank you for your patience, and we look forward to showing you the improved reading room.",
+"audioFile": "audio/l4x-018.mp3",
+"questions": [
+{
+"id": "l4x-018-q1",
+"questionText": "What is being repaired?",
+"options": [
+{
+"key": "A",
+"text": "A roof"
+},
+{
+"key": "B",
+"text": "A door"
+},
+{
+"key": "C",
+"text": "A floor"
+},
+{
+"key": "D",
+"text": "A computer lab"
+}
+],
+"correctAnswer": "C",
+"explanation": "He says the reading room will be closed for floor repairs."
+},
+{
+"id": "l4x-018-q2",
+"questionText": "Where can books be returned during the closure?",
+"options": [
+{
+"key": "A",
+"text": "At the community center"
+},
+{
+"key": "B",
+"text": "At the computer lab"
+},
+{
+"key": "C",
+"text": "At the information desk"
+},
+{
+"key": "D",
+"text": "At the reading room"
+}
+],
+"correctAnswer": "C",
+"explanation": "He says books can be borrowed or returned at the information desk."
+},
+{
+"id": "l4x-018-q3",
+"questionText": "What will happen to the children's story hour?",
+"options": [
+{
+"key": "A",
+"text": "It will be canceled."
+},
+{
+"key": "B",
+"text": "It will be shortened."
+},
+{
+"key": "C",
+"text": "It will be held online."
+},
+{
+"key": "D",
+"text": "It will move to another location."
+}
+],
+"correctAnswer": "D",
+"explanation": "He says it will move to the community center across the street."
+}
+]
+},
+{
+"id": "l4x-019",
+"part": 4,
+"type": "Telephone message",
+"title": "Supplier price increase",
+"audioScript": "Hi Marcus, it's Ines from Valley Ingredients. I'm calling about your next order of flour. I wanted to let you know in advance that our prices will increase by six percent next month, because the cost of transportation has gone up.\nSince you're one of our oldest customers, I can guarantee the current price if you place your order before the end of this week. You'd need to order at least four hundred kilograms. Please call me back at 555-0198 or send an e-mail if you'd like me to prepare it.",
+"audioFile": "audio/l4x-019.mp3",
+"questions": [
+{
+"id": "l4x-019-q1",
+"questionText": "What is the message about?",
+"options": [
+{
+"key": "A",
+"text": "A late delivery"
+},
+{
+"key": "B",
+"text": "A price change"
+},
+{
+"key": "C",
+"text": "A quality problem"
+},
+{
+"key": "D",
+"text": "A new product"
+}
+],
+"correctAnswer": "B",
+"explanation": "She says the prices will increase by six percent next month."
+},
+{
+"id": "l4x-019-q2",
+"questionText": "Why will the prices go up?",
+"options": [
+{
+"key": "A",
+"text": "Transportation costs have risen."
+},
+{
+"key": "B",
+"text": "Flour is in short supply."
+},
+{
+"key": "C",
+"text": "Wages have increased."
+},
+{
+"key": "D",
+"text": "A tax has been added."
+}
+],
+"correctAnswer": "A",
+"explanation": "She says the cost of transportation has gone up."
+},
+{
+"id": "l4x-019-q3",
+"questionText": "What does the speaker offer?",
+"options": [
+{
+"key": "A",
+"text": "A guaranteed price"
+},
+{
+"key": "B",
+"text": "An early delivery"
+},
+{
+"key": "C",
+"text": "A larger discount"
+},
+{
+"key": "D",
+"text": "A free sample"
+}
+],
+"correctAnswer": "A",
+"explanation": "She says she can guarantee the current price if he orders before the end of the week."
+}
+]
+},
+{
+"id": "l4x-020",
+"part": 4,
+"type": "Speech",
+"title": "Welcoming new graduates to the company",
+"audioScript": "Good morning, and congratulations to all of you for joining the graduate program at Norland Energy. I know you've worked hard to get here. Over the next year, you will rotate through three departments, so you can see which areas fit your interests best.\nPlease remember that nobody expects you to know everything. Ask questions, and don't be afraid to make mistakes, because that's how you learn. Each of you will be paired with a mentor, and you'll meet him or her for lunch every second Friday. Now, let me hand over to Ms. Kaur, who will explain the schedule for your first week.",
+"audioFile": "audio/l4x-020.mp3",
+"questions": [
+{
+"id": "l4x-020-q1",
+"questionText": "Who is the audience for the talk?",
+"options": [
+{
+"key": "A",
+"text": "Investors"
+},
+{
+"key": "B",
+"text": "New employees"
+},
+{
+"key": "C",
+"text": "Retired staff"
+},
+{
+"key": "D",
+"text": "Customers"
+}
+],
+"correctAnswer": "B",
+"explanation": "He congratulates them for joining the graduate program."
+},
+{
+"id": "l4x-020-q2",
+"questionText": "What will the listeners do over the next year?",
+"options": [
+{
+"key": "A",
+"text": "Travel to other countries"
+},
+{
+"key": "B",
+"text": "Train other graduates"
+},
+{
+"key": "C",
+"text": "Study at a university"
+},
+{
+"key": "D",
+"text": "Work in different departments"
+}
+],
+"correctAnswer": "D",
+"explanation": "He says they will rotate through three departments."
+},
+{
+"id": "l4x-020-q3",
+"questionText": "What will Ms. Kaur talk about?",
+"options": [
+{
+"key": "A",
+"text": "The lunch menu"
+},
+{
+"key": "B",
+"text": "The company history"
+},
+{
+"key": "C",
+"text": "The first week's schedule"
+},
+{
+"key": "D",
+"text": "The mentor program"
+}
+],
+"correctAnswer": "C",
+"explanation": "He says she will explain the schedule for the first week."
+}
+]
+},
+{
+"id": "l4x-021",
+"part": 4,
+"type": "Recorded message",
+"title": "Cinema information line",
+"audioScript": "Thank you for calling Starlight Cinemas. Today's new releases are The Last Harbor, showing at four, seven, and ten, and Moonlight Café, showing at five thirty and eight forty-five. Tickets for evening shows are nine pounds, and matinee tickets before five o'clock are six pounds.\nMembers of our Starlight Club receive a free popcorn with every ticket. To join, visit the ticket counter or our Web site. Please note that the five thirty show of Moonlight Café on Saturday has been replaced by a special event with the director. To book tickets, press one now.",
+"audioFile": "audio/l4x-021.mp3",
+"questions": [
+{
+"id": "l4x-021-q1",
+"questionText": "What is the message mostly about?",
+"options": [
+{
+"key": "A",
+"text": "A restaurant menu"
+},
+{
+"key": "B",
+"text": "A theater renovation"
+},
+{
+"key": "C",
+"text": "A concert schedule"
+},
+{
+"key": "D",
+"text": "Movie information"
+}
+],
+"correctAnswer": "D",
+"explanation": "He lists movies, showtimes and ticket prices."
+},
+{
+"id": "l4x-021-q2",
+"questionText": "What benefit do club members receive?",
+"options": [
+{
+"key": "A",
+"text": "Free popcorn"
+},
+{
+"key": "B",
+"text": "Priority seating"
+},
+{
+"key": "C",
+"text": "Cheaper tickets"
+},
+{
+"key": "D",
+"text": "Free parking"
+}
+],
+"correctAnswer": "A",
+"explanation": "He says members receive a free popcorn with every ticket."
+},
+{
+"id": "l4x-021-q3",
+"questionText": "What special event will occur on Saturday?",
+"options": [
+{
+"key": "A",
+"text": "A film festival"
+},
+{
+"key": "B",
+"text": "A food sale"
+},
+{
+"key": "C",
+"text": "A meeting with a director"
+},
+{
+"key": "D",
+"text": "A concert"
+}
+],
+"correctAnswer": "C",
+"explanation": "He says the five thirty show is replaced by a special event with the director."
+}
+]
+},
+{
+"id": "l4x-022",
+"part": 4,
+"type": "Meeting excerpt",
+"title": "Customer complaint review",
+"audioScript": "Let's turn to the next item, which is the number of customer complaints about our delivery service. Last month we received ninety-two, which is nearly double the usual number. Most of them said that packages arrived damaged.\nI've talked to the warehouse team, and they believe the problem began when we changed packaging suppliers in June. So here's the plan. First, we'll switch back to our previous supplier for fragile items. Second, Mr. Ito will inspect a sample of every shipment for the next two weeks. Finally, we'll send a short apology and a discount code to every affected customer.",
+"audioFile": "audio/l4x-022.mp3",
+"questions": [
+{
+"id": "l4x-022-q1",
+"questionText": "What problem does the speaker describe?",
+"options": [
+{
+"key": "A",
+"text": "Incorrect prices"
+},
+{
+"key": "B",
+"text": "Damaged deliveries"
+},
+{
+"key": "C",
+"text": "Missing orders"
+},
+{
+"key": "D",
+"text": "Late payments"
+}
+],
+"correctAnswer": "B",
+"explanation": "She says most complaints said that packages arrived damaged."
+},
+{
+"id": "l4x-022-q2",
+"questionText": "What does the speaker say happened in June?",
+"options": [
+{
+"key": "A",
+"text": "A manager left."
+},
+{
+"key": "B",
+"text": "A new supplier was selected."
+},
+{
+"key": "C",
+"text": "A warehouse closed."
+},
+{
+"key": "D",
+"text": "A price was raised."
+}
+],
+"correctAnswer": "B",
+"explanation": "She says the problem began when they changed packaging suppliers in June."
+},
+{
+"id": "l4x-022-q3",
+"questionText": "What will customers receive?",
+"options": [
+{
+"key": "A",
+"text": "A replacement item"
+},
+{
+"key": "B",
+"text": "A free package"
+},
+{
+"key": "C",
+"text": "A phone call"
+},
+{
+"key": "D",
+"text": "A discount code"
+}
+],
+"correctAnswer": "D",
+"explanation": "She says they will send an apology and a discount code."
+}
+]
+},
+{
+"id": "l4x-023",
+"part": 4,
+"type": "Announcement",
+"title": "Train line maintenance",
+"audioScript": "Attention, passengers. Due to track maintenance this weekend, trains on the Green Line will not run between Harbor Station and Millbrook. Replacement buses will leave from the east exit of each station every fifteen minutes.\nPlease allow an extra thirty minutes for your journey. Tickets will be valid on the replacement buses, and passengers traveling with bicycles should note that bikes are not allowed on the buses. Full service will return on Monday morning. For updates, please check our Web site or follow us on social media.",
+"audioFile": "audio/l4x-023.mp3",
+"questions": [
+{
+"id": "l4x-023-q1",
+"questionText": "What is the reason for the change?",
+"options": [
+{
+"key": "A",
+"text": "A staff shortage"
+},
+{
+"key": "B",
+"text": "Bad weather"
+},
+{
+"key": "C",
+"text": "Track maintenance"
+},
+{
+"key": "D",
+"text": "A special event"
+}
+],
+"correctAnswer": "C",
+"explanation": "She says trains will not run due to track maintenance."
+},
+{
+"id": "l4x-023-q2",
+"questionText": "What are passengers advised to do?",
+"options": [
+{
+"key": "A",
+"text": "Allow extra travel time"
+},
+{
+"key": "B",
+"text": "Buy new tickets"
+},
+{
+"key": "C",
+"text": "Travel on Monday"
+},
+{
+"key": "D",
+"text": "Arrive at a different station"
+}
+],
+"correctAnswer": "A",
+"explanation": "She says to allow an extra thirty minutes."
+},
+{
+"id": "l4x-023-q3",
+"questionText": "What is NOT permitted on the replacement buses?",
+"options": [
+{
+"key": "A",
+"text": "Luggage"
+},
+{
+"key": "B",
+"text": "Bicycles"
+},
+{
+"key": "C",
+"text": "Strollers"
+},
+{
+"key": "D",
+"text": "Pets"
+}
+],
+"correctAnswer": "B",
+"explanation": "She says bikes are not allowed on the buses."
+}
+]
+},
+{
+"id": "l4x-024",
+"part": 4,
+"type": "Telephone message",
+"title": "Training room reservation",
+"audioScript": "Hi, this is Jerome from the facilities office, returning your call about the training room. I checked the reservation system, and the room is available on the twentieth. However, the projector there is being repaired, and it may not be ready until the day after.\nIf you need a projector, I could lend you one from the sales department. You'd have to sign it out at the front desk and return it by five. Please let me know by Wednesday so I can mark the room as reserved for you. You can reach me at extension 305.",
+"audioFile": "audio/l4x-024.mp3",
+"questions": [
+{
+"id": "l4x-024-q1",
+"questionText": "Why is the speaker calling?",
+"options": [
+{
+"key": "A",
+"text": "To cancel a class"
+},
+{
+"key": "B",
+"text": "To announce a new rule"
+},
+{
+"key": "C",
+"text": "To report a broken room"
+},
+{
+"key": "D",
+"text": "To respond to a request"
+}
+],
+"correctAnswer": "D",
+"explanation": "He is returning the listener's call about the training room."
+},
+{
+"id": "l4x-024-q2",
+"questionText": "What problem does the speaker mention?",
+"options": [
+{
+"key": "A",
+"text": "A projector is being repaired."
+},
+{
+"key": "B",
+"text": "A date is unavailable."
+},
+{
+"key": "C",
+"text": "A room is too small."
+},
+{
+"key": "D",
+"text": "A key is missing."
+}
+],
+"correctAnswer": "A",
+"explanation": "He says the projector is being repaired and may not be ready."
+},
+{
+"id": "l4x-024-q3",
+"questionText": "What does the speaker ask the listener to do by Wednesday?",
+"options": [
+{
+"key": "A",
+"text": "Return a call to the sales department"
+},
+{
+"key": "B",
+"text": "Sign out a projector"
+},
+{
+"key": "C",
+"text": "Confirm a reservation"
+},
+{
+"key": "D",
+"text": "Submit a payment"
+}
+],
+"correctAnswer": "C",
+"explanation": "He asks the listener to let him know so that he can mark the room as reserved."
+}
+]
+},
+{
+"id": "l4x-025",
+"part": 4,
+"type": "Advertisement",
+"title": "Used furniture sale",
+"audioScript": "Are you moving or redecorating? Come to Second Chance Furniture, where quality used furniture is up to seventy percent off the original price. We carry desks, dining tables, sofas, and bookshelves, all inspected by our team and cleaned before they go on the floor.\nThis weekend only, we're offering free local delivery on any purchase over three hundred dollars. And if you bring in an old piece of furniture in good condition, we'll give you a store credit. We're open from nine to seven, Thursday through Sunday, at 22 Lincoln Road, just behind the post office.",
+"audioFile": "audio/l4x-025.mp3",
+"questions": [
+{
+"id": "l4x-025-q1",
+"questionText": "What kind of business is being advertised?",
+"options": [
+{
+"key": "A",
+"text": "A decorating school"
+},
+{
+"key": "B",
+"text": "A moving company"
+},
+{
+"key": "C",
+"text": "A post office"
+},
+{
+"key": "D",
+"text": "A used furniture store"
+}
+],
+"correctAnswer": "D",
+"explanation": "She advertises quality used furniture at reduced prices."
+},
+{
+"id": "l4x-025-q2",
+"questionText": "How can customers receive free delivery?",
+"options": [
+{
+"key": "A",
+"text": "By joining a club"
+},
+{
+"key": "B",
+"text": "By ordering online"
+},
+{
+"key": "C",
+"text": "By spending over three hundred dollars"
+},
+{
+"key": "D",
+"text": "By visiting on Thursday"
+}
+],
+"correctAnswer": "C",
+"explanation": "She says delivery is free on purchases over three hundred dollars."
+},
+{
+"id": "l4x-025-q3",
+"questionText": "What will customers get for bringing in old furniture?",
+"options": [
+{
+"key": "A",
+"text": "A gift card"
+},
+{
+"key": "B",
+"text": "A store credit"
+},
+{
+"key": "C",
+"text": "A free cleaning"
+},
+{
+"key": "D",
+"text": "A cash payment"
+}
+],
+"correctAnswer": "B",
+"explanation": "She says they will give a store credit."
+}
+]
+},
+{
+"id": "l4x-026",
+"part": 4,
+"type": "Tour talk",
+"title": "Orchard visit instructions",
+"audioScript": "Good morning, and welcome to Hillside Orchards. Today you'll be picking apples, and I want to go over a few simple rules before we head out. First, each family will get a basket, and you may fill it up as you like. The price is five dollars per kilogram, and we'll weigh your basket when you finish.\nSecond, please pick only from the trees with a green ribbon. Those are the ones that are ripe. Finally, there's a map of the orchard in your information packet, and we'll be serving fresh cider at noon next to the barn. Let me know if you have any questions, and enjoy your day.",
+"audioFile": "audio/l4x-026.mp3",
+"questions": [
+{
+"id": "l4x-026-q1",
+"questionText": "Where is the talk taking place?",
+"options": [
+{
+"key": "A",
+"text": "At an orchard"
+},
+{
+"key": "B",
+"text": "At a farmers' market"
+},
+{
+"key": "C",
+"text": "At a cider factory"
+},
+{
+"key": "D",
+"text": "At a supermarket"
+}
+],
+"correctAnswer": "A",
+"explanation": "He welcomes visitors to Hillside Orchards."
+},
+{
+"id": "l4x-026-q2",
+"questionText": "What are the listeners told about the trees?",
+"options": [
+{
+"key": "A",
+"text": "Only some trees may be picked."
+},
+{
+"key": "B",
+"text": "All trees have apples."
+},
+{
+"key": "C",
+"text": "Some trees are closed for the winter."
+},
+{
+"key": "D",
+"text": "The trees are being sold."
+}
+],
+"correctAnswer": "A",
+"explanation": "He says they should pick only from trees with a green ribbon."
+},
+{
+"id": "l4x-026-q3",
+"questionText": "What will happen at noon?",
+"options": [
+{
+"key": "A",
+"text": "The orchard will close."
+},
+{
+"key": "B",
+"text": "Cider will be served."
+},
+{
+"key": "C",
+"text": "A tour will begin."
+},
+{
+"key": "D",
+"text": "Prizes will be given."
+}
+],
+"correctAnswer": "B",
+"explanation": "He says fresh cider will be served at noon next to the barn."
+}
+]
+},
+{
+"id": "l4x-027",
+"part": 4,
+"type": "Speech",
+"title": "Opening a community garden",
+"audioScript": "Thank you all for coming this morning to celebrate the opening of the Riverside Community Garden. A year ago, this was an empty lot filled with trash. Today, thanks to more than two hundred volunteers, it holds forty garden plots and a small playground.\nI want to thank the city council for donating the land and the Rowan Hardware Store for supplying tools. Residents who want a plot can sign up at the table by the gate. Plots are free for the first year. Now, to officially open the garden, I'll ask our youngest volunteer, Mia, to help me cut the ribbon.",
+"audioFile": "audio/l4x-027.mp3",
+"questions": [
+{
+"id": "l4x-027-q1",
+"questionText": "What is being celebrated?",
+"options": [
+{
+"key": "A",
+"text": "A hardware store sale"
+},
+{
+"key": "B",
+"text": "The end of a construction project"
+},
+{
+"key": "C",
+"text": "The opening of a garden"
+},
+{
+"key": "D",
+"text": "A neighborhood cleanup"
+}
+],
+"correctAnswer": "C",
+"explanation": "She thanks everyone for celebrating the opening of the community garden."
+},
+{
+"id": "l4x-027-q2",
+"questionText": "Who donated the land?",
+"options": [
+{
+"key": "A",
+"text": "A local school"
+},
+{
+"key": "B",
+"text": "A group of volunteers"
+},
+{
+"key": "C",
+"text": "A hardware store"
+},
+{
+"key": "D",
+"text": "The city council"
+}
+],
+"correctAnswer": "D",
+"explanation": "She thanks the city council for donating the land."
+},
+{
+"id": "l4x-027-q3",
+"questionText": "What will happen next?",
+"options": [
+{
+"key": "A",
+"text": "A ribbon will be cut."
+},
+{
+"key": "B",
+"text": "Plots will be sold."
+},
+{
+"key": "C",
+"text": "Tools will be distributed."
+},
+{
+"key": "D",
+"text": "A lunch will be served."
+}
+],
+"correctAnswer": "A",
+"explanation": "She asks Mia to help her cut the ribbon."
+}
+]
+},
+{
+"id": "l4x-028",
+"part": 4,
+"type": "Radio broadcast",
+"title": "Weather and event update",
+"audioScript": "And now for your weekend weather update. Tomorrow will start with clear skies and a high of twenty-four degrees, perfect for the Riverfront Food Festival, which opens at eleven. By late afternoon, clouds will roll in, with a chance of showers after six.\nOn Sunday, a cold front will bring rain throughout the day, and temperatures will drop to around fifteen degrees. Festival organizers have announced that the Sunday events will move to the covered market hall. For updates and a map of the new locations, check the festival's Web site. This is Kevin Brandt, and you're listening to Morning Radio.",
+"audioFile": "audio/l4x-028.mp3",
+"questions": [
+{
+"id": "l4x-028-q1",
+"questionText": "What event is mentioned?",
+"options": [
+{
+"key": "A",
+"text": "A sports game"
+},
+{
+"key": "B",
+"text": "A parade"
+},
+{
+"key": "C",
+"text": "A food festival"
+},
+{
+"key": "D",
+"text": "A concert"
+}
+],
+"correctAnswer": "C",
+"explanation": "He mentions the Riverfront Food Festival opening tomorrow."
+},
+{
+"id": "l4x-028-q2",
+"questionText": "What will the weather be like on Sunday?",
+"options": [
+{
+"key": "A",
+"text": "Snowy"
+},
+{
+"key": "B",
+"text": "Clear"
+},
+{
+"key": "C",
+"text": "Windy"
+},
+{
+"key": "D",
+"text": "Rainy"
+}
+],
+"correctAnswer": "D",
+"explanation": "He says a cold front will bring rain throughout the day."
+},
+{
+"id": "l4x-028-q3",
+"questionText": "What will change for Sunday's events?",
+"options": [
+{
+"key": "A",
+"text": "They will start earlier."
+},
+{
+"key": "B",
+"text": "They will be held indoors."
+},
+{
+"key": "C",
+"text": "They will be canceled."
+},
+{
+"key": "D",
+"text": "They will be shortened."
+}
+],
+"correctAnswer": "B",
+"explanation": "He says the events will move to the covered market hall."
+}
+]
+},
+{
+"id": "l4x-029",
+"part": 4,
+"type": "Meeting excerpt",
+"title": "Moving to a four-day week trial",
+"audioScript": "I'm happy to share some news about a trial we are launching this autumn. For three months, employees in the design and finance departments will work four longer days instead of five. Fridays will be free, but our offices will remain open, and a small team will be available to handle urgent issues.\nThe goal is to see whether productivity and morale improve. Everyone taking part will fill out a short survey every month, and I'll report the results to the board in December. If you have concerns, you can talk to your department head or send a message to the human resources office. I'd like to hear your thoughts.",
+"audioFile": "audio/l4x-029.mp3",
+"questions": [
+{
+"id": "l4x-029-q1",
+"questionText": "What is the speaker announcing?",
+"options": [
+{
+"key": "A",
+"text": "A work schedule trial"
+},
+{
+"key": "B",
+"text": "A new building"
+},
+{
+"key": "C",
+"text": "A hiring freeze"
+},
+{
+"key": "D",
+"text": "A salary increase"
+}
+],
+"correctAnswer": "A",
+"explanation": "She describes a three-month trial of a four-day work week."
+},
+{
+"id": "l4x-029-q2",
+"questionText": "What will employees do each month?",
+"options": [
+{
+"key": "A",
+"text": "Take a vacation"
+},
+{
+"key": "B",
+"text": "Submit a report"
+},
+{
+"key": "C",
+"text": "Attend a meeting"
+},
+{
+"key": "D",
+"text": "Complete a survey"
+}
+],
+"correctAnswer": "D",
+"explanation": "She says everyone taking part will fill out a short survey every month."
+},
+{
+"id": "l4x-029-q3",
+"questionText": "What will the speaker do in December?",
+"options": [
+{
+"key": "A",
+"text": "Change a policy"
+},
+{
+"key": "B",
+"text": "Close an office"
+},
+{
+"key": "C",
+"text": "Report to the board"
+},
+{
+"key": "D",
+"text": "Interview applicants"
+}
+],
+"correctAnswer": "C",
+"explanation": "She says she will report the results to the board in December."
+}
+]
+},
+{
+"id": "l4x-030",
+"part": 4,
+"type": "Telephone message",
+"title": "Reply to a catering inquiry",
+"audioScript": "Good afternoon, Ms. Bianchi, this is Anton from Taste of Tuscany Catering. Thank you for your inquiry about the company party on the fourteenth. We'd be delighted to cater it. For fifty guests, I'd suggest our buffet menu, which includes three main dishes and two desserts.\nThe price is thirty-two dollars per person, with a ten percent discount if you confirm by the end of the month. I've attached a sample menu, and I'm available to meet at your office on Tuesday or Thursday afternoon to discuss details. Please call me back at 555-0173.",
+"audioFile": "audio/l4x-030.mp3",
+"questions": [
+{
+"id": "l4x-030-q1",
+"questionText": "Who is the speaker?",
+"options": [
+{
+"key": "A",
+"text": "A restaurant critic"
+},
+{
+"key": "B",
+"text": "A caterer"
+},
+{
+"key": "C",
+"text": "A party guest"
+},
+{
+"key": "D",
+"text": "An event manager"
+}
+],
+"correctAnswer": "B",
+"explanation": "He introduces himself as being from a catering company."
+},
+{
+"id": "l4x-030-q2",
+"questionText": "What does the speaker suggest?",
+"options": [
+{
+"key": "A",
+"text": "A cooking class"
+},
+{
+"key": "B",
+"text": "A buffet menu"
+},
+{
+"key": "C",
+"text": "A smaller group"
+},
+{
+"key": "D",
+"text": "A different date"
+}
+],
+"correctAnswer": "B",
+"explanation": "He suggests the buffet menu for fifty guests."
+},
+{
+"id": "l4x-030-q3",
+"questionText": "How can the listener receive a discount?",
+"options": [
+{
+"key": "A",
+"text": "By booking a larger group"
+},
+{
+"key": "B",
+"text": "By choosing a dessert"
+},
+{
+"key": "C",
+"text": "By paying cash"
+},
+{
+"key": "D",
+"text": "By confirming early"
+}
+],
+"correctAnswer": "D",
+"explanation": "He says there is a ten percent discount if she confirms by the end of the month."
+}
+]
+},
+{
+"id": "l4x-031",
+"part": 4,
+"type": "Announcement",
+"title": "Parking structure inspection",
+"audioScript": "Attention, employees. The Central parking structure will be closed for a safety inspection next Wednesday, from six in the morning until noon. During this time, please use the overflow lot on Carter Street, which has more than two hundred spaces. A free shuttle will bring you to the main entrance every ten minutes.\nBecause of the closure, the building will open fifteen minutes later than usual, at eight fifteen. Anyone who needs a handicapped space should contact the security office by Monday so we can reserve spots near the entrance. Thank you for your cooperation.",
+"audioFile": "audio/l4x-031.mp3",
+"questions": [
+{
+"id": "l4x-031-q1",
+"questionText": "What will happen next Wednesday?",
+"options": [
+{
+"key": "A",
+"text": "A road will be repaired."
+},
+{
+"key": "B",
+"text": "A new lot will open."
+},
+{
+"key": "C",
+"text": "A parking area will be inspected."
+},
+{
+"key": "D",
+"text": "A building will open earlier."
+}
+],
+"correctAnswer": "C",
+"explanation": "He says the Central parking structure will be closed for a safety inspection."
+},
+{
+"id": "l4x-031-q2",
+"questionText": "What can employees do during the closure?",
+"options": [
+{
+"key": "A",
+"text": "Take a shuttle"
+},
+{
+"key": "B",
+"text": "Work from home"
+},
+{
+"key": "C",
+"text": "Park on the street"
+},
+{
+"key": "D",
+"text": "Use public transportation for free"
+}
+],
+"correctAnswer": "A",
+"explanation": "He says a free shuttle will bring them from the overflow lot to the main entrance."
+},
+{
+"id": "l4x-031-q3",
+"questionText": "What should some employees do by Monday?",
+"options": [
+{
+"key": "A",
+"text": "Reserve a shuttle"
+},
+{
+"key": "B",
+"text": "Move their cars"
+},
+{
+"key": "C",
+"text": "Contact security"
+},
+{
+"key": "D",
+"text": "Submit a form"
+}
+],
+"correctAnswer": "C",
+"explanation": "He says anyone who needs a handicapped space should contact security by Monday."
+}
+]
+},
+{
+"id": "l4x-032",
+"part": 4,
+"type": "Announcement",
+"title": "Conference session schedule change",
+"audioScript": "Good morning, everyone, and welcome to day two of the Healthcare Technology Conference. A few quick changes to your program. The session on patient data security has been moved to Room 204 because of the large number of registrations. The afternoon workshop on scheduling software has been postponed by one hour to accommodate our guest speaker's flight.\nLunch will be served in the main hall at the usual time. If you've lost your program, please pick up a new copy at the registration desk.",
+"audioFile": "audio/l4x-032.mp3",
+"questions": [
+{
+"id": "l4x-032-q1",
+"questionText": "Where is the announcement being made?",
+"options": [
+{
+"key": "A",
+"text": "At a hospital"
+},
+{
+"key": "B",
+"text": "At an airport"
+},
+{
+"key": "C",
+"text": "At a school"
+},
+{
+"key": "D",
+"text": "At a conference"
+}
+],
+"correctAnswer": "D",
+"explanation": "She welcomes everyone to day two of the Healthcare Technology Conference."
+},
+{
+"id": "l4x-032-q2",
+"questionText": "Look at the graphic. When will the scheduling software workshop now begin?",
+"options": [
+{
+"key": "A",
+"text": "2:30"
+},
+{
+"key": "B",
+"text": "3:30"
+},
+{
+"key": "C",
+"text": "1:30"
+},
+{
+"key": "D",
+"text": "11:00"
+}
+],
+"correctAnswer": "A",
+"explanation": "She says it has been postponed by one hour, from 1:30 to 2:30."
+},
+{
+"id": "l4x-032-q3",
+"questionText": "What can listeners get at the registration desk?",
+"options": [
+{
+"key": "A",
+"text": "A map"
+},
+{
+"key": "B",
+"text": "A new program"
+},
+{
+"key": "C",
+"text": "A lunch ticket"
+},
+{
+"key": "D",
+"text": "A name tag"
+}
+],
+"correctAnswer": "B",
+"explanation": "She says lost programs can be replaced at the registration desk."
+}
+],
+"graphic": {
+"title": "Conference Program (original)",
+"headers": [
+"Time",
+"Session",
+"Room"
+],
+"rows": [
+[
+"9:30",
+"Opening Keynote",
+"Main Hall"
+],
+[
+"11:00",
+"Patient Data Security",
+"Room 110"
+],
+[
+"1:30",
+"Scheduling Software Workshop",
+"Room 305"
+],
+[
+"3:30",
+"Closing Panel",
+"Main Hall"
+]
+]
+}
+},
+{
+"id": "l4x-033",
+"part": 4,
+"type": "Telephone message",
+"title": "Choosing a color for a wall",
+"audioScript": "Hello Mr. Baker, this is Tessa from Renew Interiors. I'm calling about the paint colors for your office. I've looked at the samples that you picked, and I recommend Ocean Mist, a light blue, for the reception area. The darker color would make the room look smaller, as there is limited natural light.\nThe price depends on the paint type. Since you want something that is easy to clean, I'd suggest the washable option. I've e-mailed the details. If you agree, I can begin work on Monday morning. Please call me back to confirm by tomorrow at five.",
+"audioFile": "audio/l4x-033.mp3",
+"questions": [
+{
+"id": "l4x-033-q1",
+"questionText": "What does the speaker recommend for the reception area?",
+"options": [
+{
+"key": "A",
+"text": "A larger sample"
+},
+{
+"key": "B",
+"text": "A glossy finish"
+},
+{
+"key": "C",
+"text": "A lighter color"
+},
+{
+"key": "D",
+"text": "A darker color"
+}
+],
+"correctAnswer": "C",
+"explanation": "She says the darker color would make the room look smaller, so she recommends Ocean Mist."
+},
+{
+"id": "l4x-033-q2",
+"questionText": "Look at the graphic. How much will the paint cost per gallon?",
+"options": [
+{
+"key": "A",
+"text": "$45"
+},
+{
+"key": "B",
+"text": "$32"
+},
+{
+"key": "C",
+"text": "$58"
+},
+{
+"key": "D",
+"text": "$50"
+}
+],
+"correctAnswer": "A",
+"explanation": "The customer wants something easy to clean, so she suggests the washable option at $45."
+},
+{
+"id": "l4x-033-q3",
+"questionText": "What does the speaker ask the listener to do?",
+"options": [
+{
+"key": "A",
+"text": "Choose a different date"
+},
+{
+"key": "B",
+"text": "Confirm by tomorrow"
+},
+{
+"key": "C",
+"text": "Sign a contract"
+},
+{
+"key": "D",
+"text": "Visit the office"
+}
+],
+"correctAnswer": "B",
+"explanation": "She asks him to call back to confirm by tomorrow at five."
+}
+],
+"graphic": {
+"title": "Paint Options",
+"headers": [
+"Paint Type",
+"Finish",
+"Price per Gallon"
+],
+"rows": [
+[
+"Standard",
+"Matte",
+"$32"
+],
+[
+"Washable",
+"Satin",
+"$45"
+],
+[
+"Premium",
+"Semi-gloss",
+"$58"
+],
+[
+"Eco",
+"Matte",
+"$50"
+]
+]
+}
+},
+{
+"id": "l4x-034",
+"part": 4,
+"type": "Announcement",
+"title": "Workshop sign-up and room map",
+"audioScript": "Hello, everyone. Thank you for attending the annual photography fair. Our hands-on workshops begin at eleven. Landscape Photography will be held in the east wing, and the Portrait Lighting workshop has moved to the room next to the cafeteria because of a scheduling conflict.\nEach workshop is limited to twelve participants, and I'm sorry to say that Portrait Lighting is already full. However, we've added another session in the afternoon. Sign-up sheets are on the table at the entrance. Please bring your camera and a memory card. Tripods are available on loan at the information desk.",
+"audioFile": "audio/l4x-034.mp3",
+"questions": [
+{
+"id": "l4x-034-q1",
+"questionText": "What does the speaker say about the Portrait Lighting workshop?",
+"options": [
+{
+"key": "A",
+"text": "It has been canceled."
+},
+{
+"key": "B",
+"text": "It is free."
+},
+{
+"key": "C",
+"text": "It is outdoors."
+},
+{
+"key": "D",
+"text": "It is full."
+}
+],
+"correctAnswer": "D",
+"explanation": "He says that Portrait Lighting is already full."
+},
+{
+"id": "l4x-034-q2",
+"questionText": "Look at the graphic. When will the additional Portrait Lighting session take place?",
+"options": [
+{
+"key": "A",
+"text": "1:00"
+},
+{
+"key": "B",
+"text": "2:30"
+},
+{
+"key": "C",
+"text": "3:00"
+},
+{
+"key": "D",
+"text": "11:00"
+}
+],
+"correctAnswer": "B",
+"explanation": "The added Portrait Lighting session is listed at 2:30."
+},
+{
+"id": "l4x-034-q3",
+"questionText": "What can listeners borrow?",
+"options": [
+{
+"key": "A",
+"text": "Lenses"
+},
+{
+"key": "B",
+"text": "Cameras"
+},
+{
+"key": "C",
+"text": "Memory cards"
+},
+{
+"key": "D",
+"text": "Tripods"
+}
+],
+"correctAnswer": "D",
+"explanation": "He says tripods are available on loan at the information desk."
+}
+],
+"graphic": {
+"title": "Workshop Rooms",
+"headers": [
+"Workshop",
+"Room",
+"Time"
+],
+"rows": [
+[
+"Landscape Photography",
+"Room 1 (East Wing)",
+"11:00"
+],
+[
+"Portrait Lighting",
+"Room 2 (next to cafeteria)",
+"11:00"
+],
+[
+"Editing Basics",
+"Room 3 (upstairs)",
+"1:00"
+],
+[
+"Portrait Lighting (added)",
+"Room 2",
+"2:30"
+]
+]
+}
+},
+{
+"id": "l4x-035",
+"part": 4,
+"type": "Telephone message",
+"title": "Shipping options for an order",
+"audioScript": "Hi, this is Carlos from Redline Online Store. You placed an order yesterday for a standing desk, and I'm calling to confirm your shipping option. Because the desk is large, standard shipping isn't available. You'll need to choose between two methods, and I'm afraid the cheapest one will take about ten days.\nIf you need it sooner, because you mentioned your office opens next week, I'd recommend the express option, which is guaranteed within four days. Please call me back or reply to the e-mail I sent to let me know which one you prefer, and we'll ship the desk immediately.",
+"audioFile": "audio/l4x-035.mp3",
+"questions": [
+{
+"id": "l4x-035-q1",
+"questionText": "Why is the speaker calling?",
+"options": [
+{
+"key": "A",
+"text": "To confirm a shipping choice"
+},
+{
+"key": "B",
+"text": "To cancel an order"
+},
+{
+"key": "C",
+"text": "To report a price increase"
+},
+{
+"key": "D",
+"text": "To offer a refund"
+}
+],
+"correctAnswer": "A",
+"explanation": "He says he is calling to confirm the shipping option."
+},
+{
+"id": "l4x-035-q2",
+"questionText": "Look at the graphic. How much will the listener probably pay for shipping?",
+"options": [
+{
+"key": "A",
+"text": "$0"
+},
+{
+"key": "B",
+"text": "$40"
+},
+{
+"key": "C",
+"text": "$120"
+},
+{
+"key": "D",
+"text": "$75"
+}
+],
+"correctAnswer": "C",
+"explanation": "The listener needs the desk before next week, so the express option at $120 fits."
+},
+{
+"id": "l4x-035-q3",
+"questionText": "What does the speaker ask the listener to do?",
+"options": [
+{
+"key": "A",
+"text": "Return an item"
+},
+{
+"key": "B",
+"text": "Send a payment"
+},
+{
+"key": "C",
+"text": "Visit the store"
+},
+{
+"key": "D",
+"text": "Reply to an e-mail"
+}
+],
+"correctAnswer": "D",
+"explanation": "He asks the listener to call back or reply to the e-mail with a preference."
+}
+],
+"graphic": {
+"title": "Shipping Options for Large Items",
+"headers": [
+"Method",
+"Delivery Time",
+"Cost"
+],
+"rows": [
+[
+"Economy Freight",
+"10 days",
+"$40"
+],
+[
+"Priority Freight",
+"6 days",
+"$75"
+],
+[
+"Express Freight",
+"4 days",
+"$120"
+]
+]
+}
+},
+{
+"id": "l4x-036",
+"part": 4,
+"type": "Meeting excerpt",
+"title": "Quarterly budget by department",
+"audioScript": "Thank you for joining the budget review. As you can see in the chart, we've spent most of our funds on equipment this quarter. Marketing spending was lower than planned, mainly because the television campaign was postponed until next quarter.\nTraining costs were higher than expected, but I think it was worth it because the new software is already saving time. Next quarter, I'd like to shift some funds from travel to technical support, since our team is traveling less. Please send me your proposals by Friday.",
+"audioFile": "audio/l4x-036.mp3",
+"questions": [
+{
+"id": "l4x-036-q1",
+"questionText": "What does the speaker say about marketing spending?",
+"options": [
+{
+"key": "A",
+"text": "It was on target."
+},
+{
+"key": "B",
+"text": "It was higher than planned."
+},
+{
+"key": "C",
+"text": "It was lower than planned."
+},
+{
+"key": "D",
+"text": "It will be increased."
+}
+],
+"correctAnswer": "C",
+"explanation": "She says marketing spending was lower because the television campaign was postponed."
+},
+{
+"id": "l4x-036-q2",
+"questionText": "Look at the graphic. Which category had the largest increase over its planned amount?",
+"options": [
+{
+"key": "A",
+"text": "Travel"
+},
+{
+"key": "B",
+"text": "Training"
+},
+{
+"key": "C",
+"text": "Equipment"
+},
+{
+"key": "D",
+"text": "Marketing"
+}
+],
+"correctAnswer": "B",
+"explanation": "Training was planned at 30 and came in at 41, which is the only category above its plan."
+},
+{
+"id": "l4x-036-q3",
+"questionText": "What does the speaker ask the listeners to do?",
+"options": [
+{
+"key": "A",
+"text": "Send some proposals"
+},
+{
+"key": "B",
+"text": "Buy new software"
+},
+{
+"key": "C",
+"text": "Cancel a campaign"
+},
+{
+"key": "D",
+"text": "Approve a budget"
+}
+],
+"correctAnswer": "A",
+"explanation": "She asks them to send her their proposals by Friday."
+}
+],
+"graphic": {
+"title": "Quarterly Spending (thousands of dollars)",
+"headers": [
+"Category",
+"Planned",
+"Actual"
+],
+"rows": [
+[
+"Equipment",
+"120",
+"118"
+],
+[
+"Marketing",
+"90",
+"62"
+],
+[
+"Training",
+"30",
+"41"
+],
+[
+"Travel",
+"50",
+"34"
+]
+]
+}
+}
+]

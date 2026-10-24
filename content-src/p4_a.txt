@@ -1,0 +1,66 @@
+@Telephone message|Rescheduled equipment delivery|us
+M: Hello, this is Victor from Brightline Medical Supply, calling for Ms. Hartley. I'm sorry to say that the delivery of your new examination tables, planned for tomorrow, has to be pushed back. A truck broke down this morning, and we're short of drivers.
+M: We can now deliver on Thursday between nine and noon. If that doesn't work for your staff, please call me at extension 218, and we'll find another time. We will also take twenty dollars off the delivery fee because of the delay. Thank you for your patience.
+Q|What is the purpose of the message?|To announce a delay|To request a payment|To advertise a sale|To confirm an order|He says the delivery has to be pushed back.
+Q|What caused the problem?|A vehicle broke down.|An order was lost.|A road was closed.|A factory closed.|He says a truck broke down and they are short of drivers.
+Q|What will the listener receive?|A reduced delivery fee|A free table|A refund for the order|A gift certificate|He says they will take twenty dollars off the delivery fee.
+@Announcement|Store closing early|us
+W: Attention, shoppers. The Pembroke Department Store will be closing one hour earlier than usual this evening, at eight o'clock, because of the storm warning in our area. Please bring your final purchases to the registers within the next fifteen minutes.
+W: Customers who have items on hold may collect them tomorrow morning when we open at nine. Parking in the east garage will remain free until midnight. We apologize for the inconvenience and thank you for shopping with us.
+Q|Why is the store closing early?|A storm is expected.|There is a staff meeting.|An inventory count is scheduled.|A sale has ended.|She says the closing is because of the storm warning in the area.
+Q|What are customers asked to do within fifteen minutes?|Go to the registers|Move their cars|Return their items|Fill out a survey|She asks them to bring their final purchases to the registers.
+Q|What will happen tomorrow morning?|Held items can be collected.|Parking will be free.|A sale will start.|A new store will open.|She says customers with items on hold may collect them when the store opens at nine.
+@Radio broadcast|Traffic and road work report|uk
+M: Good morning, commuters, and welcome to the Eight O'Clock Traffic Report. If you're heading into the city center, expect delays on Bridge Road, where one lane is closed for repairs until the end of the week.
+M: The best alternative is the ring road, though traffic is heavy near the stadium because of tonight's concert. Trains on the Blue Line are running on time, and extra buses have been added on Route 12. Stay tuned for the weather forecast right after the news.
+Q|Who is the audience for this report?|People traveling to work|Tourists|Construction workers|Concert fans|He addresses commuters heading into the city center.
+Q|What does the speaker recommend?|Using the ring road|Taking the Blue Line|Avoiding Route 12|Leaving after the concert|He says the best alternative to Bridge Road is the ring road.
+Q|What will the listeners hear next?|A weather forecast|A concert review|A news summary|A music program|He says to stay tuned for the weather forecast right after the news.
+@Advertisement|Grand opening of a bicycle shop|us
+W: Are you ready to ride? Come to the grand opening of Spoke and Wheel, the newest bicycle shop on Maple Street, this Saturday from ten to six. We carry more than two hundred bikes, from children's models to electric commuter bikes.
+W: The first fifty customers will receive a free helmet, and everyone who attends gets a coupon for fifteen percent off any repair service. There will also be free test rides and live music in the parking lot. Visit our Web site to see the full list of events.
+Q|What is being advertised?|A new store|A cycling race|A repair class|A music festival|She announces the grand opening of a bicycle shop.
+Q|What will the first fifty customers get?|A helmet|A bicycle|A discount card|A music ticket|She says the first fifty customers will receive a free helmet.
+Q|How can listeners find a list of events?|By visiting a Web site|By calling the store|By reading a flyer|By stopping by on Friday|She tells listeners to visit the Web site for the full list of events.
+@Tour talk|Welcome to a historic mill museum|us
+M: Welcome to the Kinsley Textile Mill, ladies and gentlemen. My name is Ravi, and I'll be your guide today. The mill was built in 1892, and at its peak it employed nearly eight hundred people. Today it is a museum, and many of the machines still work.
+M: Our tour begins on the ground floor, where you'll see the weaving machines in action. Please stay behind the yellow lines, and note that photographs are welcome, but flash photography is not allowed near the looms. After the tour, you're invited to visit the gift shop, which features scarves made on the same machines.
+Q|Where is the talk most likely taking place?|At a museum|At a factory outlet|At a school|At an airport|He welcomes visitors to the Kinsley Textile Mill, which is now a museum.
+Q|What are the listeners asked not to do?|Use flash photography|Touch the displays|Bring food|Speak loudly|He says that flash photography is not allowed near the looms.
+Q|What can listeners do after the tour?|Visit a gift shop|Operate a machine|Join a workshop|Buy a ticket|He says they are invited to visit the gift shop.
+@Meeting excerpt|Quarterly sales results|us
+W: Good morning, everyone. Thank you for coming. I'd like to begin with a quick look at last quarter's numbers. Total sales were up eight percent, mostly thanks to the new line of kitchen appliances. However, our sales in the northern region fell short of the target by about five percent.
+W: To address this, I've asked Mr. Delgado to lead a small team to visit our top ten northern customers next month. We'll listen to their concerns and see how we can help. Before we start the discussion, please take a moment to look at the chart in your handout.
+Q|What is the main topic of the talk?|Sales results|A hiring plan|A product design|A new policy|She starts with a review of last quarter's numbers.
+Q|What does the speaker say about the northern region?|It did not reach its goal.|It is the largest market.|It has a new manager.|It sold the most appliances.|She says it fell short of the target by about five percent.
+Q|What does the speaker ask the listeners to do?|Look at a handout|Visit customers today|Vote on a proposal|Introduce themselves|She asks them to look at the chart in the handout.
+@Recorded message|Pharmacy phone menu|us
+W: Thank you for calling Greenfield Pharmacy. Our hours this week are Monday through Friday, eight a.m. to eight p.m., and Saturday, nine a.m. to five p.m. We are closed on Sunday.
+W: To refill a prescription, press one. To speak with a pharmacist, press two. To hear about our flu shot clinic, press three. If you are calling about a prescription that is ready for pickup, you do not need to call back. Just bring a photo ID to the counter. For all other questions, please stay on the line.
+Q|Where would the message most likely be heard?|On a pharmacy's phone line|At a hospital reception|In a store aisle|On a radio program|She says "Thank you for calling Greenfield Pharmacy" and lists phone options.
+Q|What should callers do to speak with a pharmacist?|Press two|Press one|Press three|Stay on the line|She says to press two to speak with a pharmacist.
+Q|What should callers bring to collect a prescription?|A photo ID|A receipt|A doctor's note|An insurance card|She says to bring a photo ID to the counter.
+@Speech|Retirement of a department head|us
+M: Friends and colleagues, it's a pleasure to be here tonight to honor Margaret Ellis, who is retiring after thirty-one years with our company. Margaret began her career as an assistant in the accounting department and rose to lead it for the last twelve years.
+M: Under her leadership, we adopted our first computerized billing system, and the department won the company's excellence award three times. More importantly, she has always taken the time to mentor new employees. Please join me in raising a glass to Margaret, and in wishing her a wonderful retirement.
+Q|What is the speaker doing?|Honoring a colleague|Opening a new office|Announcing a promotion|Thanking customers|He is honoring Margaret Ellis, who is retiring.
+Q|What did Margaret Ellis do during her career?|She led a department.|She designed software.|She opened a branch.|She trained customers.|He says she led the accounting department for the last twelve years.
+Q|What does the speaker ask the listeners to do?|Raise a glass|Sign a card|Join a committee|Give a donation|He asks them to join him in raising a glass.
+@Telephone message|Dental appointment reminder|us
+W: This is a reminder from Dr. Okonkwo's dental office for Mr. Lund. You have an appointment this Friday at two thirty. Please arrive ten minutes early to complete a short health form. If you would like to confirm, press one. To reschedule, press two.
+W: Also, please note that our office has moved. We're now located at 410 Cedar Avenue, on the second floor, in the same building as the pharmacy. There is free parking behind the building. Thank you, and we look forward to seeing you.
+Q|What is the message mainly about?|An appointment|A bill|A new service|A product recall|She is reminding him of an appointment on Friday.
+Q|What is Mr. Lund asked to do?|Arrive early|Bring his records|Pay in advance|Call the pharmacy|She asks him to arrive ten minutes early to complete a form.
+Q|What has changed?|The location of the office|The dentist's name|The appointment time|The fees|She says the office has moved to 410 Cedar Avenue.
+@Announcement|Airport gate change|uk
+W: Attention passengers on Skyway flight 482 to Toronto. Please note a gate change. The flight will now depart from Gate 27 instead of Gate 14. Boarding will begin at four fifteen, about twenty minutes later than planned, due to a late arrival of the aircraft.
+W: Passengers in rows twenty and above will be invited to board first. Please have your boarding pass and passport ready. Gate 27 is located at the end of Terminal B, and a moving walkway will take you there. We apologize for the change and thank you for your understanding.
+Q|What has changed?|The departure gate|The destination|The airline|The terminal|She announces that the flight will now depart from Gate 27 instead of Gate 14.
+Q|Why is boarding delayed?|The aircraft arrived late.|There is bad weather.|A gate is closed.|Some luggage is missing.|She says it is due to the late arrival of the aircraft.
+Q|Which passengers will board first?|Those seated in the rear rows|Those traveling with children|Those holding business tickets|Those with large bags|She says passengers in rows twenty and above will board first.
+@Workshop introduction|Presentation skills class|us
+M: Good afternoon, everyone, and welcome to Presenting with Confidence. I'm Daniel Ortiz, and for the next three hours I'll be helping you improve the way you speak in front of groups. We'll start with a short exercise, and then we'll look at how to organize a talk so that people remember it.
+M: Everyone will deliver a two-minute practice talk, and I'll record each one on video so you can watch yourself afterward. Please don't worry. Nobody else will see the videos. Let's begin by moving the chairs into a circle, and then I'll hand out the first exercise.
+Q|What is the purpose of the workshop?|To improve speaking skills|To teach video editing|To discuss a company policy|To introduce new staff|He says he will help them improve how they speak in front of groups.
+Q|What will each participant do?|Give a short talk|Write a report|Interview a colleague|Lead a discussion|He says everyone will deliver a two-minute practice talk.
+Q|What does the speaker say about the videos?|Only the speaker will see them.|They will be posted online.|They will be shown to the class.|They will be sent to managers.|He says nobody else will see the videos.

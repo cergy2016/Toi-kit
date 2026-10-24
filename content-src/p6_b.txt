@@ -1,0 +1,117 @@
+@Email|Visitor Badge Procedure
+To: All Staff
+From: Security Office
+Subject: Visitor badges
+Effective Monday, every visitor to the building must wear a badge at all times. Please [1] your guests at the front desk, where they will sign in and receive a badge. Visitors who arrive without an appointment will be asked to wait in the lobby. [2], staff members are responsible for accompanying their visitors on all floors. Badges must be returned when the visitor [3]. We [4] that these steps will keep our workplace safe.
+Q1|meet|met|meeting|meets|After "please", the base verb is needed.
+Q2|In addition|Instead|For example|Nevertheless|"In addition" adds another rule to the procedure.
+Q3|leaves|leaving|left|will leave|After "when", a present-tense verb is used for a future event.
+Q4|believe|believing|belief|believes|After the subject "We", a present-tense plural verb is needed.
+@Notice|Water Supply Interruption
+Notice to Residents of Fairview Heights
+The water supply to all buildings on Fairview Heights will be [1] on Tuesday, April 9, from 9:00 a.m. to 1:00 p.m. The interruption is necessary so that workers can replace an old pipe on Orchard Lane. [2]. Residents are advised to store enough water for cooking and drinking before the work begins. Water service will return to normal as soon as the work is [3]. For any questions, please [4] the Public Works Department.
+Q1|shut off|shutting off|shuts off|shut off to|After "will be", the past participle "shut off" forms the passive.
+Q2|We apologize for any inconvenience this may cause.|The pipe was installed in the year 1975.|Orchard Lane is a popular shopping street.|Many residents have lived here for decades.|The sentence should respond to the problem caused by the work.
+Q3|completed|completing|complete|completion|After "is", the past participle completes the passive.
+Q4|contact|contacts|contacting|contacted|After "please", the base verb is needed.
+@Letter|Membership Renewal
+Dear Ms. Okafor,
+Your membership at the Greenway Fitness Club will expire on June 30. To continue enjoying our facilities, please renew [1] the end of the month. As a long-time member, you are [2] for a twenty percent discount if you renew for a full year. [3], this offer is available only until June 15. You can renew online or at the front desk. If you have [4] questions about the new rates, we would be happy to help.
+Sincerely,
+Customer Service Team
+Q1|by|until|during|since|"By the end of the month" sets a deadline.
+Q2|eligible|eligibly|eligibility|eligibleness|After "are", an adjective is needed.
+Q3|However|Therefore|Likewise|Moreover|"However" introduces a limit on the offer.
+Q4|any|each|every|another|"Any" is used with plural nouns in an if-clause.
+@Article|New Public Library Opens
+The city's new public library will open its doors on Saturday, August 3. Located next to Riverside Park, the building has three floors and room for more than one hundred thousand books. [1] a large children's section, the library also offers a quiet study area and a small café. Librarian Helen Ruiz said that the building was designed to be [2] to everyone, including people with limited mobility. [3]. Visitors can register for free library cards at the information desk. The grand opening ceremony will [4] at ten o'clock.
+Q1|Besides|Despite|Unless|Whereas|"Besides a large children's section" adds more features.
+Q2|accessible|accessibly|access|accessing|After "be", an adjective is needed.
+Q3|Ramps and elevators have been installed on every floor.|The park next door was built in 1990.|Books are made of paper.|The café sells coffee and cakes.|The sentence should support the claim about accessibility.
+Q4|begin|beginning|begins|began|After "will", the base verb is needed.
+@Advertisement|Mountain View Hotel Spring Package
+Escape the city this spring with the Mountain View Hotel's special package. For just two hundred dollars per night, you will receive a [1] room with a view of the lake, breakfast for two, and free use of our spa. [2], guests who book three nights or more will enjoy a free dinner at our restaurant. The offer is valid from April 1 through May 31. Rooms are limited, so we [3] that you book early. To make a reservation, [4] our Web site or call 555-0147.
+Q1|spacious|space|spaciously|spaciousness|Before the noun "room", an adjective is needed.
+Q2|Additionally|Otherwise|Instead|Meanwhile|"Additionally" adds another benefit to the package.
+Q3|recommend|recommends|recommending|recommendation|After the subject "we", a present-tense plural verb is needed.
+Q4|visit|visiting|visited|visits|After "to make a reservation", an imperative verb is needed.
+@Memo|Remote Work Equipment
+To: All Employees
+From: Information Technology
+Employees who work from home at least two days a week may now request a company laptop and a second monitor. Requests must be [1] through the IT portal and approved by a manager. [2]. Employees should expect delivery within ten business days of approval. All equipment remains company [3] and must be returned when employment ends. If you have a technical problem, you can reach the help desk [4] e-mail or telephone.
+Q1|submitted|submitting|submit|submission|After "must be", the past participle is needed.
+Q2|Equipment will be shipped directly to the employee's home.|The IT department has twenty-five employees.|Many companies use cloud software.|The portal was launched in 2018.|The sentence should give more information about the process after approval.
+Q3|property|properties|propertied|proper|"Company property" is the correct noun phrase.
+Q4|by|on|at|of|"By e-mail or telephone" shows the method.
+@Email|Conference Registration Confirmation
+Dear Mr. Haddad,
+Thank you for registering for the Asia Pacific Trade Conference. Your registration is now [1]. The conference will take place at the Marina Convention Center from June 12 to 14. [2], please bring a photo ID to the registration desk to collect your badge. A shuttle will run between the conference center and the main hotels [3] the three days. If you need to cancel, you must notify us in writing [4] May 30 to receive a full refund.
+Best regards,
+Conference Office
+Q1|complete|completely|completion|completing|After "is", an adjective is needed.
+Q2|On arrival|In conclusion|By contrast|As a result|"On arrival" tells when the photo ID is needed.
+Q3|throughout|since|until|between|"Throughout the three days" means during the whole period.
+Q4|before|during|beside|among|"Before May 30" sets the deadline.
+@Announcement|Employee Wellness Program
+We are excited to announce the launch of our new employee wellness program. Starting next month, all staff will have access to a discounted gym membership, free yoga classes, and a monthly health [1]. Employees who participate for six months will [2] a bonus day off. [3]. Participation is voluntary, and all personal health information will be kept confidential. We hope that many of you will [4] advantage of these new benefits.
+Q1|screening|screen|screens|screened|After "health", a noun is needed.
+Q2|receive|receiving|received|receives|After "will", the base verb is needed.
+Q3|Details can be found on the company intranet.|The gym was built in 2005.|Yoga originated in India.|Employees are paid every two weeks.|The sentence should lead the reader to more information.
+Q4|take|make|do|get|"Take advantage of" is the correct expression.
+@Letter|Supplier Agreement Extension
+Dear Mr. Lindgren,
+Thank you for your letter regarding the extension of our supply agreement. We have [1] reviewed the terms, and we would be glad to continue working together. [2], we would like to discuss a few changes to the delivery schedule. Currently, shipments arrive on the first and fifteenth of each month. We would prefer [3] shipments weekly, since our storage space is limited. Please let us know when you are available to [4] this proposal.
+Yours sincerely,
+Paula Nunez
+Q1|carefully|careful|care|caring|An adverb is needed between "have" and the participle "reviewed".
+Q2|However|Because|Unless|Therefore|"However" introduces a contrast with the previous welcome statement.
+Q3|to receive|receiving of|receive|received|"Would prefer" is followed by "to + verb".
+Q4|discuss|discussion|discussing|discussed|After "to", the base verb is needed.
+@Article|Electric Buses Arrive
+Starting next week, the city transit authority will put twenty new electric buses into service on routes 4, 9, and 15. The buses are [1] quieter than diesel models and produce no exhaust. [2], the buses can travel up to three hundred kilometers on a single charge. Transit officials say that the [3] will save about two million dollars in fuel and maintenance over the next decade. [4]. Passengers will notice that the new buses have free wireless Internet and charging ports at every seat.
+Q1|much|many|very|most|"Much quieter" modifies the comparative adjective.
+Q2|In addition|Nevertheless|For instance|Likewise|"In addition" introduces another advantage.
+Q3|change|changing|changed|changes to|After "the", a noun is needed.
+Q4|Other improvements are also visible inside.|The authority was founded in 1960.|Many cities have rivers.|Diesel prices rose last year.|The sentence introduces the passenger features that follow.
+@Instructions|Using the Conference Phone
+To start a conference call, first press the green button on the base of the phone. Wait for the tone, and then [1] the number of the first participant. When the call is answered, press the "Add" button and repeat the process for each additional person. [2]. If the sound quality is poor, move the phone [3] from the computer or other devices. To end the call, press the red button once. Do not unplug the unit while it is [4].
+Q1|dial|dialing|dialed|dials|In instructions, the base verb is used.
+Q2|Up to six people can join the same call.|The phone was manufactured in Germany.|Conference rooms are available on the second floor.|The red button is larger than the green one.|The sentence should give a helpful limit or fact about the procedure.
+Q3|away|beside|toward|inside|"Away from" gives the correct direction for reducing interference.
+Q4|operating|operated|operation|operate|After "is", the present participle shows the current action.
+@Email|Delayed Job Start Date
+Dear Ms. Patel,
+I am writing to confirm the new start date for your position as research assistant. Because of a delay in processing your work permit, your first day will now be March 18 [1] March 4. I apologize for the inconvenience. [2]. In the meantime, we have sent a copy of the employee handbook to your e-mail address. Please read it carefully and [3] any questions to me. On your first day, you should report to the front desk at nine o'clock, and someone will [4] you to your department.
+Best wishes,
+Karen Lowe, Human Resources
+Q1|instead of|rather|in spite|as well|"Instead of March 4" shows the replaced date.
+Q2|We understand that you may have made travel plans.|The research department has a new director.|Work permits are issued by the government.|The office closes at six.|The sentence should show concern for the delay's effect on the employee.
+Q3|send|sending|sent|sends|After "and" in a polite request, the base verb continues the imperative.
+Q4|take|bring|go|come|"Take you to your department" means to guide someone there.
+@Notice|Fire Drill Reminder
+A fire drill will be held on Wednesday, October 16, at 10:30 a.m. When the alarm sounds, all employees [1] leave the building immediately by the nearest exit. Do not use the elevators. Please walk to the assembly point in the parking lot, [2] each department leader will check attendance. The drill should take no more than [3] minutes. [4]. Visitors will be guided by their hosts, and anyone who needs assistance should inform the safety officer in advance.
+Q1|must|can|would|may|"Must" expresses a required action.
+Q2|where|when|which|what|"Where" refers to the place, the parking lot.
+Q3|fifteen|fifteenth|fifteens|a fifteen|A cardinal number is needed before "minutes".
+Q4|Everyone is required to take part.|The parking lot was resurfaced recently.|The safety officer joined the company last year.|Wednesday is a busy day.|The sentence should state who must participate.
+@Review|Cafe Bella Review
+Cafe Bella, which opened last month on Hayes Street, is already a favorite among local professionals. The menu is [1] but well-chosen, with six salads, five sandwiches, and a daily soup. [2], the prices are lower than at most other cafés in the area. The staff is friendly and fast, and the dining room is bright and clean. [3]. The only complaint is that the café can become crowded at lunchtime. Customers who want to avoid the rush [4] arrive before noon.
+Q1|short|shortly|shortness|shorten|After "is", an adjective is needed.
+Q2|Moreover|Otherwise|Despite|For example|"Moreover" adds another positive point.
+Q3|The coffee is also freshly roasted every morning.|The street was named after a mayor.|The café has two doors.|Coffee beans come from many countries.|The sentence should add another positive detail about the café.
+Q4|should|will to|might to|ought|"Should arrive" gives advice.
+@Announcement|Online Banking Upgrade
+Starting on May 20, First Harbor Bank will [1] a new online banking system. The new system will be easier to use and will offer additional security features. [2], online banking will be unavailable from midnight on May 18 until six a.m. on May 20 while we make the change. Customers will [3] to create a new password the first time they log in. [4]. For help, please call our customer service line or visit any branch.
+Q1|introduce|introducing|introduced|introduces|After "will", the base verb is needed.
+Q2|Please note that|Even though|As soon as|In case of|"Please note that" introduces the necessary warning.
+Q3|need|needs|needed|needing|After "will", the base verb is needed.
+Q4|Instructions will be sent to your e-mail address.|The bank has branches in several cities.|Banking began in ancient times.|Interest rates changed last year.|The sentence should tell customers where to find directions for the new password.
+@Email|Office Supply Order Problem
+Dear Customer Service,
+I am writing about order number 78114, which I [1] on March 3. The shipment arrived yesterday, but it contained only half of the items I ordered. [2], the printer paper and the ink cartridges are missing. Because we are running out of both items, I need them [3]. [4]. Please let me know when I can expect them. If they cannot be sent within three days, I would like to cancel the missing items and receive a refund.
+Regards,
+Tomas Weber
+Q1|placed|placing|have placed|am placing|The past simple verb refers to a specific past date.
+Q2|In particular|By contrast|In the meantime|On the other hand|"In particular" specifies which items are missing.
+Q3|urgently|urgent|urgency|more urgent|An adverb modifies the verb "need".
+Q4|I would appreciate it if you could send them immediately.|I have been a customer for six years.|Office supplies are sold in many stores.|Your Web site was easy to use.|The sentence should make a request that follows from the problem.

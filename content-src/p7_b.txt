@@ -1,0 +1,165 @@
+@Single|Text-message chain|Moving a delivery
+Ana Ruiz [10:12 a.m.]
+Hi Colin, the supplier says our paper delivery will come at three instead of noon. Can you still be there?
+Colin Abbott [10:14 a.m.]
+I have a client call until two thirty. I could meet the driver by three, but I'd have to leave right after.
+Ana Ruiz [10:15 a.m.]
+That's fine. Everything is already counted and marked. The driver just needs a signature.
+Colin Abbott [10:17 a.m.]
+Then I'm your man. Which door should I use?
+Ana Ruiz [10:18 a.m.]
+The loading dock on the east side. I'll text you a photo of the sign so you can't miss it.
+Colin Abbott [10:19 a.m.]
+Perfect. Sounds like a plan.
+Q|Why does Ms. Ruiz contact Mr. Abbott?|To ask him to receive a shipment|To cancel a delivery|To report a supplier's mistake|To ask for a day off|She tells him the delivery will come at three and asks if he can be there.
+Q|At 10:17 a.m., what does Mr. Abbott most likely mean when he writes, "Then I'm your man"?|He is willing to handle the task.|He wants to speak with the driver.|He prefers to work alone.|He plans to ask for help.|He agrees to meet the driver after hearing that only a signature is needed.
+Q|What will Ms. Ruiz send to Mr. Abbott?|A picture|A signature|A map|An invoice|She says she will text him a photo of the sign.
+@Single|Text-message chain|A printing problem before a meeting
+Leila Karim [8:41 a.m.]
+Jun, the handouts for the board meeting are printing with the wrong logo. The meeting starts at ten.
+Jun Park [8:43 a.m.]
+Oh no. I used last year's template. Do you still have the new file?
+Leila Karim [8:44 a.m.]
+It's in the shared folder under Branding. I just found it.
+Hector Silva [8:46 a.m.]
+I can reprint them. The copy room is free until nine thirty. How many do we need?
+Leila Karim [8:47 a.m.]
+Twenty-five. Thank you, Hector. I owe you one.
+Jun Park [8:48 a.m.]
+I'll update the agenda too. It has the old address.
+Hector Silva [8:49 a.m.]
+Send me the files by nine and I'll bring everything to the boardroom.
+Q|What problem do the writers discuss?|Documents show an old logo.|A meeting was canceled.|The copy room is closed.|A folder is empty.|Ms. Karim says the handouts are printing with the wrong logo.
+Q|What does Mr. Park say he will do?|Revise an agenda|Reprint the handouts|Call a board member|Reserve a room|He says he will update the agenda because it has the old address.
+Q|What is suggested about Mr. Silva?|He will deliver the printed materials.|He created the template.|He is a member of the board.|He is leaving the company.|He says he will bring everything to the boardroom.
+@Single|Text-message chain|Directions to a site visit
+Maya Chen [1:05 p.m.]
+Mr. Bryce, we're about ten minutes from the construction site, but the GPS shows a road closure on Dock Street.
+Edward Bryce [1:07 p.m.]
+Yes, they're repaving it. Take Pine Avenue instead and turn left at the gas station.
+Maya Chen [1:08 p.m.]
+Got it. Is there parking near the entrance?
+Edward Bryce [1:10 p.m.]
+Only for trucks. Visitors park in the lot behind the pharmacy, and it's a two-minute walk. Please wear closed shoes. I'll have hard hats ready.
+Maya Chen [1:11 p.m.]
+Thanks. My colleague will join us, but she's running a few minutes behind.
+Edward Bryce [1:12 p.m.]
+No problem. We'll start the tour when she arrives.
+Q|Why is Dock Street unavailable?|It is being repaved.|It is flooded.|It is hosting an event.|It is closed for a parade.|Mr. Bryce says they are repaving it.
+Q|Where should visitors park?|Behind a pharmacy|At the construction site entrance|On Pine Avenue|Next to the gas station|Visitors park in the lot behind the pharmacy.
+Q|At 1:12 p.m., what does Mr. Bryce mean when he writes, "No problem"?|He will wait for a colleague.|He can change the route.|He has extra hard hats.|He will start the tour early.|He says they will start the tour when the colleague arrives.
+@Single|Text-message chain|Staffing a trade show booth
+Priya Nair [9:30 a.m.]
+Team, we still need two people to work our booth at the trade show on Friday. Anyone free from noon to four?
+Oscar Lund [9:33 a.m.]
+I can take noon to two, but I have a dentist appointment at two thirty.
+Dina Ali [9:35 a.m.]
+I can cover two to four. I've done this show before, so I know where the registration desk is.
+Priya Nair [9:36 a.m.]
+Perfect. Then Oscar and Dina are set. Please bring business cards and wear your company shirts.
+Oscar Lund [9:38 a.m.]
+Will there be any product samples?
+Priya Nair [9:40 a.m.]
+Yes. They're being delivered to the hotel on Thursday. I'll pick them up and bring them to the booth.
+Q|What is Ms. Nair trying to do?|Find staff for an event|Reserve a hotel|Order samples|Change a work schedule|She asks who is free to work the booth on Friday.
+Q|Why does Mr. Lund NOT work the whole shift?|He has an appointment.|He is traveling.|He is meeting a client.|He has another job.|He says he has a dentist appointment at two thirty.
+Q|What will Ms. Nair do on Thursday or Friday?|Collect some samples|Print business cards|Register the team|Contact a client|She says she will pick up the samples and bring them to the booth.
+@Single|Article|Coffee Roaster Expands
+Portland — Bluehill Roasters, a local coffee company founded eight years ago, announced yesterday that it will open a second roasting facility in the Eastport district. The new site will triple the company's production capacity and create twenty-five jobs.
+"We have been turning away orders for months," said founder Adaeze Obi. "Our current roaster runs nearly around the clock, and we cannot take on new restaurant customers." Ms. Obi said the company has secured a loan from a regional bank to purchase two industrial roasters and to renovate the building, a former printing shop.
+Bluehill's coffee is sold at more than sixty cafés across the state. The company also operates a small shop and tasting room on Harbor Street. Under the expansion plan, the shop will keep its current location, but its tasting room will move to the new facility. Production at Eastport is scheduled to begin in January, and the company will begin hiring in October.
+Q|What is the article mainly about?|A company's plan to grow|A new restaurant opening|A change of ownership|A bank's new policy|The article reports that Bluehill Roasters will open a second facility.
+Q|What does Ms. Obi say about the current roaster?|It is used almost constantly.|It is about to be replaced.|It makes only decaffeinated coffee.|It was moved to Eastport.|She says it runs nearly around the clock.
+Q|In the second paragraph, the word "secured" is closest in meaning to|obtained|protected|locked|repaired|"Secured a loan" means obtained a loan.
+Q|What will happen to the tasting room?|It will move to the new facility.|It will close permanently.|It will remain on Harbor Street.|It will become a café.|The article says its tasting room will move to the new facility.
+@Single|Email|Negotiating a new office lease
+From: Joanna Wick
+To: Raymond Faulkner
+Date: September 6
+Subject: Lease proposal for Suite 410
+Dear Mr. Faulkner,
+Thank you for showing us Suite 410 on Tuesday. [1] Our team of fourteen would fit comfortably, and the location near the station would make commuting easier for most staff. [2]
+However, the monthly rent of $7,800 is above our budget. I understand that similar suites in the building were leased for less last year. [3] Would you consider lowering the rent to $7,200 if we sign a three-year lease instead of the standard two years?
+We would also need the landlord to repaint the walls and replace the carpet before we move in. [4] I would be happy to discuss these points by phone at your convenience.
+Sincerely,
+Joanna Wick
+Q|Why is Ms. Wick writing to Mr. Faulkner?|To negotiate the terms of a lease|To cancel an appointment|To complain about noise|To ask for directions|She proposes a lower rent in exchange for a longer lease.
+Q|What does Ms. Wick say about the suite?|It would suit her team.|It is too small.|It is far from the station.|It was recently painted.|She says a team of fourteen would fit comfortably.
+Q|What does Ms. Wick want the landlord to do?|Renovate some surfaces|Install a new elevator|Provide parking|Reduce the term to two years|She asks him to repaint the walls and replace the carpet.
+QI|In which of the positions marked [1], [2], [3] and [4] does the following sentence best belong? "For that reason, we would like to propose a different arrangement."|3|The sentence explains the proposal that follows the complaint about the high rent, so it belongs just before the request to lower the rent.
+@Single|Advertisement|Warehouse Supervisor Position
+Mercer Logistics is looking for a warehouse supervisor to join our distribution center in Tulsa.
+Responsibilities:
+- Oversee a team of twenty-five staff across two shifts
+- Maintain accurate inventory records
+- Ensure compliance with safety regulations
+- Prepare weekly reports for the operations manager
+Requirements:
+- At least three years of experience in a warehouse
+- A valid forklift certificate (training provided if needed)
+- Strong communication skills
+Benefits include health insurance, twenty days of paid vacation, and a yearly bonus. Relocation assistance is available for candidates from outside the region. To apply, send your résumé and a cover letter to hr@mercerlogistics.example by October 15. Interviews will take place the following week.
+Q|What is the main purpose of the advertisement?|To recruit a worker|To announce a sale|To promote a product|To describe a training course|It advertises a warehouse supervisor job.
+Q|Which of the following is NOT listed as a responsibility?|Training drivers|Keeping inventory records|Following safety rules|Writing weekly reports|Driver training is not mentioned among the responsibilities.
+Q|What is available to some applicants?|Help with moving costs|A company car|Free housing|A signing bonus|Relocation assistance is available for candidates from outside the region.
+@Single|Web page|Return policy of an online shop
+Returns and Exchanges
+At Hillcrest Home, we want you to be happy with your purchase. If you are not satisfied, you may return most items within thirty days of delivery for a full refund. Items must be unused and in their original packaging.
+Please note: Furniture over fifty kilograms must be returned by freight, and a pick-up fee of forty dollars will apply. Custom-made items, such as curtains cut to size, cannot be returned. Gift cards and clearance items are final sale.
+To start a return, log in to your account and select "Return an item" next to your order. You will receive a prepaid shipping label by e-mail within one business day. Refunds are issued to the original payment method within ten days after we receive the item. If your item arrives damaged, contact customer service within forty-eight hours and attach a photo of the damage.
+Q|What is true about returns of most items?|They must be unused.|They require a store visit.|They are free of charge for furniture.|They are accepted for sixty days.|Items must be unused and in their original packaging.
+Q|Which item can NOT be returned?|Curtains cut to size|A lamp|A rug|A chair under fifty kilograms|Custom-made items such as curtains cut to size cannot be returned.
+Q|What should customers do if a product is damaged on arrival?|Send a photo to customer service|Wait for a pick-up|Request a gift card|Return it to the store|They should contact customer service within forty-eight hours with a photo.
+@Multiple|Email and schedule|Training workshop for new managers
+## E-mail
+From: Teresa Gomez
+To: Ahmed Saleh
+Date: February 3
+Subject: Management Basics workshop
+Dear Ahmed,
+Congratulations on your promotion to team leader. As part of your onboarding, I have registered you for the Management Basics workshop on February 20. The schedule is attached. Lunch is included, but you will need to arrange your own transportation to the training center. Because of the full agenda, please arrive by eight thirty. If you have a conflict, let me know by Friday so that I can offer your seat to another employee.
+Teresa Gomez, Human Resources
+---
+## Workshop schedule
+Management Basics, February 20, Elm Street Training Center
+8:45 – 9:00  Welcome and introductions
+9:00 – 10:30  Leading a team (Dr. Weiss)
+10:30 – 10:45  Break
+10:45 – 12:00  Giving feedback (Ms. Bondar)
+12:00 – 1:00  Lunch
+1:00 – 2:30  Managing time and priorities (Mr. Rossi)
+2:30 – 3:00  Questions and certificates
+Q|Why was the e-mail sent?|To register Mr. Saleh for a course|To announce a promotion|To change a meeting|To request a report|Ms. Gomez says she has registered him for the workshop.
+Q|What is indicated about the workshop?|Lunch is provided.|Transportation is provided.|It is online.|It lasts two days.|Lunch is included, while transportation is not.
+Q|What time does the first session begin?|9:00|8:30|8:45|10:45|"Leading a team" starts at 9:00.
+Q|Who will teach the session on feedback?|Ms. Bondar|Dr. Weiss|Mr. Rossi|Ms. Gomez|The "Giving feedback" session is led by Ms. Bondar.
+Q|What does Ms. Gomez ask Mr. Saleh to do by Friday?|Tell her if he cannot attend|Book a hotel|Send an agenda|Pay a fee|She says he should let her know by Friday if he has a conflict.
+@Multiple|Advertisement, order form and e-mail|Custom team jerseys
+## Advertisement
+Swift Sportswear: Custom Jerseys for Teams and Clubs
+Design your team's jerseys online in minutes! Choose from five styles, twelve colors, and free numbering. Orders of twenty or more receive ten percent off. Standard production takes three weeks; rush production (one week) is available for a fee of fifteen percent of the order total. Shipping is free for orders over $500.
+---
+## Order summary
+Customer: Lakeside Youth Soccer Club
+Order #: 20931
+Item: Classic Jersey (blue and white)
+Quantity: 24  Price each: $28.00
+Subtotal: $672.00
+Discount: -$67.20
+Rush production: $90.72
+Shipping: $0.00
+Total: $695.52
+---
+## E-mail
+From: Carla Dominguez
+To: Swift Sportswear Customer Service
+Date: May 9
+Subject: Order #20931
+Hello,
+I am writing about our order. The jerseys arrived today, and we are pleased with the quality. However, I noticed that two of them show the number 11 instead of 17. Could you tell me how we can have these corrected? Our first game is on Saturday, so I would be grateful for a quick response.
+Carla Dominguez
+Q|What does the advertisement offer for large orders?|A discount|Free colors|A free design|Free rush production|Orders of twenty or more receive ten percent off.
+Q|What is suggested about Lakeside Youth Soccer Club?|It requested faster production.|It ordered fewer than twenty jerseys.|It paid for shipping.|It chose a style with red.|The order includes a rush production fee.
+Q|How much did the club pay for rush production?|$90.72|$67.20|$28.00|$695.52|The order summary lists rush production at $90.72.
+Q|What problem does Ms. Dominguez mention?|Some jerseys have the wrong number.|The colors are incorrect.|The order is late.|The price is too high.|Two jerseys show 11 instead of 17.
+Q|Why does Ms. Dominguez want a quick response?|A game is coming soon.|A payment is due.|The club is moving.|A new season is starting next month.|She says the first game is on Saturday.

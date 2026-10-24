@@ -1,0 +1,35 @@
+@Announcement|Conference session schedule change|us
+W: Good morning, everyone, and welcome to day two of the Healthcare Technology Conference. A few quick changes to your program. The session on patient data security has been moved to Room 204 because of the large number of registrations. The afternoon workshop on scheduling software has been postponed by one hour to accommodate our guest speaker's flight.
+W: Lunch will be served in the main hall at the usual time. If you've lost your program, please pick up a new copy at the registration desk.
+G|Conference Program (original)|Time;Session;Room|9:30;Opening Keynote;Main Hall/11:00;Patient Data Security;Room 110/1:30;Scheduling Software Workshop;Room 305/3:30;Closing Panel;Main Hall
+Q|Where is the announcement being made?|At a conference|At a hospital|At a school|At an airport|She welcomes everyone to day two of the Healthcare Technology Conference.
+Q|Look at the graphic. When will the scheduling software workshop now begin?|2:30|1:30|3:30|11:00|She says it has been postponed by one hour, from 1:30 to 2:30.
+Q|What can listeners get at the registration desk?|A new program|A lunch ticket|A name tag|A map|She says lost programs can be replaced at the registration desk.
+@Telephone message|Choosing a color for a wall|uk
+W: Hello Mr. Baker, this is Tessa from Renew Interiors. I'm calling about the paint colors for your office. I've looked at the samples that you picked, and I recommend Ocean Mist, a light blue, for the reception area. The darker color would make the room look smaller, as there is limited natural light.
+W: The price depends on the paint type. Since you want something that is easy to clean, I'd suggest the washable option. I've e-mailed the details. If you agree, I can begin work on Monday morning. Please call me back to confirm by tomorrow at five.
+G|Paint Options|Paint Type;Finish;Price per Gallon|Standard;Matte;$32/Washable;Satin;$45/Premium;Semi-gloss;$58/Eco;Matte;$50
+Q|What does the speaker recommend for the reception area?|A lighter color|A darker color|A larger sample|A glossy finish|She says the darker color would make the room look smaller, so she recommends Ocean Mist.
+Q|Look at the graphic. How much will the paint cost per gallon?|$45|$32|$58|$50|The customer wants something easy to clean, so she suggests the washable option at $45.
+Q|What does the speaker ask the listener to do?|Confirm by tomorrow|Visit the office|Choose a different date|Sign a contract|She asks him to call back to confirm by tomorrow at five.
+@Announcement|Workshop sign-up and room map|us
+M: Hello, everyone. Thank you for attending the annual photography fair. Our hands-on workshops begin at eleven. Landscape Photography will be held in the east wing, and the Portrait Lighting workshop has moved to the room next to the cafeteria because of a scheduling conflict.
+M: Each workshop is limited to twelve participants, and I'm sorry to say that Portrait Lighting is already full. However, we've added another session in the afternoon. Sign-up sheets are on the table at the entrance. Please bring your camera and a memory card. Tripods are available on loan at the information desk.
+G|Workshop Rooms|Workshop;Room;Time|Landscape Photography;Room 1 (East Wing);11:00/Portrait Lighting;Room 2 (next to cafeteria);11:00/Editing Basics;Room 3 (upstairs);1:00/Portrait Lighting (added);Room 2;2:30
+Q|What does the speaker say about the Portrait Lighting workshop?|It is full.|It has been canceled.|It is free.|It is outdoors.|He says that Portrait Lighting is already full.
+Q|Look at the graphic. When will the additional Portrait Lighting session take place?|2:30|11:00|1:00|3:00|The added Portrait Lighting session is listed at 2:30.
+Q|What can listeners borrow?|Tripods|Cameras|Memory cards|Lenses|He says tripods are available on loan at the information desk.
+@Telephone message|Shipping options for an order|us
+M: Hi, this is Carlos from Redline Online Store. You placed an order yesterday for a standing desk, and I'm calling to confirm your shipping option. Because the desk is large, standard shipping isn't available. You'll need to choose between two methods, and I'm afraid the cheapest one will take about ten days.
+M: If you need it sooner, because you mentioned your office opens next week, I'd recommend the express option, which is guaranteed within four days. Please call me back or reply to the e-mail I sent to let me know which one you prefer, and we'll ship the desk immediately.
+G|Shipping Options for Large Items|Method;Delivery Time;Cost|Economy Freight;10 days;$40/Priority Freight;6 days;$75/Express Freight;4 days;$120
+Q|Why is the speaker calling?|To confirm a shipping choice|To report a price increase|To cancel an order|To offer a refund|He says he is calling to confirm the shipping option.
+Q|Look at the graphic. How much will the listener probably pay for shipping?|$120|$40|$75|$0|The listener needs the desk before next week, so the express option at $120 fits.
+Q|What does the speaker ask the listener to do?|Reply to an e-mail|Visit the store|Send a payment|Return an item|He asks the listener to call back or reply to the e-mail with a preference.
+@Meeting excerpt|Quarterly budget by department|us
+W: Thank you for joining the budget review. As you can see in the chart, we've spent most of our funds on equipment this quarter. Marketing spending was lower than planned, mainly because the television campaign was postponed until next quarter.
+W: Training costs were higher than expected, but I think it was worth it because the new software is already saving time. Next quarter, I'd like to shift some funds from travel to technical support, since our team is traveling less. Please send me your proposals by Friday.
+G|Quarterly Spending (thousands of dollars)|Category;Planned;Actual|Equipment;120;118/Marketing;90;62/Training;30;41/Travel;50;34
+Q|What does the speaker say about marketing spending?|It was lower than planned.|It was higher than planned.|It was on target.|It will be increased.|She says marketing spending was lower because the television campaign was postponed.
+Q|Look at the graphic. Which category had the largest increase over its planned amount?|Training|Equipment|Marketing|Travel|Training was planned at 30 and came in at 41, which is the only category above its plan.
+Q|What does the speaker ask the listeners to do?|Send some proposals|Cancel a campaign|Buy new software|Approve a budget|She asks them to send her their proposals by Friday.

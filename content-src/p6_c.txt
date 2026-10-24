@@ -1,0 +1,116 @@
+@Email|Interview Feedback
+To: Jonas Weber
+From: Shirin Haddad
+Subject: Your interview on Tuesday
+Dear Jonas,
+Thank you for taking the time to interview for the sales analyst position. The panel was [1] impressed by your knowledge of our industry. [2], we have decided to move forward with another candidate whose experience in forecasting is more extensive. This was a difficult decision, as the competition was [3]. We will keep your résumé on file and [4] you if a suitable position becomes available.
+Best wishes,
+Shirin Haddad
+Q1|favorably|favorable|favor|favoring|An adverb modifies the participle "impressed".
+Q2|Nevertheless|Therefore|Moreover|Similarly|"Nevertheless" introduces the unexpected negative decision after praise.
+Q3|strong|strongly|strength|strengthen|After "was", an adjective is needed.
+Q4|contact|contacts|contacting|contacted|After "will", the base verb is needed.
+@Notice|Street Cleaning Schedule
+Residents of Elm Park are reminded that street cleaning will take place on the first and third Monday of each month from 8:00 a.m. to 11:00 a.m. Vehicles parked on the street [1] be moved before 8:00 a.m. [2]. Cars that remain on the street will be towed at the owner's expense, and a fine of seventy-five dollars will [3]. Free parking is available in the lot behind the community center during cleaning hours. [4] information, please visit the city's Web site.
+Q1|must|might|would|could|"Must" expresses a requirement.
+Q2|Please make sure that no vehicles are left on the street.|The community center was built in 1985.|Elm Park is a quiet neighborhood.|Street cleaning machines are very large.|The sentence should state what residents need to do.
+Q3|apply|applies|applied|applying|After "will", the base verb is needed.
+Q4|For more|With few|Of any|At much|"For more information" is the standard expression.
+@Article|City Introduces Bike Sharing
+Starting this spring, the city of Ravenswood will offer a new bike-sharing program with two hundred bikes available at forty stations around town. Users can [1] a bike with a smartphone app and return it to any station. [2]. A thirty-minute ride will cost one dollar, and monthly passes are available for fifteen dollars. City officials hope the program will [3] traffic and pollution downtown. Similar programs in other cities have been very [4], with many residents using them to commute.
+Q1|unlock|unlocking|unlocked|unlocks|After "can", the base verb is needed.
+Q2|The prices are designed to be affordable for everyone.|The city was founded in 1850.|Bicycles have two wheels.|Smartphones are becoming more common.|The sentence introduces the price information that follows.
+Q3|reduce|reduction|reducing|reduced|After "will", the base verb is needed.
+Q4|successful|succeed|success|successfully|After "very", an adjective is needed.
+@Letter|Job Offer Letter
+Dear Ms. Tan,
+We are pleased to [1] you the position of financial analyst at Corbett & Associates. Your annual salary will be $68,000, and you will be eligible for health insurance after ninety days. [2]. Your first day of work will be Monday, July 8. On that day, please report to the human resources office on the fourth floor, [3] you will complete some paperwork. Please sign and return the enclosed copy of this letter [4] June 21 to confirm your acceptance.
+Sincerely,
+Brian Holt
+Q1|offer|offered|offering|offers|After "to", the base verb is needed.
+Q2|You will also receive twenty days of paid vacation each year.|Corbett & Associates was founded in 1972.|The fourth floor has a large kitchen.|Many analysts work in the finance industry.|The sentence adds a further benefit of the job.
+Q3|where|when|what|who|"Where" refers to the human resources office, a place.
+Q4|by|at|in|on|"By June 21" sets a deadline.
+@Email|Software Update
+To: All Users
+From: IT Help Desk
+Subject: System update this weekend
+This weekend, we will update the company's accounting software to the latest version. The system will be [1] from Saturday at 6 p.m. until Sunday at noon. [2], you will not be able to log in or run reports during this time. We recommend that you save your work and log out before 5:30 p.m. on Saturday. After the update, you [3] to enter a new password. [4]. Please contact the help desk if you encounter any issues.
+Q1|unavailable|unavailably|unavailability|unavailing|After "will be", an adjective is needed.
+Q2|Accordingly|Rather|Similarly|Otherwise|"Accordingly" introduces the consequence of the update.
+Q3|will be asked|asked|are asking|to ask|The future passive is needed here.
+Q4|A guide to the new features is attached to this e-mail.|The software was invented in 1990.|Passwords should never be shared.|The help desk is located on the first floor.|The sentence gives useful information related to the update.
+@Advertisement|Renovation Services
+Is your kitchen outdated? At Hartwell Renovations, we turn old kitchens into modern spaces you will love. Our team of experienced designers will visit your home, [1] your needs, and suggest ideas that fit your budget. [2]. Each project includes a three-year guarantee on all work, and we use only high-quality materials. Contact us this month and receive a free estimate. [3] you book a renovation before August 31, you will also receive a twenty percent discount on appliances. Call 555-0189 to [4] an appointment.
+Q1|assess|assessing|assessed|assessment|After "will visit, ___, and suggest", the base verb continues the parallel structure.
+Q2|Most projects are completed within three weeks.|Kitchens are used for cooking.|Our offices are closed on holidays.|Hartwell is a common surname.|The sentence adds a relevant fact about the service.
+Q3|If|Unless|Although|Whereas|"If you book..." gives the condition for the discount.
+Q4|schedule|scheduling|scheduled|schedules|After "to", the base verb is needed.
+@Memo|Parking Lot Resurfacing
+To: All Employees
+From: Facilities Department
+The east parking lot will be [1] from Friday, May 10, until Monday, May 13. During this time, employees [2] park in the west lot or on Cooper Street. [3]. Please note that the west lot fills up quickly, so we recommend arriving early. The east lot will reopen on Tuesday morning with newly painted spaces. We [4] you for your patience.
+Q1|closed|closing|close|closure|After "will be", the past participle is needed.
+Q2|should|should be|are|have|"Should park" gives instruction.
+Q3|Carpooling is encouraged to reduce the number of vehicles.|The lot was last repaired in 2011.|Cooper Street is named after a mayor.|Painting takes about two days.|The sentence should offer a practical suggestion about parking.
+Q4|thank|thanks|thanking|thanked|After "We", a present-tense verb is needed.
+@Article|Museum Extends Opening Hours
+The Hamilton Museum of Science announced that it will extend its opening hours during the summer. From June 1 to August 31, the museum will stay open until eight o'clock every evening, [1] the usual closing time of five. The decision was made [2] visitor numbers rose sharply last year. [3]. The museum is also planning a new exhibit on space travel, which will open in July. Admission will remain at twelve dollars for adults, and children under six will [4] enter free.
+Q1|instead of|because of|in case of|as for|"Instead of the usual closing time" contrasts the new and old hours.
+Q2|because|so|despite|but|"Because" gives the reason for the decision.
+Q3|Evening visitors will also be able to use the café.|The museum was founded in 1920.|Science is an interesting subject.|The building has a large parking lot.|The sentence adds an extra benefit of the longer hours.
+Q4|still|yet|soon|ever|"Will still enter free" indicates continuation.
+@Email|Supplier Meeting Request
+Dear Mr. Agarwal,
+I am the purchasing manager at Brightway Foods. We [1] your company's products at last month's trade show, and we would like to explore a possible business relationship. [2]. Specifically, we are looking for a supplier of organic rice that can deliver weekly to our three warehouses. Would you be [3] to meet with us next Thursday or Friday? We could come to your office, or [4] you could visit ours. Please let me know which option you prefer.
+Sincerely,
+Linda Cruz
+Q1|noticed|have noticed|notice|noticing|The past simple verb refers to last month's event.
+Q2|We are particularly interested in your range of organic products.|Our company was founded by two brothers.|Warehouses are usually located near highways.|The trade show was held in a convention center.|The sentence introduces what the writer wants, followed by "Specifically".
+Q3|available|availability|avail|availably|After "be", an adjective is needed.
+Q4|alternatively|therefore|besides|since|"Alternatively" offers another option.
+@Instructions|Assembling the Bookcase
+Thank you for purchasing the Oakline bookcase. Before you begin, please check that all parts are [1] the packing list. You will need a screwdriver and a hammer, which are not included. [2], lay out the side panels on a soft surface to avoid scratching them. Attach the shelves to the side panels with the screws provided, and [3] the back panel last. [4]. If any part is missing or damaged, please call our customer service line, and we will send a replacement free of charge.
+Q1|listed on|list in|listing at|listed of|"Listed on the packing list" is correct.
+Q2|First|Finally|Instead|Nevertheless|"First" starts the sequence of steps.
+Q3|attach|attaches|attached|attaching|After "and" in instructions, the base verb continues the imperative.
+Q4|The assembly should take about forty-five minutes.|Bookcases have been popular for centuries.|The packing list is written in four languages.|Oak is a type of wood.|The sentence gives a useful fact about the procedure.
+@Announcement|Charity Run Registration
+Registration is now open for the Harbor City Charity Run, which will be held on Sunday, September 22. Participants can [1] between a five-kilometer and a ten-kilometer route. All proceeds will benefit the children's hospital. [2], every runner who raises at least one hundred dollars will receive a free T-shirt. [3]. The race will begin at nine o'clock at Memorial Park, and runners are asked to [4] by eight thirty to collect their numbers.
+Q1|choose|choice|chosen|choosing|After "can", the base verb is needed.
+Q2|In addition|In contrast|In case|In spite|"In addition" adds another benefit.
+Q3|Water will be provided at several points along both routes.|The park was named in 1950.|Running is good exercise.|Hospitals provide many services.|The sentence adds a practical detail about the event.
+Q4|arrive|arrival|arriving|arrives|After "to", the base verb is needed.
+@Letter|Apology for Billing Error
+Dear Mr. Fitzgerald,
+I am writing to [1] for the mistake on your most recent bill. Our records show that you were charged twice for the same service. This error was caused by a problem in our billing system, which has now been [2]. [3]. The refund of $85.00 will appear on your account within five business days. In the future, please [4] us immediately if you notice any irregularities.
+Sincerely,
+Customer Care Manager
+Q1|apologize|apologetic|apology|apologizing|After "to", the base verb is needed.
+Q2|corrected|correcting|correct|correction|After "has been", the past participle is needed.
+Q3|We have already started the process of issuing a refund.|Our company serves customers in five countries.|Billing systems are complicated.|Your account number is on the back of the card.|The sentence tells what action is being taken.
+Q4|notify|notification|notifying|notified|After "please", the base verb is needed.
+@Memo|Team Building Day
+To: All Department Heads
+From: Human Resources
+Date: May 20
+Our annual team building day will take place on Friday, June 28 at Lakeside Park. All departments are [1] to attend, and the company will provide transportation. The day will include games, a group lunch, and a short talk by a guest speaker. [2], employees who prefer a quieter activity can join a nature walk. Please inform your staff and ask them to confirm their attendance by June 14. [3]. We [4] a successful and enjoyable event.
+Q1|expected|expecting|expect|expectation|After "are", the past participle works as an adjective in the passive.
+Q2|Alternatively|Therefore|Previously|Consequently|"Alternatively" offers another choice of activity.
+Q3|The confirmations can be sent to the HR office by e-mail.|Lakeside Park has a large lake.|Teams are a part of every company.|Lunch is usually served at noon.|The sentence says how to send the confirmation.
+Q4|anticipate|anticipation|anticipating|anticipated|After "We", a present-tense verb is needed.
+@Article|Restaurant Wins Award
+Chef Raul Mendes has been named Best New Chef by the regional dining association. His restaurant, Casa Mendes, opened [1] eighteen months ago and has already become one of the most popular dining spots in the city. [2]. Mr. Mendes, who trained in Spain, uses local ingredients in all of his dishes. "I [3] my menu every season so that the food is always fresh," he said. The restaurant is [4] booked for the next three months, but a limited number of seats are available at the bar.
+Q1|only|just as|lately|ever|"Only eighteen months ago" stresses how recent it was.
+Q2|Critics praise the creative menu and friendly service.|The association was founded in 1998.|Spain is famous for its beaches.|Many restaurants are open on Sundays.|The sentence adds a reason for the restaurant's popularity.
+Q3|change|am changing|changed|will have changed|The simple present describes a habitual action.
+Q4|fully|full|fullness|fuller|An adverb modifies the participle "booked".
+@Email|Meeting Reschedule
+Dear Colleagues,
+Due to a conflict with a client visit, I need to [1] our weekly planning meeting from Monday to Wednesday. The new time is 10:00 a.m. in Conference Room B. [2]. If you cannot attend at the new time, please [3] me by tomorrow. In that case, we will [4] a different day that suits everyone. I am sorry for any inconvenience.
+Best regards,
+Mark Duval
+Q1|move|moving|moved|moves|After "need to", the base verb is needed.
+Q2|The agenda is the same as the one sent earlier.|Conference Room B has a new table.|Clients often visit on Mondays.|Planning is an important task.|The sentence gives useful information about the rescheduled meeting.
+Q3|inform|information|informing|informed|After "please", the base verb is needed.
+Q4|choose|choosing|chosen|chooses|After "will", the base verb is needed.

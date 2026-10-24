@@ -1,0 +1,6 @@
+{
+  "name": "TOEIC Mastery Toolkit 2026",
+  "description": "Comprehensive offline TOEIC preparation app featuring diagnostic tests, 7-part strategy guides, 150+ original practice items, audio synthesis, 500 business vocabulary flashcards, 20 grammar lessons, timed exam mode, study planner, and error log.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,6239 @@
+[
+{
+"id": "p5x-001",
+"part": 5,
+"category": "Word Form - Noun",
+"difficulty": "Elementary (500)",
+"questionText": "The marketing team submitted a detailed _______ of last quarter's campaign results.",
+"options": [
+{
+"key": "A",
+"text": "analysis"
+},
+{
+"key": "B",
+"text": "analytical"
+},
+{
+"key": "C",
+"text": "analytically"
+},
+{
+"key": "D",
+"text": "analyze"
+}
+],
+"correctAnswer": "A",
+"explanation": "After \"a detailed\", a noun is needed, and \"analysis\" is the noun."
+},
+{
+"id": "p5x-002",
+"part": 5,
+"category": "Word Form - Noun",
+"difficulty": "Elementary (500)",
+"questionText": "Mr. Park's _______ to the sales department was announced at the staff meeting.",
+"options": [
+{
+"key": "A",
+"text": "promotional"
+},
+{
+"key": "B",
+"text": "promotion"
+},
+{
+"key": "C",
+"text": "promotes"
+},
+{
+"key": "D",
+"text": "promote"
+}
+],
+"correctAnswer": "B",
+"explanation": "A possessive (\"Mr. Park's\") must be followed by a noun."
+},
+{
+"id": "p5x-003",
+"part": 5,
+"category": "Word Form - Noun",
+"difficulty": "Intermediate (750)",
+"questionText": "Customers have praised the company for its _______ in resolving billing disputes.",
+"options": [
+{
+"key": "A",
+"text": "efficient"
+},
+{
+"key": "B",
+"text": "efficiently"
+},
+{
+"key": "C",
+"text": "efficiencies of"
+},
+{
+"key": "D",
+"text": "efficiency"
+}
+],
+"correctAnswer": "D",
+"explanation": "After the possessive \"its\", a singular noun is required."
+},
+{
+"id": "p5x-004",
+"part": 5,
+"category": "Word Form - Noun",
+"difficulty": "Intermediate (750)",
+"questionText": "The committee will review all _______ for the regional manager position next week.",
+"options": [
+{
+"key": "A",
+"text": "apply"
+},
+{
+"key": "B",
+"text": "applicable"
+},
+{
+"key": "C",
+"text": "applications"
+},
+{
+"key": "D",
+"text": "applying"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"All\" is followed by a plural noun, and \"applications\" fits the meaning."
+},
+{
+"id": "p5x-005",
+"part": 5,
+"category": "Word Form - Noun",
+"difficulty": "Advanced (900)",
+"questionText": "The auditors raised concerns about the _______ of the quarterly figures.",
+"options": [
+{
+"key": "A",
+"text": "accurate"
+},
+{
+"key": "B",
+"text": "accurately"
+},
+{
+"key": "C",
+"text": "accuracy"
+},
+{
+"key": "D",
+"text": "accuracies"
+}
+],
+"correctAnswer": "C",
+"explanation": "After \"the\", a noun is needed; \"accuracy\" is the uncountable noun that fits."
+},
+{
+"id": "p5x-006",
+"part": 5,
+"category": "Word Form - Verb",
+"difficulty": "Elementary (500)",
+"questionText": "Please _______ your timesheet to the payroll office by Friday afternoon.",
+"options": [
+{
+"key": "A",
+"text": "submission"
+},
+{
+"key": "B",
+"text": "submitted"
+},
+{
+"key": "C",
+"text": "submitting"
+},
+{
+"key": "D",
+"text": "submit"
+}
+],
+"correctAnswer": "D",
+"explanation": "After \"please\", the base form of the verb is used for the request."
+},
+{
+"id": "p5x-007",
+"part": 5,
+"category": "Word Form - Verb",
+"difficulty": "Intermediate (750)",
+"questionText": "The new software is designed to _______ the process of ordering office supplies.",
+"options": [
+{
+"key": "A",
+"text": "simple"
+},
+{
+"key": "B",
+"text": "simplify"
+},
+{
+"key": "C",
+"text": "simply"
+},
+{
+"key": "D",
+"text": "simplicity"
+}
+],
+"correctAnswer": "B",
+"explanation": "After \"to\" in an infinitive, the base verb is required."
+},
+{
+"id": "p5x-008",
+"part": 5,
+"category": "Word Form - Verb",
+"difficulty": "Intermediate (750)",
+"questionText": "Ms. Alvarez asked the team to _______ the contract before sending it to the client.",
+"options": [
+{
+"key": "A",
+"text": "review"
+},
+{
+"key": "B",
+"text": "reviews"
+},
+{
+"key": "C",
+"text": "reviewing"
+},
+{
+"key": "D",
+"text": "reviewed"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Asked ... to\" is followed by the base form of the verb."
+},
+{
+"id": "p5x-009",
+"part": 5,
+"category": "Word Form - Adjective",
+"difficulty": "Elementary (500)",
+"questionText": "The conference center offers _______ parking for all registered attendees.",
+"options": [
+{
+"key": "A",
+"text": "freedom"
+},
+{
+"key": "B",
+"text": "free"
+},
+{
+"key": "C",
+"text": "freed"
+},
+{
+"key": "D",
+"text": "freely"
+}
+],
+"correctAnswer": "B",
+"explanation": "An adjective is needed before the noun \"parking\"."
+},
+{
+"id": "p5x-010",
+"part": 5,
+"category": "Word Form - Adjective",
+"difficulty": "Intermediate (750)",
+"questionText": "Only _______ employees may enter the restricted laboratory.",
+"options": [
+{
+"key": "A",
+"text": "authorize"
+},
+{
+"key": "B",
+"text": "authorization"
+},
+{
+"key": "C",
+"text": "authorized"
+},
+{
+"key": "D",
+"text": "authorizing"
+}
+],
+"correctAnswer": "C",
+"explanation": "The participle \"authorized\" works as an adjective meaning \"approved\"."
+},
+{
+"id": "p5x-011",
+"part": 5,
+"category": "Word Form - Adjective",
+"difficulty": "Intermediate (750)",
+"questionText": "The restaurant is known for its _______ service and reasonable prices.",
+"options": [
+{
+"key": "A",
+"text": "except"
+},
+{
+"key": "B",
+"text": "exceptionally"
+},
+{
+"key": "C",
+"text": "exception"
+},
+{
+"key": "D",
+"text": "exceptional"
+}
+],
+"correctAnswer": "D",
+"explanation": "An adjective is needed to describe the noun \"service\"."
+},
+{
+"id": "p5x-012",
+"part": 5,
+"category": "Word Form - Adjective",
+"difficulty": "Advanced (900)",
+"questionText": "Dr. Chen gave a _______ presentation on emerging markets in Southeast Asia.",
+"options": [
+{
+"key": "A",
+"text": "compelling"
+},
+{
+"key": "B",
+"text": "compellingly"
+},
+{
+"key": "C",
+"text": "compel"
+},
+{
+"key": "D",
+"text": "compulsion"
+}
+],
+"correctAnswer": "A",
+"explanation": "An adjective must come between \"a\" and the noun \"presentation\"."
+},
+{
+"id": "p5x-013",
+"part": 5,
+"category": "Word Form - Adverb",
+"difficulty": "Elementary (500)",
+"questionText": "The shipment will arrive _______ at the warehouse on Tuesday morning.",
+"options": [
+{
+"key": "A",
+"text": "punctual"
+},
+{
+"key": "B",
+"text": "punctuate"
+},
+{
+"key": "C",
+"text": "punctuality"
+},
+{
+"key": "D",
+"text": "punctually"
+}
+],
+"correctAnswer": "D",
+"explanation": "An adverb is needed to modify the verb \"will arrive\"."
+},
+{
+"id": "p5x-014",
+"part": 5,
+"category": "Word Form - Adverb",
+"difficulty": "Intermediate (750)",
+"questionText": "Sales have risen _______ since the new pricing plan was introduced.",
+"options": [
+{
+"key": "A",
+"text": "steadily"
+},
+{
+"key": "B",
+"text": "steady"
+},
+{
+"key": "C",
+"text": "steadied"
+},
+{
+"key": "D",
+"text": "steadiness"
+}
+],
+"correctAnswer": "A",
+"explanation": "An adverb modifies the verb phrase \"have risen\"."
+},
+{
+"id": "p5x-015",
+"part": 5,
+"category": "Word Form - Adverb",
+"difficulty": "Intermediate (750)",
+"questionText": "The instructions must be followed _______ to avoid damaging the equipment.",
+"options": [
+{
+"key": "A",
+"text": "care"
+},
+{
+"key": "B",
+"text": "carefully"
+},
+{
+"key": "C",
+"text": "careful"
+},
+{
+"key": "D",
+"text": "carefulness"
+}
+],
+"correctAnswer": "B",
+"explanation": "An adverb is needed to modify the passive verb \"be followed\"."
+},
+{
+"id": "p5x-016",
+"part": 5,
+"category": "Word Form - Adverb",
+"difficulty": "Advanced (900)",
+"questionText": "The board of directors was _______ divided over the proposed merger.",
+"options": [
+{
+"key": "A",
+"text": "sharpness"
+},
+{
+"key": "B",
+"text": "sharpen"
+},
+{
+"key": "C",
+"text": "sharply"
+},
+{
+"key": "D",
+"text": "sharp"
+}
+],
+"correctAnswer": "C",
+"explanation": "An adverb can modify the participle \"divided\"."
+},
+{
+"id": "p5x-017",
+"part": 5,
+"category": "Verb Tense - Present Perfect",
+"difficulty": "Elementary (500)",
+"questionText": "The company _______ more than 200 new employees since January.",
+"options": [
+{
+"key": "A",
+"text": "is hiring"
+},
+{
+"key": "B",
+"text": "has hired"
+},
+{
+"key": "C",
+"text": "will hire"
+},
+{
+"key": "D",
+"text": "hired"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Since January\" requires the present perfect tense."
+},
+{
+"id": "p5x-018",
+"part": 5,
+"category": "Verb Tense - Present Perfect",
+"difficulty": "Intermediate (750)",
+"questionText": "Our technicians _______ the printer problem twice this week.",
+"options": [
+{
+"key": "A",
+"text": "have fixed"
+},
+{
+"key": "B",
+"text": "will fix"
+},
+{
+"key": "C",
+"text": "fixing"
+},
+{
+"key": "D",
+"text": "fix"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"This week\" with a repeated action in an unfinished period takes the present perfect."
+},
+{
+"id": "p5x-019",
+"part": 5,
+"category": "Verb Tense - Past Simple",
+"difficulty": "Elementary (500)",
+"questionText": "The manager _______ the new schedule at yesterday's meeting.",
+"options": [
+{
+"key": "A",
+"text": "will announce"
+},
+{
+"key": "B",
+"text": "has announce"
+},
+{
+"key": "C",
+"text": "announced"
+},
+{
+"key": "D",
+"text": "announces"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Yesterday\" signals a finished past action."
+},
+{
+"id": "p5x-020",
+"part": 5,
+"category": "Verb Tense - Past Simple",
+"difficulty": "Intermediate (750)",
+"questionText": "Last year, the firm _______ its headquarters from Boston to Denver.",
+"options": [
+{
+"key": "A",
+"text": "is moving"
+},
+{
+"key": "B",
+"text": "has moved"
+},
+{
+"key": "C",
+"text": "moves"
+},
+{
+"key": "D",
+"text": "moved"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"Last year\" is a finished time, so the past simple is required."
+},
+{
+"id": "p5x-021",
+"part": 5,
+"category": "Verb Tense - Future",
+"difficulty": "Elementary (500)",
+"questionText": "The training session _______ at 9:00 a.m. tomorrow in Room 204.",
+"options": [
+{
+"key": "A",
+"text": "begins to be"
+},
+{
+"key": "B",
+"text": "has begun"
+},
+{
+"key": "C",
+"text": "began"
+},
+{
+"key": "D",
+"text": "will begin"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"Tomorrow\" signals the future, so \"will begin\" is correct."
+},
+{
+"id": "p5x-022",
+"part": 5,
+"category": "Verb Tense - Future",
+"difficulty": "Intermediate (750)",
+"questionText": "By the end of the year, the factory _______ over one million units.",
+"options": [
+{
+"key": "A",
+"text": "is producing"
+},
+{
+"key": "B",
+"text": "produced"
+},
+{
+"key": "C",
+"text": "will have produced"
+},
+{
+"key": "D",
+"text": "has produced"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"By the end of the year\" calls for the future perfect."
+},
+{
+"id": "p5x-023",
+"part": 5,
+"category": "Verb Tense - Future Time Clause",
+"difficulty": "Intermediate (750)",
+"questionText": "When the inspector _______ the building, he will check the fire exits.",
+"options": [
+{
+"key": "A",
+"text": "arrives"
+},
+{
+"key": "B",
+"text": "has arriving"
+},
+{
+"key": "C",
+"text": "will arrive"
+},
+{
+"key": "D",
+"text": "arrived"
+}
+],
+"correctAnswer": "A",
+"explanation": "In a time clause that refers to the future, the present simple is used."
+},
+{
+"id": "p5x-024",
+"part": 5,
+"category": "Verb Tense - Future Time Clause",
+"difficulty": "Advanced (900)",
+"questionText": "Please call me as soon as the shipment _______.",
+"options": [
+{
+"key": "A",
+"text": "arrived"
+},
+{
+"key": "B",
+"text": "arrives"
+},
+{
+"key": "C",
+"text": "will arrive"
+},
+{
+"key": "D",
+"text": "is arriving to"
+}
+],
+"correctAnswer": "B",
+"explanation": "After \"as soon as\", use the present simple for a future event."
+},
+{
+"id": "p5x-025",
+"part": 5,
+"category": "Verb Tense - Past Perfect",
+"difficulty": "Advanced (900)",
+"questionText": "By the time the auditors arrived, the accountant _______ all the records.",
+"options": [
+{
+"key": "A",
+"text": "organizes"
+},
+{
+"key": "B",
+"text": "has organized"
+},
+{
+"key": "C",
+"text": "had organized"
+},
+{
+"key": "D",
+"text": "will organize"
+}
+],
+"correctAnswer": "C",
+"explanation": "The past perfect shows an action completed before another past action."
+},
+{
+"id": "p5x-026",
+"part": 5,
+"category": "Verb Tense - Continuous",
+"difficulty": "Elementary (500)",
+"questionText": "The IT department _______ the servers right now, so please wait.",
+"options": [
+{
+"key": "A",
+"text": "is updating"
+},
+{
+"key": "B",
+"text": "updates"
+},
+{
+"key": "C",
+"text": "has update"
+},
+{
+"key": "D",
+"text": "updated"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Right now\" signals the present continuous."
+},
+{
+"id": "p5x-027",
+"part": 5,
+"category": "Verb Tense - Conditional",
+"difficulty": "Intermediate (750)",
+"questionText": "If the supplier delivers late, we _______ the order.",
+"options": [
+{
+"key": "A",
+"text": "have cancel"
+},
+{
+"key": "B",
+"text": "will cancel"
+},
+{
+"key": "C",
+"text": "cancelled"
+},
+{
+"key": "D",
+"text": "would cancel"
+}
+],
+"correctAnswer": "B",
+"explanation": "A first conditional with the present simple in the \"if\" clause takes \"will\"."
+},
+{
+"id": "p5x-028",
+"part": 5,
+"category": "Verb Tense - Conditional",
+"difficulty": "Advanced (900)",
+"questionText": "If Ms. Ito had submitted the report on time, she _______ the bonus.",
+"options": [
+{
+"key": "A",
+"text": "received"
+},
+{
+"key": "B",
+"text": "will receive"
+},
+{
+"key": "C",
+"text": "would receive"
+},
+{
+"key": "D",
+"text": "would have received"
+}
+],
+"correctAnswer": "D",
+"explanation": "A third conditional uses \"would have\" plus the past participle."
+},
+{
+"id": "p5x-029",
+"part": 5,
+"category": "Passive Voice",
+"difficulty": "Elementary (500)",
+"questionText": "All expense reports _______ by the finance team every Monday.",
+"options": [
+{
+"key": "A",
+"text": "has reviewed"
+},
+{
+"key": "B",
+"text": "are reviewed"
+},
+{
+"key": "C",
+"text": "review"
+},
+{
+"key": "D",
+"text": "are reviewing"
+}
+],
+"correctAnswer": "B",
+"explanation": "The reports receive the action, so the passive is required; the plural subject takes \"are\"."
+},
+{
+"id": "p5x-030",
+"part": 5,
+"category": "Passive Voice",
+"difficulty": "Intermediate (750)",
+"questionText": "The new product line _______ at the trade fair next month.",
+"options": [
+{
+"key": "A",
+"text": "has launching"
+},
+{
+"key": "B",
+"text": "will launch"
+},
+{
+"key": "C",
+"text": "will be launched"
+},
+{
+"key": "D",
+"text": "launches"
+}
+],
+"correctAnswer": "C",
+"explanation": "The product line cannot launch itself, so the passive is needed."
+},
+{
+"id": "p5x-031",
+"part": 5,
+"category": "Passive Voice",
+"difficulty": "Intermediate (750)",
+"questionText": "The merger _______ by regulators before the end of the quarter.",
+"options": [
+{
+"key": "A",
+"text": "was approved"
+},
+{
+"key": "B",
+"text": "approved"
+},
+{
+"key": "C",
+"text": "has approve"
+},
+{
+"key": "D",
+"text": "was approving"
+}
+],
+"correctAnswer": "A",
+"explanation": "The merger is approved by someone else, which requires the passive."
+},
+{
+"id": "p5x-032",
+"part": 5,
+"category": "Subject-Verb Agreement",
+"difficulty": "Elementary (500)",
+"questionText": "The list of candidates _______ on the bulletin board.",
+"options": [
+{
+"key": "A",
+"text": "are posted"
+},
+{
+"key": "B",
+"text": "have posted"
+},
+{
+"key": "C",
+"text": "were post"
+},
+{
+"key": "D",
+"text": "is posted"
+}
+],
+"correctAnswer": "D",
+"explanation": "The subject is the singular \"list\", not \"candidates\"."
+},
+{
+"id": "p5x-033",
+"part": 5,
+"category": "Subject-Verb Agreement",
+"difficulty": "Intermediate (750)",
+"questionText": "Each of the managers _______ responsible for a separate department.",
+"options": [
+{
+"key": "A",
+"text": "is"
+},
+{
+"key": "B",
+"text": "were"
+},
+{
+"key": "C",
+"text": "are"
+},
+{
+"key": "D",
+"text": "have been"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Each of\" takes a singular verb."
+},
+{
+"id": "p5x-034",
+"part": 5,
+"category": "Subject-Verb Agreement",
+"difficulty": "Intermediate (750)",
+"questionText": "The number of customer complaints _______ decreased this year.",
+"options": [
+{
+"key": "A",
+"text": "have"
+},
+{
+"key": "B",
+"text": "were"
+},
+{
+"key": "C",
+"text": "are"
+},
+{
+"key": "D",
+"text": "has"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"The number of\" is singular and takes \"has\"."
+},
+{
+"id": "p5x-035",
+"part": 5,
+"category": "Subject-Verb Agreement",
+"difficulty": "Advanced (900)",
+"questionText": "Neither the director nor the assistants _______ aware of the schedule change.",
+"options": [
+{
+"key": "A",
+"text": "is"
+},
+{
+"key": "B",
+"text": "was"
+},
+{
+"key": "C",
+"text": "were"
+},
+{
+"key": "D",
+"text": "has been"
+}
+],
+"correctAnswer": "C",
+"explanation": "With \"neither ... nor\", the verb agrees with the nearer subject, \"assistants\"."
+},
+{
+"id": "p5x-036",
+"part": 5,
+"category": "Preposition of Time",
+"difficulty": "Elementary (500)",
+"questionText": "The office will be closed _______ December 25 and January 1.",
+"options": [
+{
+"key": "A",
+"text": "among"
+},
+{
+"key": "B",
+"text": "between"
+},
+{
+"key": "C",
+"text": "during"
+},
+{
+"key": "D",
+"text": "within"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Between ... and\" links two points in time."
+},
+{
+"id": "p5x-037",
+"part": 5,
+"category": "Preposition of Time",
+"difficulty": "Elementary (500)",
+"questionText": "Please arrive _______ 8:30 a.m. to complete the registration.",
+"options": [
+{
+"key": "A",
+"text": "until"
+},
+{
+"key": "B",
+"text": "during"
+},
+{
+"key": "C",
+"text": "since"
+},
+{
+"key": "D",
+"text": "by"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"By\" sets a deadline for the arrival."
+},
+{
+"id": "p5x-038",
+"part": 5,
+"category": "Preposition of Time",
+"difficulty": "Intermediate (750)",
+"questionText": "The renovation work will continue _______ the end of next month.",
+"options": [
+{
+"key": "A",
+"text": "on"
+},
+{
+"key": "B",
+"text": "at"
+},
+{
+"key": "C",
+"text": "until"
+},
+{
+"key": "D",
+"text": "by"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Until\" shows an action that lasts up to a point in time."
+},
+{
+"id": "p5x-039",
+"part": 5,
+"category": "Preposition of Time",
+"difficulty": "Intermediate (750)",
+"questionText": "The refund will be processed _______ five business days.",
+"options": [
+{
+"key": "A",
+"text": "within"
+},
+{
+"key": "B",
+"text": "between"
+},
+{
+"key": "C",
+"text": "among"
+},
+{
+"key": "D",
+"text": "inside of"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Within\" shows the time limit for completing the action."
+},
+{
+"id": "p5x-040",
+"part": 5,
+"category": "Preposition of Place",
+"difficulty": "Elementary (500)",
+"questionText": "The marketing department is _______ the third floor of the main building.",
+"options": [
+{
+"key": "A",
+"text": "at"
+},
+{
+"key": "B",
+"text": "on"
+},
+{
+"key": "C",
+"text": "by"
+},
+{
+"key": "D",
+"text": "in"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"On\" is used with floors of a building."
+},
+{
+"id": "p5x-041",
+"part": 5,
+"category": "Preposition of Place",
+"difficulty": "Intermediate (750)",
+"questionText": "The new copier is located _______ the break room and the supply closet.",
+"options": [
+{
+"key": "A",
+"text": "among"
+},
+{
+"key": "B",
+"text": "between"
+},
+{
+"key": "C",
+"text": "through"
+},
+{
+"key": "D",
+"text": "across"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Between\" is used for two items."
+},
+{
+"id": "p5x-042",
+"part": 5,
+"category": "Dependent Preposition",
+"difficulty": "Elementary (500)",
+"questionText": "All visitors must comply _______ the company's security policy.",
+"options": [
+{
+"key": "A",
+"text": "to"
+},
+{
+"key": "B",
+"text": "for"
+},
+{
+"key": "C",
+"text": "with"
+},
+{
+"key": "D",
+"text": "on"
+}
+],
+"correctAnswer": "C",
+"explanation": "The verb \"comply\" takes the preposition \"with\"."
+},
+{
+"id": "p5x-043",
+"part": 5,
+"category": "Dependent Preposition",
+"difficulty": "Intermediate (750)",
+"questionText": "Ms. Gomez is responsible _______ training all new hires.",
+"options": [
+{
+"key": "A",
+"text": "at"
+},
+{
+"key": "B",
+"text": "of"
+},
+{
+"key": "C",
+"text": "to"
+},
+{
+"key": "D",
+"text": "for"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"Responsible for\" is the standard collocation."
+},
+{
+"id": "p5x-044",
+"part": 5,
+"category": "Dependent Preposition",
+"difficulty": "Intermediate (750)",
+"questionText": "The proposal is similar _______ the one we rejected last year.",
+"options": [
+{
+"key": "A",
+"text": "to"
+},
+{
+"key": "B",
+"text": "with"
+},
+{
+"key": "C",
+"text": "of"
+},
+{
+"key": "D",
+"text": "from"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Similar to\" is the correct pairing."
+},
+{
+"id": "p5x-045",
+"part": 5,
+"category": "Dependent Preposition",
+"difficulty": "Advanced (900)",
+"questionText": "Employees may be eligible _______ a pension after ten years of service.",
+"options": [
+{
+"key": "A",
+"text": "to"
+},
+{
+"key": "B",
+"text": "in"
+},
+{
+"key": "C",
+"text": "for"
+},
+{
+"key": "D",
+"text": "at"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Eligible for\" is the standard collocation."
+},
+{
+"id": "p5x-046",
+"part": 5,
+"category": "Dependent Preposition",
+"difficulty": "Advanced (900)",
+"questionText": "The shipment was delayed owing _______ severe weather conditions.",
+"options": [
+{
+"key": "A",
+"text": "with"
+},
+{
+"key": "B",
+"text": "by"
+},
+{
+"key": "C",
+"text": "for"
+},
+{
+"key": "D",
+"text": "to"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"Owing to\" means \"because of\"."
+},
+{
+"id": "p5x-047",
+"part": 5,
+"category": "Conjunction",
+"difficulty": "Elementary (500)",
+"questionText": "The meeting was postponed _______ the director was ill.",
+"options": [
+{
+"key": "A",
+"text": "because"
+},
+{
+"key": "B",
+"text": "despite"
+},
+{
+"key": "C",
+"text": "so that"
+},
+{
+"key": "D",
+"text": "because of"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Because\" introduces a clause with a subject and verb."
+},
+{
+"id": "p5x-048",
+"part": 5,
+"category": "Conjunction",
+"difficulty": "Intermediate (750)",
+"questionText": "_______ the budget was limited, the team still completed the project successfully.",
+"options": [
+{
+"key": "A",
+"text": "Despite"
+},
+{
+"key": "B",
+"text": "Although"
+},
+{
+"key": "C",
+"text": "Unless"
+},
+{
+"key": "D",
+"text": "Because"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Although\" introduces a contrast and is followed by a clause."
+},
+{
+"id": "p5x-049",
+"part": 5,
+"category": "Conjunction",
+"difficulty": "Intermediate (750)",
+"questionText": "You may leave early _______ you finish all of your assigned tasks.",
+"options": [
+{
+"key": "A",
+"text": "owing to"
+},
+{
+"key": "B",
+"text": "provided that"
+},
+{
+"key": "C",
+"text": "in spite of"
+},
+{
+"key": "D",
+"text": "rather than"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Provided that\" introduces a condition and fits the meaning."
+},
+{
+"id": "p5x-050",
+"part": 5,
+"category": "Conjunction",
+"difficulty": "Intermediate (750)",
+"questionText": "The package will not be shipped _______ payment has been received.",
+"options": [
+{
+"key": "A",
+"text": "since"
+},
+{
+"key": "B",
+"text": "while"
+},
+{
+"key": "C",
+"text": "so"
+},
+{
+"key": "D",
+"text": "until"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"Not ... until\" means the action waits for the condition."
+},
+{
+"id": "p5x-051",
+"part": 5,
+"category": "Conjunction",
+"difficulty": "Advanced (900)",
+"questionText": "_______ the new policy takes effect, all staff must complete the safety course.",
+"options": [
+{
+"key": "A",
+"text": "Before"
+},
+{
+"key": "B",
+"text": "During"
+},
+{
+"key": "C",
+"text": "Despite"
+},
+{
+"key": "D",
+"text": "Among"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Before\" introduces a clause about the time order."
+},
+{
+"id": "p5x-052",
+"part": 5,
+"category": "Conjunction",
+"difficulty": "Advanced (900)",
+"questionText": "Mr. Reyes will lead the workshop, _______ Ms. Kim will handle registration.",
+"options": [
+{
+"key": "A",
+"text": "because of"
+},
+{
+"key": "B",
+"text": "during"
+},
+{
+"key": "C",
+"text": "while"
+},
+{
+"key": "D",
+"text": "in case of"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"While\" links two simultaneous or contrasting actions."
+},
+{
+"id": "p5x-053",
+"part": 5,
+"category": "Preposition vs Conjunction",
+"difficulty": "Intermediate (750)",
+"questionText": "_______ the heavy traffic, the guests arrived on time for the banquet.",
+"options": [
+{
+"key": "A",
+"text": "Although"
+},
+{
+"key": "B",
+"text": "Even though"
+},
+{
+"key": "C",
+"text": "Whereas"
+},
+{
+"key": "D",
+"text": "Despite"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"Despite\" is followed by a noun phrase; the others need a clause."
+},
+{
+"id": "p5x-054",
+"part": 5,
+"category": "Preposition vs Conjunction",
+"difficulty": "Intermediate (750)",
+"questionText": "The flight was canceled _______ the storm.",
+"options": [
+{
+"key": "A",
+"text": "because of"
+},
+{
+"key": "B",
+"text": "because"
+},
+{
+"key": "C",
+"text": "although"
+},
+{
+"key": "D",
+"text": "so that"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Because of\" is followed by a noun phrase such as \"the storm\"."
+},
+{
+"id": "p5x-055",
+"part": 5,
+"category": "Preposition vs Conjunction",
+"difficulty": "Advanced (900)",
+"questionText": "_______ their different backgrounds, the two founders share a common vision.",
+"options": [
+{
+"key": "A",
+"text": "Even though"
+},
+{
+"key": "B",
+"text": "Whereas"
+},
+{
+"key": "C",
+"text": "In spite of"
+},
+{
+"key": "D",
+"text": "Provided that"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"In spite of\" takes a noun phrase."
+},
+{
+"id": "p5x-056",
+"part": 5,
+"category": "Pronoun",
+"difficulty": "Elementary (500)",
+"questionText": "Ms. Lee asked the assistants to finish _______ work before noon.",
+"options": [
+{
+"key": "A",
+"text": "them"
+},
+{
+"key": "B",
+"text": "their"
+},
+{
+"key": "C",
+"text": "theirs"
+},
+{
+"key": "D",
+"text": "they"
+}
+],
+"correctAnswer": "B",
+"explanation": "A possessive determiner is needed before the noun \"work\"."
+},
+{
+"id": "p5x-057",
+"part": 5,
+"category": "Pronoun",
+"difficulty": "Intermediate (750)",
+"questionText": "The director introduced _______ to the new staff members.",
+"options": [
+{
+"key": "A",
+"text": "hers"
+},
+{
+"key": "B",
+"text": "her"
+},
+{
+"key": "C",
+"text": "herself"
+},
+{
+"key": "D",
+"text": "she"
+}
+],
+"correctAnswer": "C",
+"explanation": "The subject and object are the same person, so the reflexive pronoun is needed."
+},
+{
+"id": "p5x-058",
+"part": 5,
+"category": "Pronoun",
+"difficulty": "Intermediate (750)",
+"questionText": "Please send the invoice to Mr. Davis or _______ assistant.",
+"options": [
+{
+"key": "A",
+"text": "his"
+},
+{
+"key": "B",
+"text": "himself"
+},
+{
+"key": "C",
+"text": "he"
+},
+{
+"key": "D",
+"text": "him"
+}
+],
+"correctAnswer": "A",
+"explanation": "A possessive determiner is needed before \"assistant\"."
+},
+{
+"id": "p5x-059",
+"part": 5,
+"category": "Pronoun",
+"difficulty": "Advanced (900)",
+"questionText": "The two companies agreed to share the cost between _______.",
+"options": [
+{
+"key": "A",
+"text": "them"
+},
+{
+"key": "B",
+"text": "themselves"
+},
+{
+"key": "C",
+"text": "they"
+},
+{
+"key": "D",
+"text": "their"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Themselves\" refers back to the subject of the sentence."
+},
+{
+"id": "p5x-060",
+"part": 5,
+"category": "Relative Pronoun",
+"difficulty": "Elementary (500)",
+"questionText": "The employee _______ won the sales award will receive a bonus.",
+"options": [
+{
+"key": "A",
+"text": "which"
+},
+{
+"key": "B",
+"text": "whom"
+},
+{
+"key": "C",
+"text": "whose"
+},
+{
+"key": "D",
+"text": "who"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"Who\" refers to a person and acts as the subject of \"won\"."
+},
+{
+"id": "p5x-061",
+"part": 5,
+"category": "Relative Pronoun",
+"difficulty": "Intermediate (750)",
+"questionText": "The report, _______ was completed last week, is available online.",
+"options": [
+{
+"key": "A",
+"text": "who"
+},
+{
+"key": "B",
+"text": "what"
+},
+{
+"key": "C",
+"text": "whose"
+},
+{
+"key": "D",
+"text": "which"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"Which\" refers to the thing \"report\" in a non-defining clause."
+},
+{
+"id": "p5x-062",
+"part": 5,
+"category": "Relative Pronoun",
+"difficulty": "Intermediate (750)",
+"questionText": "We need a supplier _______ prices are lower than those of our current vendor.",
+"options": [
+{
+"key": "A",
+"text": "whose"
+},
+{
+"key": "B",
+"text": "who"
+},
+{
+"key": "C",
+"text": "which"
+},
+{
+"key": "D",
+"text": "that is"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Whose\" shows possession: the supplier's prices."
+},
+{
+"id": "p5x-063",
+"part": 5,
+"category": "Relative Pronoun",
+"difficulty": "Advanced (900)",
+"questionText": "The client with _______ we signed the agreement has offices in Seoul.",
+"options": [
+{
+"key": "A",
+"text": "who"
+},
+{
+"key": "B",
+"text": "whom"
+},
+{
+"key": "C",
+"text": "whose"
+},
+{
+"key": "D",
+"text": "which"
+}
+],
+"correctAnswer": "B",
+"explanation": "After a preposition (\"with\"), the object form \"whom\" is used for a person."
+},
+{
+"id": "p5x-064",
+"part": 5,
+"category": "Participle as Adjective",
+"difficulty": "Elementary (500)",
+"questionText": "The _______ customers were given a full refund.",
+"options": [
+{
+"key": "A",
+"text": "disappointment"
+},
+{
+"key": "B",
+"text": "disappointing"
+},
+{
+"key": "C",
+"text": "disappointed"
+},
+{
+"key": "D",
+"text": "disappoint"
+}
+],
+"correctAnswer": "C",
+"explanation": "People who feel disappointment are \"disappointed\"."
+},
+{
+"id": "p5x-065",
+"part": 5,
+"category": "Participle as Adjective",
+"difficulty": "Intermediate (750)",
+"questionText": "The presentation was so _______ that many attendees took notes.",
+"options": [
+{
+"key": "A",
+"text": "inform"
+},
+{
+"key": "B",
+"text": "informing"
+},
+{
+"key": "C",
+"text": "informative"
+},
+{
+"key": "D",
+"text": "informed"
+}
+],
+"correctAnswer": "C",
+"explanation": "The presentation provides information, so \"informative\" is the correct adjective."
+},
+{
+"id": "p5x-066",
+"part": 5,
+"category": "Participle as Adjective",
+"difficulty": "Intermediate (750)",
+"questionText": "All _______ documents must be signed by a witness.",
+"options": [
+{
+"key": "A",
+"text": "attached"
+},
+{
+"key": "B",
+"text": "attachments"
+},
+{
+"key": "C",
+"text": "attaching"
+},
+{
+"key": "D",
+"text": "attach"
+}
+],
+"correctAnswer": "A",
+"explanation": "The documents are attached by someone, so the past participle is used."
+},
+{
+"id": "p5x-067",
+"part": 5,
+"category": "Participle as Adjective",
+"difficulty": "Advanced (900)",
+"questionText": "The manager was _______ by the team's rapid progress.",
+"options": [
+{
+"key": "A",
+"text": "impressing"
+},
+{
+"key": "B",
+"text": "impression"
+},
+{
+"key": "C",
+"text": "impressive"
+},
+{
+"key": "D",
+"text": "impressed"
+}
+],
+"correctAnswer": "D",
+"explanation": "The manager received the impression, so the passive participle fits."
+},
+{
+"id": "p5x-068",
+"part": 5,
+"category": "Gerund vs Infinitive",
+"difficulty": "Elementary (500)",
+"questionText": "The company plans _______ a new branch in Osaka next year.",
+"options": [
+{
+"key": "A",
+"text": "opened"
+},
+{
+"key": "B",
+"text": "to open"
+},
+{
+"key": "C",
+"text": "open"
+},
+{
+"key": "D",
+"text": "opening"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Plan\" is followed by the infinitive."
+},
+{
+"id": "p5x-069",
+"part": 5,
+"category": "Gerund vs Infinitive",
+"difficulty": "Intermediate (750)",
+"questionText": "Ms. Torres suggested _______ the deadline by one week.",
+"options": [
+{
+"key": "A",
+"text": "to extend"
+},
+{
+"key": "B",
+"text": "extend"
+},
+{
+"key": "C",
+"text": "extended"
+},
+{
+"key": "D",
+"text": "extending"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"Suggest\" is followed by a gerund."
+},
+{
+"id": "p5x-070",
+"part": 5,
+"category": "Gerund vs Infinitive",
+"difficulty": "Intermediate (750)",
+"questionText": "The staff is looking forward to _______ the new CEO next week.",
+"options": [
+{
+"key": "A",
+"text": "meeting"
+},
+{
+"key": "B",
+"text": "be meeting"
+},
+{
+"key": "C",
+"text": "met"
+},
+{
+"key": "D",
+"text": "meet"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Look forward to\" is followed by a gerund."
+},
+{
+"id": "p5x-071",
+"part": 5,
+"category": "Gerund vs Infinitive",
+"difficulty": "Advanced (900)",
+"questionText": "Mr. Kato avoided _______ the issue during the negotiation.",
+"options": [
+{
+"key": "A",
+"text": "mentioned"
+},
+{
+"key": "B",
+"text": "mentioning"
+},
+{
+"key": "C",
+"text": "mention"
+},
+{
+"key": "D",
+"text": "to mention"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Avoid\" is followed by a gerund."
+},
+{
+"id": "p5x-072",
+"part": 5,
+"category": "Gerund vs Infinitive",
+"difficulty": "Advanced (900)",
+"questionText": "Employees are required _______ their badges at all times.",
+"options": [
+{
+"key": "A",
+"text": "worn"
+},
+{
+"key": "B",
+"text": "wear"
+},
+{
+"key": "C",
+"text": "to wear"
+},
+{
+"key": "D",
+"text": "wearing"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Be required\" is followed by the infinitive."
+},
+{
+"id": "p5x-073",
+"part": 5,
+"category": "Comparatives",
+"difficulty": "Elementary (500)",
+"questionText": "This year's profits are _______ than last year's.",
+"options": [
+{
+"key": "A",
+"text": "more high"
+},
+{
+"key": "B",
+"text": "high"
+},
+{
+"key": "C",
+"text": "highest"
+},
+{
+"key": "D",
+"text": "higher"
+}
+],
+"correctAnswer": "D",
+"explanation": "The word \"than\" signals a comparative form."
+},
+{
+"id": "p5x-074",
+"part": 5,
+"category": "Comparatives",
+"difficulty": "Intermediate (750)",
+"questionText": "The new model is _______ efficient than the previous one.",
+"options": [
+{
+"key": "A",
+"text": "most"
+},
+{
+"key": "B",
+"text": "more"
+},
+{
+"key": "C",
+"text": "much more than"
+},
+{
+"key": "D",
+"text": "the more"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"More ... than\" forms the comparative for a long adjective."
+},
+{
+"id": "p5x-075",
+"part": 5,
+"category": "Superlative",
+"difficulty": "Intermediate (750)",
+"questionText": "This is _______ successful campaign in the company's history.",
+"options": [
+{
+"key": "A",
+"text": "the most"
+},
+{
+"key": "B",
+"text": "most of"
+},
+{
+"key": "C",
+"text": "more"
+},
+{
+"key": "D",
+"text": "a most"
+}
+],
+"correctAnswer": "A",
+"explanation": "A superlative with \"the\" is needed for \"in the company's history\"."
+},
+{
+"id": "p5x-076",
+"part": 5,
+"category": "Superlative",
+"difficulty": "Advanced (900)",
+"questionText": "Of all the applicants, Ms. Wu has _______ experience.",
+"options": [
+{
+"key": "A",
+"text": "more"
+},
+{
+"key": "B",
+"text": "most of"
+},
+{
+"key": "C",
+"text": "the most"
+},
+{
+"key": "D",
+"text": "the more"
+}
+],
+"correctAnswer": "C",
+"explanation": "The comparison among many applicants requires the superlative."
+},
+{
+"id": "p5x-077",
+"part": 5,
+"category": "Quantifiers",
+"difficulty": "Elementary (500)",
+"questionText": "We received _______ applications for the open position.",
+"options": [
+{
+"key": "A",
+"text": "many"
+},
+{
+"key": "B",
+"text": "less"
+},
+{
+"key": "C",
+"text": "a little"
+},
+{
+"key": "D",
+"text": "much"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Applications\" is countable and plural, so \"many\" is correct."
+},
+{
+"id": "p5x-078",
+"part": 5,
+"category": "Quantifiers",
+"difficulty": "Intermediate (750)",
+"questionText": "There is not _______ time left to finish the audit.",
+"options": [
+{
+"key": "A",
+"text": "few"
+},
+{
+"key": "B",
+"text": "many"
+},
+{
+"key": "C",
+"text": "several"
+},
+{
+"key": "D",
+"text": "much"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"Time\" is uncountable, so \"much\" is used."
+},
+{
+"id": "p5x-079",
+"part": 5,
+"category": "Quantifiers",
+"difficulty": "Intermediate (750)",
+"questionText": "_______ of the board members voted against the proposal.",
+"options": [
+{
+"key": "A",
+"text": "The most"
+},
+{
+"key": "B",
+"text": "Most"
+},
+{
+"key": "C",
+"text": "Mostly"
+},
+{
+"key": "D",
+"text": "Almost"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Most of\" is followed by a plural noun phrase."
+},
+{
+"id": "p5x-080",
+"part": 5,
+"category": "Quantifiers",
+"difficulty": "Advanced (900)",
+"questionText": "The company has _______ branches abroad, so international travel is rare.",
+"options": [
+{
+"key": "A",
+"text": "much"
+},
+{
+"key": "B",
+"text": "less"
+},
+{
+"key": "C",
+"text": "few"
+},
+{
+"key": "D",
+"text": "a little"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Few\" is used with countable nouns and has a negative meaning."
+},
+{
+"id": "p5x-081",
+"part": 5,
+"category": "Modal Verbs",
+"difficulty": "Elementary (500)",
+"questionText": "Visitors _______ sign in at the front desk before entering.",
+"options": [
+{
+"key": "A",
+"text": "are"
+},
+{
+"key": "B",
+"text": "have"
+},
+{
+"key": "C",
+"text": "were to"
+},
+{
+"key": "D",
+"text": "must"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"Must\" expresses a required action."
+},
+{
+"id": "p5x-082",
+"part": 5,
+"category": "Modal Verbs",
+"difficulty": "Intermediate (750)",
+"questionText": "You _______ submit the form today if you want the discount.",
+"options": [
+{
+"key": "A",
+"text": "are"
+},
+{
+"key": "B",
+"text": "should"
+},
+{
+"key": "C",
+"text": "ought"
+},
+{
+"key": "D",
+"text": "did"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Should\" gives advice or a recommended action."
+},
+{
+"id": "p5x-083",
+"part": 5,
+"category": "Modal Verbs",
+"difficulty": "Advanced (900)",
+"questionText": "The supervisor suggested that the report _______ revised before Monday.",
+"options": [
+{
+"key": "A",
+"text": "be"
+},
+{
+"key": "B",
+"text": "is"
+},
+{
+"key": "C",
+"text": "was"
+},
+{
+"key": "D",
+"text": "being"
+}
+],
+"correctAnswer": "A",
+"explanation": "After \"suggested that\", the base form is used (subjunctive)."
+},
+{
+"id": "p5x-084",
+"part": 5,
+"category": "Relative Clause",
+"difficulty": "Advanced (900)",
+"questionText": "Employees _______ in the program receive extra training.",
+"options": [
+{
+"key": "A",
+"text": "enroll"
+},
+{
+"key": "B",
+"text": "enrolling"
+},
+{
+"key": "C",
+"text": "enrolled"
+},
+{
+"key": "D",
+"text": "are enrolled"
+}
+],
+"correctAnswer": "C",
+"explanation": "A reduced relative clause uses the past participle: \"who are enrolled\"."
+},
+{
+"id": "p5x-085",
+"part": 5,
+"category": "Parallel Structure",
+"difficulty": "Intermediate (750)",
+"questionText": "The job requires planning, organizing, and _______ team projects.",
+"options": [
+{
+"key": "A",
+"text": "coordination of"
+},
+{
+"key": "B",
+"text": "coordinating"
+},
+{
+"key": "C",
+"text": "to coordinate"
+},
+{
+"key": "D",
+"text": "coordinate"
+}
+],
+"correctAnswer": "B",
+"explanation": "A list needs the same form; the others in the list are gerunds."
+},
+{
+"id": "p5x-086",
+"part": 5,
+"category": "Parallel Structure",
+"difficulty": "Advanced (900)",
+"questionText": "Ms. Huang is both an experienced engineer and a _______ manager.",
+"options": [
+{
+"key": "A",
+"text": "skilled"
+},
+{
+"key": "B",
+"text": "skills"
+},
+{
+"key": "C",
+"text": "skillfully"
+},
+{
+"key": "D",
+"text": "skill"
+}
+],
+"correctAnswer": "A",
+"explanation": "Both items after \"both ... and\" must be the same type: noun phrases with adjectives."
+},
+{
+"id": "p5x-087",
+"part": 5,
+"category": "Correlative Conjunctions",
+"difficulty": "Intermediate (750)",
+"questionText": "You can pay either by credit card _______ by bank transfer.",
+"options": [
+{
+"key": "A",
+"text": "but"
+},
+{
+"key": "B",
+"text": "nor"
+},
+{
+"key": "C",
+"text": "or"
+},
+{
+"key": "D",
+"text": "and"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Either ... or\" is the correct pair."
+},
+{
+"id": "p5x-088",
+"part": 5,
+"category": "Correlative Conjunctions",
+"difficulty": "Intermediate (750)",
+"questionText": "The proposal was not only creative _______ also affordable.",
+"options": [
+{
+"key": "A",
+"text": "and"
+},
+{
+"key": "B",
+"text": "than"
+},
+{
+"key": "C",
+"text": "or"
+},
+{
+"key": "D",
+"text": "but"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"Not only ... but also\" is the correct pair."
+},
+{
+"id": "p5x-089",
+"part": 5,
+"category": "Conjunctive Adverb",
+"difficulty": "Intermediate (750)",
+"questionText": "The project was complex; _______, the team finished it ahead of schedule.",
+"options": [
+{
+"key": "A",
+"text": "for example"
+},
+{
+"key": "B",
+"text": "therefore"
+},
+{
+"key": "C",
+"text": "nevertheless"
+},
+{
+"key": "D",
+"text": "moreover"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Nevertheless\" shows a contrast between difficulty and success."
+},
+{
+"id": "p5x-090",
+"part": 5,
+"category": "Conjunctive Adverb",
+"difficulty": "Intermediate (750)",
+"questionText": "Sales fell sharply; _______, the company cut its marketing budget.",
+"options": [
+{
+"key": "A",
+"text": "meanwhile"
+},
+{
+"key": "B",
+"text": "however"
+},
+{
+"key": "C",
+"text": "instead"
+},
+{
+"key": "D",
+"text": "consequently"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"Consequently\" shows the result of the sales drop."
+},
+{
+"id": "p5x-091",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Elementary (500)",
+"questionText": "The store is offering a _______ of 20 percent on all electronics this weekend.",
+"options": [
+{
+"key": "A",
+"text": "decision"
+},
+{
+"key": "B",
+"text": "discount"
+},
+{
+"key": "C",
+"text": "deposit"
+},
+{
+"key": "D",
+"text": "donation"
+}
+],
+"correctAnswer": "B",
+"explanation": "A discount is a price reduction."
+},
+{
+"id": "p5x-092",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Elementary (500)",
+"questionText": "Please keep your _______ as proof of purchase.",
+"options": [
+{
+"key": "A",
+"text": "receipt"
+},
+{
+"key": "B",
+"text": "recipe"
+},
+{
+"key": "C",
+"text": "reception"
+},
+{
+"key": "D",
+"text": "receiver"
+}
+],
+"correctAnswer": "A",
+"explanation": "A receipt is a paper that proves a payment."
+},
+{
+"id": "p5x-093",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Intermediate (750)",
+"questionText": "The company will _______ the new regulations starting next month.",
+"options": [
+{
+"key": "A",
+"text": "impress"
+},
+{
+"key": "B",
+"text": "imply"
+},
+{
+"key": "C",
+"text": "inspire"
+},
+{
+"key": "D",
+"text": "implement"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"Implement\" means to put a plan or rule into action."
+},
+{
+"id": "p5x-094",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Intermediate (750)",
+"questionText": "All payments are due within thirty days of the invoice _______.",
+"options": [
+{
+"key": "A",
+"text": "date"
+},
+{
+"key": "B",
+"text": "dated"
+},
+{
+"key": "C",
+"text": "dating"
+},
+{
+"key": "D",
+"text": "data"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Invoice date\" is a standard noun phrase."
+},
+{
+"id": "p5x-095",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Intermediate (750)",
+"questionText": "The firm hired a consultant to _______ its operating costs.",
+"options": [
+{
+"key": "A",
+"text": "reducing"
+},
+{
+"key": "B",
+"text": "reduce"
+},
+{
+"key": "C",
+"text": "reduction"
+},
+{
+"key": "D",
+"text": "reduced"
+}
+],
+"correctAnswer": "B",
+"explanation": "After \"to\", the base verb is needed and the meaning fits."
+},
+{
+"id": "p5x-096",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Intermediate (750)",
+"questionText": "Before signing the lease, Mr. Ito asked the landlord to _______ the terms.",
+"options": [
+{
+"key": "A",
+"text": "classify"
+},
+{
+"key": "B",
+"text": "clarifying"
+},
+{
+"key": "C",
+"text": "clarify"
+},
+{
+"key": "D",
+"text": "clarity"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Clarify\" means to make something clear."
+},
+{
+"id": "p5x-097",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Advanced (900)",
+"questionText": "The airline offered passengers a _______ for the inconvenience caused by the delay.",
+"options": [
+{
+"key": "A",
+"text": "compensation"
+},
+{
+"key": "B",
+"text": "composition"
+},
+{
+"key": "C",
+"text": "compliment"
+},
+{
+"key": "D",
+"text": "competition"
+}
+],
+"correctAnswer": "A",
+"explanation": "Compensation is payment given for a problem or loss."
+},
+{
+"id": "p5x-098",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Advanced (900)",
+"questionText": "The warehouse manager must _______ the inventory every quarter.",
+"options": [
+{
+"key": "A",
+"text": "resign"
+},
+{
+"key": "B",
+"text": "retreat"
+},
+{
+"key": "C",
+"text": "reconcile"
+},
+{
+"key": "D",
+"text": "resemble"
+}
+],
+"correctAnswer": "C",
+"explanation": "To reconcile inventory means to match records with actual stock."
+},
+{
+"id": "p5x-099",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Advanced (900)",
+"questionText": "The CEO's speech _______ the importance of customer loyalty.",
+"options": [
+{
+"key": "A",
+"text": "expired"
+},
+{
+"key": "B",
+"text": "emphasized"
+},
+{
+"key": "C",
+"text": "exhausted"
+},
+{
+"key": "D",
+"text": "exceeded"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Emphasized\" means gave special importance to."
+},
+{
+"id": "p5x-100",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Advanced (900)",
+"questionText": "Our firm specializes _______ corporate tax law.",
+"options": [
+{
+"key": "A",
+"text": "about"
+},
+{
+"key": "B",
+"text": "on"
+},
+{
+"key": "C",
+"text": "for"
+},
+{
+"key": "D",
+"text": "in"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"Specialize in\" is the correct collocation."
+},
+{
+"id": "p5x-101",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Advanced (900)",
+"questionText": "Please _______ the attached document and return it by Thursday.",
+"options": [
+{
+"key": "A",
+"text": "compile"
+},
+{
+"key": "B",
+"text": "compose"
+},
+{
+"key": "C",
+"text": "complete"
+},
+{
+"key": "D",
+"text": "compete"
+}
+],
+"correctAnswer": "C",
+"explanation": "To complete a document means to fill it in fully."
+},
+{
+"id": "p5x-102",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Intermediate (750)",
+"questionText": "The hotel requires a credit card to _______ a reservation.",
+"options": [
+{
+"key": "A",
+"text": "guide"
+},
+{
+"key": "B",
+"text": "gather"
+},
+{
+"key": "C",
+"text": "guard"
+},
+{
+"key": "D",
+"text": "guarantee"
+}
+],
+"correctAnswer": "D",
+"explanation": "To guarantee a reservation is to secure it."
+},
+{
+"id": "p5x-103",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Intermediate (750)",
+"questionText": "The contract will _______ automatically unless either party gives notice.",
+"options": [
+{
+"key": "A",
+"text": "remark"
+},
+{
+"key": "B",
+"text": "renew"
+},
+{
+"key": "C",
+"text": "remind"
+},
+{
+"key": "D",
+"text": "remove"
+}
+],
+"correctAnswer": "B",
+"explanation": "A contract renews when it is extended for another term."
+},
+{
+"id": "p5x-104",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Intermediate (750)",
+"questionText": "Employees are _______ to use the stairs during the fire drill.",
+"options": [
+{
+"key": "A",
+"text": "advised"
+},
+{
+"key": "B",
+"text": "advanced"
+},
+{
+"key": "C",
+"text": "advocated"
+},
+{
+"key": "D",
+"text": "advertised"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Advised\" means strongly recommended."
+},
+{
+"id": "p5x-105",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Elementary (500)",
+"questionText": "The seminar is _______ to all employees, not only managers.",
+"options": [
+{
+"key": "A",
+"text": "opened"
+},
+{
+"key": "B",
+"text": "openly"
+},
+{
+"key": "C",
+"text": "opening"
+},
+{
+"key": "D",
+"text": "open"
+}
+],
+"correctAnswer": "D",
+"explanation": "After \"is\", an adjective is used; \"open to\" means available to."
+},
+{
+"id": "p5x-106",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Intermediate (750)",
+"questionText": "The cost of materials has _______ by ten percent since March.",
+"options": [
+{
+"key": "A",
+"text": "increased"
+},
+{
+"key": "B",
+"text": "arisen up"
+},
+{
+"key": "C",
+"text": "raised"
+},
+{
+"key": "D",
+"text": "rised"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Increase\" can be intransitive, meaning it grew; \"raised\" needs an object."
+},
+{
+"id": "p5x-107",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Advanced (900)",
+"questionText": "The vendor was unable to _______ the order because the item was out of stock.",
+"options": [
+{
+"key": "A",
+"text": "formulate"
+},
+{
+"key": "B",
+"text": "foresee"
+},
+{
+"key": "C",
+"text": "fulfill"
+},
+{
+"key": "D",
+"text": "forfeit"
+}
+],
+"correctAnswer": "C",
+"explanation": "To fulfill an order means to complete and deliver it."
+},
+{
+"id": "p5x-108",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Advanced (900)",
+"questionText": "All new employees must _______ a background check before their first day.",
+"options": [
+{
+"key": "A",
+"text": "undermine"
+},
+{
+"key": "B",
+"text": "undergo"
+},
+{
+"key": "C",
+"text": "underline"
+},
+{
+"key": "D",
+"text": "undertake"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Undergo\" means to experience a required process."
+},
+{
+"id": "p5x-109",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Intermediate (750)",
+"questionText": "The manager was asked to _______ the budget proposal at the board meeting.",
+"options": [
+{
+"key": "A",
+"text": "represent"
+},
+{
+"key": "B",
+"text": "presently"
+},
+{
+"key": "C",
+"text": "present"
+},
+{
+"key": "D",
+"text": "presence"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Present\" is the base verb meaning to show or introduce formally."
+},
+{
+"id": "p5x-110",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Intermediate (750)",
+"questionText": "A _______ number of attendees requested vegetarian meals.",
+"options": [
+{
+"key": "A",
+"text": "significance"
+},
+{
+"key": "B",
+"text": "significant"
+},
+{
+"key": "C",
+"text": "significantly"
+},
+{
+"key": "D",
+"text": "signify"
+}
+],
+"correctAnswer": "B",
+"explanation": "An adjective is needed before the noun \"number\"."
+},
+{
+"id": "p5x-111",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Elementary (500)",
+"questionText": "Our office hours are from 9 a.m. _______ 5 p.m., Monday to Friday.",
+"options": [
+{
+"key": "A",
+"text": "at"
+},
+{
+"key": "B",
+"text": "on"
+},
+{
+"key": "C",
+"text": "in"
+},
+{
+"key": "D",
+"text": "to"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"From ... to\" gives a range of time."
+},
+{
+"id": "p5x-112",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Intermediate (750)",
+"questionText": "The lecturer will _______ the findings of the study at the conference.",
+"options": [
+{
+"key": "A",
+"text": "summarize"
+},
+{
+"key": "B",
+"text": "summon"
+},
+{
+"key": "C",
+"text": "sum"
+},
+{
+"key": "D",
+"text": "summit"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Summarize\" means to give the main points briefly."
+},
+{
+"id": "p5x-113",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Advanced (900)",
+"questionText": "Applicants should _______ a résumé and two letters of recommendation.",
+"options": [
+{
+"key": "A",
+"text": "enclose"
+},
+{
+"key": "B",
+"text": "enroll"
+},
+{
+"key": "C",
+"text": "endure"
+},
+{
+"key": "D",
+"text": "encounter"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Enclose\" means to include with a letter or package."
+},
+{
+"id": "p5x-114",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Advanced (900)",
+"questionText": "The new tax law will _______ small businesses the most.",
+"options": [
+{
+"key": "A",
+"text": "effective"
+},
+{
+"key": "B",
+"text": "affect"
+},
+{
+"key": "C",
+"text": "affective"
+},
+{
+"key": "D",
+"text": "effect"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Affect\" is the verb meaning to influence."
+},
+{
+"id": "p5x-115",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Intermediate (750)",
+"questionText": "The company is committed _______ reducing its carbon emissions.",
+"options": [
+{
+"key": "A",
+"text": "for"
+},
+{
+"key": "B",
+"text": "with"
+},
+{
+"key": "C",
+"text": "by"
+},
+{
+"key": "D",
+"text": "to"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"Committed to\" is followed by a gerund or noun."
+},
+{
+"id": "p5x-116",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Advanced (900)",
+"questionText": "The warranty is _______ for two years from the date of purchase.",
+"options": [
+{
+"key": "A",
+"text": "validate"
+},
+{
+"key": "B",
+"text": "validity"
+},
+{
+"key": "C",
+"text": "valid"
+},
+{
+"key": "D",
+"text": "valued"
+}
+],
+"correctAnswer": "C",
+"explanation": "After \"is\", an adjective is needed; \"valid\" means legally effective."
+},
+{
+"id": "p5x-117",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Intermediate (750)",
+"questionText": "Mr. Silva was _______ to the position of regional director last month.",
+"options": [
+{
+"key": "A",
+"text": "appealed"
+},
+{
+"key": "B",
+"text": "applied"
+},
+{
+"key": "C",
+"text": "approached"
+},
+{
+"key": "D",
+"text": "appointed"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"Appointed to a position\" is the standard collocation."
+},
+{
+"id": "p5x-118",
+"part": 5,
+"category": "Word Form - Noun",
+"difficulty": "Elementary (500)",
+"questionText": "The hotel manager apologized for the _______ caused by the power outage.",
+"options": [
+{
+"key": "A",
+"text": "inconvenience"
+},
+{
+"key": "B",
+"text": "inconvenience's"
+},
+{
+"key": "C",
+"text": "inconvenient"
+},
+{
+"key": "D",
+"text": "inconveniently"
+}
+],
+"correctAnswer": "A",
+"explanation": "After \"the\", a noun is needed; \"inconvenience\" is the noun that fits the meaning."
+},
+{
+"id": "p5x-119",
+"part": 5,
+"category": "Word Form - Noun",
+"difficulty": "Intermediate (750)",
+"questionText": "Participation in the wellness program is _______ for all full-time employees.",
+"options": [
+{
+"key": "A",
+"text": "volunteer"
+},
+{
+"key": "B",
+"text": "voluntary"
+},
+{
+"key": "C",
+"text": "voluntarily"
+},
+{
+"key": "D",
+"text": "volunteering"
+}
+],
+"correctAnswer": "B",
+"explanation": "After \"is\", an adjective is needed to describe \"participation\"."
+},
+{
+"id": "p5x-120",
+"part": 5,
+"category": "Word Form - Noun",
+"difficulty": "Intermediate (750)",
+"questionText": "The _______ of the new warehouse will create about fifty jobs.",
+"options": [
+{
+"key": "A",
+"text": "constructively"
+},
+{
+"key": "B",
+"text": "construct"
+},
+{
+"key": "C",
+"text": "construction"
+},
+{
+"key": "D",
+"text": "constructive"
+}
+],
+"correctAnswer": "C",
+"explanation": "After \"the\", a noun is needed, and \"construction\" fits the meaning."
+},
+{
+"id": "p5x-121",
+"part": 5,
+"category": "Word Form - Noun",
+"difficulty": "Intermediate (750)",
+"questionText": "Ms. Ramirez gave a clear _______ of how the software works.",
+"options": [
+{
+"key": "A",
+"text": "explained"
+},
+{
+"key": "B",
+"text": "explain"
+},
+{
+"key": "C",
+"text": "explanatory"
+},
+{
+"key": "D",
+"text": "explanation"
+}
+],
+"correctAnswer": "D",
+"explanation": "After the adjective \"clear\", a noun is required."
+},
+{
+"id": "p5x-122",
+"part": 5,
+"category": "Word Form - Noun",
+"difficulty": "Advanced (900)",
+"questionText": "Strict _______ to safety rules is required in the chemical plant.",
+"options": [
+{
+"key": "A",
+"text": "adherence"
+},
+{
+"key": "B",
+"text": "adherent"
+},
+{
+"key": "C",
+"text": "adhering"
+},
+{
+"key": "D",
+"text": "adhere"
+}
+],
+"correctAnswer": "A",
+"explanation": "After the adjective \"strict\", a noun is needed; \"adherence to\" is the collocation."
+},
+{
+"id": "p5x-123",
+"part": 5,
+"category": "Word Form - Noun",
+"difficulty": "Advanced (900)",
+"questionText": "The company's _______ on foreign suppliers has grown over the past decade.",
+"options": [
+{
+"key": "A",
+"text": "reliable"
+},
+{
+"key": "B",
+"text": "reliance"
+},
+{
+"key": "C",
+"text": "relying"
+},
+{
+"key": "D",
+"text": "reliably"
+}
+],
+"correctAnswer": "B",
+"explanation": "After the possessive, a noun is needed, and \"reliance on\" is the collocation."
+},
+{
+"id": "p5x-124",
+"part": 5,
+"category": "Word Form - Verb",
+"difficulty": "Elementary (500)",
+"questionText": "The board will _______ the final decision on Thursday.",
+"options": [
+{
+"key": "A",
+"text": "makes"
+},
+{
+"key": "B",
+"text": "making"
+},
+{
+"key": "C",
+"text": "make"
+},
+{
+"key": "D",
+"text": "made"
+}
+],
+"correctAnswer": "C",
+"explanation": "After the modal \"will\", the base verb is used."
+},
+{
+"id": "p5x-125",
+"part": 5,
+"category": "Word Form - Verb",
+"difficulty": "Intermediate (750)",
+"questionText": "New employees are encouraged to _______ their ideas during team meetings.",
+"options": [
+{
+"key": "A",
+"text": "shared"
+},
+{
+"key": "B",
+"text": "share"
+},
+{
+"key": "C",
+"text": "sharing"
+},
+{
+"key": "D",
+"text": "shares"
+}
+],
+"correctAnswer": "B",
+"explanation": "After \"to\" in the infinitive, the base verb is needed."
+},
+{
+"id": "p5x-126",
+"part": 5,
+"category": "Word Form - Verb",
+"difficulty": "Intermediate (750)",
+"questionText": "The manager decided to _______ the training session until next week.",
+"options": [
+{
+"key": "A",
+"text": "postponement"
+},
+{
+"key": "B",
+"text": "postponing"
+},
+{
+"key": "C",
+"text": "postpone"
+},
+{
+"key": "D",
+"text": "postponed"
+}
+],
+"correctAnswer": "C",
+"explanation": "After \"to\", the base form of the verb is needed."
+},
+{
+"id": "p5x-127",
+"part": 5,
+"category": "Word Form - Verb",
+"difficulty": "Advanced (900)",
+"questionText": "Cost-saving measures will _______ the company to remain profitable.",
+"options": [
+{
+"key": "A",
+"text": "enable"
+},
+{
+"key": "B",
+"text": "enabling"
+},
+{
+"key": "C",
+"text": "able"
+},
+{
+"key": "D",
+"text": "ability"
+}
+],
+"correctAnswer": "A",
+"explanation": "After the modal \"will\", the verb \"enable\" is used with an object and \"to\"."
+},
+{
+"id": "p5x-128",
+"part": 5,
+"category": "Word Form - Adjective",
+"difficulty": "Elementary (500)",
+"questionText": "The _______ report will be sent to all shareholders next week.",
+"options": [
+{
+"key": "A",
+"text": "annul"
+},
+{
+"key": "B",
+"text": "annually"
+},
+{
+"key": "C",
+"text": "annuity"
+},
+{
+"key": "D",
+"text": "annual"
+}
+],
+"correctAnswer": "D",
+"explanation": "An adjective is needed before the noun \"report\"."
+},
+{
+"id": "p5x-129",
+"part": 5,
+"category": "Word Form - Adjective",
+"difficulty": "Intermediate (750)",
+"questionText": "The _______ results of the survey will be published next month.",
+"options": [
+{
+"key": "A",
+"text": "final"
+},
+{
+"key": "B",
+"text": "finally"
+},
+{
+"key": "C",
+"text": "finalize"
+},
+{
+"key": "D",
+"text": "finality"
+}
+],
+"correctAnswer": "A",
+"explanation": "An adjective is needed before the noun \"results\"."
+},
+{
+"id": "p5x-130",
+"part": 5,
+"category": "Word Form - Adjective",
+"difficulty": "Intermediate (750)",
+"questionText": "It is _______ that all documents be signed before the deadline.",
+"options": [
+{
+"key": "A",
+"text": "essentials"
+},
+{
+"key": "B",
+"text": "essential"
+},
+{
+"key": "C",
+"text": "essence"
+},
+{
+"key": "D",
+"text": "essentially"
+}
+],
+"correctAnswer": "B",
+"explanation": "After \"It is\", an adjective is needed."
+},
+{
+"id": "p5x-131",
+"part": 5,
+"category": "Word Form - Adjective",
+"difficulty": "Intermediate (750)",
+"questionText": "Mr. Wong is a _______ salesperson who exceeds his targets every month.",
+"options": [
+{
+"key": "A",
+"text": "dedicating"
+},
+{
+"key": "B",
+"text": "dedicate"
+},
+{
+"key": "C",
+"text": "dedication"
+},
+{
+"key": "D",
+"text": "dedicated"
+}
+],
+"correctAnswer": "D",
+"explanation": "An adjective is needed to describe the noun \"salesperson\"."
+},
+{
+"id": "p5x-132",
+"part": 5,
+"category": "Word Form - Adjective",
+"difficulty": "Advanced (900)",
+"questionText": "The software update is _______ with both Windows and Mac systems.",
+"options": [
+{
+"key": "A",
+"text": "compatibly"
+},
+{
+"key": "B",
+"text": "compatibility"
+},
+{
+"key": "C",
+"text": "compatible"
+},
+{
+"key": "D",
+"text": "compat"
+}
+],
+"correctAnswer": "C",
+"explanation": "After \"is\", an adjective is needed; \"compatible with\" is the collocation."
+},
+{
+"id": "p5x-133",
+"part": 5,
+"category": "Word Form - Adverb",
+"difficulty": "Elementary (500)",
+"questionText": "Please speak _______ so everyone in the hall can hear you.",
+"options": [
+{
+"key": "A",
+"text": "clearly"
+},
+{
+"key": "B",
+"text": "clarity"
+},
+{
+"key": "C",
+"text": "clearness"
+},
+{
+"key": "D",
+"text": "clear"
+}
+],
+"correctAnswer": "A",
+"explanation": "An adverb modifies the verb \"speak\"."
+},
+{
+"id": "p5x-134",
+"part": 5,
+"category": "Word Form - Adverb",
+"difficulty": "Intermediate (750)",
+"questionText": "The new policy was _______ welcomed by the employees.",
+"options": [
+{
+"key": "A",
+"text": "warming"
+},
+{
+"key": "B",
+"text": "warm"
+},
+{
+"key": "C",
+"text": "warmly"
+},
+{
+"key": "D",
+"text": "warmth"
+}
+],
+"correctAnswer": "C",
+"explanation": "An adverb modifies the passive verb \"was welcomed\"."
+},
+{
+"id": "p5x-135",
+"part": 5,
+"category": "Word Form - Adverb",
+"difficulty": "Intermediate (750)",
+"questionText": "The report is _______ complete, but a few charts are missing.",
+"options": [
+{
+"key": "A",
+"text": "nearer"
+},
+{
+"key": "B",
+"text": "nearness"
+},
+{
+"key": "C",
+"text": "near"
+},
+{
+"key": "D",
+"text": "nearly"
+}
+],
+"correctAnswer": "D",
+"explanation": "An adverb modifies the adjective \"complete\"."
+},
+{
+"id": "p5x-136",
+"part": 5,
+"category": "Word Form - Adverb",
+"difficulty": "Advanced (900)",
+"questionText": "The shipping costs were _______ higher than we had budgeted.",
+"options": [
+{
+"key": "A",
+"text": "consideration"
+},
+{
+"key": "B",
+"text": "considerably"
+},
+{
+"key": "C",
+"text": "considerable"
+},
+{
+"key": "D",
+"text": "consider"
+}
+],
+"correctAnswer": "B",
+"explanation": "An adverb modifies the comparative \"higher\"."
+},
+{
+"id": "p5x-137",
+"part": 5,
+"category": "Verb Tense - Present Simple",
+"difficulty": "Elementary (500)",
+"questionText": "The bank _______ at 9 a.m. and closes at 4 p.m. on weekdays.",
+"options": [
+{
+"key": "A",
+"text": "opened"
+},
+{
+"key": "B",
+"text": "is opened"
+},
+{
+"key": "C",
+"text": "has open"
+},
+{
+"key": "D",
+"text": "opens"
+}
+],
+"correctAnswer": "D",
+"explanation": "A routine schedule uses the present simple."
+},
+{
+"id": "p5x-138",
+"part": 5,
+"category": "Verb Tense - Present Perfect",
+"difficulty": "Intermediate (750)",
+"questionText": "The department _______ its monthly target for three months in a row.",
+"options": [
+{
+"key": "A",
+"text": "was meeting"
+},
+{
+"key": "B",
+"text": "meet"
+},
+{
+"key": "C",
+"text": "has met"
+},
+{
+"key": "D",
+"text": "will meet"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"For three months in a row\" up to now needs the present perfect."
+},
+{
+"id": "p5x-139",
+"part": 5,
+"category": "Verb Tense - Past Simple",
+"difficulty": "Intermediate (750)",
+"questionText": "Ms. Obi _______ the company in 2015 and became CEO in 2022.",
+"options": [
+{
+"key": "A",
+"text": "joins"
+},
+{
+"key": "B",
+"text": "joined"
+},
+{
+"key": "C",
+"text": "was joining"
+},
+{
+"key": "D",
+"text": "has joined"
+}
+],
+"correctAnswer": "B",
+"explanation": "Finished past years such as 2015 require the past simple."
+},
+{
+"id": "p5x-140",
+"part": 5,
+"category": "Verb Tense - Future",
+"difficulty": "Intermediate (750)",
+"questionText": "The new store _______ next Saturday with a special sale.",
+"options": [
+{
+"key": "A",
+"text": "will open"
+},
+{
+"key": "B",
+"text": "opened"
+},
+{
+"key": "C",
+"text": "opening"
+},
+{
+"key": "D",
+"text": "has opened"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Next Saturday\" is in the future."
+},
+{
+"id": "p5x-141",
+"part": 5,
+"category": "Verb Tense - Past Continuous",
+"difficulty": "Advanced (900)",
+"questionText": "While the technician _______ the network, the power suddenly went out.",
+"options": [
+{
+"key": "A",
+"text": "repairs"
+},
+{
+"key": "B",
+"text": "was repairing"
+},
+{
+"key": "C",
+"text": "has repaired"
+},
+{
+"key": "D",
+"text": "will repair"
+}
+],
+"correctAnswer": "B",
+"explanation": "The past continuous describes an action in progress when another action interrupted."
+},
+{
+"id": "p5x-142",
+"part": 5,
+"category": "Verb Tense - Present Perfect Continuous",
+"difficulty": "Advanced (900)",
+"questionText": "We _______ for a reliable distributor for several months.",
+"options": [
+{
+"key": "A",
+"text": "will search"
+},
+{
+"key": "B",
+"text": "search"
+},
+{
+"key": "C",
+"text": "are searching"
+},
+{
+"key": "D",
+"text": "have been searching"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"For several months\" with an ongoing action takes the present perfect continuous."
+},
+{
+"id": "p5x-143",
+"part": 5,
+"category": "Verb Tense - Conditional",
+"difficulty": "Intermediate (750)",
+"questionText": "If I were you, I _______ the contract carefully before signing.",
+"options": [
+{
+"key": "A",
+"text": "would read"
+},
+{
+"key": "B",
+"text": "will read"
+},
+{
+"key": "C",
+"text": "have read"
+},
+{
+"key": "D",
+"text": "read"
+}
+],
+"correctAnswer": "A",
+"explanation": "A second conditional uses \"would\" plus the base verb."
+},
+{
+"id": "p5x-144",
+"part": 5,
+"category": "Verb Tense - Conditional",
+"difficulty": "Advanced (900)",
+"questionText": "_______ the shipment arrive late, please notify the customer immediately.",
+"options": [
+{
+"key": "A",
+"text": "Would"
+},
+{
+"key": "B",
+"text": "If"
+},
+{
+"key": "C",
+"text": "Should"
+},
+{
+"key": "D",
+"text": "Had"
+}
+],
+"correctAnswer": "C",
+"explanation": "Inverted \"Should\" replaces \"If\" in a formal first conditional."
+},
+{
+"id": "p5x-145",
+"part": 5,
+"category": "Verb Tense - Conditional",
+"difficulty": "Advanced (900)",
+"questionText": "Had the company invested earlier, it _______ a larger market share today.",
+"options": [
+{
+"key": "A",
+"text": "would have"
+},
+{
+"key": "B",
+"text": "has"
+},
+{
+"key": "C",
+"text": "having"
+},
+{
+"key": "D",
+"text": "will have"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Had the company invested\" is an inverted third conditional."
+},
+{
+"id": "p5x-146",
+"part": 5,
+"category": "Passive Voice",
+"difficulty": "Intermediate (750)",
+"questionText": "The conference room _______ for the board meeting all day tomorrow.",
+"options": [
+{
+"key": "A",
+"text": "reserved to"
+},
+{
+"key": "B",
+"text": "is reserving"
+},
+{
+"key": "C",
+"text": "reserves"
+},
+{
+"key": "D",
+"text": "has been reserved"
+}
+],
+"correctAnswer": "D",
+"explanation": "The room is reserved by someone, so the passive is needed."
+},
+{
+"id": "p5x-147",
+"part": 5,
+"category": "Passive Voice",
+"difficulty": "Intermediate (750)",
+"questionText": "Several errors _______ in the first draft of the contract.",
+"options": [
+{
+"key": "A",
+"text": "have find"
+},
+{
+"key": "B",
+"text": "were finding"
+},
+{
+"key": "C",
+"text": "were found"
+},
+{
+"key": "D",
+"text": "found"
+}
+],
+"correctAnswer": "C",
+"explanation": "The errors are found by someone else, so the passive is used."
+},
+{
+"id": "p5x-148",
+"part": 5,
+"category": "Passive Voice",
+"difficulty": "Advanced (900)",
+"questionText": "The new hires _______ an orientation packet upon arrival.",
+"options": [
+{
+"key": "A",
+"text": "are give"
+},
+{
+"key": "B",
+"text": "will be given"
+},
+{
+"key": "C",
+"text": "will give"
+},
+{
+"key": "D",
+"text": "will be giving"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Give\" with a person as the subject of the passive needs \"will be given\"."
+},
+{
+"id": "p5x-149",
+"part": 5,
+"category": "Subject-Verb Agreement",
+"difficulty": "Elementary (500)",
+"questionText": "The manager and her assistant _______ at the conference this week.",
+"options": [
+{
+"key": "A",
+"text": "has"
+},
+{
+"key": "B",
+"text": "are"
+},
+{
+"key": "C",
+"text": "was"
+},
+{
+"key": "D",
+"text": "is"
+}
+],
+"correctAnswer": "B",
+"explanation": "Two subjects joined by \"and\" take a plural verb."
+},
+{
+"id": "p5x-150",
+"part": 5,
+"category": "Subject-Verb Agreement",
+"difficulty": "Intermediate (750)",
+"questionText": "The results of the survey _______ that customers prefer faster delivery.",
+"options": [
+{
+"key": "A",
+"text": "has showed"
+},
+{
+"key": "B",
+"text": "shows"
+},
+{
+"key": "C",
+"text": "show"
+},
+{
+"key": "D",
+"text": "is showing"
+}
+],
+"correctAnswer": "C",
+"explanation": "The plural subject \"results\" takes the plural verb \"show\"."
+},
+{
+"id": "p5x-151",
+"part": 5,
+"category": "Subject-Verb Agreement",
+"difficulty": "Intermediate (750)",
+"questionText": "Every employee in the sales departments _______ a company laptop.",
+"options": [
+{
+"key": "A",
+"text": "receives"
+},
+{
+"key": "B",
+"text": "have received"
+},
+{
+"key": "C",
+"text": "are receiving"
+},
+{
+"key": "D",
+"text": "receive"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Every employee\" is singular."
+},
+{
+"id": "p5x-152",
+"part": 5,
+"category": "Subject-Verb Agreement",
+"difficulty": "Advanced (900)",
+"questionText": "The committee, along with several advisors, _______ the plan next week.",
+"options": [
+{
+"key": "A",
+"text": "are reviewing"
+},
+{
+"key": "B",
+"text": "have reviewed"
+},
+{
+"key": "C",
+"text": "review"
+},
+{
+"key": "D",
+"text": "will review"
+}
+],
+"correctAnswer": "D",
+"explanation": "The subject is the singular \"committee\", not the \"advisors\"."
+},
+{
+"id": "p5x-153",
+"part": 5,
+"category": "Preposition",
+"difficulty": "Elementary (500)",
+"questionText": "The seminar will be held _______ Room B on Friday.",
+"options": [
+{
+"key": "A",
+"text": "at the"
+},
+{
+"key": "B",
+"text": "onto"
+},
+{
+"key": "C",
+"text": "by the"
+},
+{
+"key": "D",
+"text": "in"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"In\" is used with a named room."
+},
+{
+"id": "p5x-154",
+"part": 5,
+"category": "Preposition",
+"difficulty": "Elementary (500)",
+"questionText": "Ms. Chang travels to London _______ business every month.",
+"options": [
+{
+"key": "A",
+"text": "at"
+},
+{
+"key": "B",
+"text": "on"
+},
+{
+"key": "C",
+"text": "for the"
+},
+{
+"key": "D",
+"text": "in"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"On business\" is a fixed phrase."
+},
+{
+"id": "p5x-155",
+"part": 5,
+"category": "Preposition",
+"difficulty": "Intermediate (750)",
+"questionText": "The price is _______ to change without notice.",
+"options": [
+{
+"key": "A",
+"text": "related"
+},
+{
+"key": "B",
+"text": "prone"
+},
+{
+"key": "C",
+"text": "subject"
+},
+{
+"key": "D",
+"text": "object"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Subject to\" means likely to change depending on conditions."
+},
+{
+"id": "p5x-156",
+"part": 5,
+"category": "Preposition",
+"difficulty": "Intermediate (750)",
+"questionText": "Please send your application _______ the human resources department.",
+"options": [
+{
+"key": "A",
+"text": "to"
+},
+{
+"key": "B",
+"text": "on"
+},
+{
+"key": "C",
+"text": "with"
+},
+{
+"key": "D",
+"text": "at"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Send to\" marks the recipient."
+},
+{
+"id": "p5x-157",
+"part": 5,
+"category": "Preposition",
+"difficulty": "Intermediate (750)",
+"questionText": "The conference was well attended _______ the bad weather.",
+"options": [
+{
+"key": "A",
+"text": "whereas"
+},
+{
+"key": "B",
+"text": "because"
+},
+{
+"key": "C",
+"text": "despite"
+},
+{
+"key": "D",
+"text": "although"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Despite\" is followed by the noun phrase \"the bad weather\"."
+},
+{
+"id": "p5x-158",
+"part": 5,
+"category": "Preposition",
+"difficulty": "Advanced (900)",
+"questionText": "The funds will be distributed _______ the five regional offices.",
+"options": [
+{
+"key": "A",
+"text": "besides"
+},
+{
+"key": "B",
+"text": "among"
+},
+{
+"key": "C",
+"text": "within of"
+},
+{
+"key": "D",
+"text": "between"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Among\" is used for more than two items."
+},
+{
+"id": "p5x-159",
+"part": 5,
+"category": "Preposition",
+"difficulty": "Advanced (900)",
+"questionText": "The merger took place _______ the CEO's strong objection.",
+"options": [
+{
+"key": "A",
+"text": "besides"
+},
+{
+"key": "B",
+"text": "while"
+},
+{
+"key": "C",
+"text": "unless"
+},
+{
+"key": "D",
+"text": "despite"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"Despite\" introduces a contrast with the noun phrase."
+},
+{
+"id": "p5x-160",
+"part": 5,
+"category": "Dependent Preposition",
+"difficulty": "Intermediate (750)",
+"questionText": "The manager is in charge _______ the entire logistics operation.",
+"options": [
+{
+"key": "A",
+"text": "of"
+},
+{
+"key": "B",
+"text": "at"
+},
+{
+"key": "C",
+"text": "for"
+},
+{
+"key": "D",
+"text": "on"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"In charge of\" is the standard phrase."
+},
+{
+"id": "p5x-161",
+"part": 5,
+"category": "Dependent Preposition",
+"difficulty": "Intermediate (750)",
+"questionText": "Employees must refrain _______ using personal phones on the production floor.",
+"options": [
+{
+"key": "A",
+"text": "from"
+},
+{
+"key": "B",
+"text": "of"
+},
+{
+"key": "C",
+"text": "to"
+},
+{
+"key": "D",
+"text": "at"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Refrain from\" is followed by a gerund."
+},
+{
+"id": "p5x-162",
+"part": 5,
+"category": "Dependent Preposition",
+"difficulty": "Intermediate (750)",
+"questionText": "The proposal depends _______ the approval of the finance committee.",
+"options": [
+{
+"key": "A",
+"text": "at"
+},
+{
+"key": "B",
+"text": "from"
+},
+{
+"key": "C",
+"text": "to"
+},
+{
+"key": "D",
+"text": "on"
+}
+],
+"correctAnswer": "D",
+"explanation": "The verb \"depend\" takes \"on\"."
+},
+{
+"id": "p5x-163",
+"part": 5,
+"category": "Dependent Preposition",
+"difficulty": "Advanced (900)",
+"questionText": "The new CEO is known _______ turning around struggling companies.",
+"options": [
+{
+"key": "A",
+"text": "of"
+},
+{
+"key": "B",
+"text": "for"
+},
+{
+"key": "C",
+"text": "as"
+},
+{
+"key": "D",
+"text": "to"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Known for\" means famous because of something."
+},
+{
+"id": "p5x-164",
+"part": 5,
+"category": "Dependent Preposition",
+"difficulty": "Advanced (900)",
+"questionText": "The audit revealed discrepancies _______ the two sets of records.",
+"options": [
+{
+"key": "A",
+"text": "about"
+},
+{
+"key": "B",
+"text": "among"
+},
+{
+"key": "C",
+"text": "between"
+},
+{
+"key": "D",
+"text": "on"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Between\" is used for two things being compared."
+},
+{
+"id": "p5x-165",
+"part": 5,
+"category": "Conjunction",
+"difficulty": "Intermediate (750)",
+"questionText": "The seminar was canceled _______ too few people registered.",
+"options": [
+{
+"key": "A",
+"text": "although"
+},
+{
+"key": "B",
+"text": "so"
+},
+{
+"key": "C",
+"text": "unless"
+},
+{
+"key": "D",
+"text": "because"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"Because\" introduces the reason."
+},
+{
+"id": "p5x-166",
+"part": 5,
+"category": "Conjunction",
+"difficulty": "Intermediate (750)",
+"questionText": "_______ the contract is signed, the work cannot begin.",
+"options": [
+{
+"key": "A",
+"text": "While"
+},
+{
+"key": "B",
+"text": "Although"
+},
+{
+"key": "C",
+"text": "Until"
+},
+{
+"key": "D",
+"text": "Unless"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Until\" shows the condition that must be met first."
+},
+{
+"id": "p5x-167",
+"part": 5,
+"category": "Conjunction",
+"difficulty": "Intermediate (750)",
+"questionText": "The product is popular _______ it is inexpensive and easy to use.",
+"options": [
+{
+"key": "A",
+"text": "because"
+},
+{
+"key": "B",
+"text": "despite"
+},
+{
+"key": "C",
+"text": "even if"
+},
+{
+"key": "D",
+"text": "although"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Because\" introduces the reason for the popularity."
+},
+{
+"id": "p5x-168",
+"part": 5,
+"category": "Conjunction",
+"difficulty": "Advanced (900)",
+"questionText": "_______ you have any questions, please contact the help desk.",
+"options": [
+{
+"key": "A",
+"text": "Than"
+},
+{
+"key": "B",
+"text": "Should"
+},
+{
+"key": "C",
+"text": "Unless"
+},
+{
+"key": "D",
+"text": "Whether"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Should you have\" is a formal inverted condition."
+},
+{
+"id": "p5x-169",
+"part": 5,
+"category": "Conjunction",
+"difficulty": "Advanced (900)",
+"questionText": "The proposal will be accepted _______ the budget is approved.",
+"options": [
+{
+"key": "A",
+"text": "despite"
+},
+{
+"key": "B",
+"text": "whereas"
+},
+{
+"key": "C",
+"text": "provided"
+},
+{
+"key": "D",
+"text": "even"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Provided\" before \"the budget is approved\" introduces a condition."
+},
+{
+"id": "p5x-170",
+"part": 5,
+"category": "Conjunction",
+"difficulty": "Advanced (900)",
+"questionText": "You must wear a helmet _______ you are on the construction site.",
+"options": [
+{
+"key": "A",
+"text": "whenever"
+},
+{
+"key": "B",
+"text": "whatever"
+},
+{
+"key": "C",
+"text": "whichever"
+},
+{
+"key": "D",
+"text": "however"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Whenever\" means every time that."
+},
+{
+"id": "p5x-171",
+"part": 5,
+"category": "Pronoun",
+"difficulty": "Intermediate (750)",
+"questionText": "The two managers decided to handle the complaint _______ .",
+"options": [
+{
+"key": "A",
+"text": "theirs"
+},
+{
+"key": "B",
+"text": "themselves"
+},
+{
+"key": "C",
+"text": "them"
+},
+{
+"key": "D",
+"text": "their"
+}
+],
+"correctAnswer": "B",
+"explanation": "The reflexive pronoun refers to the two managers."
+},
+{
+"id": "p5x-172",
+"part": 5,
+"category": "Pronoun",
+"difficulty": "Intermediate (750)",
+"questionText": "The red folder is mine, and the blue one is _______ .",
+"options": [
+{
+"key": "A",
+"text": "herself"
+},
+{
+"key": "B",
+"text": "she"
+},
+{
+"key": "C",
+"text": "her"
+},
+{
+"key": "D",
+"text": "hers"
+}
+],
+"correctAnswer": "D",
+"explanation": "The possessive pronoun replaces \"her folder\"."
+},
+{
+"id": "p5x-173",
+"part": 5,
+"category": "Pronoun",
+"difficulty": "Advanced (900)",
+"questionText": "The proposal was written by Ms. Tanaka and _______ .",
+"options": [
+{
+"key": "A",
+"text": "I"
+},
+{
+"key": "B",
+"text": "mine"
+},
+{
+"key": "C",
+"text": "my"
+},
+{
+"key": "D",
+"text": "me"
+}
+],
+"correctAnswer": "D",
+"explanation": "After \"and\" in the object position of \"by\", the object pronoun is used."
+},
+{
+"id": "p5x-174",
+"part": 5,
+"category": "Relative Pronoun",
+"difficulty": "Intermediate (750)",
+"questionText": "The consultant _______ we hired last year has opened her own firm.",
+"options": [
+{
+"key": "A",
+"text": "whom"
+},
+{
+"key": "B",
+"text": "where"
+},
+{
+"key": "C",
+"text": "which"
+},
+{
+"key": "D",
+"text": "whose"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Whom\" refers to a person in the object position."
+},
+{
+"id": "p5x-175",
+"part": 5,
+"category": "Relative Pronoun",
+"difficulty": "Intermediate (750)",
+"questionText": "This is the office _______ the board meets every month.",
+"options": [
+{
+"key": "A",
+"text": "who"
+},
+{
+"key": "B",
+"text": "which"
+},
+{
+"key": "C",
+"text": "where"
+},
+{
+"key": "D",
+"text": "whom"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Where\" refers to a place and takes the place of \"in which\"."
+},
+{
+"id": "p5x-176",
+"part": 5,
+"category": "Relative Pronoun",
+"difficulty": "Advanced (900)",
+"questionText": "The merger, _______ was announced on Monday, surprised investors.",
+"options": [
+{
+"key": "A",
+"text": "that"
+},
+{
+"key": "B",
+"text": "which"
+},
+{
+"key": "C",
+"text": "what"
+},
+{
+"key": "D",
+"text": "who"
+}
+],
+"correctAnswer": "B",
+"explanation": "A non-defining clause with commas takes \"which\", not \"that\"."
+},
+{
+"id": "p5x-177",
+"part": 5,
+"category": "Participle",
+"difficulty": "Intermediate (750)",
+"questionText": "The _______ manager decided to meet with each employee.",
+"options": [
+{
+"key": "A",
+"text": "new appoint"
+},
+{
+"key": "B",
+"text": "newly appointed"
+},
+{
+"key": "C",
+"text": "appointing new"
+},
+{
+"key": "D",
+"text": "newly appoints"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Newly appointed\" is the adverb plus participle that modifies \"manager\"."
+},
+{
+"id": "p5x-178",
+"part": 5,
+"category": "Participle",
+"difficulty": "Intermediate (750)",
+"questionText": "Anyone _______ in the training must register by Friday.",
+"options": [
+{
+"key": "A",
+"text": "interesting"
+},
+{
+"key": "B",
+"text": "interests"
+},
+{
+"key": "C",
+"text": "interested"
+},
+{
+"key": "D",
+"text": "interest"
+}
+],
+"correctAnswer": "C",
+"explanation": "The person feels interest, so the past participle is used."
+},
+{
+"id": "p5x-179",
+"part": 5,
+"category": "Participle",
+"difficulty": "Advanced (900)",
+"questionText": "The documents _______ in the folder are confidential.",
+"options": [
+{
+"key": "A",
+"text": "contained"
+},
+{
+"key": "B",
+"text": "contain"
+},
+{
+"key": "C",
+"text": "containing"
+},
+{
+"key": "D",
+"text": "to contain"
+}
+],
+"correctAnswer": "A",
+"explanation": "A reduced relative clause: \"that are contained\" or \"which contain\"; here \"contained\" suits the passive meaning with \"in the folder\"."
+},
+{
+"id": "p5x-180",
+"part": 5,
+"category": "Gerund vs Infinitive",
+"difficulty": "Intermediate (750)",
+"questionText": "The firm is considering _______ a second office in Madrid.",
+"options": [
+{
+"key": "A",
+"text": "to open"
+},
+{
+"key": "B",
+"text": "opened"
+},
+{
+"key": "C",
+"text": "open"
+},
+{
+"key": "D",
+"text": "opening"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"Consider\" is followed by a gerund."
+},
+{
+"id": "p5x-181",
+"part": 5,
+"category": "Gerund vs Infinitive",
+"difficulty": "Intermediate (750)",
+"questionText": "Ms. Park managed _______ the contract despite the tight deadline.",
+"options": [
+{
+"key": "A",
+"text": "finish"
+},
+{
+"key": "B",
+"text": "finished"
+},
+{
+"key": "C",
+"text": "to finish"
+},
+{
+"key": "D",
+"text": "finishing"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Manage\" is followed by the infinitive."
+},
+{
+"id": "p5x-182",
+"part": 5,
+"category": "Gerund vs Infinitive",
+"difficulty": "Intermediate (750)",
+"questionText": "Thank you for _______ us your catalog so quickly.",
+"options": [
+{
+"key": "A",
+"text": "sending"
+},
+{
+"key": "B",
+"text": "to send"
+},
+{
+"key": "C",
+"text": "send"
+},
+{
+"key": "D",
+"text": "sent"
+}
+],
+"correctAnswer": "A",
+"explanation": "After the preposition \"for\", a gerund is used."
+},
+{
+"id": "p5x-183",
+"part": 5,
+"category": "Gerund vs Infinitive",
+"difficulty": "Advanced (900)",
+"questionText": "The board postponed _______ on the budget until next quarter.",
+"options": [
+{
+"key": "A",
+"text": "voted"
+},
+{
+"key": "B",
+"text": "voting"
+},
+{
+"key": "C",
+"text": "vote"
+},
+{
+"key": "D",
+"text": "to vote"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Postpone\" is followed by a gerund."
+},
+{
+"id": "p5x-184",
+"part": 5,
+"category": "Gerund vs Infinitive",
+"difficulty": "Advanced (900)",
+"questionText": "The supervisor reminded the staff _______ the machines before leaving.",
+"options": [
+{
+"key": "A",
+"text": "turn off"
+},
+{
+"key": "B",
+"text": "turned off"
+},
+{
+"key": "C",
+"text": "turning off"
+},
+{
+"key": "D",
+"text": "to turn off"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"Remind someone\" is followed by the infinitive."
+},
+{
+"id": "p5x-185",
+"part": 5,
+"category": "Comparatives",
+"difficulty": "Intermediate (750)",
+"questionText": "The second proposal is _______ expensive than the first one.",
+"options": [
+{
+"key": "A",
+"text": "the less"
+},
+{
+"key": "B",
+"text": "lesser of"
+},
+{
+"key": "C",
+"text": "least"
+},
+{
+"key": "D",
+"text": "less"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"Less ... than\" is the comparative pattern."
+},
+{
+"id": "p5x-186",
+"part": 5,
+"category": "Comparatives",
+"difficulty": "Intermediate (750)",
+"questionText": "Our new printer is twice _______ as the old one.",
+"options": [
+{
+"key": "A",
+"text": "fastest"
+},
+{
+"key": "B",
+"text": "faster"
+},
+{
+"key": "C",
+"text": "as fast"
+},
+{
+"key": "D",
+"text": "more fast"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Twice as ... as\" needs the base adjective."
+},
+{
+"id": "p5x-187",
+"part": 5,
+"category": "Comparatives",
+"difficulty": "Advanced (900)",
+"questionText": "The _______ we invest, the greater our return will be.",
+"options": [
+{
+"key": "A",
+"text": "most"
+},
+{
+"key": "B",
+"text": "more"
+},
+{
+"key": "C",
+"text": "much"
+},
+{
+"key": "D",
+"text": "many"
+}
+],
+"correctAnswer": "B",
+"explanation": "The pattern \"the more ..., the greater ...\" is a double comparative."
+},
+{
+"id": "p5x-188",
+"part": 5,
+"category": "Superlative",
+"difficulty": "Intermediate (750)",
+"questionText": "She is one of _______ negotiators in the industry.",
+"options": [
+{
+"key": "A",
+"text": "the best"
+},
+{
+"key": "B",
+"text": "better"
+},
+{
+"key": "C",
+"text": "good"
+},
+{
+"key": "D",
+"text": "best"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"One of the\" is followed by a superlative."
+},
+{
+"id": "p5x-189",
+"part": 5,
+"category": "Quantifiers",
+"difficulty": "Intermediate (750)",
+"questionText": "_______ employee must wear an ID badge in the building.",
+"options": [
+{
+"key": "A",
+"text": "Many"
+},
+{
+"key": "B",
+"text": "Both"
+},
+{
+"key": "C",
+"text": "Every"
+},
+{
+"key": "D",
+"text": "All"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Every\" is followed by a singular noun."
+},
+{
+"id": "p5x-190",
+"part": 5,
+"category": "Quantifiers",
+"difficulty": "Intermediate (750)",
+"questionText": "We have _______ time before the client arrives, so let's review the slides.",
+"options": [
+{
+"key": "A",
+"text": "little"
+},
+{
+"key": "B",
+"text": "many"
+},
+{
+"key": "C",
+"text": "some of"
+},
+{
+"key": "D",
+"text": "few"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Little\" is used with uncountable nouns; here it gives a limited amount."
+},
+{
+"id": "p5x-191",
+"part": 5,
+"category": "Quantifiers",
+"difficulty": "Advanced (900)",
+"questionText": "_______ of the two proposals met the budget limit.",
+"options": [
+{
+"key": "A",
+"text": "None"
+},
+{
+"key": "B",
+"text": "Every"
+},
+{
+"key": "C",
+"text": "Any"
+},
+{
+"key": "D",
+"text": "Neither"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"Neither of the two\" is used for two items."
+},
+{
+"id": "p5x-192",
+"part": 5,
+"category": "Quantifiers",
+"difficulty": "Advanced (900)",
+"questionText": "Only a _______ of employees attended the optional workshop.",
+"options": [
+{
+"key": "A",
+"text": "little"
+},
+{
+"key": "B",
+"text": "few"
+},
+{
+"key": "C",
+"text": "least"
+},
+{
+"key": "D",
+"text": "much"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"A few\" is used with a plural countable noun, meaning some."
+},
+{
+"id": "p5x-193",
+"part": 5,
+"category": "Modal Verbs",
+"difficulty": "Intermediate (750)",
+"questionText": "Passengers _______ not use electronic devices during takeoff.",
+"options": [
+{
+"key": "A",
+"text": "may"
+},
+{
+"key": "B",
+"text": "are"
+},
+{
+"key": "C",
+"text": "have"
+},
+{
+"key": "D",
+"text": "do"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"May not\" expresses a prohibition in a formal notice."
+},
+{
+"id": "p5x-194",
+"part": 5,
+"category": "Modal Verbs",
+"difficulty": "Intermediate (750)",
+"questionText": "The system _______ be restarted after the update is installed.",
+"options": [
+{
+"key": "A",
+"text": "might to"
+},
+{
+"key": "B",
+"text": "can to"
+},
+{
+"key": "C",
+"text": "must"
+},
+{
+"key": "D",
+"text": "would to"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Must be restarted\" is the modal passive for a requirement."
+},
+{
+"id": "p5x-195",
+"part": 5,
+"category": "Modal Verbs",
+"difficulty": "Advanced (900)",
+"questionText": "The shipment _______ have arrived by now; let's check the tracking number.",
+"options": [
+{
+"key": "A",
+"text": "can"
+},
+{
+"key": "B",
+"text": "should"
+},
+{
+"key": "C",
+"text": "ought"
+},
+{
+"key": "D",
+"text": "must be"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Should have arrived\" means it was expected to arrive."
+},
+{
+"id": "p5x-196",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Elementary (500)",
+"questionText": "The company will _______ a new product next spring.",
+"options": [
+{
+"key": "A",
+"text": "lurch"
+},
+{
+"key": "B",
+"text": "launder"
+},
+{
+"key": "C",
+"text": "lunch"
+},
+{
+"key": "D",
+"text": "launch"
+}
+],
+"correctAnswer": "D",
+"explanation": "To launch a product means to introduce it to the market."
+},
+{
+"id": "p5x-197",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Elementary (500)",
+"questionText": "Please _______ the form with your name and address.",
+"options": [
+{
+"key": "A",
+"text": "fill out"
+},
+{
+"key": "B",
+"text": "fill up to"
+},
+{
+"key": "C",
+"text": "filling"
+},
+{
+"key": "D",
+"text": "full"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Fill out\" a form is a common phrasal verb."
+},
+{
+"id": "p5x-198",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Intermediate (750)",
+"questionText": "The factory had to _______ production because of a shortage of raw materials.",
+"options": [
+{
+"key": "A",
+"text": "suspect"
+},
+{
+"key": "B",
+"text": "suspense"
+},
+{
+"key": "C",
+"text": "suspend"
+},
+{
+"key": "D",
+"text": "suppose"
+}
+],
+"correctAnswer": "C",
+"explanation": "To suspend production means to stop it temporarily."
+},
+{
+"id": "p5x-199",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Intermediate (750)",
+"questionText": "Customers can _______ their orders online at any time.",
+"options": [
+{
+"key": "A",
+"text": "trade"
+},
+{
+"key": "B",
+"text": "track"
+},
+{
+"key": "C",
+"text": "trace to"
+},
+{
+"key": "D",
+"text": "trick"
+}
+],
+"correctAnswer": "B",
+"explanation": "To track an order means to follow its progress."
+},
+{
+"id": "p5x-200",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Intermediate (750)",
+"questionText": "The manager asked the team to _______ their expenses carefully.",
+"options": [
+{
+"key": "A",
+"text": "monotone"
+},
+{
+"key": "B",
+"text": "monument"
+},
+{
+"key": "C",
+"text": "monopoly"
+},
+{
+"key": "D",
+"text": "monitor"
+}
+],
+"correctAnswer": "D",
+"explanation": "To monitor expenses means to watch them closely."
+},
+{
+"id": "p5x-201",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Intermediate (750)",
+"questionText": "The new employee's _______ includes handling customer inquiries.",
+"options": [
+{
+"key": "A",
+"text": "responsibilities of"
+},
+{
+"key": "B",
+"text": "responsible"
+},
+{
+"key": "C",
+"text": "responsibility"
+},
+{
+"key": "D",
+"text": "responsibly"
+}
+],
+"correctAnswer": "C",
+"explanation": "After the possessive, a noun is needed; the singular fits \"includes\"."
+},
+{
+"id": "p5x-202",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Intermediate (750)",
+"questionText": "The seminar will _______ practical tips for improving customer service.",
+"options": [
+{
+"key": "A",
+"text": "cover"
+},
+{
+"key": "B",
+"text": "cover up"
+},
+{
+"key": "C",
+"text": "cave"
+},
+{
+"key": "D",
+"text": "covet"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Cover\" means to include or discuss topics."
+},
+{
+"id": "p5x-203",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Intermediate (750)",
+"questionText": "The invoice shows the total _______ due, including tax.",
+"options": [
+{
+"key": "A",
+"text": "amend"
+},
+{
+"key": "B",
+"text": "amount"
+},
+{
+"key": "C",
+"text": "amuse"
+},
+{
+"key": "D",
+"text": "account"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Amount due\" is the sum that must be paid."
+},
+{
+"id": "p5x-204",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Intermediate (750)",
+"questionText": "Several candidates were _______ for the final interview.",
+"options": [
+{
+"key": "A",
+"text": "shortened to"
+},
+{
+"key": "B",
+"text": "shortage"
+},
+{
+"key": "C",
+"text": "shortsighted"
+},
+{
+"key": "D",
+"text": "shortlisted"
+}
+],
+"correctAnswer": "D",
+"explanation": "To be shortlisted means to be selected for the final group."
+},
+{
+"id": "p5x-205",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Advanced (900)",
+"questionText": "The manufacturer issued a _______ of the faulty brake parts.",
+"options": [
+{
+"key": "A",
+"text": "recess"
+},
+{
+"key": "B",
+"text": "recite"
+},
+{
+"key": "C",
+"text": "recall"
+},
+{
+"key": "D",
+"text": "recipe"
+}
+],
+"correctAnswer": "C",
+"explanation": "A recall asks customers to return defective products."
+},
+{
+"id": "p5x-206",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Advanced (900)",
+"questionText": "Mr. Fujita was asked to _______ the meeting while the chair was away.",
+"options": [
+{
+"key": "A",
+"text": "present on"
+},
+{
+"key": "B",
+"text": "prescribe"
+},
+{
+"key": "C",
+"text": "precede to"
+},
+{
+"key": "D",
+"text": "preside over"
+}
+],
+"correctAnswer": "D",
+"explanation": "To preside over a meeting means to lead it formally."
+},
+{
+"id": "p5x-207",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Advanced (900)",
+"questionText": "The two firms signed a _______ agreement to share research costs.",
+"options": [
+{
+"key": "A",
+"text": "joining"
+},
+{
+"key": "B",
+"text": "joint"
+},
+{
+"key": "C",
+"text": "jointly"
+},
+{
+"key": "D",
+"text": "join up"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Joint agreement\" is an adjective plus noun."
+},
+{
+"id": "p5x-208",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Advanced (900)",
+"questionText": "Only authorized staff may _______ access to the server room.",
+"options": [
+{
+"key": "A",
+"text": "gain"
+},
+{
+"key": "B",
+"text": "gauge"
+},
+{
+"key": "C",
+"text": "gather"
+},
+{
+"key": "D",
+"text": "gamble"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Gain access\" is the standard collocation."
+},
+{
+"id": "p5x-209",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Advanced (900)",
+"questionText": "The company's profits _______ sharply after the new competitor entered the market.",
+"options": [
+{
+"key": "A",
+"text": "planted"
+},
+{
+"key": "B",
+"text": "plunged to"
+},
+{
+"key": "C",
+"text": "plummeted"
+},
+{
+"key": "D",
+"text": "plotted"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Plummeted\" means fell very quickly."
+},
+{
+"id": "p5x-210",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Advanced (900)",
+"questionText": "We apologize for the _______ in delivering your order.",
+"options": [
+{
+"key": "A",
+"text": "delay"
+},
+{
+"key": "B",
+"text": "delayed"
+},
+{
+"key": "C",
+"text": "delaying"
+},
+{
+"key": "D",
+"text": "delays on"
+}
+],
+"correctAnswer": "A",
+"explanation": "After \"the\", a noun is needed; \"delay in delivering\" is the standard phrase."
+},
+{
+"id": "p5x-211",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Intermediate (750)",
+"questionText": "The tickets are _______ until the end of the month.",
+"options": [
+{
+"key": "A",
+"text": "availability"
+},
+{
+"key": "B",
+"text": "available"
+},
+{
+"key": "C",
+"text": "avail"
+},
+{
+"key": "D",
+"text": "availably"
+}
+],
+"correctAnswer": "B",
+"explanation": "After \"are\", an adjective is needed."
+},
+{
+"id": "p5x-212",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Intermediate (750)",
+"questionText": "Ms. Evans is _______ for the quarterly sales report; please contact her.",
+"options": [
+{
+"key": "A",
+"text": "by charge"
+},
+{
+"key": "B",
+"text": "incharge"
+},
+{
+"key": "C",
+"text": "on charge"
+},
+{
+"key": "D",
+"text": "in charge"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"In charge\" is a fixed phrase."
+},
+{
+"id": "p5x-213",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Intermediate (750)",
+"questionText": "We need to find a more _______ way to store customer data.",
+"options": [
+{
+"key": "A",
+"text": "secured to"
+},
+{
+"key": "B",
+"text": "security"
+},
+{
+"key": "C",
+"text": "securely"
+},
+{
+"key": "D",
+"text": "secure"
+}
+],
+"correctAnswer": "D",
+"explanation": "An adjective is needed before the noun \"way\"."
+},
+{
+"id": "p5x-214",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Advanced (900)",
+"questionText": "The CEO announced that the company would _______ its operations into Asia.",
+"options": [
+{
+"key": "A",
+"text": "expend"
+},
+{
+"key": "B",
+"text": "expire"
+},
+{
+"key": "C",
+"text": "expand"
+},
+{
+"key": "D",
+"text": "expel"
+}
+],
+"correctAnswer": "C",
+"explanation": "To expand means to grow bigger or reach new areas."
+},
+{
+"id": "p5x-215",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Advanced (900)",
+"questionText": "All claims must be _______ within thirty days of the incident.",
+"options": [
+{
+"key": "A",
+"text": "fined"
+},
+{
+"key": "B",
+"text": "filed"
+},
+{
+"key": "C",
+"text": "filmed"
+},
+{
+"key": "D",
+"text": "filled"
+}
+],
+"correctAnswer": "B",
+"explanation": "To file a claim means to submit it officially."
+},
+{
+"id": "p5x-216",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Intermediate (750)",
+"questionText": "The training will be _______ by an experienced consultant from Zurich.",
+"options": [
+{
+"key": "A",
+"text": "conducted"
+},
+{
+"key": "B",
+"text": "conduct"
+},
+{
+"key": "C",
+"text": "conducting"
+},
+{
+"key": "D",
+"text": "conductor"
+}
+],
+"correctAnswer": "A",
+"explanation": "The passive \"will be conducted\" fits a session led by someone."
+},
+{
+"id": "p5x-217",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Intermediate (750)",
+"questionText": "Please make sure all _______ are turned off before you leave.",
+"options": [
+{
+"key": "A",
+"text": "applications"
+},
+{
+"key": "B",
+"text": "appliance"
+},
+{
+"key": "C",
+"text": "applied"
+},
+{
+"key": "D",
+"text": "appliances"
+}
+],
+"correctAnswer": "D",
+"explanation": "A plural noun is needed, and \"appliances\" fits turning off equipment."
+},
+{
+"id": "p5x-218",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Intermediate (750)",
+"questionText": "Our new software will _______ the need for manual data entry.",
+"options": [
+{
+"key": "A",
+"text": "elapse"
+},
+{
+"key": "B",
+"text": "eliminate"
+},
+{
+"key": "C",
+"text": "elevate"
+},
+{
+"key": "D",
+"text": "elaborate"
+}
+],
+"correctAnswer": "B",
+"explanation": "To eliminate means to remove completely."
+},
+{
+"id": "p5x-219",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Advanced (900)",
+"questionText": "The restaurant owner decided to _______ a loan to renovate the kitchen.",
+"options": [
+{
+"key": "A",
+"text": "take out"
+},
+{
+"key": "B",
+"text": "take to"
+},
+{
+"key": "C",
+"text": "take on to"
+},
+{
+"key": "D",
+"text": "take away from"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Take out a loan\" means to borrow money."
+},
+{
+"id": "p5x-220",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Advanced (900)",
+"questionText": "The hotel's rooms are _______ with free Wi-Fi and a mini fridge.",
+"options": [
+{
+"key": "A",
+"text": "equity"
+},
+{
+"key": "B",
+"text": "equal"
+},
+{
+"key": "C",
+"text": "equipped"
+},
+{
+"key": "D",
+"text": "equate"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Equipped with\" means supplied with equipment."
+},
+{
+"id": "p5x-221",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Intermediate (750)",
+"questionText": "Applications must be _______ no later than May 31.",
+"options": [
+{
+"key": "A",
+"text": "receiving"
+},
+{
+"key": "B",
+"text": "receive"
+},
+{
+"key": "C",
+"text": "receipt"
+},
+{
+"key": "D",
+"text": "received"
+}
+],
+"correctAnswer": "D",
+"explanation": "After \"must be\", a past participle is needed."
+},
+{
+"id": "p5x-222",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Intermediate (750)",
+"questionText": "The two departments will _______ on the new advertising campaign.",
+"options": [
+{
+"key": "A",
+"text": "collide"
+},
+{
+"key": "B",
+"text": "collection"
+},
+{
+"key": "C",
+"text": "collaborate"
+},
+{
+"key": "D",
+"text": "collective"
+}
+],
+"correctAnswer": "C",
+"explanation": "To collaborate means to work together."
+},
+{
+"id": "p5x-223",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Advanced (900)",
+"questionText": "A _______ of volunteers helped to organize the charity fundraiser.",
+"options": [
+{
+"key": "A",
+"text": "numeral"
+},
+{
+"key": "B",
+"text": "number"
+},
+{
+"key": "C",
+"text": "numbered"
+},
+{
+"key": "D",
+"text": "numerous"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"A number of\" is a quantity phrase followed by a plural noun."
+},
+{
+"id": "p5x-224",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Advanced (900)",
+"questionText": "The CEO's resignation took effect _______ .",
+"options": [
+{
+"key": "A",
+"text": "immediately"
+},
+{
+"key": "B",
+"text": "immediateness"
+},
+{
+"key": "C",
+"text": "immediate"
+},
+{
+"key": "D",
+"text": "immediacy"
+}
+],
+"correctAnswer": "A",
+"explanation": "An adverb at the end of the clause modifies \"took effect\"."
+},
+{
+"id": "p5x-225",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Intermediate (750)",
+"questionText": "Employees who work overtime will be _______ at one and a half times their regular rate.",
+"options": [
+{
+"key": "A",
+"text": "compensated"
+},
+{
+"key": "B",
+"text": "complied"
+},
+{
+"key": "C",
+"text": "compared"
+},
+{
+"key": "D",
+"text": "competed"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Compensated\" means paid for work or a loss."
+},
+{
+"id": "p5x-226",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Elementary (500)",
+"questionText": "We are happy to _______ you to our annual dinner.",
+"options": [
+{
+"key": "A",
+"text": "inform"
+},
+{
+"key": "B",
+"text": "insist"
+},
+{
+"key": "C",
+"text": "invest"
+},
+{
+"key": "D",
+"text": "invite"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"Invite someone to an event\" is the standard use."
+},
+{
+"id": "p5x-227",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Intermediate (750)",
+"questionText": "Before the merger, the two companies were fierce _______ .",
+"options": [
+{
+"key": "A",
+"text": "competitive"
+},
+{
+"key": "B",
+"text": "competitors"
+},
+{
+"key": "C",
+"text": "competition"
+},
+{
+"key": "D",
+"text": "competes"
+}
+],
+"correctAnswer": "B",
+"explanation": "After the adjective \"fierce\", a plural noun is needed."
+},
+{
+"id": "p5x-228",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Intermediate (750)",
+"questionText": "The updated brochure will be _______ at the entrance to all visitors.",
+"options": [
+{
+"key": "A",
+"text": "distributing"
+},
+{
+"key": "B",
+"text": "distribute"
+},
+{
+"key": "C",
+"text": "distributed"
+},
+{
+"key": "D",
+"text": "distributor"
+}
+],
+"correctAnswer": "C",
+"explanation": "The passive participle \"distributed\" fits after \"will be\"."
+},
+{
+"id": "p5x-229",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Advanced (900)",
+"questionText": "Due to unforeseen _______, the product launch has been rescheduled.",
+"options": [
+{
+"key": "A",
+"text": "circumference"
+},
+{
+"key": "B",
+"text": "circulation"
+},
+{
+"key": "C",
+"text": "circumstantial"
+},
+{
+"key": "D",
+"text": "circumstances"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"Unforeseen circumstances\" is a fixed business phrase."
+},
+{
+"id": "p5x-230",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Advanced (900)",
+"questionText": "Revenues for the year _______ initial projections by twelve percent.",
+"options": [
+{
+"key": "A",
+"text": "exceeded"
+},
+{
+"key": "B",
+"text": "excluded"
+},
+{
+"key": "C",
+"text": "excepted"
+},
+{
+"key": "D",
+"text": "excelled"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Exceeded\" means went beyond."
+},
+{
+"id": "p5x-231",
+"part": 5,
+"category": "Vocabulary in Business Context",
+"difficulty": "Intermediate (750)",
+"questionText": "The sales team is _______ to meet the target by the end of the month.",
+"options": [
+{
+"key": "A",
+"text": "expect"
+},
+{
+"key": "B",
+"text": "expected"
+},
+{
+"key": "C",
+"text": "expectation"
+},
+{
+"key": "D",
+"text": "expecting"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Is expected to\" is a passive structure."
+}
+]

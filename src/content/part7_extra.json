@@ -1,0 +1,3401 @@
+[
+{
+"id": "p7x-001",
+"title": "Team Lunch Rescheduled",
+"format": "Single Passage",
+"type": "Email",
+"passages": [
+{
+"text": "From: Rosa Delgado\nTo: Marketing Team\nDate: April 9\nSubject: Team lunch moved to Friday\n\nHello everyone,\n\nBecause of a client visit on Thursday, we need to move our monthly team lunch to Friday, April 12. We will still meet at Garden Bistro, but the reservation is now for 12:30 p.m. instead of noon. The restaurant has asked us to confirm the number of guests by Wednesday morning, so please reply to this e-mail by 10:00 a.m. and tell me whether you can attend. If you have any dietary requirements, let me know and I will inform the restaurant. The company will pay for the meal, but drinks are at your own expense.\n\nThank you,\nRosa"
+}
+],
+"questions": [
+{
+"id": "p7x-001-q1",
+"questionText": "Why was the lunch rescheduled?",
+"options": [
+{
+"key": "A",
+"text": "The budget was reduced."
+},
+{
+"key": "B",
+"text": "The restaurant is closed on Thursday."
+},
+{
+"key": "C",
+"text": "Rosa will be traveling."
+},
+{
+"key": "D",
+"text": "A client is visiting on the original day."
+}
+],
+"correctAnswer": "D",
+"explanation": "The e-mail says the move is \"because of a client visit on Thursday\"."
+},
+{
+"id": "p7x-001-q2",
+"questionText": "By when must employees reply?",
+"options": [
+{
+"key": "A",
+"text": "Monday morning"
+},
+{
+"key": "B",
+"text": "Wednesday at 10:00 a.m."
+},
+{
+"key": "C",
+"text": "Thursday at noon"
+},
+{
+"key": "D",
+"text": "Friday at 12:30 p.m."
+}
+],
+"correctAnswer": "B",
+"explanation": "The e-mail asks for a reply by 10:00 a.m. on Wednesday morning."
+},
+{
+"id": "p7x-001-q3",
+"questionText": "What will employees pay for themselves?",
+"options": [
+{
+"key": "A",
+"text": "Their drinks"
+},
+{
+"key": "B",
+"text": "Nothing"
+},
+{
+"key": "C",
+"text": "Their transportation"
+},
+{
+"key": "D",
+"text": "Their meals"
+}
+],
+"correctAnswer": "A",
+"explanation": "The company pays for the meal, but drinks are at the employees' own expense."
+}
+]
+},
+{
+"id": "p7x-002",
+"title": "Fitness Center Hours",
+"format": "Single Passage",
+"type": "Notice",
+"passages": [
+{
+"text": "FITNESS CENTER AT CROWN PLAZA — NEW HOURS\nEffective June 3, the fitness center will have new opening hours.\n\nMonday to Friday: 5:30 a.m. – 10:00 p.m.\nSaturday and Sunday: 7:00 a.m. – 8:00 p.m.\n\nMembers may now bring one guest per month free of charge. Guests must be at least sixteen years old and must show photo identification at the front desk. Towels are available at the desk for a small fee; members who prefer to bring their own are welcome to do so. Group classes will continue to be held in Studio B, and the schedule can be found on our Web site. Because renovation work will take place in the locker rooms during June, the sauna will be temporarily out of service."
+}
+],
+"questions": [
+{
+"id": "p7x-002-q1",
+"questionText": "What is true about the new hours?",
+"options": [
+{
+"key": "A",
+"text": "The center is closed on Sundays."
+},
+{
+"key": "B",
+"text": "The center opens at 7:00 a.m. every day."
+},
+{
+"key": "C",
+"text": "The center opens earlier on weekdays than on weekends."
+},
+{
+"key": "D",
+"text": "The center closes at the same time every day."
+}
+],
+"correctAnswer": "C",
+"explanation": "Weekdays start at 5:30 a.m. and weekends at 7:00 a.m."
+},
+{
+"id": "p7x-002-q2",
+"questionText": "What must a guest do?",
+"options": [
+{
+"key": "A",
+"text": "Attend a class"
+},
+{
+"key": "B",
+"text": "Show photo identification"
+},
+{
+"key": "C",
+"text": "Pay a monthly fee"
+},
+{
+"key": "D",
+"text": "Make a reservation"
+}
+],
+"correctAnswer": "B",
+"explanation": "Guests \"must show photo identification at the front desk\"."
+},
+{
+"id": "p7x-002-q3",
+"questionText": "Why is the sauna unavailable?",
+"options": [
+{
+"key": "A",
+"text": "It is being replaced by a studio."
+},
+{
+"key": "B",
+"text": "It is too expensive to run."
+},
+{
+"key": "C",
+"text": "Locker room renovations are in progress."
+},
+{
+"key": "D",
+"text": "Members rarely use it."
+}
+],
+"correctAnswer": "C",
+"explanation": "The notice says renovation work will take place in the locker rooms in June."
+}
+]
+},
+{
+"id": "p7x-003",
+"title": "New Bridge Opens",
+"format": "Single Passage",
+"type": "Article",
+"passages": [
+{
+"text": "Millbrook — After three years of construction, the Harrison Bridge opened to traffic on Monday morning. The new bridge, which crosses the Millbrook River, replaces an older structure that had been closed since a safety inspection found serious cracks in 2021. Mayor Ellen Park said the bridge would cut the average commute between the north and south sides of the city by fifteen minutes. The $48 million project was funded by the state government and a local transportation tax. Drivers are advised to expect delays during the first week as traffic patterns adjust. A pedestrian and bicycle path on the east side of the bridge will open next month after landscaping is completed."
+}
+],
+"questions": [
+{
+"id": "p7x-003-q1",
+"questionText": "What is the purpose of the article?",
+"options": [
+{
+"key": "A",
+"text": "To advertise a construction company"
+},
+{
+"key": "B",
+"text": "To announce a road closure"
+},
+{
+"key": "C",
+"text": "To describe a safety inspection"
+},
+{
+"key": "D",
+"text": "To report the opening of a new bridge"
+}
+],
+"correctAnswer": "D",
+"explanation": "The article reports that the Harrison Bridge opened on Monday."
+},
+{
+"id": "p7x-003-q2",
+"questionText": "According to the article, how was the project paid for?",
+"options": [
+{
+"key": "A",
+"text": "By state funds and a local tax"
+},
+{
+"key": "B",
+"text": "By a private company"
+},
+{
+"key": "C",
+"text": "By the mayor's office only"
+},
+{
+"key": "D",
+"text": "By tolls collected from drivers"
+}
+],
+"correctAnswer": "A",
+"explanation": "The article says it was funded by the state government and a local transportation tax."
+},
+{
+"id": "p7x-003-q3",
+"questionText": "What will open next month?",
+"options": [
+{
+"key": "A",
+"text": "A tollbooth"
+},
+{
+"key": "B",
+"text": "A path for walkers and cyclists"
+},
+{
+"key": "C",
+"text": "A second bridge"
+},
+{
+"key": "D",
+"text": "A parking lot"
+}
+],
+"correctAnswer": "B",
+"explanation": "A pedestrian and bicycle path will open next month."
+}
+]
+},
+{
+"id": "p7x-004",
+"title": "Contract Renewal",
+"format": "Single Passage",
+"type": "Letter",
+"passages": [
+{
+"text": "Dear Mr. Abrams,\nYour office cleaning contract with Brightline Services will expire on July 31. We have valued your business for the past two years and would like to continue serving you. To thank you for your loyalty, we are offering a renewal at the current rate for another twelve months, rather than the five percent increase that will apply to new customers. If you would like to renew, please sign the enclosed form and return it by July 10. You may also add extra services, such as window cleaning or carpet care, at a reduced price when you renew. Should you have questions, please call me at 555-0142.\nSincerely,\nDana Whitfield\nAccount Manager, Brightline Services"
+}
+],
+"questions": [
+{
+"id": "p7x-004-q1",
+"questionText": "Why is Ms. Whitfield writing to Mr. Abrams?",
+"options": [
+{
+"key": "A",
+"text": "To offer a contract renewal"
+},
+{
+"key": "B",
+"text": "To cancel a service"
+},
+{
+"key": "C",
+"text": "To announce a price increase"
+},
+{
+"key": "D",
+"text": "To ask for a payment"
+}
+],
+"correctAnswer": "A",
+"explanation": "The letter offers to renew the cleaning contract."
+},
+{
+"id": "p7x-004-q2",
+"questionText": "What benefit is Mr. Abrams offered?",
+"options": [
+{
+"key": "A",
+"text": "A new contract manager"
+},
+{
+"key": "B",
+"text": "A five percent discount"
+},
+{
+"key": "C",
+"text": "A free window cleaning"
+},
+{
+"key": "D",
+"text": "The current rate for twelve more months"
+}
+],
+"correctAnswer": "D",
+"explanation": "He can renew \"at the current rate for another twelve months\"."
+},
+{
+"id": "p7x-004-q3",
+"questionText": "What should Mr. Abrams do by July 10?",
+"options": [
+{
+"key": "A",
+"text": "Pay an invoice"
+},
+{
+"key": "B",
+"text": "Call Ms. Whitfield"
+},
+{
+"key": "C",
+"text": "Return the signed form"
+},
+{
+"key": "D",
+"text": "Order extra services"
+}
+],
+"correctAnswer": "C",
+"explanation": "He should sign the enclosed form and return it by July 10."
+}
+]
+},
+{
+"id": "p7x-005",
+"title": "Rental Car Policy",
+"format": "Single Passage",
+"type": "Web page",
+"passages": [
+{
+"text": "GREENWAY CAR RENTAL — RENTAL POLICY\nAge: Drivers must be at least twenty-one years old. Drivers under twenty-five pay a daily young driver fee.\nFuel: Vehicles are provided with a full tank. Please return the car with a full tank to avoid a refueling charge of $9 per gallon.\nMileage: All rentals include 150 miles per day. Additional miles are charged at $0.35 per mile.\nLate returns: A grace period of thirty minutes is allowed. After that, an additional hourly charge applies, and returns more than three hours late are billed as a full extra day.\nCancellations: Reservations can be canceled free of charge up to forty-eight hours before pickup. Cancellations made later than this will result in a fee equal to one day's rental."
+}
+],
+"questions": [
+{
+"id": "p7x-005-q1",
+"questionText": "What is the minimum age to rent a car?",
+"options": [
+{
+"key": "A",
+"text": "25"
+},
+{
+"key": "B",
+"text": "18"
+},
+{
+"key": "C",
+"text": "23"
+},
+{
+"key": "D",
+"text": "21"
+}
+],
+"correctAnswer": "D",
+"explanation": "Drivers must be at least twenty-one years old."
+},
+{
+"id": "p7x-005-q2",
+"questionText": "What happens if a car is returned with an empty tank?",
+"options": [
+{
+"key": "A",
+"text": "The car is not accepted."
+},
+{
+"key": "B",
+"text": "The customer receives a discount."
+},
+{
+"key": "C",
+"text": "The customer pays a refueling charge."
+},
+{
+"key": "D",
+"text": "The rental is canceled."
+}
+],
+"correctAnswer": "C",
+"explanation": "A refueling charge of $9 per gallon applies."
+},
+{
+"id": "p7x-005-q3",
+"questionText": "When is a free cancellation possible?",
+"options": [
+{
+"key": "A",
+"text": "Up to 48 hours before pickup"
+},
+{
+"key": "B",
+"text": "On the day of pickup"
+},
+{
+"key": "C",
+"text": "Only for young drivers"
+},
+{
+"key": "D",
+"text": "Up to one week before pickup"
+}
+],
+"correctAnswer": "A",
+"explanation": "Free cancellation is allowed up to forty-eight hours before pickup."
+}
+]
+},
+{
+"id": "p7x-006",
+"title": "Delivery Problem",
+"format": "Single Passage",
+"type": "Text message chain",
+"passages": [
+{
+"text": "Priya Shah (10:02 a.m.): Hi Tom, the new shelves haven't arrived at the store yet. The delivery was supposed to come at nine.\nTom Reyes (10:05 a.m.): I'll call the driver now. Did you get the tracking number?\nPriya Shah (10:06 a.m.): Yes, it's in the confirmation e-mail. I'll forward it to you.\nTom Reyes (10:20 a.m.): I just spoke to him. His truck had a flat tire, but he's on his way now. He should be there in about forty minutes.\nPriya Shah (10:21 a.m.): OK. The opening event is at two o'clock, so we have enough time to set up.\nTom Reyes (10:22 a.m.): Right. I'll send two of my staff over to help you assemble them.\nPriya Shah (10:23 a.m.): That would be great, thanks!"
+}
+],
+"questions": [
+{
+"id": "p7x-006-q1",
+"questionText": "Why was the delivery late?",
+"options": [
+{
+"key": "A",
+"text": "The shelves were damaged."
+},
+{
+"key": "B",
+"text": "The truck had a flat tire."
+},
+{
+"key": "C",
+"text": "The order was canceled."
+},
+{
+"key": "D",
+"text": "The driver got lost."
+}
+],
+"correctAnswer": "B",
+"explanation": "Tom says the driver's truck had a flat tire."
+},
+{
+"id": "p7x-006-q2",
+"questionText": "At 10:22 a.m., what does Tom offer to do?",
+"options": [
+{
+"key": "A",
+"text": "Drive to the store himself"
+},
+{
+"key": "B",
+"text": "Change the event time"
+},
+{
+"key": "C",
+"text": "Send staff to help assemble the shelves"
+},
+{
+"key": "D",
+"text": "Cancel the order"
+}
+],
+"correctAnswer": "C",
+"explanation": "He says he will send two of his staff over to help assemble them."
+},
+{
+"id": "p7x-006-q3",
+"questionText": "At what time will the driver most likely arrive?",
+"options": [
+{
+"key": "A",
+"text": "About 11:00 a.m."
+},
+{
+"key": "B",
+"text": "About 2:00 p.m."
+},
+{
+"key": "C",
+"text": "About 10:25 a.m."
+},
+{
+"key": "D",
+"text": "About 9:00 a.m."
+}
+],
+"correctAnswer": "A",
+"explanation": "He should arrive in about forty minutes after 10:20, so around 11:00 a.m."
+}
+]
+},
+{
+"id": "p7x-007",
+"title": "Job Opening at Coastal Foods",
+"format": "Single Passage",
+"type": "Advertisement",
+"passages": [
+{
+"text": "COASTAL FOODS is looking for a warehouse supervisor to join our distribution center in Portland.\nResponsibilities: Supervise a team of twenty employees; manage incoming and outgoing shipments; maintain inventory records; ensure compliance with safety regulations.\nRequirements: At least three years of experience in a warehouse environment; one year in a supervisory role; strong communication skills; a valid forklift certificate (training can be provided).\nWe offer a competitive salary, health insurance, and paid vacation. Applicants should send a résumé and a cover letter to hiring@coastalfoods.example by March 20. Interviews will be held the week of March 25. Please note that only shortlisted candidates will be contacted."
+}
+],
+"questions": [
+{
+"id": "p7x-007-q1",
+"questionText": "What is NOT a requirement for the job?",
+"options": [
+{
+"key": "A",
+"text": "Experience in a warehouse"
+},
+{
+"key": "B",
+"text": "A college degree"
+},
+{
+"key": "C",
+"text": "Supervisory experience"
+},
+{
+"key": "D",
+"text": "Good communication skills"
+}
+],
+"correctAnswer": "B",
+"explanation": "The advertisement lists no degree requirement."
+},
+{
+"id": "p7x-007-q2",
+"questionText": "What should applicants send?",
+"options": [
+{
+"key": "A",
+"text": "A portfolio"
+},
+{
+"key": "B",
+"text": "Three references"
+},
+{
+"key": "C",
+"text": "A forklift certificate"
+},
+{
+"key": "D",
+"text": "A résumé and a cover letter"
+}
+],
+"correctAnswer": "D",
+"explanation": "Applicants should send a résumé and a cover letter."
+},
+{
+"id": "p7x-007-q3",
+"questionText": "The word \"shortlisted\" in the last sentence is closest in meaning to",
+"options": [
+{
+"key": "A",
+"text": "rejected"
+},
+{
+"key": "B",
+"text": "interviewed twice"
+},
+{
+"key": "C",
+"text": "selected"
+},
+{
+"key": "D",
+"text": "delayed"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Shortlisted\" means chosen for the final group of candidates."
+}
+]
+},
+{
+"id": "p7x-008",
+"title": "Visitor Badge Procedure",
+"format": "Single Passage",
+"type": "Memo",
+"passages": [
+{
+"text": "TO: All Employees\nFROM: Security Office\nBeginning May 1, all visitors must wear a visitor badge while inside the building. Employees who are expecting a guest should e-mail the Security Office at least one day in advance with the guest's name and the purpose of the visit. When guests arrive, they should check in at the front desk and show a photo ID. The guest's host must come to the lobby to meet them; visitors are not allowed to walk through the building alone. Badges must be returned at the end of the visit. Employees who fail to follow this procedure may lose the privilege of hosting guests."
+}
+],
+"questions": [
+{
+"id": "p7x-008-q1",
+"questionText": "What must employees do before a guest arrives?",
+"options": [
+{
+"key": "A",
+"text": "Call the front desk"
+},
+{
+"key": "B",
+"text": "Print a visitor badge"
+},
+{
+"key": "C",
+"text": "Reserve a meeting room"
+},
+{
+"key": "D",
+"text": "Send the guest's information to the Security Office"
+}
+],
+"correctAnswer": "D",
+"explanation": "Employees should e-mail the Security Office a day in advance with the guest's name and purpose."
+},
+{
+"id": "p7x-008-q2",
+"questionText": "What is a host required to do?",
+"options": [
+{
+"key": "A",
+"text": "Meet the guest in the lobby"
+},
+{
+"key": "B",
+"text": "Collect the guest's badge by e-mail"
+},
+{
+"key": "C",
+"text": "Leave a key at the front desk"
+},
+{
+"key": "D",
+"text": "Show a photo ID"
+}
+],
+"correctAnswer": "A",
+"explanation": "The memo says the host must come to the lobby to meet the guest."
+},
+{
+"id": "p7x-008-q3",
+"questionText": "What may happen if an employee does not follow the procedure?",
+"options": [
+{
+"key": "A",
+"text": "The guest will be refused entry."
+},
+{
+"key": "B",
+"text": "The employee may lose hosting privileges."
+},
+{
+"key": "C",
+"text": "The badge will be extended."
+},
+{
+"key": "D",
+"text": "The employee will be fined."
+}
+],
+"correctAnswer": "B",
+"explanation": "The memo says they may lose the privilege of hosting guests."
+}
+]
+},
+{
+"id": "p7x-009",
+"title": "Catering Order Dispute",
+"format": "Multiple Passages",
+"type": "Double Passage (Email & Invoice)",
+"passages": [
+{
+"label": "Document 1: E-mail",
+"text": "From: Henry Cole\nTo: Sunnyside Catering\nDate: October 14\nSubject: Invoice 2208\n\nDear Sunnyside Catering,\nThank you for providing lunch for our workshop on October 10. The food was excellent. However, I noticed some differences between our order and the invoice. We ordered lunch for forty guests, but the invoice shows forty-five. We also did not request any dessert. Could you please send a corrected invoice? Our accounting department needs it before the end of the month.\nHenry Cole"
+},
+{
+"label": "Document 2: Invoice",
+"text": "SUNNYSIDE CATERING — INVOICE 2208\nDate: October 11\nClient: Cole Consulting\nLunch buffet (45 guests at $18)      $810.00\nDessert platters (2)                 $60.00\nDelivery                             $25.00\nTotal due                            $895.00\nPayment due within 30 days"
+}
+],
+"questions": [
+{
+"id": "p7x-009-q1",
+"questionText": "Why did Mr. Cole write the e-mail?",
+"options": [
+{
+"key": "A",
+"text": "To order more food"
+},
+{
+"key": "B",
+"text": "To request a corrected invoice"
+},
+{
+"key": "C",
+"text": "To praise the chef"
+},
+{
+"key": "D",
+"text": "To cancel an event"
+}
+],
+"correctAnswer": "B",
+"explanation": "He asks for a corrected invoice."
+},
+{
+"id": "p7x-009-q2",
+"questionText": "What does Mr. Cole say about the food?",
+"options": [
+{
+"key": "A",
+"text": "It was not ordered."
+},
+{
+"key": "B",
+"text": "It was too expensive."
+},
+{
+"key": "C",
+"text": "It arrived late."
+},
+{
+"key": "D",
+"text": "It was excellent."
+}
+],
+"correctAnswer": "D",
+"explanation": "He writes that the food was excellent."
+},
+{
+"id": "p7x-009-q3",
+"questionText": "How many guests were billed for?",
+"options": [
+{
+"key": "A",
+"text": "40"
+},
+{
+"key": "B",
+"text": "18"
+},
+{
+"key": "C",
+"text": "45"
+},
+{
+"key": "D",
+"text": "2"
+}
+],
+"correctAnswer": "C",
+"explanation": "The invoice shows 45 guests."
+},
+{
+"id": "p7x-009-q4",
+"questionText": "What charge did Mr. Cole NOT request?",
+"options": [
+{
+"key": "A",
+"text": "Dessert platters"
+},
+{
+"key": "B",
+"text": "Lunch buffet"
+},
+{
+"key": "C",
+"text": "Delivery"
+},
+{
+"key": "D",
+"text": "A drink service"
+}
+],
+"correctAnswer": "A",
+"explanation": "He says he did not request any dessert."
+},
+{
+"id": "p7x-009-q5",
+"questionText": "What is the correct total for the lunch at $18 for forty guests?",
+"options": [
+{
+"key": "A",
+"text": "$775.00"
+},
+{
+"key": "B",
+"text": "$810.00"
+},
+{
+"key": "C",
+"text": "$895.00"
+},
+{
+"key": "D",
+"text": "$720.00"
+}
+],
+"correctAnswer": "D",
+"explanation": "Forty guests at $18 equals $720."
+}
+]
+},
+{
+"id": "p7x-010",
+"title": "Training Day Change",
+"format": "Multiple Passages",
+"type": "Double Passage (Schedule & E-mail)",
+"passages": [
+{
+"label": "Document 1: Training Schedule",
+"text": "NORTHBRIDGE LOGISTICS — NEW HIRE TRAINING, WEDNESDAY\n9:00 – 10:30  Company overview (Room A)\n10:45 – 12:00  Safety procedures (Room A)\n12:00 – 1:00  Lunch\n1:00 – 2:30  Warehouse system demo (Computer Lab)\n2:45 – 4:00  Customer service basics (Room B)"
+},
+{
+"label": "Document 2: E-mail",
+"text": "To: New hires\nFrom: Jun Tanaka, Training Coordinator\nSubject: Change to Wednesday's schedule\n\nPlease note that the computer lab will be closed on Wednesday because of a network upgrade. The warehouse system demo will take place in Room B instead, and the customer service session will move to Room A. The times of the sessions will not change. Also, lunch will be provided in the cafeteria, so you do not need to bring your own. Please arrive by 8:45 a.m. to receive your badge."
+}
+],
+"questions": [
+{
+"id": "p7x-010-q1",
+"questionText": "Why is the computer lab closed?",
+"options": [
+{
+"key": "A",
+"text": "A network upgrade is taking place."
+},
+{
+"key": "B",
+"text": "A meeting is being held there."
+},
+{
+"key": "C",
+"text": "It is reserved for lunch."
+},
+{
+"key": "D",
+"text": "It is being cleaned."
+}
+],
+"correctAnswer": "A",
+"explanation": "The e-mail mentions a network upgrade."
+},
+{
+"id": "p7x-010-q2",
+"questionText": "Where will the customer service session be held?",
+"options": [
+{
+"key": "A",
+"text": "The Computer Lab"
+},
+{
+"key": "B",
+"text": "Room B"
+},
+{
+"key": "C",
+"text": "Room A"
+},
+{
+"key": "D",
+"text": "The cafeteria"
+}
+],
+"correctAnswer": "C",
+"explanation": "The e-mail says it moves to Room A."
+},
+{
+"id": "p7x-010-q3",
+"questionText": "At what time does the warehouse system demo start?",
+"options": [
+{
+"key": "A",
+"text": "2:45"
+},
+{
+"key": "B",
+"text": "1:00"
+},
+{
+"key": "C",
+"text": "10:45"
+},
+{
+"key": "D",
+"text": "9:00"
+}
+],
+"correctAnswer": "B",
+"explanation": "The e-mail says the times do not change, so it starts at 1:00."
+},
+{
+"id": "p7x-010-q4",
+"questionText": "What are new hires told about lunch?",
+"options": [
+{
+"key": "A",
+"text": "They should bring it."
+},
+{
+"key": "B",
+"text": "It will be provided."
+},
+{
+"key": "C",
+"text": "It is optional."
+},
+{
+"key": "D",
+"text": "It is at 11:00."
+}
+],
+"correctAnswer": "B",
+"explanation": "The e-mail says lunch will be provided in the cafeteria."
+},
+{
+"id": "p7x-010-q5",
+"questionText": "What are the new hires asked to do?",
+"options": [
+{
+"key": "A",
+"text": "Complete a survey"
+},
+{
+"key": "B",
+"text": "Bring a laptop"
+},
+{
+"key": "C",
+"text": "Arrive by 8:45 a.m."
+},
+{
+"key": "D",
+"text": "Reply to the e-mail"
+}
+],
+"correctAnswer": "C",
+"explanation": "They should arrive by 8:45 a.m. to receive a badge."
+}
+]
+},
+{
+"id": "p7x-011",
+"title": "Community Garden Project",
+"format": "Multiple Passages",
+"type": "Double Passage (Article & Letter)",
+"passages": [
+{
+"label": "Document 1: Article",
+"text": "GREENFIELD NEWS — Residents of Elm Street will soon have a community garden. The city council approved the project on Monday, giving the neighborhood association permission to turn an empty lot into a vegetable garden. The association must raise $5,000 for tools, soil, and fencing. The city will contribute water access and a small starting grant. Volunteers are being sought for the first work day on April 20."
+},
+{
+"label": "Document 2: Letter",
+"text": "Dear Neighbors,\nI am pleased to share that our garden proposal was approved. We have already received $2,000 in donations, including $500 from Lowell Hardware. We still need $3,000 to reach our target. If you can donate, please send a check to the address below. Anyone who gives at least $50 will have their name displayed on the garden sign. We also need volunteers for April 20; please bring gloves and water.\nMaria Torres\nElm Street Neighborhood Association"
+}
+],
+"questions": [
+{
+"id": "p7x-011-q1",
+"questionText": "What will the garden be built on?",
+"options": [
+{
+"key": "A",
+"text": "An empty lot"
+},
+{
+"key": "B",
+"text": "A rooftop"
+},
+{
+"key": "C",
+"text": "A school playground"
+},
+{
+"key": "D",
+"text": "A parking garage"
+}
+],
+"correctAnswer": "A",
+"explanation": "The article says it will be built on an empty lot."
+},
+{
+"id": "p7x-011-q2",
+"questionText": "What will the city provide?",
+"options": [
+{
+"key": "A",
+"text": "Volunteers"
+},
+{
+"key": "B",
+"text": "All of the tools"
+},
+{
+"key": "C",
+"text": "A sign"
+},
+{
+"key": "D",
+"text": "Water access and a small grant"
+}
+],
+"correctAnswer": "D",
+"explanation": "The city will contribute water access and a starting grant."
+},
+{
+"id": "p7x-011-q3",
+"questionText": "How much money does the association still need?",
+"options": [
+{
+"key": "A",
+"text": "$5,000"
+},
+{
+"key": "B",
+"text": "$3,000"
+},
+{
+"key": "C",
+"text": "$500"
+},
+{
+"key": "D",
+"text": "$2,000"
+}
+],
+"correctAnswer": "B",
+"explanation": "The target is $5,000 and $2,000 has been raised, so $3,000 remains."
+},
+{
+"id": "p7x-011-q4",
+"questionText": "What is offered to donors who give $50 or more?",
+"options": [
+{
+"key": "A",
+"text": "A tool set"
+},
+{
+"key": "B",
+"text": "Tickets to an event"
+},
+{
+"key": "C",
+"text": "A free vegetable box"
+},
+{
+"key": "D",
+"text": "Their names on a sign"
+}
+],
+"correctAnswer": "D",
+"explanation": "The letter says their names will be displayed on the garden sign."
+},
+{
+"id": "p7x-011-q5",
+"questionText": "What are volunteers asked to bring on April 20?",
+"options": [
+{
+"key": "A",
+"text": "Soil and tools"
+},
+{
+"key": "B",
+"text": "Lunch"
+},
+{
+"key": "C",
+"text": "Gloves and water"
+},
+{
+"key": "D",
+"text": "A check"
+}
+],
+"correctAnswer": "C",
+"explanation": "The letter asks them to bring gloves and water."
+}
+]
+},
+{
+"id": "p7x-012",
+"title": "Moving a delivery",
+"format": "Single Passage",
+"type": "Text-message chain",
+"passages": [
+{
+"text": "Ana Ruiz [10:12 a.m.]\nHi Colin, the supplier says our paper delivery will come at three instead of noon. Can you still be there?\nColin Abbott [10:14 a.m.]\nI have a client call until two thirty. I could meet the driver by three, but I'd have to leave right after.\nAna Ruiz [10:15 a.m.]\nThat's fine. Everything is already counted and marked. The driver just needs a signature.\nColin Abbott [10:17 a.m.]\nThen I'm your man. Which door should I use?\nAna Ruiz [10:18 a.m.]\nThe loading dock on the east side. I'll text you a photo of the sign so you can't miss it.\nColin Abbott [10:19 a.m.]\nPerfect. Sounds like a plan."
+}
+],
+"questions": [
+{
+"id": "p7x-012-q1",
+"questionText": "Why does Ms. Ruiz contact Mr. Abbott?",
+"options": [
+{
+"key": "A",
+"text": "To ask him to receive a shipment"
+},
+{
+"key": "B",
+"text": "To ask for a day off"
+},
+{
+"key": "C",
+"text": "To report a supplier's mistake"
+},
+{
+"key": "D",
+"text": "To cancel a delivery"
+}
+],
+"correctAnswer": "A",
+"explanation": "She tells him the delivery will come at three and asks if he can be there."
+},
+{
+"id": "p7x-012-q2",
+"questionText": "At 10:17 a.m., what does Mr. Abbott most likely mean when he writes, \"Then I'm your man\"?",
+"options": [
+{
+"key": "A",
+"text": "He prefers to work alone."
+},
+{
+"key": "B",
+"text": "He plans to ask for help."
+},
+{
+"key": "C",
+"text": "He wants to speak with the driver."
+},
+{
+"key": "D",
+"text": "He is willing to handle the task."
+}
+],
+"correctAnswer": "D",
+"explanation": "He agrees to meet the driver after hearing that only a signature is needed."
+},
+{
+"id": "p7x-012-q3",
+"questionText": "What will Ms. Ruiz send to Mr. Abbott?",
+"options": [
+{
+"key": "A",
+"text": "A picture"
+},
+{
+"key": "B",
+"text": "A signature"
+},
+{
+"key": "C",
+"text": "An invoice"
+},
+{
+"key": "D",
+"text": "A map"
+}
+],
+"correctAnswer": "A",
+"explanation": "She says she will text him a photo of the sign."
+}
+]
+},
+{
+"id": "p7x-013",
+"title": "A printing problem before a meeting",
+"format": "Single Passage",
+"type": "Text-message chain",
+"passages": [
+{
+"text": "Leila Karim [8:41 a.m.]\nJun, the handouts for the board meeting are printing with the wrong logo. The meeting starts at ten.\nJun Park [8:43 a.m.]\nOh no. I used last year's template. Do you still have the new file?\nLeila Karim [8:44 a.m.]\nIt's in the shared folder under Branding. I just found it.\nHector Silva [8:46 a.m.]\nI can reprint them. The copy room is free until nine thirty. How many do we need?\nLeila Karim [8:47 a.m.]\nTwenty-five. Thank you, Hector. I owe you one.\nJun Park [8:48 a.m.]\nI'll update the agenda too. It has the old address.\nHector Silva [8:49 a.m.]\nSend me the files by nine and I'll bring everything to the boardroom."
+}
+],
+"questions": [
+{
+"id": "p7x-013-q1",
+"questionText": "What problem do the writers discuss?",
+"options": [
+{
+"key": "A",
+"text": "The copy room is closed."
+},
+{
+"key": "B",
+"text": "Documents show an old logo."
+},
+{
+"key": "C",
+"text": "A folder is empty."
+},
+{
+"key": "D",
+"text": "A meeting was canceled."
+}
+],
+"correctAnswer": "B",
+"explanation": "Ms. Karim says the handouts are printing with the wrong logo."
+},
+{
+"id": "p7x-013-q2",
+"questionText": "What does Mr. Park say he will do?",
+"options": [
+{
+"key": "A",
+"text": "Call a board member"
+},
+{
+"key": "B",
+"text": "Reprint the handouts"
+},
+{
+"key": "C",
+"text": "Revise an agenda"
+},
+{
+"key": "D",
+"text": "Reserve a room"
+}
+],
+"correctAnswer": "C",
+"explanation": "He says he will update the agenda because it has the old address."
+},
+{
+"id": "p7x-013-q3",
+"questionText": "What is suggested about Mr. Silva?",
+"options": [
+{
+"key": "A",
+"text": "He is leaving the company."
+},
+{
+"key": "B",
+"text": "He is a member of the board."
+},
+{
+"key": "C",
+"text": "He created the template."
+},
+{
+"key": "D",
+"text": "He will deliver the printed materials."
+}
+],
+"correctAnswer": "D",
+"explanation": "He says he will bring everything to the boardroom."
+}
+]
+},
+{
+"id": "p7x-014",
+"title": "Directions to a site visit",
+"format": "Single Passage",
+"type": "Text-message chain",
+"passages": [
+{
+"text": "Maya Chen [1:05 p.m.]\nMr. Bryce, we're about ten minutes from the construction site, but the GPS shows a road closure on Dock Street.\nEdward Bryce [1:07 p.m.]\nYes, they're repaving it. Take Pine Avenue instead and turn left at the gas station.\nMaya Chen [1:08 p.m.]\nGot it. Is there parking near the entrance?\nEdward Bryce [1:10 p.m.]\nOnly for trucks. Visitors park in the lot behind the pharmacy, and it's a two-minute walk. Please wear closed shoes. I'll have hard hats ready.\nMaya Chen [1:11 p.m.]\nThanks. My colleague will join us, but she's running a few minutes behind.\nEdward Bryce [1:12 p.m.]\nNo problem. We'll start the tour when she arrives."
+}
+],
+"questions": [
+{
+"id": "p7x-014-q1",
+"questionText": "Why is Dock Street unavailable?",
+"options": [
+{
+"key": "A",
+"text": "It is flooded."
+},
+{
+"key": "B",
+"text": "It is being repaved."
+},
+{
+"key": "C",
+"text": "It is closed for a parade."
+},
+{
+"key": "D",
+"text": "It is hosting an event."
+}
+],
+"correctAnswer": "B",
+"explanation": "Mr. Bryce says they are repaving it."
+},
+{
+"id": "p7x-014-q2",
+"questionText": "Where should visitors park?",
+"options": [
+{
+"key": "A",
+"text": "At the construction site entrance"
+},
+{
+"key": "B",
+"text": "Next to the gas station"
+},
+{
+"key": "C",
+"text": "Behind a pharmacy"
+},
+{
+"key": "D",
+"text": "On Pine Avenue"
+}
+],
+"correctAnswer": "C",
+"explanation": "Visitors park in the lot behind the pharmacy."
+},
+{
+"id": "p7x-014-q3",
+"questionText": "At 1:12 p.m., what does Mr. Bryce mean when he writes, \"No problem\"?",
+"options": [
+{
+"key": "A",
+"text": "He will wait for a colleague."
+},
+{
+"key": "B",
+"text": "He can change the route."
+},
+{
+"key": "C",
+"text": "He will start the tour early."
+},
+{
+"key": "D",
+"text": "He has extra hard hats."
+}
+],
+"correctAnswer": "A",
+"explanation": "He says they will start the tour when the colleague arrives."
+}
+]
+},
+{
+"id": "p7x-015",
+"title": "Staffing a trade show booth",
+"format": "Single Passage",
+"type": "Text-message chain",
+"passages": [
+{
+"text": "Priya Nair [9:30 a.m.]\nTeam, we still need two people to work our booth at the trade show on Friday. Anyone free from noon to four?\nOscar Lund [9:33 a.m.]\nI can take noon to two, but I have a dentist appointment at two thirty.\nDina Ali [9:35 a.m.]\nI can cover two to four. I've done this show before, so I know where the registration desk is.\nPriya Nair [9:36 a.m.]\nPerfect. Then Oscar and Dina are set. Please bring business cards and wear your company shirts.\nOscar Lund [9:38 a.m.]\nWill there be any product samples?\nPriya Nair [9:40 a.m.]\nYes. They're being delivered to the hotel on Thursday. I'll pick them up and bring them to the booth."
+}
+],
+"questions": [
+{
+"id": "p7x-015-q1",
+"questionText": "What is Ms. Nair trying to do?",
+"options": [
+{
+"key": "A",
+"text": "Reserve a hotel"
+},
+{
+"key": "B",
+"text": "Order samples"
+},
+{
+"key": "C",
+"text": "Change a work schedule"
+},
+{
+"key": "D",
+"text": "Find staff for an event"
+}
+],
+"correctAnswer": "D",
+"explanation": "She asks who is free to work the booth on Friday."
+},
+{
+"id": "p7x-015-q2",
+"questionText": "Why does Mr. Lund NOT work the whole shift?",
+"options": [
+{
+"key": "A",
+"text": "He is traveling."
+},
+{
+"key": "B",
+"text": "He is meeting a client."
+},
+{
+"key": "C",
+"text": "He has an appointment."
+},
+{
+"key": "D",
+"text": "He has another job."
+}
+],
+"correctAnswer": "C",
+"explanation": "He says he has a dentist appointment at two thirty."
+},
+{
+"id": "p7x-015-q3",
+"questionText": "What will Ms. Nair do on Thursday or Friday?",
+"options": [
+{
+"key": "A",
+"text": "Collect some samples"
+},
+{
+"key": "B",
+"text": "Print business cards"
+},
+{
+"key": "C",
+"text": "Register the team"
+},
+{
+"key": "D",
+"text": "Contact a client"
+}
+],
+"correctAnswer": "A",
+"explanation": "She says she will pick up the samples and bring them to the booth."
+}
+]
+},
+{
+"id": "p7x-016",
+"title": "Coffee Roaster Expands",
+"format": "Single Passage",
+"type": "Article",
+"passages": [
+{
+"text": "Portland — Bluehill Roasters, a local coffee company founded eight years ago, announced yesterday that it will open a second roasting facility in the Eastport district. The new site will triple the company's production capacity and create twenty-five jobs.\n\"We have been turning away orders for months,\" said founder Adaeze Obi. \"Our current roaster runs nearly around the clock, and we cannot take on new restaurant customers.\" Ms. Obi said the company has secured a loan from a regional bank to purchase two industrial roasters and to renovate the building, a former printing shop.\nBluehill's coffee is sold at more than sixty cafés across the state. The company also operates a small shop and tasting room on Harbor Street. Under the expansion plan, the shop will keep its current location, but its tasting room will move to the new facility. Production at Eastport is scheduled to begin in January, and the company will begin hiring in October."
+}
+],
+"questions": [
+{
+"id": "p7x-016-q1",
+"questionText": "What is the article mainly about?",
+"options": [
+{
+"key": "A",
+"text": "A bank's new policy"
+},
+{
+"key": "B",
+"text": "A company's plan to grow"
+},
+{
+"key": "C",
+"text": "A change of ownership"
+},
+{
+"key": "D",
+"text": "A new restaurant opening"
+}
+],
+"correctAnswer": "B",
+"explanation": "The article reports that Bluehill Roasters will open a second facility."
+},
+{
+"id": "p7x-016-q2",
+"questionText": "What does Ms. Obi say about the current roaster?",
+"options": [
+{
+"key": "A",
+"text": "It was moved to Eastport."
+},
+{
+"key": "B",
+"text": "It is used almost constantly."
+},
+{
+"key": "C",
+"text": "It makes only decaffeinated coffee."
+},
+{
+"key": "D",
+"text": "It is about to be replaced."
+}
+],
+"correctAnswer": "B",
+"explanation": "She says it runs nearly around the clock."
+},
+{
+"id": "p7x-016-q3",
+"questionText": "In the second paragraph, the word \"secured\" is closest in meaning to",
+"options": [
+{
+"key": "A",
+"text": "protected"
+},
+{
+"key": "B",
+"text": "repaired"
+},
+{
+"key": "C",
+"text": "locked"
+},
+{
+"key": "D",
+"text": "obtained"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"Secured a loan\" means obtained a loan."
+},
+{
+"id": "p7x-016-q4",
+"questionText": "What will happen to the tasting room?",
+"options": [
+{
+"key": "A",
+"text": "It will move to the new facility."
+},
+{
+"key": "B",
+"text": "It will remain on Harbor Street."
+},
+{
+"key": "C",
+"text": "It will close permanently."
+},
+{
+"key": "D",
+"text": "It will become a café."
+}
+],
+"correctAnswer": "A",
+"explanation": "The article says its tasting room will move to the new facility."
+}
+]
+},
+{
+"id": "p7x-017",
+"title": "Negotiating a new office lease",
+"format": "Single Passage",
+"type": "Email",
+"passages": [
+{
+"text": "From: Joanna Wick\nTo: Raymond Faulkner\nDate: September 6\nSubject: Lease proposal for Suite 410\nDear Mr. Faulkner,\nThank you for showing us Suite 410 on Tuesday. [1] Our team of fourteen would fit comfortably, and the location near the station would make commuting easier for most staff. [2]\nHowever, the monthly rent of $7,800 is above our budget. I understand that similar suites in the building were leased for less last year. [3] Would you consider lowering the rent to $7,200 if we sign a three-year lease instead of the standard two years?\nWe would also need the landlord to repaint the walls and replace the carpet before we move in. [4] I would be happy to discuss these points by phone at your convenience.\nSincerely,\nJoanna Wick"
+}
+],
+"questions": [
+{
+"id": "p7x-017-q1",
+"questionText": "Why is Ms. Wick writing to Mr. Faulkner?",
+"options": [
+{
+"key": "A",
+"text": "To ask for directions"
+},
+{
+"key": "B",
+"text": "To complain about noise"
+},
+{
+"key": "C",
+"text": "To negotiate the terms of a lease"
+},
+{
+"key": "D",
+"text": "To cancel an appointment"
+}
+],
+"correctAnswer": "C",
+"explanation": "She proposes a lower rent in exchange for a longer lease."
+},
+{
+"id": "p7x-017-q2",
+"questionText": "What does Ms. Wick say about the suite?",
+"options": [
+{
+"key": "A",
+"text": "It was recently painted."
+},
+{
+"key": "B",
+"text": "It would suit her team."
+},
+{
+"key": "C",
+"text": "It is too small."
+},
+{
+"key": "D",
+"text": "It is far from the station."
+}
+],
+"correctAnswer": "B",
+"explanation": "She says a team of fourteen would fit comfortably."
+},
+{
+"id": "p7x-017-q3",
+"questionText": "What does Ms. Wick want the landlord to do?",
+"options": [
+{
+"key": "A",
+"text": "Reduce the term to two years"
+},
+{
+"key": "B",
+"text": "Install a new elevator"
+},
+{
+"key": "C",
+"text": "Provide parking"
+},
+{
+"key": "D",
+"text": "Renovate some surfaces"
+}
+],
+"correctAnswer": "D",
+"explanation": "She asks him to repaint the walls and replace the carpet."
+},
+{
+"id": "p7x-017-q4",
+"questionText": "In which of the positions marked [1], [2], [3] and [4] does the following sentence best belong? \"For that reason, we would like to propose a different arrangement.\"",
+"options": [
+{
+"key": "A",
+"text": "[1]"
+},
+{
+"key": "B",
+"text": "[2]"
+},
+{
+"key": "C",
+"text": "[3]"
+},
+{
+"key": "D",
+"text": "[4]"
+}
+],
+"correctAnswer": "C",
+"explanation": "The sentence explains the proposal that follows the complaint about the high rent, so it belongs just before the request to lower the rent."
+}
+]
+},
+{
+"id": "p7x-018",
+"title": "Warehouse Supervisor Position",
+"format": "Single Passage",
+"type": "Advertisement",
+"passages": [
+{
+"text": "Mercer Logistics is looking for a warehouse supervisor to join our distribution center in Tulsa.\nResponsibilities:\n- Oversee a team of twenty-five staff across two shifts\n- Maintain accurate inventory records\n- Ensure compliance with safety regulations\n- Prepare weekly reports for the operations manager\nRequirements:\n- At least three years of experience in a warehouse\n- A valid forklift certificate (training provided if needed)\n- Strong communication skills\nBenefits include health insurance, twenty days of paid vacation, and a yearly bonus. Relocation assistance is available for candidates from outside the region. To apply, send your résumé and a cover letter to hr@mercerlogistics.example by October 15. Interviews will take place the following week."
+}
+],
+"questions": [
+{
+"id": "p7x-018-q1",
+"questionText": "What is the main purpose of the advertisement?",
+"options": [
+{
+"key": "A",
+"text": "To describe a training course"
+},
+{
+"key": "B",
+"text": "To announce a sale"
+},
+{
+"key": "C",
+"text": "To recruit a worker"
+},
+{
+"key": "D",
+"text": "To promote a product"
+}
+],
+"correctAnswer": "C",
+"explanation": "It advertises a warehouse supervisor job."
+},
+{
+"id": "p7x-018-q2",
+"questionText": "Which of the following is NOT listed as a responsibility?",
+"options": [
+{
+"key": "A",
+"text": "Training drivers"
+},
+{
+"key": "B",
+"text": "Keeping inventory records"
+},
+{
+"key": "C",
+"text": "Writing weekly reports"
+},
+{
+"key": "D",
+"text": "Following safety rules"
+}
+],
+"correctAnswer": "A",
+"explanation": "Driver training is not mentioned among the responsibilities."
+},
+{
+"id": "p7x-018-q3",
+"questionText": "What is available to some applicants?",
+"options": [
+{
+"key": "A",
+"text": "Help with moving costs"
+},
+{
+"key": "B",
+"text": "A company car"
+},
+{
+"key": "C",
+"text": "Free housing"
+},
+{
+"key": "D",
+"text": "A signing bonus"
+}
+],
+"correctAnswer": "A",
+"explanation": "Relocation assistance is available for candidates from outside the region."
+}
+]
+},
+{
+"id": "p7x-019",
+"title": "Return policy of an online shop",
+"format": "Single Passage",
+"type": "Web page",
+"passages": [
+{
+"text": "Returns and Exchanges\nAt Hillcrest Home, we want you to be happy with your purchase. If you are not satisfied, you may return most items within thirty days of delivery for a full refund. Items must be unused and in their original packaging.\nPlease note: Furniture over fifty kilograms must be returned by freight, and a pick-up fee of forty dollars will apply. Custom-made items, such as curtains cut to size, cannot be returned. Gift cards and clearance items are final sale.\nTo start a return, log in to your account and select \"Return an item\" next to your order. You will receive a prepaid shipping label by e-mail within one business day. Refunds are issued to the original payment method within ten days after we receive the item. If your item arrives damaged, contact customer service within forty-eight hours and attach a photo of the damage."
+}
+],
+"questions": [
+{
+"id": "p7x-019-q1",
+"questionText": "What is true about returns of most items?",
+"options": [
+{
+"key": "A",
+"text": "They are accepted for sixty days."
+},
+{
+"key": "B",
+"text": "They must be unused."
+},
+{
+"key": "C",
+"text": "They are free of charge for furniture."
+},
+{
+"key": "D",
+"text": "They require a store visit."
+}
+],
+"correctAnswer": "B",
+"explanation": "Items must be unused and in their original packaging."
+},
+{
+"id": "p7x-019-q2",
+"questionText": "Which item can NOT be returned?",
+"options": [
+{
+"key": "A",
+"text": "A chair under fifty kilograms"
+},
+{
+"key": "B",
+"text": "A lamp"
+},
+{
+"key": "C",
+"text": "Curtains cut to size"
+},
+{
+"key": "D",
+"text": "A rug"
+}
+],
+"correctAnswer": "C",
+"explanation": "Custom-made items such as curtains cut to size cannot be returned."
+},
+{
+"id": "p7x-019-q3",
+"questionText": "What should customers do if a product is damaged on arrival?",
+"options": [
+{
+"key": "A",
+"text": "Wait for a pick-up"
+},
+{
+"key": "B",
+"text": "Request a gift card"
+},
+{
+"key": "C",
+"text": "Return it to the store"
+},
+{
+"key": "D",
+"text": "Send a photo to customer service"
+}
+],
+"correctAnswer": "D",
+"explanation": "They should contact customer service within forty-eight hours with a photo."
+}
+]
+},
+{
+"id": "p7x-020",
+"title": "Training workshop for new managers",
+"format": "Multiple Passages",
+"type": "Double Passage (Email and schedule)",
+"passages": [
+{
+"label": "E-mail",
+"text": "From: Teresa Gomez\nTo: Ahmed Saleh\nDate: February 3\nSubject: Management Basics workshop\nDear Ahmed,\nCongratulations on your promotion to team leader. As part of your onboarding, I have registered you for the Management Basics workshop on February 20. The schedule is attached. Lunch is included, but you will need to arrange your own transportation to the training center. Because of the full agenda, please arrive by eight thirty. If you have a conflict, let me know by Friday so that I can offer your seat to another employee.\nTeresa Gomez, Human Resources"
+},
+{
+"label": "Workshop schedule",
+"text": "Management Basics, February 20, Elm Street Training Center\n8:45 – 9:00  Welcome and introductions\n9:00 – 10:30  Leading a team (Dr. Weiss)\n10:30 – 10:45  Break\n10:45 – 12:00  Giving feedback (Ms. Bondar)\n12:00 – 1:00  Lunch\n1:00 – 2:30  Managing time and priorities (Mr. Rossi)\n2:30 – 3:00  Questions and certificates"
+}
+],
+"questions": [
+{
+"id": "p7x-020-q1",
+"questionText": "Why was the e-mail sent?",
+"options": [
+{
+"key": "A",
+"text": "To register Mr. Saleh for a course"
+},
+{
+"key": "B",
+"text": "To announce a promotion"
+},
+{
+"key": "C",
+"text": "To request a report"
+},
+{
+"key": "D",
+"text": "To change a meeting"
+}
+],
+"correctAnswer": "A",
+"explanation": "Ms. Gomez says she has registered him for the workshop."
+},
+{
+"id": "p7x-020-q2",
+"questionText": "What is indicated about the workshop?",
+"options": [
+{
+"key": "A",
+"text": "It is online."
+},
+{
+"key": "B",
+"text": "Transportation is provided."
+},
+{
+"key": "C",
+"text": "It lasts two days."
+},
+{
+"key": "D",
+"text": "Lunch is provided."
+}
+],
+"correctAnswer": "D",
+"explanation": "Lunch is included, while transportation is not."
+},
+{
+"id": "p7x-020-q3",
+"questionText": "What time does the first session begin?",
+"options": [
+{
+"key": "A",
+"text": "8:30"
+},
+{
+"key": "B",
+"text": "9:00"
+},
+{
+"key": "C",
+"text": "10:45"
+},
+{
+"key": "D",
+"text": "8:45"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Leading a team\" starts at 9:00."
+},
+{
+"id": "p7x-020-q4",
+"questionText": "Who will teach the session on feedback?",
+"options": [
+{
+"key": "A",
+"text": "Dr. Weiss"
+},
+{
+"key": "B",
+"text": "Ms. Gomez"
+},
+{
+"key": "C",
+"text": "Ms. Bondar"
+},
+{
+"key": "D",
+"text": "Mr. Rossi"
+}
+],
+"correctAnswer": "C",
+"explanation": "The \"Giving feedback\" session is led by Ms. Bondar."
+},
+{
+"id": "p7x-020-q5",
+"questionText": "What does Ms. Gomez ask Mr. Saleh to do by Friday?",
+"options": [
+{
+"key": "A",
+"text": "Book a hotel"
+},
+{
+"key": "B",
+"text": "Send an agenda"
+},
+{
+"key": "C",
+"text": "Pay a fee"
+},
+{
+"key": "D",
+"text": "Tell her if he cannot attend"
+}
+],
+"correctAnswer": "D",
+"explanation": "She says he should let her know by Friday if he has a conflict."
+}
+]
+},
+{
+"id": "p7x-021",
+"title": "Custom team jerseys",
+"format": "Multiple Passages",
+"type": "Triple Passage (Advertisement, order form and e-mail)",
+"passages": [
+{
+"label": "Advertisement",
+"text": "Swift Sportswear: Custom Jerseys for Teams and Clubs\nDesign your team's jerseys online in minutes! Choose from five styles, twelve colors, and free numbering. Orders of twenty or more receive ten percent off. Standard production takes three weeks; rush production (one week) is available for a fee of fifteen percent of the order total. Shipping is free for orders over $500."
+},
+{
+"label": "Order summary",
+"text": "Customer: Lakeside Youth Soccer Club\nOrder #: 20931\nItem: Classic Jersey (blue and white)\nQuantity: 24  Price each: $28.00\nSubtotal: $672.00\nDiscount: -$67.20\nRush production: $90.72\nShipping: $0.00\nTotal: $695.52"
+},
+{
+"label": "E-mail",
+"text": "From: Carla Dominguez\nTo: Swift Sportswear Customer Service\nDate: May 9\nSubject: Order #20931\nHello,\nI am writing about our order. The jerseys arrived today, and we are pleased with the quality. However, I noticed that two of them show the number 11 instead of 17. Could you tell me how we can have these corrected? Our first game is on Saturday, so I would be grateful for a quick response.\nCarla Dominguez"
+}
+],
+"questions": [
+{
+"id": "p7x-021-q1",
+"questionText": "What does the advertisement offer for large orders?",
+"options": [
+{
+"key": "A",
+"text": "A discount"
+},
+{
+"key": "B",
+"text": "Free rush production"
+},
+{
+"key": "C",
+"text": "Free colors"
+},
+{
+"key": "D",
+"text": "A free design"
+}
+],
+"correctAnswer": "A",
+"explanation": "Orders of twenty or more receive ten percent off."
+},
+{
+"id": "p7x-021-q2",
+"questionText": "What is suggested about Lakeside Youth Soccer Club?",
+"options": [
+{
+"key": "A",
+"text": "It ordered fewer than twenty jerseys."
+},
+{
+"key": "B",
+"text": "It requested faster production."
+},
+{
+"key": "C",
+"text": "It paid for shipping."
+},
+{
+"key": "D",
+"text": "It chose a style with red."
+}
+],
+"correctAnswer": "B",
+"explanation": "The order includes a rush production fee."
+},
+{
+"id": "p7x-021-q3",
+"questionText": "How much did the club pay for rush production?",
+"options": [
+{
+"key": "A",
+"text": "$67.20"
+},
+{
+"key": "B",
+"text": "$28.00"
+},
+{
+"key": "C",
+"text": "$90.72"
+},
+{
+"key": "D",
+"text": "$695.52"
+}
+],
+"correctAnswer": "C",
+"explanation": "The order summary lists rush production at $90.72."
+},
+{
+"id": "p7x-021-q4",
+"questionText": "What problem does Ms. Dominguez mention?",
+"options": [
+{
+"key": "A",
+"text": "The price is too high."
+},
+{
+"key": "B",
+"text": "The order is late."
+},
+{
+"key": "C",
+"text": "The colors are incorrect."
+},
+{
+"key": "D",
+"text": "Some jerseys have the wrong number."
+}
+],
+"correctAnswer": "D",
+"explanation": "Two jerseys show 11 instead of 17."
+},
+{
+"id": "p7x-021-q5",
+"questionText": "Why does Ms. Dominguez want a quick response?",
+"options": [
+{
+"key": "A",
+"text": "A game is coming soon."
+},
+{
+"key": "B",
+"text": "A new season is starting next month."
+},
+{
+"key": "C",
+"text": "A payment is due."
+},
+{
+"key": "D",
+"text": "The club is moving."
+}
+],
+"correctAnswer": "A",
+"explanation": "She says the first game is on Saturday."
+}
+]
+},
+{
+"id": "p7x-022",
+"title": "Local Farm Market Moves Indoors",
+"format": "Single Passage",
+"type": "Article",
+"passages": [
+{
+"text": "Greenfield — The Saturday Farmers' Market, a popular fixture in Town Square for twenty-two years, will move to the former Hartley Hardware building starting in November. Organizers made the decision after a survey found that nearly sixty percent of vendors wanted a location that would stay open through the winter.\n\"Outdoor markets get quieter when the weather turns cold,\" said market manager Josie Brandt. \"With heat and a roof, our vendors can keep selling, and customers can shop in comfort.\" The building has about fifty stalls, compared with thirty-five in the square, and a small kitchen where vendors can prepare samples. A parking area behind the building will hold eighty cars, which is more than double the current street parking.\nThe market will keep its Saturday hours, from eight to one. Starting in December, it will also open on Wednesday evenings. Vendors interested in a stall can apply online until October 15."
+}
+],
+"questions": [
+{
+"id": "p7x-022-q1",
+"questionText": "Why is the market moving?",
+"options": [
+{
+"key": "A",
+"text": "The square will be repaired."
+},
+{
+"key": "B",
+"text": "Customers complained about parking."
+},
+{
+"key": "C",
+"text": "Vendors wanted a winter location."
+},
+{
+"key": "D",
+"text": "Rent in the square increased."
+}
+],
+"correctAnswer": "C",
+"explanation": "A survey showed that many vendors wanted a location open through winter."
+},
+{
+"id": "p7x-022-q2",
+"questionText": "What is NOT mentioned as a feature of the new building?",
+"options": [
+{
+"key": "A",
+"text": "A parking area"
+},
+{
+"key": "B",
+"text": "A children's play area"
+},
+{
+"key": "C",
+"text": "A kitchen"
+},
+{
+"key": "D",
+"text": "More stalls"
+}
+],
+"correctAnswer": "B",
+"explanation": "A children's play area is not mentioned."
+},
+{
+"id": "p7x-022-q3",
+"questionText": "When will the market begin opening on Wednesdays?",
+"options": [
+{
+"key": "A",
+"text": "In November"
+},
+{
+"key": "B",
+"text": "Next summer"
+},
+{
+"key": "C",
+"text": "In October"
+},
+{
+"key": "D",
+"text": "In December"
+}
+],
+"correctAnswer": "D",
+"explanation": "The article says it will open on Wednesday evenings starting in December."
+}
+]
+},
+{
+"id": "p7x-023",
+"title": "Reminder about expense deadlines",
+"format": "Single Passage",
+"type": "Email",
+"passages": [
+{
+"text": "From: Finance Department\nTo: All Managers\nDate: November 21\nSubject: Year-end expense deadlines\nDear Managers,\nAs the fiscal year ends on December 31, please note the following deadlines. All expense reports for the current year must be submitted through the portal by December 8. Reports received after this date will be processed in January and charged to next year's budget. Purchase orders for equipment must be approved by December 15, even if the items will be delivered in January.\nIf your department has unspent funds in the training budget, you may use them for courses that start before the end of the year. Funds will not be carried over. If you are unsure whether an expense qualifies, contact Ms. Ferreira at extension 227 before making the purchase. Thank you for your cooperation."
+}
+],
+"questions": [
+{
+"id": "p7x-023-q1",
+"questionText": "What is the purpose of the e-mail?",
+"options": [
+{
+"key": "A",
+"text": "To request a new report"
+},
+{
+"key": "B",
+"text": "To remind managers of deadlines"
+},
+{
+"key": "C",
+"text": "To announce a new budget"
+},
+{
+"key": "D",
+"text": "To introduce an employee"
+}
+],
+"correctAnswer": "B",
+"explanation": "The e-mail lists the year-end deadlines for expenses and orders."
+},
+{
+"id": "p7x-023-q2",
+"questionText": "What will happen to a report submitted on December 12?",
+"options": [
+{
+"key": "A",
+"text": "It will be returned for corrections."
+},
+{
+"key": "B",
+"text": "It will be rejected."
+},
+{
+"key": "C",
+"text": "It will be processed in January."
+},
+{
+"key": "D",
+"text": "It will be paid immediately."
+}
+],
+"correctAnswer": "C",
+"explanation": "Reports received after December 8 are processed in January and charged to next year."
+},
+{
+"id": "p7x-023-q3",
+"questionText": "What does the e-mail say about training funds?",
+"options": [
+{
+"key": "A",
+"text": "They will not carry over."
+},
+{
+"key": "B",
+"text": "They are available for equipment."
+},
+{
+"key": "C",
+"text": "They are unlimited."
+},
+{
+"key": "D",
+"text": "They have been reduced."
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Funds will not be carried over.\""
+}
+]
+},
+{
+"id": "p7x-024",
+"title": "Pool maintenance notice",
+"format": "Single Passage",
+"type": "Notice",
+"passages": [
+{
+"text": "NOTICE TO MEMBERS OF OAKMONT SWIM CLUB\nOur indoor pool will be closed for scheduled maintenance from Monday, March 4, through Friday, March 15. During this time, technicians will replace the filtration system and repair tiles in the shallow end.\nThe outdoor pool will open early this year, on March 9, as the weather permits. Members may use the outdoor pool during the closure at no additional charge. Swim lessons for children will be held at the outdoor pool on the usual schedule, and a heated tent will be provided on cold days.\nThe locker rooms and the fitness room will remain open. Because the work is noisy, the fitness room's morning hours will begin at seven instead of six. We apologize for any inconvenience. Please speak to the front desk with any questions."
+}
+],
+"questions": [
+{
+"id": "p7x-024-q1",
+"questionText": "What is the main purpose of the notice?",
+"options": [
+{
+"key": "A",
+"text": "To announce a temporary closure"
+},
+{
+"key": "B",
+"text": "To advertise swimming lessons"
+},
+{
+"key": "C",
+"text": "To introduce a new pool"
+},
+{
+"key": "D",
+"text": "To raise membership fees"
+}
+],
+"correctAnswer": "A",
+"explanation": "It announces that the indoor pool will be closed for maintenance."
+},
+{
+"id": "p7x-024-q2",
+"questionText": "What will happen on March 9?",
+"options": [
+{
+"key": "A",
+"text": "Swim lessons will end."
+},
+{
+"key": "B",
+"text": "The fitness room will close."
+},
+{
+"key": "C",
+"text": "The outdoor pool will open."
+},
+{
+"key": "D",
+"text": "The indoor pool will reopen."
+}
+],
+"correctAnswer": "C",
+"explanation": "The outdoor pool will open early on March 9."
+},
+{
+"id": "p7x-024-q3",
+"questionText": "What is indicated about the fitness room?",
+"options": [
+{
+"key": "A",
+"text": "It will charge a new fee."
+},
+{
+"key": "B",
+"text": "It will open later in the morning."
+},
+{
+"key": "C",
+"text": "It will be closed for repairs."
+},
+{
+"key": "D",
+"text": "It will move outdoors."
+}
+],
+"correctAnswer": "B",
+"explanation": "The morning hours will start at seven instead of six."
+}
+]
+},
+{
+"id": "p7x-025",
+"title": "Offer of a speaking engagement",
+"format": "Single Passage",
+"type": "Letter",
+"passages": [
+{
+"text": "Dear Dr. Ibrahim,\nOn behalf of the Midwest Teachers' Association, I am delighted to invite you to give the opening address at our annual conference, to be held on April 19 in Kansas City. Your recent book on language learning has been widely discussed among our members, and we believe they would greatly benefit from your insights.\nThe address should last about forty-five minutes, with a further fifteen minutes for questions. We can offer an honorarium of $1,500, in addition to covering your airfare and two nights at the conference hotel. A sample program is enclosed.\nWe would be grateful if you could let us know by February 28 whether you are able to accept. If your schedule does not permit, we would welcome any suggestions of colleagues who might be interested. Please call me at 555-0176 if you would like to discuss the details.\nSincerely,\nMartin Osei, Program Chair"
+}
+],
+"questions": [
+{
+"id": "p7x-025-q1",
+"questionText": "Why is Mr. Osei writing to Dr. Ibrahim?",
+"options": [
+{
+"key": "A",
+"text": "To offer a teaching job"
+},
+{
+"key": "B",
+"text": "To ask for a donation"
+},
+{
+"key": "C",
+"text": "To review her book"
+},
+{
+"key": "D",
+"text": "To invite her to speak"
+}
+],
+"correctAnswer": "D",
+"explanation": "He invites her to give the opening address at the conference."
+},
+{
+"id": "p7x-025-q2",
+"questionText": "What is Dr. Ibrahim offered?",
+"options": [
+{
+"key": "A",
+"text": "A teaching position"
+},
+{
+"key": "B",
+"text": "Travel costs and a fee"
+},
+{
+"key": "C",
+"text": "A free membership"
+},
+{
+"key": "D",
+"text": "A publishing contract"
+}
+],
+"correctAnswer": "B",
+"explanation": "The association offers an honorarium plus airfare and two nights in a hotel."
+},
+{
+"id": "p7x-025-q3",
+"questionText": "What does Mr. Osei request by February 28?",
+"options": [
+{
+"key": "A",
+"text": "A decision"
+},
+{
+"key": "B",
+"text": "A sample talk"
+},
+{
+"key": "C",
+"text": "A hotel booking"
+},
+{
+"key": "D",
+"text": "A book"
+}
+],
+"correctAnswer": "A",
+"explanation": "He asks to know by February 28 whether she can accept."
+}
+]
+},
+{
+"id": "p7x-026",
+"title": "Customer review of a software tool",
+"format": "Single Passage",
+"type": "Review",
+"passages": [
+{
+"text": "★★★★☆ Useful, but needs a better mobile version\nPosted by Daniel R., verified buyer\nI have been using TaskFlow for six months to manage projects with a team of ten. The main advantages are the clean design and the calendar view, which lets me see every deadline at a glance. Setting up recurring tasks is simple, and the reporting tool saves me about two hours every Friday.\nMy main complaint concerns the mobile app. It runs slowly, and some features, such as file attachments, are missing. I also wish the notifications were easier to customize, because I get too many alerts during meetings. Customer support is responsive, though, and they answered my questions within a day.\nOverall, I would recommend TaskFlow to small teams who mostly work on computers. If the company improves the app, I would give it five stars."
+}
+],
+"questions": [
+{
+"id": "p7x-026-q1",
+"questionText": "What does Daniel R. like about TaskFlow?",
+"options": [
+{
+"key": "A",
+"text": "The file storage"
+},
+{
+"key": "B",
+"text": "The low price"
+},
+{
+"key": "C",
+"text": "The mobile app"
+},
+{
+"key": "D",
+"text": "The calendar view"
+}
+],
+"correctAnswer": "D",
+"explanation": "He praises the clean design and the calendar view."
+},
+{
+"id": "p7x-026-q2",
+"questionText": "What does he say about customer support?",
+"options": [
+{
+"key": "A",
+"text": "It is difficult to reach."
+},
+{
+"key": "B",
+"text": "It is only available by phone."
+},
+{
+"key": "C",
+"text": "It answers quickly."
+},
+{
+"key": "D",
+"text": "It is expensive."
+}
+],
+"correctAnswer": "C",
+"explanation": "Support answered his questions within a day."
+},
+{
+"id": "p7x-026-q3",
+"questionText": "What is suggested about the mobile app?",
+"options": [
+{
+"key": "A",
+"text": "It is free."
+},
+{
+"key": "B",
+"text": "It is better than the computer version."
+},
+{
+"key": "C",
+"text": "It is easy to customize."
+},
+{
+"key": "D",
+"text": "It lacks some features."
+}
+],
+"correctAnswer": "D",
+"explanation": "He says features such as file attachments are missing."
+}
+]
+},
+{
+"id": "p7x-027",
+"title": "New Hospital Wing Named",
+"format": "Single Passage",
+"type": "Press release",
+"passages": [
+{
+"text": "FOR IMMEDIATE RELEASE\nRiverton General Hospital announced today that its new surgical wing will be named after Dr. Samuel Achebe, who served as chief surgeon for thirty-four years. The wing, which is scheduled to open on September 1, includes eight operating rooms and a recovery area with forty beds.\n\"Dr. Achebe trained more than two hundred surgeons during his career,\" said hospital director Louise Marchetti. \"We are honored to recognize his commitment to our community.\" The project cost $62 million, of which $15 million came from private donations. The new rooms feature advanced imaging equipment that will allow doctors to perform some operations through smaller incisions, shortening recovery times.\nA public ceremony will take place on August 28 at 10 a.m. Parking will be available at the nearby Millstream Mall, with free shuttle service to the hospital. For media inquiries, contact Kyle Brandt at 555-0123."
+}
+],
+"questions": [
+{
+"id": "p7x-027-q1",
+"questionText": "What is the purpose of the press release?",
+"options": [
+{
+"key": "A",
+"text": "To request donations"
+},
+{
+"key": "B",
+"text": "To announce a naming"
+},
+{
+"key": "C",
+"text": "To report a retirement"
+},
+{
+"key": "D",
+"text": "To advertise surgical jobs"
+}
+],
+"correctAnswer": "B",
+"explanation": "The hospital announces that the new wing will be named for Dr. Achebe."
+},
+{
+"id": "p7x-027-q2",
+"questionText": "What is indicated about the new wing?",
+"options": [
+{
+"key": "A",
+"text": "It cost $15 million."
+},
+{
+"key": "B",
+"text": "It has twelve operating rooms."
+},
+{
+"key": "C",
+"text": "It includes forty recovery beds."
+},
+{
+"key": "D",
+"text": "It will open in August."
+}
+],
+"correctAnswer": "C",
+"explanation": "The wing has a recovery area with forty beds."
+},
+{
+"id": "p7x-027-q3",
+"questionText": "Why will the public use a shuttle on August 28?",
+"options": [
+{
+"key": "A",
+"text": "Parking is at another location."
+},
+{
+"key": "B",
+"text": "The hospital is closed."
+},
+{
+"key": "C",
+"text": "The ceremony is indoors."
+},
+{
+"key": "D",
+"text": "The road is under repair."
+}
+],
+"correctAnswer": "A",
+"explanation": "Parking will be at Millstream Mall with shuttle service."
+}
+]
+},
+{
+"id": "p7x-028",
+"title": "New dress code and flexible hours",
+"format": "Single Passage",
+"type": "Memo",
+"passages": [
+{
+"text": "MEMO\nTo: All Staff\nFrom: Rita Kovac, Operations Director\nDate: January 14\nSubject: Changes to office policies\nBeginning February 1, the company will adopt two changes. First, we will move from a formal dress code to a smart-casual dress code. Jeans and sneakers are acceptable on most days, but employees who meet clients should continue to wear business attire. Second, we will offer flexible start times between 7:30 and 10:00 a.m., provided that all employees are present during core hours of 10:00 a.m. to 3:00 p.m.\nFlexible hours must be agreed in advance with your team leader to ensure that every department is covered. A short survey will be sent out in March to collect feedback on both changes. We believe that these updates will improve morale while maintaining our professional standards."
+}
+],
+"questions": [
+{
+"id": "p7x-028-q1",
+"questionText": "What is the memo mainly about?",
+"options": [
+{
+"key": "A",
+"text": "A summer event"
+},
+{
+"key": "B",
+"text": "A change of leadership"
+},
+{
+"key": "C",
+"text": "Two new workplace policies"
+},
+{
+"key": "D",
+"text": "A client meeting"
+}
+],
+"correctAnswer": "C",
+"explanation": "It announces a dress code change and flexible start times."
+},
+{
+"id": "p7x-028-q2",
+"questionText": "Who must continue to wear business attire?",
+"options": [
+{
+"key": "A",
+"text": "Staff who meet clients"
+},
+{
+"key": "B",
+"text": "All managers"
+},
+{
+"key": "C",
+"text": "New employees"
+},
+{
+"key": "D",
+"text": "Staff in the sales department"
+}
+],
+"correctAnswer": "A",
+"explanation": "Employees who meet clients should continue to wear business attire."
+},
+{
+"id": "p7x-028-q3",
+"questionText": "What will happen in March?",
+"options": [
+{
+"key": "A",
+"text": "The policy will start."
+},
+{
+"key": "B",
+"text": "Core hours will change."
+},
+{
+"key": "C",
+"text": "A meeting will be held."
+},
+{
+"key": "D",
+"text": "A survey will be sent."
+}
+],
+"correctAnswer": "D",
+"explanation": "A short survey will be sent in March."
+}
+]
+},
+{
+"id": "p7x-029",
+"title": "Booking a conference room",
+"format": "Multiple Passages",
+"type": "Double Passage (Email and Web page)",
+"passages": [
+{
+"label": "E-mail",
+"text": "From: Wendell Cho\nTo: Reservations, Waterside Business Center\nDate: June 2\nSubject: Room request for June 26\nHello,\nI would like to reserve a room for twelve people on June 26 from 1 p.m. to 5 p.m. We will need a projector and a video conferencing system because two participants will join remotely. Could you also tell me whether coffee and snacks can be arranged?\nThank you,\nWendell Cho, Delta Biotech"
+},
+{
+"label": "Web page",
+"text": "Waterside Business Center, Meeting Rooms\nCedar Room: up to 8 people, $60 per hour, projector\nMaple Room: up to 14 people, $95 per hour, projector and video conferencing\nBirch Room: up to 20 people, $140 per hour, projector, video conferencing, and sound system\nCatering: Coffee and tea service, $6 per person. Snack platters, $40 each.\nA deposit of 25 percent is required to confirm any booking. Cancellations made at least seven days in advance receive a full refund."
+}
+],
+"questions": [
+{
+"id": "p7x-029-q1",
+"questionText": "What does Mr. Cho request?",
+"options": [
+{
+"key": "A",
+"text": "A hotel booking"
+},
+{
+"key": "B",
+"text": "A meeting space"
+},
+{
+"key": "C",
+"text": "A refund"
+},
+{
+"key": "D",
+"text": "A catering menu"
+}
+],
+"correctAnswer": "B",
+"explanation": "He asks to reserve a room for June 26."
+},
+{
+"id": "p7x-029-q2",
+"questionText": "Which room best suits Mr. Cho's needs?",
+"options": [
+{
+"key": "A",
+"text": "The Cedar Room"
+},
+{
+"key": "B",
+"text": "None of the rooms"
+},
+{
+"key": "C",
+"text": "The Maple Room"
+},
+{
+"key": "D",
+"text": "The Birch Room"
+}
+],
+"correctAnswer": "C",
+"explanation": "It holds up to fourteen people and has video conferencing."
+},
+{
+"id": "p7x-029-q3",
+"questionText": "How much will the room cost?",
+"options": [
+{
+"key": "A",
+"text": "$380"
+},
+{
+"key": "B",
+"text": "$560"
+},
+{
+"key": "C",
+"text": "$475"
+},
+{
+"key": "D",
+"text": "$240"
+}
+],
+"correctAnswer": "A",
+"explanation": "Four hours at $95 per hour is $380."
+},
+{
+"id": "p7x-029-q4",
+"questionText": "What is indicated about bookings?",
+"options": [
+{
+"key": "A",
+"text": "Cancellations are not allowed."
+},
+{
+"key": "B",
+"text": "A deposit is required."
+},
+{
+"key": "C",
+"text": "Rooms are available for free."
+},
+{
+"key": "D",
+"text": "Food must be brought by the guest."
+}
+],
+"correctAnswer": "B",
+"explanation": "A deposit of 25 percent is required to confirm a booking."
+},
+{
+"id": "p7x-029-q5",
+"questionText": "What is suggested about Mr. Cho's meeting?",
+"options": [
+{
+"key": "A",
+"text": "It will include twenty guests."
+},
+{
+"key": "B",
+"text": "It will last all day."
+},
+{
+"key": "C",
+"text": "It will be held at his office."
+},
+{
+"key": "D",
+"text": "Some participants will attend remotely."
+}
+],
+"correctAnswer": "D",
+"explanation": "Two participants will join remotely."
+}
+]
+},
+{
+"id": "p7x-030",
+"title": "A bakery's new recipe book",
+"format": "Multiple Passages",
+"type": "Double Passage (Article and e-mail)",
+"passages": [
+{
+"label": "Article",
+"text": "Baker Publishes First Recipe Book\nElena Moretti, owner of Moretti's Bakery in Dunmore, will publish her first recipe book next month. Titled Daily Bread, the book includes sixty recipes for breads, rolls and pastries, many of which are inspired by her grandmother's cooking in northern Italy. Ms. Moretti, who opened her bakery fifteen years ago, said she hopes the book will encourage people to bake at home.\nA launch event will be held at the bakery on Saturday, October 12, from two to five. Ms. Moretti will sign copies and hold a baking demonstration at three. Tickets are free, but guests must reserve a place by calling the bakery. The book will be available in local bookstores and online for $24."
+},
+{
+"label": "E-mail",
+"text": "From: Gaby Lund\nTo: Moretti's Bakery\nDate: October 4\nSubject: Launch event\nDear Ms. Moretti,\nI read about your book in the newspaper and would love to attend the launch. I'm bringing my sister and her two children, so we would need four places. I also manage a cooking club with about fifteen members. Would it be possible to buy a copy of the book in advance at a discount for the group? If not, we will purchase them at the event.\nBest wishes,\nGaby Lund"
+}
+],
+"questions": [
+{
+"id": "p7x-030-q1",
+"questionText": "What is true about Ms. Moretti?",
+"options": [
+{
+"key": "A",
+"text": "She has written many books."
+},
+{
+"key": "B",
+"text": "She opened her bakery last year."
+},
+{
+"key": "C",
+"text": "She sells her book only at her bakery."
+},
+{
+"key": "D",
+"text": "She was inspired by her grandmother's cooking."
+}
+],
+"correctAnswer": "D",
+"explanation": "Many recipes are inspired by her grandmother's cooking in Italy."
+},
+{
+"id": "p7x-030-q2",
+"questionText": "What will happen at three o'clock on October 12?",
+"options": [
+{
+"key": "A",
+"text": "A free lunch"
+},
+{
+"key": "B",
+"text": "A baking demonstration"
+},
+{
+"key": "C",
+"text": "A book signing"
+},
+{
+"key": "D",
+"text": "A ticket sale"
+}
+],
+"correctAnswer": "B",
+"explanation": "She will hold a baking demonstration at three."
+},
+{
+"id": "p7x-030-q3",
+"questionText": "What does Ms. Lund ask about?",
+"options": [
+{
+"key": "A",
+"text": "A delivery date"
+},
+{
+"key": "B",
+"text": "A recipe"
+},
+{
+"key": "C",
+"text": "A group discount"
+},
+{
+"key": "D",
+"text": "A class schedule"
+}
+],
+"correctAnswer": "C",
+"explanation": "She asks whether she can buy copies in advance at a discount for the group."
+},
+{
+"id": "p7x-030-q4",
+"questionText": "How should Ms. Lund reserve her places?",
+"options": [
+{
+"key": "A",
+"text": "By calling the bakery"
+},
+{
+"key": "B",
+"text": "By signing up in a store"
+},
+{
+"key": "C",
+"text": "By visiting a Web site"
+},
+{
+"key": "D",
+"text": "By sending a payment"
+}
+],
+"correctAnswer": "A",
+"explanation": "The article says guests must reserve a place by calling the bakery."
+},
+{
+"id": "p7x-030-q5",
+"questionText": "How much is the book?",
+"options": [
+{
+"key": "A",
+"text": "$24"
+},
+{
+"key": "B",
+"text": "$12"
+},
+{
+"key": "C",
+"text": "$15"
+},
+{
+"key": "D",
+"text": "$60"
+}
+],
+"correctAnswer": "A",
+"explanation": "The article says it will be available for $24."
+}
+]
+},
+{
+"id": "p7x-031",
+"title": "Relocating the finance team",
+"format": "Multiple Passages",
+"type": "Triple Passage (Memo, schedule and e-mail)",
+"passages": [
+{
+"label": "Memo",
+"text": "To: Finance Department\nFrom: Facilities Management\nDate: August 5\nSubject: Relocation to the ninth floor\nThe finance team will move from the fourth to the ninth floor over the weekend of August 23 to 24. Staff should pack personal belongings by Friday at noon. Movers will transport desks, computers and files. Please label each box with your name and new desk number. Elevators will be reserved for the move from Saturday at 7 a.m. to Sunday at 6 p.m. The IT department will connect all phones and computers on Sunday, so you should be able to work normally on Monday."
+},
+{
+"label": "Seating plan",
+"text": "Ninth floor, Finance Department\nDesks 901–908: Accounts Payable (Ms. Lindqvist, team lead)\nDesks 909–916: Accounts Receivable (Mr. Abara, team lead)\nDesks 917–920: Payroll (Ms. Ferrer, team lead)\nDesk 921: Department Director (Mr. Teague)"
+},
+{
+"label": "E-mail",
+"text": "From: Sana Ferrer\nTo: Facilities Management\nDate: August 12\nSubject: Move question\nHello,\nOur payroll team will be running the monthly salary payments on Monday morning. Is it possible that the IT department can connect our computers first? We cannot afford to be offline on Monday. Also, one of our colleagues has a back problem and uses a special chair. Can you ensure that it is moved to the right place?\nThanks,\nSana Ferrer"
+}
+],
+"questions": [
+{
+"id": "p7x-031-q1",
+"questionText": "What is the purpose of the memo?",
+"options": [
+{
+"key": "A",
+"text": "To announce a new director"
+},
+{
+"key": "B",
+"text": "To explain a move"
+},
+{
+"key": "C",
+"text": "To introduce a new floor plan"
+},
+{
+"key": "D",
+"text": "To request overtime"
+}
+],
+"correctAnswer": "B",
+"explanation": "It describes the finance team's move to the ninth floor."
+},
+{
+"id": "p7x-031-q2",
+"questionText": "When should employees pack their belongings?",
+"options": [
+{
+"key": "A",
+"text": "By August 5"
+},
+{
+"key": "B",
+"text": "On Sunday"
+},
+{
+"key": "C",
+"text": "On Monday morning"
+},
+{
+"key": "D",
+"text": "By Friday at noon"
+}
+],
+"correctAnswer": "D",
+"explanation": "They should pack belongings by Friday at noon."
+},
+{
+"id": "p7x-031-q3",
+"questionText": "Where will Ms. Ferrer's team sit?",
+"options": [
+{
+"key": "A",
+"text": "Desks 901 to 908"
+},
+{
+"key": "B",
+"text": "Desk 921"
+},
+{
+"key": "C",
+"text": "Desks 917 to 920"
+},
+{
+"key": "D",
+"text": "Desks 909 to 916"
+}
+],
+"correctAnswer": "C",
+"explanation": "Payroll is assigned desks 917 to 920."
+},
+{
+"id": "p7x-031-q4",
+"questionText": "Why does Ms. Ferrer want computers connected first?",
+"options": [
+{
+"key": "A",
+"text": "The team has an important task on Monday."
+},
+{
+"key": "B",
+"text": "The team has fewer computers."
+},
+{
+"key": "C",
+"text": "The team needs more time to pack."
+},
+{
+"key": "D",
+"text": "The team will work on the weekend."
+}
+],
+"correctAnswer": "A",
+"explanation": "Her team will run the monthly salary payments on Monday morning."
+},
+{
+"id": "p7x-031-q5",
+"questionText": "What does Ms. Ferrer ask Facilities Management to do?",
+"options": [
+{
+"key": "A",
+"text": "Extend the deadline"
+},
+{
+"key": "B",
+"text": "Move a chair"
+},
+{
+"key": "C",
+"text": "Replace a desk"
+},
+{
+"key": "D",
+"text": "Order a new computer"
+}
+],
+"correctAnswer": "B",
+"explanation": "She asks that a colleague's special chair be moved to the right place."
+}
+]
+},
+{
+"id": "p7x-032",
+"title": "Garden supply store promotion",
+"format": "Multiple Passages",
+"type": "Triple Passage (Advertisement, coupon and receipt)",
+"passages": [
+{
+"label": "Advertisement",
+"text": "Evergreen Garden Center, Spring Savings Event\nMarch 22 – April 7 only! Save on seeds, tools, and plants.\n- 20% off all vegetable seeds\n- Buy two bags of potting soil, get a third free\n- Free gardening workshop every Saturday at 10 a.m.\nPresent the coupon below at checkout. Coupon valid for one use per customer. Cannot be combined with other offers."
+},
+{
+"label": "Coupon",
+"text": "Evergreen Garden Center\n$10 off any purchase of $60 or more\nValid March 22 – April 7"
+},
+{
+"label": "Receipt",
+"text": "Evergreen Garden Center, April 2\nTomato seeds .... $4.80\nPepper seeds .... $4.00\nPotting soil (3 bags) .... $27.00 (one bag free)\nGarden gloves .... $18.50\nHand trowel .... $14.75\nSubtotal: $69.05\nCoupon: -$10.00\nTax: $4.73\nTotal: $63.78"
+}
+],
+"questions": [
+{
+"id": "p7x-032-q1",
+"questionText": "What is indicated about the potting soil offer?",
+"options": [
+{
+"key": "A",
+"text": "It is available all year."
+},
+{
+"key": "B",
+"text": "It requires a coupon."
+},
+{
+"key": "C",
+"text": "Customers receive a free bag for buying two."
+},
+{
+"key": "D",
+"text": "It applies to gloves."
+}
+],
+"correctAnswer": "C",
+"explanation": "Buy two bags and get a third free."
+},
+{
+"id": "p7x-032-q2",
+"questionText": "What is true about the coupon?",
+"options": [
+{
+"key": "A",
+"text": "It applies to purchases of $30."
+},
+{
+"key": "B",
+"text": "It is valid until the end of April."
+},
+{
+"key": "C",
+"text": "It can be combined with other offers."
+},
+{
+"key": "D",
+"text": "It can be used once."
+}
+],
+"correctAnswer": "D",
+"explanation": "The coupon is valid for one use per customer."
+},
+{
+"id": "p7x-032-q3",
+"questionText": "How much did the customer save with the coupon?",
+"options": [
+{
+"key": "A",
+"text": "$9.00"
+},
+{
+"key": "B",
+"text": "$63.78"
+},
+{
+"key": "C",
+"text": "$10.00"
+},
+{
+"key": "D",
+"text": "$4.73"
+}
+],
+"correctAnswer": "C",
+"explanation": "The receipt shows a $10.00 coupon discount."
+},
+{
+"id": "p7x-032-q4",
+"questionText": "What can be inferred about the customer?",
+"options": [
+{
+"key": "A",
+"text": "She bought a flowering plant."
+},
+{
+"key": "B",
+"text": "She bought items within the sale period."
+},
+{
+"key": "C",
+"text": "She paid cash."
+},
+{
+"key": "D",
+"text": "She attended a workshop."
+}
+],
+"correctAnswer": "B",
+"explanation": "The receipt is dated April 2, within the sale dates."
+},
+{
+"id": "p7x-032-q5",
+"questionText": "What can customers do on Saturdays?",
+"options": [
+{
+"key": "A",
+"text": "Pick up free seeds"
+},
+{
+"key": "B",
+"text": "Buy tools at half price"
+},
+{
+"key": "C",
+"text": "Get free delivery"
+},
+{
+"key": "D",
+"text": "Attend a workshop"
+}
+],
+"correctAnswer": "D",
+"explanation": "There is a free gardening workshop every Saturday at 10 a.m."
+}
+]
+},
+{
+"id": "p7x-033",
+"title": "Disputed invoice",
+"format": "Multiple Passages",
+"type": "Triple Passage (Letter, invoice and e-mail)",
+"passages": [
+{
+"label": "Letter",
+"text": "Pine & Co. Interior Design\nDear Ms. Santos,\nEnclosed is the invoice for the redesign of your dental clinic's waiting room. As agreed, the fee includes design drawings, furniture selection and supervision of the installation. Payment is due within thirty days.\nPlease note that an additional charge for custom shelving was added following your request on April 3. If you have any questions, please contact me.\nSincerely, Peter Lang"
+},
+{
+"label": "Invoice",
+"text": "Pine & Co., Invoice #3318\nDesign services .... $2,400\nFurniture (as per quote) .... $6,200\nCustom shelving .... $850\nInstallation supervision .... $600\nTotal due: $10,050\nDue date: May 30"
+},
+{
+"label": "E-mail",
+"text": "From: Alicia Santos\nTo: Peter Lang\nDate: May 8\nSubject: Invoice #3318\nDear Mr. Lang,\nThank you for the invoice. I have a question about the amount for the furniture. According to the quote I received on March 10, the total for the furniture was $5,800, not $6,200. Could you check whether there was a price change? Everything else looks correct. Once we resolve this, I will arrange payment immediately.\nAlicia Santos"
+}
+],
+"questions": [
+{
+"id": "p7x-033-q1",
+"questionText": "What did Pine & Co. do for Ms. Santos?",
+"options": [
+{
+"key": "A",
+"text": "Redesigned a waiting room"
+},
+{
+"key": "B",
+"text": "Built a new clinic"
+},
+{
+"key": "C",
+"text": "Sold dental equipment"
+},
+{
+"key": "D",
+"text": "Repaired some furniture"
+}
+],
+"correctAnswer": "A",
+"explanation": "The letter refers to the redesign of her clinic's waiting room."
+},
+{
+"id": "p7x-033-q2",
+"questionText": "What is true about the shelving?",
+"options": [
+{
+"key": "A",
+"text": "It was included in the quote."
+},
+{
+"key": "B",
+"text": "It was requested later."
+},
+{
+"key": "C",
+"text": "It was free."
+},
+{
+"key": "D",
+"text": "It was installed on April 3."
+}
+],
+"correctAnswer": "B",
+"explanation": "The letter says it was added after her request on April 3."
+},
+{
+"id": "p7x-033-q3",
+"questionText": "What problem does Ms. Santos mention?",
+"options": [
+{
+"key": "A",
+"text": "A price differs from a quote."
+},
+{
+"key": "B",
+"text": "A payment was lost."
+},
+{
+"key": "C",
+"text": "A shelf is missing."
+},
+{
+"key": "D",
+"text": "A drawing was late."
+}
+],
+"correctAnswer": "A",
+"explanation": "She says the furniture total on the quote was $5,800, not $6,200."
+},
+{
+"id": "p7x-033-q4",
+"questionText": "How much is the difference Ms. Santos questions?",
+"options": [
+{
+"key": "A",
+"text": "$2,400"
+},
+{
+"key": "B",
+"text": "$600"
+},
+{
+"key": "C",
+"text": "$400"
+},
+{
+"key": "D",
+"text": "$850"
+}
+],
+"correctAnswer": "C",
+"explanation": "$6,200 minus $5,800 is $400."
+},
+{
+"id": "p7x-033-q5",
+"questionText": "What does Ms. Santos say she will do?",
+"options": [
+{
+"key": "A",
+"text": "Return the furniture"
+},
+{
+"key": "B",
+"text": "Cancel the contract"
+},
+{
+"key": "C",
+"text": "Visit the design office"
+},
+{
+"key": "D",
+"text": "Pay once the issue is resolved"
+}
+],
+"correctAnswer": "D",
+"explanation": "She says she will arrange payment once the question is resolved."
+}
+]
+}
+]

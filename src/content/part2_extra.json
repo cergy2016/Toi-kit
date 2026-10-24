@@ -1,0 +1,3134 @@
+[
+{
+"id": "l2x-001",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "When does the new sales manager start?\n(A) She was hired by Mr. Kim.\n(B) Next Monday, I think.\n(C) In the main office downtown.",
+"audioFile": "audio/l2x-001.mp3",
+"questions": [
+{
+"id": "l2x-001-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "She was hired by Mr. Kim."
+},
+{
+"key": "B",
+"text": "Next Monday, I think."
+},
+{
+"key": "C",
+"text": "In the main office downtown."
+}
+],
+"correctAnswer": "B",
+"explanation": "\"When\" asks about time, and \"Next Monday\" gives a time."
+}
+]
+},
+{
+"id": "l2x-002",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "When is the budget report due?\n(A) It's about forty pages long.\n(B) Yes, the budget is large.\n(C) By the end of the week.",
+"audioFile": "audio/l2x-002.mp3",
+"questions": [
+{
+"id": "l2x-002-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "It's about forty pages long."
+},
+{
+"key": "B",
+"text": "Yes, the budget is large."
+},
+{
+"key": "C",
+"text": "By the end of the week."
+}
+],
+"correctAnswer": "C",
+"explanation": "The answer gives a deadline, which answers \"When\"."
+}
+]
+},
+{
+"id": "l2x-003",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "When will the parking lot be repaved?\n(A) They haven't announced a date yet.\n(B) It's on the left side of the building.\n(C) Yes, I parked there yesterday.",
+"audioFile": "audio/l2x-003.mp3",
+"questions": [
+{
+"id": "l2x-003-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "They haven't announced a date yet."
+},
+{
+"key": "B",
+"text": "It's on the left side of the building."
+},
+{
+"key": "C",
+"text": "Yes, I parked there yesterday."
+}
+],
+"correctAnswer": "A",
+"explanation": "An indirect answer that says the date is unknown is a typical correct response to \"When\"."
+}
+]
+},
+{
+"id": "l2x-004",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "When did you last update the client database?\n(A) Mostly the Canadian clients.\n(B) With the new software.\n(C) Sometime last month.",
+"audioFile": "audio/l2x-004.mp3",
+"questions": [
+{
+"id": "l2x-004-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "Mostly the Canadian clients."
+},
+{
+"key": "B",
+"text": "With the new software."
+},
+{
+"key": "C",
+"text": "Sometime last month."
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Last month\" answers \"When\"."
+}
+]
+},
+{
+"id": "l2x-005",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "When can we expect the shipment to arrive?\n(A) The shipping label is torn.\n(B) Probably Thursday morning.\n(C) About two hundred boxes.",
+"audioFile": "audio/l2x-005.mp3",
+"questions": [
+{
+"id": "l2x-005-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "The shipping label is torn."
+},
+{
+"key": "B",
+"text": "Probably Thursday morning."
+},
+{
+"key": "C",
+"text": "About two hundred boxes."
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Thursday morning\" gives a time."
+}
+]
+},
+{
+"id": "l2x-006",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "When does the museum open on weekends?\n(A) At ten o'clock.\n(B) Two tickets, please.\n(C) It's near the train station.",
+"audioFile": "audio/l2x-006.mp3",
+"questions": [
+{
+"id": "l2x-006-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "At ten o'clock."
+},
+{
+"key": "B",
+"text": "Two tickets, please."
+},
+{
+"key": "C",
+"text": "It's near the train station."
+}
+],
+"correctAnswer": "A",
+"explanation": "\"At ten o'clock\" gives a time."
+}
+]
+},
+{
+"id": "l2x-007",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "When are you moving to the new office?\n(A) Because the rent is lower.\n(B) The new office is quite spacious.\n(C) At the end of next month.",
+"audioFile": "audio/l2x-007.mp3",
+"questions": [
+{
+"id": "l2x-007-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "Because the rent is lower."
+},
+{
+"key": "B",
+"text": "The new office is quite spacious."
+},
+{
+"key": "C",
+"text": "At the end of next month."
+}
+],
+"correctAnswer": "C",
+"explanation": "The question is about time and \"end of next month\" answers it."
+}
+]
+},
+{
+"id": "l2x-008",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Where should I put these invoices?\n(A) Before lunchtime.\n(B) In the top drawer of my desk.\n(C) Yes, they were paid already.",
+"audioFile": "audio/l2x-008.mp3",
+"questions": [
+{
+"id": "l2x-008-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "Before lunchtime."
+},
+{
+"key": "B",
+"text": "In the top drawer of my desk."
+},
+{
+"key": "C",
+"text": "Yes, they were paid already."
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Where\" asks about place and \"top drawer\" gives one."
+}
+]
+},
+{
+"id": "l2x-009",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Where is the staff meeting being held today?\n(A) In the third-floor conference room.\n(B) Mr. Alvarez is leading it.\n(C) At two thirty.",
+"audioFile": "audio/l2x-009.mp3",
+"questions": [
+{
+"id": "l2x-009-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "In the third-floor conference room."
+},
+{
+"key": "B",
+"text": "Mr. Alvarez is leading it."
+},
+{
+"key": "C",
+"text": "At two thirty."
+}
+],
+"correctAnswer": "A",
+"explanation": "\"In the third-floor conference room\" gives a place."
+}
+]
+},
+{
+"id": "l2x-010",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Where can I get a visitor badge?\n(A) It's a blue badge.\n(B) He's visiting from Seoul.\n(C) At the reception desk.",
+"audioFile": "audio/l2x-010.mp3",
+"questions": [
+{
+"id": "l2x-010-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "It's a blue badge."
+},
+{
+"key": "B",
+"text": "He's visiting from Seoul."
+},
+{
+"key": "C",
+"text": "At the reception desk."
+}
+],
+"correctAnswer": "C",
+"explanation": "The reception desk is a place that answers \"Where\"."
+}
+]
+},
+{
+"id": "l2x-011",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Where did you buy that laptop bag?\n(A) At the airport store last week.\n(B) Around fifty dollars.\n(C) It's very comfortable.",
+"audioFile": "audio/l2x-011.mp3",
+"questions": [
+{
+"id": "l2x-011-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "At the airport store last week."
+},
+{
+"key": "B",
+"text": "Around fifty dollars."
+},
+{
+"key": "C",
+"text": "It's very comfortable."
+}
+],
+"correctAnswer": "A",
+"explanation": "\"At the airport store\" gives a place."
+}
+]
+},
+{
+"id": "l2x-012",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Where is the nearest copy machine?\n(A) Yes, it makes good copies.\n(B) Just down the hall, next to the kitchen.\n(C) Twenty pages, please.",
+"audioFile": "audio/l2x-012.mp3",
+"questions": [
+{
+"id": "l2x-012-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "Yes, it makes good copies."
+},
+{
+"key": "B",
+"text": "Just down the hall, next to the kitchen."
+},
+{
+"key": "C",
+"text": "Twenty pages, please."
+}
+],
+"correctAnswer": "B",
+"explanation": "The answer describes a location."
+}
+]
+},
+{
+"id": "l2x-013",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Where are the quarterly sales figures stored?\n(A) They increased by ten percent.\n(B) On the shared drive under \"Reports\".\n(C) Ms. Lin prepared them.",
+"audioFile": "audio/l2x-013.mp3",
+"questions": [
+{
+"id": "l2x-013-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "They increased by ten percent."
+},
+{
+"key": "B",
+"text": "On the shared drive under \"Reports\"."
+},
+{
+"key": "C",
+"text": "Ms. Lin prepared them."
+}
+],
+"correctAnswer": "B",
+"explanation": "A location on the shared drive answers \"Where\"."
+}
+]
+},
+{
+"id": "l2x-014",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Where will the awards ceremony take place?\n(A) In the Grand Ballroom of the Harbor Hotel.\n(B) Ms. Moore won last year.\n(C) On Friday evening.",
+"audioFile": "audio/l2x-014.mp3",
+"questions": [
+{
+"id": "l2x-014-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "In the Grand Ballroom of the Harbor Hotel."
+},
+{
+"key": "B",
+"text": "Ms. Moore won last year."
+},
+{
+"key": "C",
+"text": "On Friday evening."
+}
+],
+"correctAnswer": "A",
+"explanation": "The answer gives a place."
+}
+]
+},
+{
+"id": "l2x-015",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Who is in charge of the Denver project?\n(A) At the Denver branch.\n(B) It's due in March.\n(C) Ms. Ortega, I believe.",
+"audioFile": "audio/l2x-015.mp3",
+"questions": [
+{
+"id": "l2x-015-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "At the Denver branch."
+},
+{
+"key": "B",
+"text": "It's due in March."
+},
+{
+"key": "C",
+"text": "Ms. Ortega, I believe."
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Who\" asks about a person; \"Ms. Ortega\" is a person."
+}
+]
+},
+{
+"id": "l2x-016",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Who ordered the extra printer paper?\n(A) By the supply closet.\n(B) I think it was Greg.\n(C) Two boxes of letter size.",
+"audioFile": "audio/l2x-016.mp3",
+"questions": [
+{
+"id": "l2x-016-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "By the supply closet."
+},
+{
+"key": "B",
+"text": "I think it was Greg."
+},
+{
+"key": "C",
+"text": "Two boxes of letter size."
+}
+],
+"correctAnswer": "B",
+"explanation": "The answer names a person."
+}
+]
+},
+{
+"id": "l2x-017",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Who's going to present at the board meeting?\n(A) The finance director is.\n(B) The slides are almost ready.\n(C) At three o'clock.",
+"audioFile": "audio/l2x-017.mp3",
+"questions": [
+{
+"id": "l2x-017-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "The finance director is."
+},
+{
+"key": "B",
+"text": "The slides are almost ready."
+},
+{
+"key": "C",
+"text": "At three o'clock."
+}
+],
+"correctAnswer": "A",
+"explanation": "\"The finance director\" answers \"Who\"."
+}
+]
+},
+{
+"id": "l2x-018",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Who should I contact about my expense report?\n(A) The report is on my desk.\n(B) Yes, it was approved.\n(C) Anyone in the accounting office.",
+"audioFile": "audio/l2x-018.mp3",
+"questions": [
+{
+"id": "l2x-018-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "The report is on my desk."
+},
+{
+"key": "B",
+"text": "Yes, it was approved."
+},
+{
+"key": "C",
+"text": "Anyone in the accounting office."
+}
+],
+"correctAnswer": "C",
+"explanation": "A group of people answers \"Who should I contact\"."
+}
+]
+},
+{
+"id": "l2x-019",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Who left this umbrella in the conference room?\n(A) It might belong to one of the clients.\n(B) It's raining outside.\n(C) I'll take the elevator.",
+"audioFile": "audio/l2x-019.mp3",
+"questions": [
+{
+"id": "l2x-019-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "It might belong to one of the clients."
+},
+{
+"key": "B",
+"text": "It's raining outside."
+},
+{
+"key": "C",
+"text": "I'll take the elevator."
+}
+],
+"correctAnswer": "A",
+"explanation": "The answer suggests a possible owner."
+}
+]
+},
+{
+"id": "l2x-020",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Who's the new graphic designer?\n(A) Yes, the design looks great.\n(B) A new software program.\n(C) The tall man in the blue jacket.",
+"audioFile": "audio/l2x-020.mp3",
+"questions": [
+{
+"id": "l2x-020-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "Yes, the design looks great."
+},
+{
+"key": "B",
+"text": "A new software program."
+},
+{
+"key": "C",
+"text": "The tall man in the blue jacket."
+}
+],
+"correctAnswer": "C",
+"explanation": "A description of a person answers \"Who\"."
+}
+]
+},
+{
+"id": "l2x-021",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Who approved the vacation request?\n(A) Next week, for ten days.\n(B) The department head did.\n(C) It's at the beach.",
+"audioFile": "audio/l2x-021.mp3",
+"questions": [
+{
+"id": "l2x-021-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "Next week, for ten days."
+},
+{
+"key": "B",
+"text": "The department head did."
+},
+{
+"key": "C",
+"text": "It's at the beach."
+}
+],
+"correctAnswer": "B",
+"explanation": "The answer names the person responsible."
+}
+]
+},
+{
+"id": "l2x-022",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "What time does the train to Boston leave?\n(A) At 4:15 from platform six.\n(B) Yes, I bought a ticket.\n(C) It takes about four hours.",
+"audioFile": "audio/l2x-022.mp3",
+"questions": [
+{
+"id": "l2x-022-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "At 4:15 from platform six."
+},
+{
+"key": "B",
+"text": "Yes, I bought a ticket."
+},
+{
+"key": "C",
+"text": "It takes about four hours."
+}
+],
+"correctAnswer": "A",
+"explanation": "\"What time\" asks for a time."
+}
+]
+},
+{
+"id": "l2x-023",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "What do you think of the revised proposal?\n(A) Yes, he proposed to her.\n(B) It's much clearer than the first one.\n(C) I revised it twice.",
+"audioFile": "audio/l2x-023.mp3",
+"questions": [
+{
+"id": "l2x-023-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "Yes, he proposed to her."
+},
+{
+"key": "B",
+"text": "It's much clearer than the first one."
+},
+{
+"key": "C",
+"text": "I revised it twice."
+}
+],
+"correctAnswer": "B",
+"explanation": "The question asks for an opinion, and the answer gives one."
+}
+]
+},
+{
+"id": "l2x-024",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "What's the best way to reach the client?\n(A) The reach is about fifty miles.\n(B) She's the best client.\n(C) Send her an e-mail.",
+"audioFile": "audio/l2x-024.mp3",
+"questions": [
+{
+"id": "l2x-024-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "The reach is about fifty miles."
+},
+{
+"key": "B",
+"text": "She's the best client."
+},
+{
+"key": "C",
+"text": "Send her an e-mail."
+}
+],
+"correctAnswer": "C",
+"explanation": "A method of contact answers \"What's the best way\"."
+}
+]
+},
+{
+"id": "l2x-025",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "What kind of software does the team use for scheduling?\n(A) Mostly a cloud-based calendar.\n(B) They are scheduled to finish soon.\n(C) Every Tuesday at nine.",
+"audioFile": "audio/l2x-025.mp3",
+"questions": [
+{
+"id": "l2x-025-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "Mostly a cloud-based calendar."
+},
+{
+"key": "B",
+"text": "They are scheduled to finish soon."
+},
+{
+"key": "C",
+"text": "Every Tuesday at nine."
+}
+],
+"correctAnswer": "A",
+"explanation": "The answer names a type of software."
+}
+]
+},
+{
+"id": "l2x-026",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "What happened to the projector in Room 3?\n(A) It's near the window.\n(B) The bulb burned out yesterday.\n(C) At the front of the room.",
+"audioFile": "audio/l2x-026.mp3",
+"questions": [
+{
+"id": "l2x-026-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "It's near the window."
+},
+{
+"key": "B",
+"text": "The bulb burned out yesterday."
+},
+{
+"key": "C",
+"text": "At the front of the room."
+}
+],
+"correctAnswer": "B",
+"explanation": "The answer explains what happened."
+}
+]
+},
+{
+"id": "l2x-027",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "What's your estimate for the renovation cost?\n(A) I estimated it on Monday.\n(B) It was renovated in 2020.\n(C) About fifty thousand dollars.",
+"audioFile": "audio/l2x-027.mp3",
+"questions": [
+{
+"id": "l2x-027-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "I estimated it on Monday."
+},
+{
+"key": "B",
+"text": "It was renovated in 2020."
+},
+{
+"key": "C",
+"text": "About fifty thousand dollars."
+}
+],
+"correctAnswer": "C",
+"explanation": "\"About fifty thousand dollars\" answers the question about cost."
+}
+]
+},
+{
+"id": "l2x-028",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "What did the customer say about our new packaging?\n(A) She said it was easy to open.\n(B) At the customer service desk.\n(C) It's packed in boxes.",
+"audioFile": "audio/l2x-028.mp3",
+"questions": [
+{
+"id": "l2x-028-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "She said it was easy to open."
+},
+{
+"key": "B",
+"text": "At the customer service desk."
+},
+{
+"key": "C",
+"text": "It's packed in boxes."
+}
+],
+"correctAnswer": "A",
+"explanation": "The answer reports what was said."
+}
+]
+},
+{
+"id": "l2x-029",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "What's included in the monthly subscription?\n(A) I subscribed online.\n(B) Unlimited downloads and phone support.\n(C) Every first day of the month.",
+"audioFile": "audio/l2x-029.mp3",
+"questions": [
+{
+"id": "l2x-029-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "I subscribed online."
+},
+{
+"key": "B",
+"text": "Unlimited downloads and phone support."
+},
+{
+"key": "C",
+"text": "Every first day of the month."
+}
+],
+"correctAnswer": "B",
+"explanation": "The answer lists what is included."
+}
+]
+},
+{
+"id": "l2x-030",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Why was the training session canceled?\n(A) In the training room.\n(B) At nine o'clock tomorrow.\n(C) The trainer got sick.",
+"audioFile": "audio/l2x-030.mp3",
+"questions": [
+{
+"id": "l2x-030-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "In the training room."
+},
+{
+"key": "B",
+"text": "At nine o'clock tomorrow."
+},
+{
+"key": "C",
+"text": "The trainer got sick."
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Why\" asks for a reason, and \"got sick\" is a reason."
+}
+]
+},
+{
+"id": "l2x-031",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Why are the sales figures so low this month?\n(A) Yes, they were low last month too.\n(B) We had fewer customers in the store.\n(C) They are on the second page.",
+"audioFile": "audio/l2x-031.mp3",
+"questions": [
+{
+"id": "l2x-031-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "Yes, they were low last month too."
+},
+{
+"key": "B",
+"text": "We had fewer customers in the store."
+},
+{
+"key": "C",
+"text": "They are on the second page."
+}
+],
+"correctAnswer": "B",
+"explanation": "The answer gives a reason."
+}
+]
+},
+{
+"id": "l2x-032",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Why did you choose this supplier?\n(A) By e-mail this morning.\n(B) Two suppliers called.\n(C) Their prices are the lowest.",
+"audioFile": "audio/l2x-032.mp3",
+"questions": [
+{
+"id": "l2x-032-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "By e-mail this morning."
+},
+{
+"key": "B",
+"text": "Two suppliers called."
+},
+{
+"key": "C",
+"text": "Their prices are the lowest."
+}
+],
+"correctAnswer": "C",
+"explanation": "A reason answers \"Why\"."
+}
+]
+},
+{
+"id": "l2x-033",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Why is the office closed early today?\n(A) There's a power outage in the building.\n(B) Around four o'clock.\n(C) Yes, it's closed on Sundays.",
+"audioFile": "audio/l2x-033.mp3",
+"questions": [
+{
+"id": "l2x-033-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "There's a power outage in the building."
+},
+{
+"key": "B",
+"text": "Around four o'clock."
+},
+{
+"key": "C",
+"text": "Yes, it's closed on Sundays."
+}
+],
+"correctAnswer": "A",
+"explanation": "The answer gives the reason."
+}
+]
+},
+{
+"id": "l2x-034",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Why hasn't the package arrived yet?\n(A) It was sent to the wrong address.\n(B) It arrived by truck.\n(C) Because I was there.",
+"audioFile": "audio/l2x-034.mp3",
+"questions": [
+{
+"id": "l2x-034-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "It was sent to the wrong address."
+},
+{
+"key": "B",
+"text": "It arrived by truck."
+},
+{
+"key": "C",
+"text": "Because I was there."
+}
+],
+"correctAnswer": "A",
+"explanation": "The answer explains the delay."
+}
+]
+},
+{
+"id": "l2x-035",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Why don't we take a short break?\n(A) It broke last week.\n(B) About ten minutes long.\n(C) Sure, I could use some coffee.",
+"audioFile": "audio/l2x-035.mp3",
+"questions": [
+{
+"id": "l2x-035-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "It broke last week."
+},
+{
+"key": "B",
+"text": "About ten minutes long."
+},
+{
+"key": "C",
+"text": "Sure, I could use some coffee."
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Why don't we\" is a suggestion, and \"Sure\" accepts it."
+}
+]
+},
+{
+"id": "l2x-036",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "How did the job interview go?\n(A) At the downtown office.\n(B) Quite well, I think.\n(C) By subway.",
+"audioFile": "audio/l2x-036.mp3",
+"questions": [
+{
+"id": "l2x-036-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "At the downtown office."
+},
+{
+"key": "B",
+"text": "Quite well, I think."
+},
+{
+"key": "C",
+"text": "By subway."
+}
+],
+"correctAnswer": "B",
+"explanation": "The question asks about the result, and \"Quite well\" answers it."
+}
+]
+},
+{
+"id": "l2x-037",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "How do I log in to the new system?\n(A) Use the password from the e-mail.\n(B) It's an old system.\n(C) About three times a day.",
+"audioFile": "audio/l2x-037.mp3",
+"questions": [
+{
+"id": "l2x-037-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "Use the password from the e-mail."
+},
+{
+"key": "B",
+"text": "It's an old system."
+},
+{
+"key": "C",
+"text": "About three times a day."
+}
+],
+"correctAnswer": "A",
+"explanation": "The answer explains the steps."
+}
+]
+},
+{
+"id": "l2x-038",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "How many people are attending the workshop?\n(A) It starts at ten.\n(B) Next to the stage.\n(C) Around thirty so far.",
+"audioFile": "audio/l2x-038.mp3",
+"questions": [
+{
+"id": "l2x-038-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "It starts at ten."
+},
+{
+"key": "B",
+"text": "Next to the stage."
+},
+{
+"key": "C",
+"text": "Around thirty so far."
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Around thirty\" gives a number."
+}
+]
+},
+{
+"id": "l2x-039",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "How much does the express shipping cost?\n(A) By airmail.\n(B) Twelve dollars for each package.\n(C) Within two business days.",
+"audioFile": "audio/l2x-039.mp3",
+"questions": [
+{
+"id": "l2x-039-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "By airmail."
+},
+{
+"key": "B",
+"text": "Twelve dollars for each package."
+},
+{
+"key": "C",
+"text": "Within two business days."
+}
+],
+"correctAnswer": "B",
+"explanation": "The answer gives a price."
+}
+]
+},
+{
+"id": "l2x-040",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "How long will the maintenance take?\n(A) Every month or so.\n(B) On the second floor.\n(C) About two hours.",
+"audioFile": "audio/l2x-040.mp3",
+"questions": [
+{
+"id": "l2x-040-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "Every month or so."
+},
+{
+"key": "B",
+"text": "On the second floor."
+},
+{
+"key": "C",
+"text": "About two hours."
+}
+],
+"correctAnswer": "C",
+"explanation": "\"About two hours\" gives a duration."
+}
+]
+},
+{
+"id": "l2x-041",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "How often do you check your e-mail?\n(A) Every hour or so.\n(B) On my laptop.\n(C) Last Tuesday.",
+"audioFile": "audio/l2x-041.mp3",
+"questions": [
+{
+"id": "l2x-041-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "Every hour or so."
+},
+{
+"key": "B",
+"text": "On my laptop."
+},
+{
+"key": "C",
+"text": "Last Tuesday."
+}
+],
+"correctAnswer": "A",
+"explanation": "The answer gives a frequency."
+}
+]
+},
+{
+"id": "l2x-042",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "How far is the airport from the hotel?\n(A) Yes, I flew last week.\n(B) About twenty minutes by taxi.\n(C) It's a large airport.",
+"audioFile": "audio/l2x-042.mp3",
+"questions": [
+{
+"id": "l2x-042-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "Yes, I flew last week."
+},
+{
+"key": "B",
+"text": "About twenty minutes by taxi."
+},
+{
+"key": "C",
+"text": "It's a large airport."
+}
+],
+"correctAnswer": "B",
+"explanation": "The answer gives distance as travel time."
+}
+]
+},
+{
+"id": "l2x-043",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "How can I get a refund for this item?\n(A) He's a great accountant.\n(B) Bring the receipt to the service counter.\n(C) Yes, it was expensive.",
+"audioFile": "audio/l2x-043.mp3",
+"questions": [
+{
+"id": "l2x-043-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "He's a great accountant."
+},
+{
+"key": "B",
+"text": "Bring the receipt to the service counter."
+},
+{
+"key": "C",
+"text": "Yes, it was expensive."
+}
+],
+"correctAnswer": "B",
+"explanation": "The answer explains how."
+}
+]
+},
+{
+"id": "l2x-044",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Which printer should I use for the color copies?\n(A) The one on the second floor.\n(B) Yes, I printed it already.\n(C) Black and white is fine.",
+"audioFile": "audio/l2x-044.mp3",
+"questions": [
+{
+"id": "l2x-044-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "The one on the second floor."
+},
+{
+"key": "B",
+"text": "Yes, I printed it already."
+},
+{
+"key": "C",
+"text": "Black and white is fine."
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Which\" asks to choose, and the answer identifies one."
+}
+]
+},
+{
+"id": "l2x-045",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Which candidate did you prefer?\n(A) At the front desk.\n(B) She prefers tea.\n(C) The one with the sales background.",
+"audioFile": "audio/l2x-045.mp3",
+"questions": [
+{
+"id": "l2x-045-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "At the front desk."
+},
+{
+"key": "B",
+"text": "She prefers tea."
+},
+{
+"key": "C",
+"text": "The one with the sales background."
+}
+],
+"correctAnswer": "C",
+"explanation": "The answer identifies a candidate."
+}
+]
+},
+{
+"id": "l2x-046",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Which route is faster to the convention center?\n(A) About four hundred guests.\n(B) The highway is usually quicker.\n(C) It's held every year.",
+"audioFile": "audio/l2x-046.mp3",
+"questions": [
+{
+"id": "l2x-046-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "About four hundred guests."
+},
+{
+"key": "B",
+"text": "The highway is usually quicker."
+},
+{
+"key": "C",
+"text": "It's held every year."
+}
+],
+"correctAnswer": "B",
+"explanation": "The answer chooses a route."
+}
+]
+},
+{
+"id": "l2x-047",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Which conference room is available this afternoon?\n(A) The conference starts today.\n(B) Yes, I have an afternoon appointment.\n(C) Room 5 is empty after one.",
+"audioFile": "audio/l2x-047.mp3",
+"questions": [
+{
+"id": "l2x-047-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "The conference starts today."
+},
+{
+"key": "B",
+"text": "Yes, I have an afternoon appointment."
+},
+{
+"key": "C",
+"text": "Room 5 is empty after one."
+}
+],
+"correctAnswer": "C",
+"explanation": "The answer names the available room."
+}
+]
+},
+{
+"id": "l2x-048",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Did you finish the sales report?\n(A) Yes, I sent it this morning.\n(B) The sales team meets on Fridays.\n(C) It's due on the fifteenth.",
+"audioFile": "audio/l2x-048.mp3",
+"questions": [
+{
+"id": "l2x-048-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "Yes, I sent it this morning."
+},
+{
+"key": "B",
+"text": "The sales team meets on Fridays."
+},
+{
+"key": "C",
+"text": "It's due on the fifteenth."
+}
+],
+"correctAnswer": "A",
+"explanation": "A direct \"Yes\" with a detail answers the yes/no question."
+}
+]
+},
+{
+"id": "l2x-049",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Is the meeting still scheduled for Friday?\n(A) I'll bring the handouts.\n(B) No, it's been moved to Monday.\n(C) At the main office.",
+"audioFile": "audio/l2x-049.mp3",
+"questions": [
+{
+"id": "l2x-049-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "I'll bring the handouts."
+},
+{
+"key": "B",
+"text": "No, it's been moved to Monday."
+},
+{
+"key": "C",
+"text": "At the main office."
+}
+],
+"correctAnswer": "B",
+"explanation": "A direct \"No\" with the new day answers the question."
+}
+]
+},
+{
+"id": "l2x-050",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Have you seen the updated schedule?\n(A) The schedule is a little tight.\n(B) Yes, I saw him in the lobby.\n(C) Not yet, where is it posted?",
+"audioFile": "audio/l2x-050.mp3",
+"questions": [
+{
+"id": "l2x-050-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "The schedule is a little tight."
+},
+{
+"key": "B",
+"text": "Yes, I saw him in the lobby."
+},
+{
+"key": "C",
+"text": "Not yet, where is it posted?"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Not yet\" answers the question and asks for the location."
+}
+]
+},
+{
+"id": "l2x-051",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Are you attending the product demonstration?\n(A) I have another appointment at that time.\n(B) It's a new product.\n(C) The demonstration lasts an hour.",
+"audioFile": "audio/l2x-051.mp3",
+"questions": [
+{
+"id": "l2x-051-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "I have another appointment at that time."
+},
+{
+"key": "B",
+"text": "It's a new product."
+},
+{
+"key": "C",
+"text": "The demonstration lasts an hour."
+}
+],
+"correctAnswer": "A",
+"explanation": "An indirect \"no\" that gives a reason."
+}
+]
+},
+{
+"id": "l2x-052",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Can I borrow your stapler for a moment?\n(A) I borrowed it from the library.\n(B) The staplers are out of stock.\n(C) Sure, it's on my desk.",
+"audioFile": "audio/l2x-052.mp3",
+"questions": [
+{
+"id": "l2x-052-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "I borrowed it from the library."
+},
+{
+"key": "B",
+"text": "The staplers are out of stock."
+},
+{
+"key": "C",
+"text": "Sure, it's on my desk."
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Sure\" accepts the request and says where the stapler is."
+}
+]
+},
+{
+"id": "l2x-053",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Do you have the keys to the storage room?\n(A) They're hanging by the door.\n(B) It's a large storage room.\n(C) The keys were expensive.",
+"audioFile": "audio/l2x-053.mp3",
+"questions": [
+{
+"id": "l2x-053-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "They're hanging by the door."
+},
+{
+"key": "B",
+"text": "It's a large storage room."
+},
+{
+"key": "C",
+"text": "The keys were expensive."
+}
+],
+"correctAnswer": "A",
+"explanation": "The answer says where the keys are."
+}
+]
+},
+{
+"id": "l2x-054",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Did the client approve the design?\n(A) The design team is on the second floor.\n(B) Not yet; she's still reviewing it.\n(C) Yes, the client called me.",
+"audioFile": "audio/l2x-054.mp3",
+"questions": [
+{
+"id": "l2x-054-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "The design team is on the second floor."
+},
+{
+"key": "B",
+"text": "Not yet; she's still reviewing it."
+},
+{
+"key": "C",
+"text": "Yes, the client called me."
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Not yet\" answers the question and adds a reason."
+}
+]
+},
+{
+"id": "l2x-055",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Is there a pharmacy near the hotel?\n(A) The hotel has a pool.\n(B) About two blocks long.\n(C) Yes, one is right across the street.",
+"audioFile": "audio/l2x-055.mp3",
+"questions": [
+{
+"id": "l2x-055-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "The hotel has a pool."
+},
+{
+"key": "B",
+"text": "About two blocks long."
+},
+{
+"key": "C",
+"text": "Yes, one is right across the street."
+}
+],
+"correctAnswer": "C",
+"explanation": "A direct \"Yes\" with a location."
+}
+]
+},
+{
+"id": "l2x-056",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Will you be able to work this weekend?\n(A) The weekend is on the calendar.\n(B) I'd have to check my schedule first.\n(C) Yes, I worked there for years.",
+"audioFile": "audio/l2x-056.mp3",
+"questions": [
+{
+"id": "l2x-056-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "The weekend is on the calendar."
+},
+{
+"key": "B",
+"text": "I'd have to check my schedule first."
+},
+{
+"key": "C",
+"text": "Yes, I worked there for years."
+}
+],
+"correctAnswer": "B",
+"explanation": "An indirect answer: the speaker is not sure yet."
+}
+]
+},
+{
+"id": "l2x-057",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Has the new hire started yet?\n(A) She begins on the fifteenth.\n(B) He hired a new assistant.\n(C) It started on time.",
+"audioFile": "audio/l2x-057.mp3",
+"questions": [
+{
+"id": "l2x-057-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "She begins on the fifteenth."
+},
+{
+"key": "B",
+"text": "He hired a new assistant."
+},
+{
+"key": "C",
+"text": "It started on time."
+}
+],
+"correctAnswer": "A",
+"explanation": "The start date shows she has not started yet."
+}
+]
+},
+{
+"id": "l2x-058",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "The conference starts at nine, doesn't it?\n(A) At the convention center.\n(B) Actually, it starts at nine thirty.\n(C) Yes, I attended it last year.",
+"audioFile": "audio/l2x-058.mp3",
+"questions": [
+{
+"id": "l2x-058-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "At the convention center."
+},
+{
+"key": "B",
+"text": "Actually, it starts at nine thirty."
+},
+{
+"key": "C",
+"text": "Yes, I attended it last year."
+}
+],
+"correctAnswer": "B",
+"explanation": "The speaker corrects the time."
+}
+]
+},
+{
+"id": "l2x-059",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "You've already booked the flights, haven't you?\n(A) I'm doing it right now.\n(B) The flights were very crowded.\n(C) Yes, to the Chicago office.",
+"audioFile": "audio/l2x-059.mp3",
+"questions": [
+{
+"id": "l2x-059-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "I'm doing it right now."
+},
+{
+"key": "B",
+"text": "The flights were very crowded."
+},
+{
+"key": "C",
+"text": "Yes, to the Chicago office."
+}
+],
+"correctAnswer": "A",
+"explanation": "The speaker says the action is in progress."
+}
+]
+},
+{
+"id": "l2x-060",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "The new policy is easier to follow, isn't it?\n(A) The policy is on page twelve.\n(B) I'll follow you to the lobby.\n(C) Yes, it's much more straightforward.",
+"audioFile": "audio/l2x-060.mp3",
+"questions": [
+{
+"id": "l2x-060-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "The policy is on page twelve."
+},
+{
+"key": "B",
+"text": "I'll follow you to the lobby."
+},
+{
+"key": "C",
+"text": "Yes, it's much more straightforward."
+}
+],
+"correctAnswer": "C",
+"explanation": "A direct agreement."
+}
+]
+},
+{
+"id": "l2x-061",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Mr. Chu works in the finance department, right?\n(A) No, he moved to marketing last year.\n(B) Yes, he works at Chu Street.\n(C) The finance report is ready.",
+"audioFile": "audio/l2x-061.mp3",
+"questions": [
+{
+"id": "l2x-061-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "No, he moved to marketing last year."
+},
+{
+"key": "B",
+"text": "Yes, he works at Chu Street."
+},
+{
+"key": "C",
+"text": "The finance report is ready."
+}
+],
+"correctAnswer": "A",
+"explanation": "A correction of the fact."
+}
+]
+},
+{
+"id": "l2x-062",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "It's going to be a busy week, isn't it?\n(A) It's on the busy street.\n(B) There are seven days in a week.\n(C) Yes, we have three deadlines.",
+"audioFile": "audio/l2x-062.mp3",
+"questions": [
+{
+"id": "l2x-062-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "It's on the busy street."
+},
+{
+"key": "B",
+"text": "There are seven days in a week."
+},
+{
+"key": "C",
+"text": "Yes, we have three deadlines."
+}
+],
+"correctAnswer": "C",
+"explanation": "A direct agreement with a reason."
+}
+]
+},
+{
+"id": "l2x-063",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Don't you want to join us for lunch?\n(A) Yes, we joined last year.\n(B) I have to finish this first.\n(C) The lunch menu is on the table.",
+"audioFile": "audio/l2x-063.mp3",
+"questions": [
+{
+"id": "l2x-063-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "Yes, we joined last year."
+},
+{
+"key": "B",
+"text": "I have to finish this first."
+},
+{
+"key": "C",
+"text": "The lunch menu is on the table."
+}
+],
+"correctAnswer": "B",
+"explanation": "An indirect refusal with a reason."
+}
+]
+},
+{
+"id": "l2x-064",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Isn't the printer broken again?\n(A) No, the technician fixed it this morning.\n(B) The printer is next to the window.\n(C) I printed twenty copies.",
+"audioFile": "audio/l2x-064.mp3",
+"questions": [
+{
+"id": "l2x-064-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "No, the technician fixed it this morning."
+},
+{
+"key": "B",
+"text": "The printer is next to the window."
+},
+{
+"key": "C",
+"text": "I printed twenty copies."
+}
+],
+"correctAnswer": "A",
+"explanation": "A direct answer correcting the assumption."
+}
+]
+},
+{
+"id": "l2x-065",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Haven't they hired a replacement yet?\n(A) Yes, I hired a car.\n(B) They're interviewing candidates this week.\n(C) The replacement parts are in storage.",
+"audioFile": "audio/l2x-065.mp3",
+"questions": [
+{
+"id": "l2x-065-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "Yes, I hired a car."
+},
+{
+"key": "B",
+"text": "They're interviewing candidates this week."
+},
+{
+"key": "C",
+"text": "The replacement parts are in storage."
+}
+],
+"correctAnswer": "B",
+"explanation": "The answer says it is still in progress."
+}
+]
+},
+{
+"id": "l2x-066",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Why isn't the air conditioning working?\n(A) It works the same as the old one.\n(B) At the end of the corridor.\n(C) The repair crew is on its way.",
+"audioFile": "audio/l2x-066.mp3",
+"questions": [
+{
+"id": "l2x-066-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "It works the same as the old one."
+},
+{
+"key": "B",
+"text": "At the end of the corridor."
+},
+{
+"key": "C",
+"text": "The repair crew is on its way."
+}
+],
+"correctAnswer": "C",
+"explanation": "The answer explains the situation."
+}
+]
+},
+{
+"id": "l2x-067",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "I can't find the sales report anywhere.\n(A) Did you check the shared folder?\n(B) I reported it yesterday.\n(C) The sales office is closed.",
+"audioFile": "audio/l2x-067.mp3",
+"questions": [
+{
+"id": "l2x-067-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "Did you check the shared folder?"
+},
+{
+"key": "B",
+"text": "I reported it yesterday."
+},
+{
+"key": "C",
+"text": "The sales office is closed."
+}
+],
+"correctAnswer": "A",
+"explanation": "A helpful question in response to a problem."
+}
+]
+},
+{
+"id": "l2x-068",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "The projector isn't working again.\n(A) It's a large screen.\n(B) I'll call the IT department.\n(C) The project starts tomorrow.",
+"audioFile": "audio/l2x-068.mp3",
+"questions": [
+{
+"id": "l2x-068-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "It's a large screen."
+},
+{
+"key": "B",
+"text": "I'll call the IT department."
+},
+{
+"key": "C",
+"text": "The project starts tomorrow."
+}
+],
+"correctAnswer": "B",
+"explanation": "An offer of help in response."
+}
+]
+},
+{
+"id": "l2x-069",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "We're running low on printer paper.\n(A) The printer is on the left.\n(B) Yes, it's very light paper.\n(C) I'll order some this afternoon.",
+"audioFile": "audio/l2x-069.mp3",
+"questions": [
+{
+"id": "l2x-069-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "The printer is on the left."
+},
+{
+"key": "B",
+"text": "Yes, it's very light paper."
+},
+{
+"key": "C",
+"text": "I'll order some this afternoon."
+}
+],
+"correctAnswer": "C",
+"explanation": "The speaker offers to fix the problem."
+}
+]
+},
+{
+"id": "l2x-070",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "I'm having trouble logging in to my account.\n(A) Have you tried resetting your password?\n(B) I'll log the hours.\n(C) The account is in the bank.",
+"audioFile": "audio/l2x-070.mp3",
+"questions": [
+{
+"id": "l2x-070-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "Have you tried resetting your password?"
+},
+{
+"key": "B",
+"text": "I'll log the hours."
+},
+{
+"key": "C",
+"text": "The account is in the bank."
+}
+],
+"correctAnswer": "A",
+"explanation": "A suggestion in response to a problem."
+}
+]
+},
+{
+"id": "l2x-071",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "The client wants to move the deadline up.\n(A) Next to the clock.\n(B) The client called at noon.\n(C) That's going to be difficult.",
+"audioFile": "audio/l2x-071.mp3",
+"questions": [
+{
+"id": "l2x-071-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "Next to the clock."
+},
+{
+"key": "B",
+"text": "The client called at noon."
+},
+{
+"key": "C",
+"text": "That's going to be difficult."
+}
+],
+"correctAnswer": "C",
+"explanation": "A reaction to the statement."
+}
+]
+},
+{
+"id": "l2x-072",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "I just got a promotion!\n(A) I got lost on the way.\n(B) Congratulations, you deserve it.\n(C) The promotion video is online.",
+"audioFile": "audio/l2x-072.mp3",
+"questions": [
+{
+"id": "l2x-072-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "I got lost on the way."
+},
+{
+"key": "B",
+"text": "Congratulations, you deserve it."
+},
+{
+"key": "C",
+"text": "The promotion video is online."
+}
+],
+"correctAnswer": "B",
+"explanation": "A suitable response to good news."
+}
+]
+},
+{
+"id": "l2x-073",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "The keynote speaker is stuck in traffic.\n(A) He'll speak in the main hall.\n(B) The traffic report is on the radio.\n(C) Let's start with the panel discussion.",
+"audioFile": "audio/l2x-073.mp3",
+"questions": [
+{
+"id": "l2x-073-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "He'll speak in the main hall."
+},
+{
+"key": "B",
+"text": "The traffic report is on the radio."
+},
+{
+"key": "C",
+"text": "Let's start with the panel discussion."
+}
+],
+"correctAnswer": "C",
+"explanation": "A practical solution to the problem."
+}
+]
+},
+{
+"id": "l2x-074",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Our flight to Chicago has been delayed.\n(A) The flight attendant was friendly.\n(B) Let's let the client know.\n(C) We left Chicago last year.",
+"audioFile": "audio/l2x-074.mp3",
+"questions": [
+{
+"id": "l2x-074-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "The flight attendant was friendly."
+},
+{
+"key": "B",
+"text": "Let's let the client know."
+},
+{
+"key": "C",
+"text": "We left Chicago last year."
+}
+],
+"correctAnswer": "B",
+"explanation": "A practical next step."
+}
+]
+},
+{
+"id": "l2x-075",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "I haven't received my paycheck yet.\n(A) Let me check with payroll.\n(B) The check is made out to you.\n(C) Yes, we received the shipment.",
+"audioFile": "audio/l2x-075.mp3",
+"questions": [
+{
+"id": "l2x-075-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "Let me check with payroll."
+},
+{
+"key": "B",
+"text": "The check is made out to you."
+},
+{
+"key": "C",
+"text": "Yes, we received the shipment."
+}
+],
+"correctAnswer": "A",
+"explanation": "The speaker offers to look into the problem."
+}
+]
+},
+{
+"id": "l2x-076",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "This printer jams all the time.\n(A) Maybe we should replace it.\n(B) It prints in color.\n(C) Usually before noon.",
+"audioFile": "audio/l2x-076.mp3",
+"questions": [
+{
+"id": "l2x-076-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "Maybe we should replace it."
+},
+{
+"key": "B",
+"text": "It prints in color."
+},
+{
+"key": "C",
+"text": "Usually before noon."
+}
+],
+"correctAnswer": "A",
+"explanation": "A suggestion in response to a complaint."
+}
+]
+},
+{
+"id": "l2x-077",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Would you like to meet in the morning or the afternoon?\n(A) The meeting room is on the left.\n(B) Whichever is better for you.\n(C) Yes, I met him in the morning.",
+"audioFile": "audio/l2x-077.mp3",
+"questions": [
+{
+"id": "l2x-077-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "The meeting room is on the left."
+},
+{
+"key": "B",
+"text": "Whichever is better for you."
+},
+{
+"key": "C",
+"text": "Yes, I met him in the morning."
+}
+],
+"correctAnswer": "B",
+"explanation": "The speaker lets the other person choose."
+}
+]
+},
+{
+"id": "l2x-078",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Should we take a taxi or the subway?\n(A) I took the train yesterday.\n(B) The taxi is a yellow one.\n(C) The subway is cheaper.",
+"audioFile": "audio/l2x-078.mp3",
+"questions": [
+{
+"id": "l2x-078-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "I took the train yesterday."
+},
+{
+"key": "B",
+"text": "The taxi is a yellow one."
+},
+{
+"key": "C",
+"text": "The subway is cheaper."
+}
+],
+"correctAnswer": "C",
+"explanation": "The speaker chooses one option and gives a reason."
+}
+]
+},
+{
+"id": "l2x-079",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Do you prefer the blue folders or the green ones?\n(A) Yes, I prefer working alone.\n(B) I don't have a preference.\n(C) The folders are in the cabinet.",
+"audioFile": "audio/l2x-079.mp3",
+"questions": [
+{
+"id": "l2x-079-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "Yes, I prefer working alone."
+},
+{
+"key": "B",
+"text": "I don't have a preference."
+},
+{
+"key": "C",
+"text": "The folders are in the cabinet."
+}
+],
+"correctAnswer": "B",
+"explanation": "The speaker says either is fine."
+}
+]
+},
+{
+"id": "l2x-080",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Will you pay by credit card or in cash?\n(A) I'll use my card.\n(B) Yes, I paid last week.\n(C) The cashier is on break.",
+"audioFile": "audio/l2x-080.mp3",
+"questions": [
+{
+"id": "l2x-080-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "I'll use my card."
+},
+{
+"key": "B",
+"text": "Yes, I paid last week."
+},
+{
+"key": "C",
+"text": "The cashier is on break."
+}
+],
+"correctAnswer": "A",
+"explanation": "The speaker chooses one option."
+}
+]
+},
+{
+"id": "l2x-081",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Is the meeting at the main office or at the branch?\n(A) The branch manager is away.\n(B) The meeting went very well.\n(C) At the main office, as usual.",
+"audioFile": "audio/l2x-081.mp3",
+"questions": [
+{
+"id": "l2x-081-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "The branch manager is away."
+},
+{
+"key": "B",
+"text": "The meeting went very well."
+},
+{
+"key": "C",
+"text": "At the main office, as usual."
+}
+],
+"correctAnswer": "C",
+"explanation": "The speaker chooses one option."
+}
+]
+},
+{
+"id": "l2x-082",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Would you rather start the project now or wait until next month?\n(A) Let's wait until the budget is approved.\n(B) The project manager is new.\n(C) Yes, we started on time.",
+"audioFile": "audio/l2x-082.mp3",
+"questions": [
+{
+"id": "l2x-082-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "Let's wait until the budget is approved."
+},
+{
+"key": "B",
+"text": "The project manager is new."
+},
+{
+"key": "C",
+"text": "Yes, we started on time."
+}
+],
+"correctAnswer": "A",
+"explanation": "The speaker chooses one option and gives a reason."
+}
+]
+},
+{
+"id": "l2x-083",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Do you want a window seat or an aisle seat?\n(A) The window needs cleaning.\n(B) Yes, the flight is full.\n(C) An aisle seat, please.",
+"audioFile": "audio/l2x-083.mp3",
+"questions": [
+{
+"id": "l2x-083-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "The window needs cleaning."
+},
+{
+"key": "B",
+"text": "Yes, the flight is full."
+},
+{
+"key": "C",
+"text": "An aisle seat, please."
+}
+],
+"correctAnswer": "C",
+"explanation": "The speaker chooses one option."
+}
+]
+},
+{
+"id": "l2x-084",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Should I send the documents by mail or e-mail?\n(A) Yes, I sent a letter.\n(B) E-mail will be faster.\n(C) The documents are in the drawer.",
+"audioFile": "audio/l2x-084.mp3",
+"questions": [
+{
+"id": "l2x-084-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "Yes, I sent a letter."
+},
+{
+"key": "B",
+"text": "E-mail will be faster."
+},
+{
+"key": "C",
+"text": "The documents are in the drawer."
+}
+],
+"correctAnswer": "B",
+"explanation": "The speaker chooses one option and gives a reason."
+}
+]
+},
+{
+"id": "l2x-085",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Why don't we order lunch for the team?\n(A) Good idea, I'll make a list.\n(B) The lunch break is at noon.\n(C) Because the team is large.",
+"audioFile": "audio/l2x-085.mp3",
+"questions": [
+{
+"id": "l2x-085-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "Good idea, I'll make a list."
+},
+{
+"key": "B",
+"text": "The lunch break is at noon."
+},
+{
+"key": "C",
+"text": "Because the team is large."
+}
+],
+"correctAnswer": "A",
+"explanation": "The speaker accepts the suggestion."
+}
+]
+},
+{
+"id": "l2x-086",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Let's review the budget before the meeting.\n(A) The budget airline is cheaper.\n(B) The meeting is on Thursday.\n(C) Sure, I have time now.",
+"audioFile": "audio/l2x-086.mp3",
+"questions": [
+{
+"id": "l2x-086-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "The budget airline is cheaper."
+},
+{
+"key": "B",
+"text": "The meeting is on Thursday."
+},
+{
+"key": "C",
+"text": "Sure, I have time now."
+}
+],
+"correctAnswer": "C",
+"explanation": "The speaker accepts the suggestion."
+}
+]
+},
+{
+"id": "l2x-087",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "How about holding the workshop in March?\n(A) The workshop is downstairs.\n(B) That works for me.\n(C) Yes, it's a long march.",
+"audioFile": "audio/l2x-087.mp3",
+"questions": [
+{
+"id": "l2x-087-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "The workshop is downstairs."
+},
+{
+"key": "B",
+"text": "That works for me."
+},
+{
+"key": "C",
+"text": "Yes, it's a long march."
+}
+],
+"correctAnswer": "B",
+"explanation": "The speaker accepts the suggestion."
+}
+]
+},
+{
+"id": "l2x-088",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Shall we start the presentation now?\n(A) Let's wait for Ms. Cruz to arrive.\n(B) It's a great present.\n(C) The presentation is ten slides.",
+"audioFile": "audio/l2x-088.mp3",
+"questions": [
+{
+"id": "l2x-088-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "Let's wait for Ms. Cruz to arrive."
+},
+{
+"key": "B",
+"text": "It's a great present."
+},
+{
+"key": "C",
+"text": "The presentation is ten slides."
+}
+],
+"correctAnswer": "A",
+"explanation": "The speaker suggests waiting for someone."
+}
+]
+},
+{
+"id": "l2x-089",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Would you like me to carry those boxes for you?\n(A) Yes, I carried them yesterday.\n(B) Thanks, that would be a big help.\n(C) The boxes are made of cardboard.",
+"audioFile": "audio/l2x-089.mp3",
+"questions": [
+{
+"id": "l2x-089-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "Yes, I carried them yesterday."
+},
+{
+"key": "B",
+"text": "Thanks, that would be a big help."
+},
+{
+"key": "C",
+"text": "The boxes are made of cardboard."
+}
+],
+"correctAnswer": "B",
+"explanation": "The speaker accepts the offer."
+}
+]
+},
+{
+"id": "l2x-090",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Could you send me the final invoice today?\n(A) The invoice has a tax line.\n(B) I'm in the final week.\n(C) I'll get it to you by noon.",
+"audioFile": "audio/l2x-090.mp3",
+"questions": [
+{
+"id": "l2x-090-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "The invoice has a tax line."
+},
+{
+"key": "B",
+"text": "I'm in the final week."
+},
+{
+"key": "C",
+"text": "I'll get it to you by noon."
+}
+],
+"correctAnswer": "C",
+"explanation": "The speaker agrees and gives a time."
+}
+]
+},
+{
+"id": "l2x-091",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Could you cover my shift on Saturday?\n(A) Let me check my calendar first.\n(B) The shift ends at six.\n(C) I'll cover the cost.",
+"audioFile": "audio/l2x-091.mp3",
+"questions": [
+{
+"id": "l2x-091-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "Let me check my calendar first."
+},
+{
+"key": "B",
+"text": "The shift ends at six."
+},
+{
+"key": "C",
+"text": "I'll cover the cost."
+}
+],
+"correctAnswer": "A",
+"explanation": "The speaker needs to check before answering."
+}
+]
+},
+{
+"id": "l2x-092",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Would you mind closing the window?\n(A) The window faces north.\n(B) Yes, it's closed on Sundays.\n(C) Not at all.",
+"audioFile": "audio/l2x-092.mp3",
+"questions": [
+{
+"id": "l2x-092-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "The window faces north."
+},
+{
+"key": "B",
+"text": "Yes, it's closed on Sundays."
+},
+{
+"key": "C",
+"text": "Not at all."
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Not at all\" means the speaker does not mind."
+}
+]
+},
+{
+"id": "l2x-093",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Can you e-mail me the agenda for tomorrow?\n(A) The mail came early today.\n(B) I'll send it right away.\n(C) Tomorrow is Thursday.",
+"audioFile": "audio/l2x-093.mp3",
+"questions": [
+{
+"id": "l2x-093-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "The mail came early today."
+},
+{
+"key": "B",
+"text": "I'll send it right away."
+},
+{
+"key": "C",
+"text": "Tomorrow is Thursday."
+}
+],
+"correctAnswer": "B",
+"explanation": "The speaker agrees to act immediately."
+}
+]
+},
+{
+"id": "l2x-094",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Please let me know when the report is ready.\n(A) I'll call you as soon as it's finished.\n(B) Yes, it was a good read.\n(C) The report is twenty pages.",
+"audioFile": "audio/l2x-094.mp3",
+"questions": [
+{
+"id": "l2x-094-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "I'll call you as soon as it's finished."
+},
+{
+"key": "B",
+"text": "Yes, it was a good read."
+},
+{
+"key": "C",
+"text": "The report is twenty pages."
+}
+],
+"correctAnswer": "A",
+"explanation": "The speaker promises to call."
+}
+]
+},
+{
+"id": "l2x-095",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Could you give me a hand with these files?\n(A) Yes, I have a handout.\n(B) Sure, where do you want them?\n(C) The file cabinet is full.",
+"audioFile": "audio/l2x-095.mp3",
+"questions": [
+{
+"id": "l2x-095-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "Yes, I have a handout."
+},
+{
+"key": "B",
+"text": "Sure, where do you want them?"
+},
+{
+"key": "C",
+"text": "The file cabinet is full."
+}
+],
+"correctAnswer": "B",
+"explanation": "The speaker agrees and asks where to put them."
+}
+]
+},
+{
+"id": "l2x-096",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "What did you think of the keynote speech?\n(A) The speaker came from Tokyo.\n(B) It was held in the main hall.\n(C) It was a bit too long.",
+"audioFile": "audio/l2x-096.mp3",
+"questions": [
+{
+"id": "l2x-096-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "The speaker came from Tokyo."
+},
+{
+"key": "B",
+"text": "It was held in the main hall."
+},
+{
+"key": "C",
+"text": "It was a bit too long."
+}
+],
+"correctAnswer": "C",
+"explanation": "The speaker gives an opinion."
+}
+]
+},
+{
+"id": "l2x-097",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "How do you like your new office?\n(A) The office opens at eight.\n(B) I like the new manager.\n(C) It gets a lot of natural light.",
+"audioFile": "audio/l2x-097.mp3",
+"questions": [
+{
+"id": "l2x-097-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "The office opens at eight."
+},
+{
+"key": "B",
+"text": "I like the new manager."
+},
+{
+"key": "C",
+"text": "It gets a lot of natural light."
+}
+],
+"correctAnswer": "C",
+"explanation": "The speaker gives an opinion with a detail."
+}
+]
+},
+{
+"id": "l2x-098",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Do you think we should raise our prices?\n(A) Not until we talk to our customers.\n(B) The prices are on the menu.\n(C) Yes, the raise was approved.",
+"audioFile": "audio/l2x-098.mp3",
+"questions": [
+{
+"id": "l2x-098-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "Not until we talk to our customers."
+},
+{
+"key": "B",
+"text": "The prices are on the menu."
+},
+{
+"key": "C",
+"text": "Yes, the raise was approved."
+}
+],
+"correctAnswer": "A",
+"explanation": "The speaker gives a conditional opinion."
+}
+]
+},
+{
+"id": "l2x-099",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "What's your impression of the new manager?\n(A) He manages two shops.\n(B) She seems very organized.\n(C) The impression is on the form.",
+"audioFile": "audio/l2x-099.mp3",
+"questions": [
+{
+"id": "l2x-099-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "He manages two shops."
+},
+{
+"key": "B",
+"text": "She seems very organized."
+},
+{
+"key": "C",
+"text": "The impression is on the form."
+}
+],
+"correctAnswer": "B",
+"explanation": "The speaker gives an impression."
+}
+]
+},
+{
+"id": "l2x-100",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "How long have you worked at this company?\n(A) At the main office.\n(B) It takes about an hour.\n(C) Almost eight years now.",
+"audioFile": "audio/l2x-100.mp3",
+"questions": [
+{
+"id": "l2x-100-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "At the main office."
+},
+{
+"key": "B",
+"text": "It takes about an hour."
+},
+{
+"key": "C",
+"text": "Almost eight years now."
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Almost eight years\" gives a duration."
+}
+]
+},
+{
+"id": "l2x-101",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "How soon can you finish the design?\n(A) By the end of tomorrow.\n(B) It's a modern design.\n(C) The design is on the second floor.",
+"audioFile": "audio/l2x-101.mp3",
+"questions": [
+{
+"id": "l2x-101-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "By the end of tomorrow."
+},
+{
+"key": "B",
+"text": "It's a modern design."
+},
+{
+"key": "C",
+"text": "The design is on the second floor."
+}
+],
+"correctAnswer": "A",
+"explanation": "A deadline answers \"How soon\"."
+}
+]
+},
+{
+"id": "l2x-102",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "How many copies do you need?\n(A) I copied them last week.\n(B) Twenty should be enough.\n(C) At the copy center.",
+"audioFile": "audio/l2x-102.mp3",
+"questions": [
+{
+"id": "l2x-102-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "I copied them last week."
+},
+{
+"key": "B",
+"text": "Twenty should be enough."
+},
+{
+"key": "C",
+"text": "At the copy center."
+}
+],
+"correctAnswer": "B",
+"explanation": "A number answers \"How many\"."
+}
+]
+},
+{
+"id": "l2x-103",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "How much is the monthly parking fee?\n(A) It's seventy-five dollars.\n(B) The parking lot is full.\n(C) At the garage across the street.",
+"audioFile": "audio/l2x-103.mp3",
+"questions": [
+{
+"id": "l2x-103-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "It's seventy-five dollars."
+},
+{
+"key": "B",
+"text": "The parking lot is full."
+},
+{
+"key": "C",
+"text": "At the garage across the street."
+}
+],
+"correctAnswer": "A",
+"explanation": "A price answers \"How much\"."
+}
+]
+},
+{
+"id": "l2x-104",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Do you know when the elevator will be repaired?\n(A) It's on the fifth floor.\n(B) You should ask the building manager.\n(C) Yes, the elevator is new.",
+"audioFile": "audio/l2x-104.mp3",
+"questions": [
+{
+"id": "l2x-104-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "It's on the fifth floor."
+},
+{
+"key": "B",
+"text": "You should ask the building manager."
+},
+{
+"key": "C",
+"text": "Yes, the elevator is new."
+}
+],
+"correctAnswer": "B",
+"explanation": "The speaker does not know and suggests who to ask."
+}
+]
+},
+{
+"id": "l2x-105",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Do you know who is hosting the retirement party?\n(A) Yes, he's retiring soon.\n(B) The party starts at seven.\n(C) I haven't heard yet.",
+"audioFile": "audio/l2x-105.mp3",
+"questions": [
+{
+"id": "l2x-105-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "Yes, he's retiring soon."
+},
+{
+"key": "B",
+"text": "The party starts at seven."
+},
+{
+"key": "C",
+"text": "I haven't heard yet."
+}
+],
+"correctAnswer": "C",
+"explanation": "The speaker says they do not know."
+}
+]
+},
+{
+"id": "l2x-106",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Can you tell me where the training room is?\n(A) It's at the end of the corridor.\n(B) The training starts on Monday.\n(C) The room is quite expensive.",
+"audioFile": "audio/l2x-106.mp3",
+"questions": [
+{
+"id": "l2x-106-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "It's at the end of the corridor."
+},
+{
+"key": "B",
+"text": "The training starts on Monday."
+},
+{
+"key": "C",
+"text": "The room is quite expensive."
+}
+],
+"correctAnswer": "A",
+"explanation": "The answer gives the location."
+}
+]
+},
+{
+"id": "l2x-107",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Would it be possible to extend the deadline?\n(A) I extended the cable.\n(B) The deadline was yesterday.\n(C) Let me ask my supervisor.",
+"audioFile": "audio/l2x-107.mp3",
+"questions": [
+{
+"id": "l2x-107-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "I extended the cable."
+},
+{
+"key": "B",
+"text": "The deadline was yesterday."
+},
+{
+"key": "C",
+"text": "Let me ask my supervisor."
+}
+],
+"correctAnswer": "C",
+"explanation": "The speaker needs to check with someone."
+}
+]
+},
+{
+"id": "l2x-108",
+"part": 2,
+"type": "Question-Response",
+"audioScript": "Do you know how to use this scanner?\n(A) Yes, I scanned it twice.\n(B) I'm not sure; the manual is in the drawer.\n(C) The scan was black and white.",
+"audioFile": "audio/l2x-108.mp3",
+"questions": [
+{
+"id": "l2x-108-q1",
+"questionText": "Listen to the question and select the best response.",
+"options": [
+{
+"key": "A",
+"text": "Yes, I scanned it twice."
+},
+{
+"key": "B",
+"text": "I'm not sure; the manual is in the drawer."
+},
+{
+"key": "C",
+"text": "The scan was black and white."
+}
+],
+"correctAnswer": "B",
+"explanation": "The speaker admits uncertainty and points to the manual."
+}
+]
+}
+]

@@ -1,0 +1,137 @@
+@Conversation|Inventory count at the warehouse|us
+M: Mina, are we ready for the inventory count on Saturday? I haven't seen the list of volunteers yet.
+W: I'm still waiting for two departments to reply. Right now I have eleven people, and I'd like at least fifteen so we can finish before dinner.
+M: I'll talk to the shipping team. They owe us a favor after we covered their shifts last month.
+W: That would help. Remember that everyone has to wear safety shoes, and we're providing scanners at the entrance.
+M: I'll make an announcement at tomorrow's staff meeting.
+Q|What are the speakers organizing?|A stock count|A company dinner|A safety course|A shipping schedule|They discuss an inventory count planned for Saturday.
+Q|What does the woman say she needs?|More volunteers|More scanners|A larger warehouse|A later deadline|She says she has eleven people and would like at least fifteen.
+Q|What will the man do at tomorrow's meeting?|Make an announcement|Hand out safety shoes|Present a schedule|Introduce a new employee|He says he will make an announcement at tomorrow's staff meeting.
+@Conversation|Booking a private dining room|uk
+W: Good evening, Harbor Grill. How may I help you?
+M: I'd like to reserve a private room for a retirement dinner on the twelfth of June. There will be about thirty guests.
+W: Our largest private room seats twenty-eight, I'm afraid. But we could set up tables in the lounge area next to it and open the dividing doors.
+M: That sounds workable. Would we need to choose the menu in advance?
+W: Yes, we ask for the choices a week before the event. I'll e-mail you the menus today, along with a form for dietary requirements.
+M: Thanks. My assistant will fill that in, so please copy her on the message.
+Q|Why does the man call the restaurant?|To arrange a dinner|To complain about a meal|To apply for a job|To change a menu|He wants to reserve a private room for a retirement dinner.
+Q|What problem does the woman mention?|A room is too small for the group.|A date is unavailable.|A menu has changed.|A chef is on vacation.|She says the largest private room seats twenty-eight while he has thirty guests.
+Q|What does the man ask the woman to do?|Send a message to his assistant|Hold a table for lunch|Lower the price|Call him tomorrow|He asks her to copy his assistant on the e-mail.
+@Conversation|Rescheduling a medical appointment|us
+W: Dr. Nakamura's office, how can I help you?
+M: This is Peter Lindqvist. I have a checkup on Thursday at nine, but my company has just scheduled a mandatory meeting for that morning.
+W: I see. The doctor has an opening on Friday afternoon at three, or next Tuesday at eleven.
+M: Friday would be best. I'm traveling for work the following week.
+W: All right, I've changed it. Please arrive fifteen minutes early to update your insurance information, and remember not to eat anything after midnight, since you're having blood tests.
+M: Got it. Thank you very much.
+Q|Why is the man calling?|To change an appointment|To ask about test results|To cancel a trip|To renew insurance|He says a meeting conflicts with his Thursday checkup.
+Q|Why does the man choose Friday?|He will be away the following week.|He prefers afternoons.|He has a meeting on Tuesday.|He wants to see a different doctor.|He says he is traveling for work the following week.
+Q|What does the woman remind the man to do?|Not eat before the appointment|Bring a doctor's note|Pay a fee in advance|Call again on Thursday|She tells him not to eat anything after midnight because of blood tests.
+@Conversation|Viewing an apartment|us
+W: Thanks for coming, Mr. Silva. As you can see, the apartment has plenty of natural light, and the kitchen was renovated last year.
+M: It's lovely. I was told the rent was eighteen hundred, though. Is that for this unit?
+W: No, that's for the unit on the second floor. This one is on the sixth floor with the balcony, and it's priced a little higher.
+M: I see. Is parking included?
+W: One space is included. A second space costs extra. If you decide to apply, I'll need proof of employment and two references.
+G|Available Units|Unit;Floor;Monthly Rent|2B;2;$1,800/4C;4;$1,950/6A;6;$2,150/8D;8;$2,400
+Q|What is the man's main interest?|Renting an apartment|Buying a car|Renovating a kitchen|Finding a roommate|He is viewing an apartment and asking about rent and parking.
+Q|Look at the graphic. Which unit is the man viewing?|Unit 6A|Unit 2B|Unit 4C|Unit 8D|The woman says it is on the sixth floor with the balcony.
+Q|What does the woman say she needs if the man applies?|Proof of employment|A security deposit|A parking permit|A signed lease|She says she will need proof of employment and two references.
+@Conversation|Reviewing campaign results|mix
+W: Let's go over the results of the spring campaign. Online sales rose by twenty percent, which is better than we predicted.
+M: And the e-mail newsletter drove most of that. The social media ads didn't bring in as many customers as we expected.
+W2: I think the problem was the timing. We posted most of them during working hours. Next time we should try evenings.
+W: That's worth testing. Can you prepare two versions of the summer ad, Ines, so we can compare?
+W2: Sure. I'll have them ready by the end of next week.
+M: In the meantime, I'll ask the finance team how much of the budget is left.
+Q|What are the speakers mainly discussing?|The results of a marketing campaign|The launch of a new product|A change in company policy|A schedule for interviews|They review spring campaign results including online sales and ads.
+Q|What does Ines suggest?|Posting ads in the evening|Hiring a new designer|Cutting the budget|Writing fewer newsletters|She says the ads were posted during working hours and suggests trying evenings.
+Q|What will the man do?|Check the remaining budget|Design an advertisement|Write a newsletter|Contact a customer|He says he will ask the finance team how much budget is left.
+@Conversation|Missed flight connection|mix
+W: Excuse me, my flight from Madrid arrived late, and I've just missed my connection to Chicago. Can I get on the next one?
+M: Let me look. There's a flight at six forty, but it's fully booked. The next seat I can offer is on the nine o'clock departure.
+W: That's three hours from now. I have a presentation first thing tomorrow, so I can't take anything later than that.
+M: In that case, I'll put you on the nine o'clock flight now. Because the delay was caused by the airline, you can also use the lounge, and I'll give you a meal voucher.
+W: Thank you. Is my luggage going to be moved automatically?
+M: Yes, it will be transferred. You can collect it at the baggage claim in Chicago.
+Q|What problem does the woman have?|She missed a connecting flight.|Her luggage was damaged.|Her passport is missing.|She booked the wrong date.|She says she has just missed her connection to Chicago.
+Q|Why can't the woman take a later flight?|She has a presentation tomorrow.|She has a hotel reservation.|She has a meeting tonight.|She has a train to catch.|She says she has a presentation first thing tomorrow.
+Q|What does the man give the woman?|A meal voucher|A refund|A hotel room|A luggage tag|He says he will give her a meal voucher and lounge access.
+@Conversation|Joining a fitness club|us
+M: I'm interested in a membership. What are my options?
+W: We have a monthly plan and an annual plan. The annual plan is cheaper per month, and it includes two free sessions with a personal trainer.
+M: I travel a lot for my job, so I'm not sure I'd use it every week. Can I freeze the membership?
+W: Absolutely. You can pause it for up to three months a year. There's no charge as long as you tell us two weeks in advance.
+M: That sounds fair. I'll take the annual plan, then. Can I start using the pool today?
+W: Of course. Let me get the paperwork, and we'll take your picture for the card.
+Q|Why does the man ask about freezing a membership?|He travels frequently.|He is moving away.|He has an injury.|He wants a refund.|He says he travels a lot and might not use it every week.
+Q|What is included in the annual plan?|Two sessions with a trainer|A free towel service|Unlimited guest passes|A locker rental|The woman says it includes two free sessions with a personal trainer.
+Q|What will the woman do next?|Get some paperwork|Show the man the pool|Call a trainer|Take a payment over the phone|She says she will get the paperwork and take his picture.
+@Conversation|Printing banners for a trade show|us
+W: Hi, I placed an order yesterday for two banners for the trade show. I just realized I gave you the wrong company logo.
+M: Let me find it. Yes, order number 5832. The banners are in the print queue, but they haven't been printed yet.
+W: Oh, good. I can send the correct file right now. Will that change the price?
+M: Not unless you want a different size. The files need to be at least three hundred pixels per inch, though, or the logo will look blurry on a banner that large.
+W: It's a vector file, so it should be fine. I'll e-mail it in the next five minutes.
+M: Great. I'll hold the order until it arrives.
+Q|Why is the woman calling?|To correct an order|To request a refund|To ask about a price|To reschedule a delivery|She says she gave the wrong company logo and wants to send the right one.
+Q|What does the man say about the files?|They need a certain quality.|They must be sent by mail.|They should be in color.|They cannot be changed.|He says the files need to be at least three hundred pixels per inch.
+Q|What will the man do?|Wait for a file|Print a proof|Call a client|Lower the price|He says he will hold the order until the new file arrives.
+@Conversation|Factory tour for a supplier|uk
+W: Mr. Dalton, thank you for coming. Before we start the tour, I need to give you a hard hat and safety glasses.
+M: Of course. I'm especially interested in the packaging line. We're considering switching to recycled cardboard.
+W: Then you'll want to see Line Three. It was upgraded in March, and it handles the new materials well. Unfortunately, we can't go inside while the machines are running, but you'll see everything from the viewing platform.
+M: That's fine. Could I speak with the line manager afterward?
+W: She's at a meeting until eleven, but she'll join us for coffee in the cafeteria after the tour.
+Q|What is the man most interested in seeing?|A packaging line|A shipping dock|A testing laboratory|A training room|He says he is especially interested in the packaging line.
+Q|What does the woman say about Line Three?|It was recently improved.|It is closed for repair.|It makes cardboard.|It was moved to another floor.|She says it was upgraded in March and handles the new materials well.
+Q|What will happen after the tour?|The man will talk to a manager.|The man will sign a contract.|The woman will give a presentation.|The woman will leave for a meeting.|The line manager will join them for coffee after the tour.
+@Conversation|Volunteers for a library book sale|us
+W: Hi, Tom. I'm putting together a schedule for the library's annual book sale. Would you be able to help for a few hours on Saturday?
+M: I'd love to. I volunteered last year, and I worked at the cashier's table. I'm not very good with the heavy boxes, though.
+W: Then the cashier's table is yours again. We need two people there from ten until two, and the other person is Maria.
+M: That's great. Is there anything I should bring?
+W: Only a calculator, if you have one. We'll supply the cash box and the bags. Also, we're expecting a big crowd, so please come a few minutes early to get oriented.
+Q|What does the woman ask the man to do?|Volunteer at an event|Donate some books|Organize some boxes|Train a new employee|She asks whether he can help for a few hours on Saturday.
+Q|Why does the man mention heavy boxes?|He would prefer not to carry them.|He needs help with them.|He forgot to order them.|He wants to buy them.|He says he is not very good with the heavy boxes.
+Q|What does the woman say the man should bring?|A calculator|A cash box|Some bags|A list of names|She says to bring a calculator and that they will supply the cash box and the bags.
+@Conversation|Preparing for an awards dinner|us
+M: Have you finished the list for the employee awards dinner? I wanted to send out the invitations by Friday.
+W: Almost. There are three people I haven't been able to reach: Hana in accounting, and two from the Dallas office.
+M: I can ask the Dallas manager. What about the speakers?
+W: The CEO will say a few words, and Mr. Okoye will present the Employee of the Year award. I still need to confirm the sound system with the hotel.
+M: I wouldn't wait on that. Those systems get booked up quickly in December.
+W: You're right. I'll call them right after this meeting.
+Q|What is the man planning to do by Friday?|Send invitations|Book a hotel|Present an award|Interview a candidate|He says he wants to send out the invitations by Friday.
+Q|What does the man mean when he says, "I wouldn't wait on that"?|The woman should act quickly.|The woman should cancel a request.|The woman should ask someone else.|The woman should change a date.|He warns that sound systems get booked up quickly, so she should call soon.
+Q|What will the woman do after the meeting?|Contact a hotel|Update a list|Write a speech|Call the Dallas manager|She says she will call the hotel about the sound system right after the meeting.
+@Conversation|New parking arrangements|us
+W: Welcome to the new building, Mr. Chen. I'm Rhea from facilities. Have you chosen a parking lot yet?
+M: Not yet. I heard Lot B is free for employees, but it's far from the main entrance.
+W: That's right. Lot A is closer, but it costs forty dollars a month. Lot C is a ten-minute walk but has a shuttle bus every fifteen minutes.
+M: I usually arrive early, so the walk isn't a problem. I'd rather save the money.
+W: Then Lot B will do. I'll need your license plate number to register it. You can send it to me by e-mail.
+G|Employee Parking|Lot;Distance to Entrance;Monthly Cost|A;2 minutes;$40/B;12 minutes;$0/C;10 minutes plus shuttle;$15
+Q|What does the man want to do?|Save money|Park near the entrance|Use the shuttle|Change offices|He says he would rather save the money.
+Q|Look at the graphic. Which lot will the man most likely use?|Lot B|Lot A|Lot C|None of the lots|He prefers the free lot even though it is farther from the entrance.
+Q|What does the woman ask the man to send?|His license plate number|A signed form|A payment|His work schedule|She says she needs his license plate number to register it.
+@Conversation|Customer survey results|us
+M: Priya, have you seen the customer survey results? Overall satisfaction went up, but there's one complaint that keeps appearing.
+W: Let me guess, the waiting time on the phone line?
+M: Exactly. Many customers say they wait more than ten minutes before reaching someone.
+W: We could hire temporary staff for the busy hours, or offer a call-back option so people don't have to hold the line.
+M: The call-back option would be cheaper and faster to set up. I'll find out what the software vendor charges for it.
+W: Good. Let's discuss the numbers in Friday's meeting.
+Q|What is the main complaint in the survey?|Long waits on the phone|Poor product quality|High prices|Rude staff|He says customers complain about waiting more than ten minutes to reach someone.
+Q|Why does the man prefer the call-back option?|It would cost less.|It would please the staff.|It is already installed.|It was recommended by customers.|He says it would be cheaper and faster to set up than hiring temporary staff.
+Q|What will the man do next?|Ask a vendor about a price|Interview temporary workers|Write a survey|Call some customers|He says he will find out what the software vendor charges.
+@Conversation|Expense report problem|us
+W: Hi Giorgio, I got your expense report from the Seattle trip, but I can't approve it yet. The hotel receipt is missing.
+M: I thought I attached it. The hotel sent it to my personal e-mail, so I may have forgotten to forward it.
+W: Could you send it today? Finance closes the monthly reports at five, and anything late waits until next month.
+M: I'm in a client meeting until four. Can you hold the report until then?
+W: I'll keep it open. Just make sure it's in my inbox by four thirty.
+M: I'll do it during the break. Thanks for being flexible.
+Q|What problem does the woman mention?|A document is missing.|A total is incorrect.|A meeting was canceled.|A receipt is illegible.|She says the hotel receipt is missing from the report.
+Q|What does the man ask the woman to do?|Wait for a document|Approve a payment|Call a hotel|Extend a trip|He asks her to hold the report until four.
+Q|What will the man do during a break?|Send a receipt|Meet a client|Book a hotel|Write a report|He says he will forward the hotel receipt during the break.

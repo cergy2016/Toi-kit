@@ -1,0 +1,4402 @@
+[
+{
+"id": "p6x-001",
+"title": "Parking Changes at Head Office",
+"type": "Email",
+"text": "To: All Employees\nFrom: Facilities Management\nSubject: New parking arrangements\n\nStarting on June 1, the underground garage at our head office will be [131] for renovation. Employees who normally park there should use the lot on Baker Street instead. A free shuttle bus will run every ten minutes between the lot and the main entrance. [132]. Please note that visitor parking will not be affected by the work. We [133] your patience while the new lighting and security cameras are installed. If you have any questions, please [134] Facilities Management at extension 214.",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "closure"
+},
+{
+"key": "B",
+"text": "close"
+},
+{
+"key": "C",
+"text": "closing"
+},
+{
+"key": "D",
+"text": "closed"
+}
+],
+"correctAnswer": "D",
+"explanation": "After \"will be\", the past participle works as an adjective: \"closed for renovation\"."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "Many employees prefer to take the train."
+},
+{
+"key": "B",
+"text": "The garage was built in 1998."
+},
+{
+"key": "C",
+"text": "The shuttle will operate from 7:00 a.m. to 7:00 p.m."
+},
+{
+"key": "D",
+"text": "The renovation costs have not been announced."
+}
+],
+"correctAnswer": "C",
+"explanation": "The sentence after the shuttle announcement should give more details about the shuttle."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "appreciation"
+},
+{
+"key": "B",
+"text": "appreciate"
+},
+{
+"key": "C",
+"text": "appreciative"
+},
+{
+"key": "D",
+"text": "appreciated"
+}
+],
+"correctAnswer": "B",
+"explanation": "After the subject \"We\", a present-tense verb is needed."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "contact"
+},
+{
+"key": "B",
+"text": "contacted"
+},
+{
+"key": "C",
+"text": "contacts"
+},
+{
+"key": "D",
+"text": "contacting"
+}
+],
+"correctAnswer": "A",
+"explanation": "After \"please\", the base form of the verb is used."
+}
+]
+},
+{
+"id": "p6x-002",
+"title": "Annual Safety Inspection",
+"type": "Notice",
+"text": "Notice to Tenants of Maple Court\nThe annual fire safety inspection will take place on Thursday, March 14. Inspectors will visit every apartment between 9:00 a.m. and 4:00 p.m. [131] you cannot be home, please leave a key with the building manager. The inspection takes about fifteen minutes per unit. [132], we ask all tenants to keep hallways and balconies clear of storage items. Smoke detectors will be tested, and batteries will be replaced [133] necessary. Tenants who fail to allow access may be charged an administrative fee. Thank you for your [134] in keeping our building safe.",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "Although"
+},
+{
+"key": "B",
+"text": "If"
+},
+{
+"key": "C",
+"text": "Whereas"
+},
+{
+"key": "D",
+"text": "Unless"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"If you cannot be home\" gives a condition for leaving a key."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "For example"
+},
+{
+"key": "B",
+"text": "Nevertheless"
+},
+{
+"key": "C",
+"text": "In addition"
+},
+{
+"key": "D",
+"text": "Instead"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"In addition\" adds another request to the notice."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "what"
+},
+{
+"key": "B",
+"text": "whose"
+},
+{
+"key": "C",
+"text": "when to"
+},
+{
+"key": "D",
+"text": "where"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"Where necessary\" means in places or cases where it is needed."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "cooperation"
+},
+{
+"key": "B",
+"text": "cooperatively"
+},
+{
+"key": "C",
+"text": "cooperate"
+},
+{
+"key": "D",
+"text": "cooperative"
+}
+],
+"correctAnswer": "A",
+"explanation": "After \"your\", a noun is required."
+}
+]
+},
+{
+"id": "p6x-003",
+"title": "Updated Expense Policy",
+"type": "Memo",
+"text": "MEMO\nTo: Sales Team\nFrom: Finance Department\nDate: September 3\nWe are updating our travel expense policy to make reimbursement faster and simpler. Beginning October 1, all expense reports must be [131] through the online portal instead of on paper. Receipts for amounts over fifty dollars must be uploaded as images. [132]. Reports submitted after the fifteenth of each month will be processed the following month. Employees who have questions about the new system are [133] to attend a short training session on September 20. The session will be [134] by Ms. Alvarez from the accounting team.",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "submitted"
+},
+{
+"key": "B",
+"text": "submission"
+},
+{
+"key": "C",
+"text": "submitting"
+},
+{
+"key": "D",
+"text": "submit"
+}
+],
+"correctAnswer": "A",
+"explanation": "After \"must be\", the past participle is needed for the passive."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "The portal was designed by an outside company."
+},
+{
+"key": "B",
+"text": "Reports that lack receipts will be returned to the employee."
+},
+{
+"key": "C",
+"text": "The sales team exceeded its target last quarter."
+},
+{
+"key": "D",
+"text": "Paper forms are available in the supply room."
+}
+],
+"correctAnswer": "B",
+"explanation": "The sentence should explain a rule about receipts or reports."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "welcomed"
+},
+{
+"key": "B",
+"text": "welcoming"
+},
+{
+"key": "C",
+"text": "welcome"
+},
+{
+"key": "D",
+"text": "welcomes"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Are welcome to attend\" is a standard phrase."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "leads"
+},
+{
+"key": "B",
+"text": "leading"
+},
+{
+"key": "C",
+"text": "lead"
+},
+{
+"key": "D",
+"text": "led"
+}
+],
+"correctAnswer": "D",
+"explanation": "The session is led by someone, so the past participle fits the passive."
+}
+]
+},
+{
+"id": "p6x-004",
+"title": "Local Bakery Expands",
+"type": "Article",
+"text": "Sunrise Bakery, a family-owned business in Greenfield, will open its second location next month. The new shop on Oak Avenue will [131] a full breakfast menu in addition to the bread and pastries that made the original store famous. Owner Linda Moreno said the decision was driven by customer demand. \"We were [132] to turn people away on busy weekends,\" she explained. The expansion will create twelve new jobs. [133]. Ms. Moreno also plans to offer baking classes on Saturday afternoons, [134] should appeal to families and hobby cooks.",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "features of"
+},
+{
+"key": "B",
+"text": "featuring"
+},
+{
+"key": "C",
+"text": "featured"
+},
+{
+"key": "D",
+"text": "feature"
+}
+],
+"correctAnswer": "D",
+"explanation": "After the modal \"will\", the base verb is needed."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "forces"
+},
+{
+"key": "B",
+"text": "forced"
+},
+{
+"key": "C",
+"text": "force"
+},
+{
+"key": "D",
+"text": "forcing"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Were forced to\" is the passive structure with an infinitive."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "Applications are being accepted at the Greenfield Town Hall office."
+},
+{
+"key": "B",
+"text": "The bakery sells about two hundred loaves each day."
+},
+{
+"key": "C",
+"text": "Oak Avenue is known for its trees."
+},
+{
+"key": "D",
+"text": "Bread has been a staple food for centuries."
+}
+],
+"correctAnswer": "A",
+"explanation": "The sentence after \"twelve new jobs\" should talk about applying for them."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "who"
+},
+{
+"key": "B",
+"text": "where"
+},
+{
+"key": "C",
+"text": "which"
+},
+{
+"key": "D",
+"text": "what"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Which\" refers to the whole idea of baking classes in a non-defining clause."
+}
+]
+},
+{
+"id": "p6x-005",
+"title": "Reply to a Customer Complaint",
+"type": "Letter",
+"text": "Dear Mr. Hoffman,\nThank you for contacting us about the damaged desk chair you received last week. We sincerely [131] for the inconvenience this has caused. Our records show that the chair was packed correctly, so the damage most likely occurred during transport. [132]. A replacement has already been shipped and should reach you within three business days. You do not need to return the damaged item. As a gesture of goodwill, we have also [133] a ten percent discount to your next order. We hope this resolves the matter and that you will [134] shopping with us.\nSincerely,\nCustomer Care Team",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "apologetic"
+},
+{
+"key": "B",
+"text": "apologetically"
+},
+{
+"key": "C",
+"text": "apologize"
+},
+{
+"key": "D",
+"text": "apology"
+}
+],
+"correctAnswer": "C",
+"explanation": "After the subject \"We\" and adverb \"sincerely\", a verb is needed."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "Our chairs are made from recycled materials."
+},
+{
+"key": "B",
+"text": "We have contacted the delivery company to investigate."
+},
+{
+"key": "C",
+"text": "Many customers enjoy working from home."
+},
+{
+"key": "D",
+"text": "The warehouse is located near the port."
+}
+],
+"correctAnswer": "B",
+"explanation": "The sentence should describe what the company is doing about the damage."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "added"
+},
+{
+"key": "B",
+"text": "adds"
+},
+{
+"key": "C",
+"text": "adding"
+},
+{
+"key": "D",
+"text": "add"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Have also added\" uses the present perfect with the past participle."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "continues"
+},
+{
+"key": "B",
+"text": "continued"
+},
+{
+"key": "C",
+"text": "continuing"
+},
+{
+"key": "D",
+"text": "continue"
+}
+],
+"correctAnswer": "D",
+"explanation": "After \"will\", the base verb is needed."
+}
+]
+},
+{
+"id": "p6x-006",
+"title": "Language Courses at Linden Institute",
+"type": "Advertisement",
+"text": "Are you ready to improve your career prospects? Linden Institute offers evening language courses for working professionals. Classes are [131] at four levels, from beginner to advanced, and small groups guarantee personal attention. [132]. All instructors are native speakers with years of teaching experience. Registration for the autumn term opens on August 1, and students who sign up [133] August 15 will receive a twenty percent discount. Courses begin on September 9 and run for twelve weeks. Visit our Web site to find the schedule that [134] your needs.",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "availability"
+},
+{
+"key": "B",
+"text": "availably"
+},
+{
+"key": "C",
+"text": "available"
+},
+{
+"key": "D",
+"text": "avail"
+}
+],
+"correctAnswer": "C",
+"explanation": "After \"are\", an adjective is needed."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "Foreign travel is more popular than ever."
+},
+{
+"key": "B",
+"text": "Each class has no more than eight students."
+},
+{
+"key": "C",
+"text": "The institute is closed on public holidays."
+},
+{
+"key": "D",
+"text": "Linden Institute was founded in 1985."
+}
+],
+"correctAnswer": "B",
+"explanation": "The sentence should support \"small groups guarantee personal attention\"."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "during"
+},
+{
+"key": "B",
+"text": "between"
+},
+{
+"key": "C",
+"text": "since"
+},
+{
+"key": "D",
+"text": "before"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"Before August 15\" sets the deadline for the discount."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "suits"
+},
+{
+"key": "B",
+"text": "suiting"
+},
+{
+"key": "C",
+"text": "suit"
+},
+{
+"key": "D",
+"text": "suited to"
+}
+],
+"correctAnswer": "A",
+"explanation": "The subject \"schedule\" is singular, so the verb takes \"-s\"."
+}
+]
+},
+{
+"id": "p6x-007",
+"title": "New Employee Orientation",
+"type": "Announcement",
+"text": "We are pleased to announce that the new employee orientation program has been redesigned. [131] attending a single session on the first day, new hires will now take part in a three-week program. During the first week, participants will [132] the company's mission and values. In the second week, they will shadow experienced colleagues in their departments. [133]. By the end of the program, every new employee will have met with the senior management team. We [134] this change will help new staff feel welcomed and prepared.",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "Regardless"
+},
+{
+"key": "B",
+"text": "Because of"
+},
+{
+"key": "C",
+"text": "In case of"
+},
+{
+"key": "D",
+"text": "Instead of"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"Instead of attending\" contrasts the old and new programs."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "learning about"
+},
+{
+"key": "B",
+"text": "learned about"
+},
+{
+"key": "C",
+"text": "learn about"
+},
+{
+"key": "D",
+"text": "to learn about"
+}
+],
+"correctAnswer": "C",
+"explanation": "After \"will\", the base verb is needed."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "The cafeteria offers a variety of dishes."
+},
+{
+"key": "B",
+"text": "The final week will focus on technical training and software tools."
+},
+{
+"key": "C",
+"text": "Many employees use public transportation."
+},
+{
+"key": "D",
+"text": "The company was founded in 1972."
+}
+],
+"correctAnswer": "B",
+"explanation": "The sentence should follow \"In the second week\" by describing the third week."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "believe"
+},
+{
+"key": "B",
+"text": "believes"
+},
+{
+"key": "C",
+"text": "belief"
+},
+{
+"key": "D",
+"text": "believing"
+}
+],
+"correctAnswer": "A",
+"explanation": "After the subject \"We\", a present-tense verb is needed."
+}
+]
+},
+{
+"id": "p6x-008",
+"title": "Delayed Product Launch",
+"type": "Email",
+"text": "Dear Partners,\nI am writing to inform you that the launch of our new tablet has been [131] until November 12. The change was necessary because our final tests revealed a problem with the battery. [132], we decided that it was better to delay the release than to sell a product that did not meet our standards. Orders that were placed before today will be [133] automatically. You do not need to take any action. We will send a detailed update next week. Thank you for your understanding and [134] support.\nBest regards,\nKevin Park, Product Director",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "postponing"
+},
+{
+"key": "B",
+"text": "postponement"
+},
+{
+"key": "C",
+"text": "postpone"
+},
+{
+"key": "D",
+"text": "postponed"
+}
+],
+"correctAnswer": "D",
+"explanation": "After \"has been\", the past participle is needed."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "Meanwhile"
+},
+{
+"key": "B",
+"text": "Likewise"
+},
+{
+"key": "C",
+"text": "Therefore"
+},
+{
+"key": "D",
+"text": "Otherwise"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Therefore\" introduces the logical result of the battery problem."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "honor"
+},
+{
+"key": "B",
+"text": "honored"
+},
+{
+"key": "C",
+"text": "honoring"
+},
+{
+"key": "D",
+"text": "honors"
+}
+],
+"correctAnswer": "B",
+"explanation": "The passive \"will be honored\" fits orders being kept valid."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "continued"
+},
+{
+"key": "B",
+"text": "continuing to"
+},
+{
+"key": "C",
+"text": "continuously"
+},
+{
+"key": "D",
+"text": "continue"
+}
+],
+"correctAnswer": "A",
+"explanation": "An adjective is needed before the noun \"support\"."
+}
+]
+},
+{
+"id": "p6x-009",
+"title": "Remote Work Trends",
+"type": "Article",
+"text": "More companies are offering flexible work arrangements than ever before. According to a recent survey, nearly sixty percent of firms now allow employees to work from home at least [131] a week. Managers report that productivity has remained stable, and many workers say they feel [132] satisfied with their jobs. [133]. However, some businesses worry that teams may lose a sense of community when staff are rarely in the same room. To address this concern, several firms hold weekly video meetings and organize [134] gatherings in the office.",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "ones"
+},
+{
+"key": "B",
+"text": "first"
+},
+{
+"key": "C",
+"text": "one"
+},
+{
+"key": "D",
+"text": "once"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"At least once a week\" is the standard expression."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "more"
+},
+{
+"key": "B",
+"text": "most"
+},
+{
+"key": "C",
+"text": "much"
+},
+{
+"key": "D",
+"text": "many"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"More satisfied\" is the comparative form needed here."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "Many offices are located downtown."
+},
+{
+"key": "B",
+"text": "Employers also save money on office space and utilities."
+},
+{
+"key": "C",
+"text": "Video cameras have become less expensive."
+},
+{
+"key": "D",
+"text": "The survey was conducted in twelve countries."
+}
+],
+"correctAnswer": "B",
+"explanation": "The sentence should add another benefit of flexible work."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "occasion"
+},
+{
+"key": "B",
+"text": "occasions"
+},
+{
+"key": "C",
+"text": "occasional"
+},
+{
+"key": "D",
+"text": "occasionally"
+}
+],
+"correctAnswer": "C",
+"explanation": "An adjective is needed before the noun \"gatherings\"."
+}
+]
+},
+{
+"id": "p6x-010",
+"title": "Installing the Software",
+"type": "Instructions",
+"text": "Thank you for purchasing our accounting software. To install the program, first [131] the setup file from the download page. Double-click the file and follow the on-screen instructions. [132]. The installation will take about five minutes, and you will be asked to restart your computer when it is [133]. After restarting, open the program and enter the license code that was sent to your e-mail address. If you [134] any problems during installation, please contact our support team.",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "download"
+},
+{
+"key": "B",
+"text": "downloads"
+},
+{
+"key": "C",
+"text": "downloaded"
+},
+{
+"key": "D",
+"text": "downloading"
+}
+],
+"correctAnswer": "A",
+"explanation": "In instructions, the base form of the verb is used."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "Many users prefer the older version."
+},
+{
+"key": "B",
+"text": "Our company was founded in 2001."
+},
+{
+"key": "C",
+"text": "The software was designed by a team of accountants."
+},
+{
+"key": "D",
+"text": "Make sure that all other programs are closed before you begin."
+}
+],
+"correctAnswer": "D",
+"explanation": "The sentence should give a helpful step for the installation."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "finish"
+},
+{
+"key": "B",
+"text": "finishes"
+},
+{
+"key": "C",
+"text": "finished"
+},
+{
+"key": "D",
+"text": "finishing"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"When it is finished\" uses the past participle after \"is\"."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "encountered"
+},
+{
+"key": "B",
+"text": "encounter"
+},
+{
+"key": "C",
+"text": "encountering"
+},
+{
+"key": "D",
+"text": "encounters"
+}
+],
+"correctAnswer": "B",
+"explanation": "After the subject \"you\" in a present-tense condition, the base form is used."
+}
+]
+},
+{
+"id": "p6x-011",
+"title": "Library Closure",
+"type": "Notice",
+"text": "Please be advised that the main library will be closed from December 24 to January 2 [131] the winter holiday. During this period, books [132] be returned using the drop box outside the main entrance. No late fees will be charged for items due during the closure. [133]. Our branch libraries on Pine Street and Lake Road will remain open with regular hours. The online catalog and e-book service will also be [134] around the clock. Regular hours will resume on January 3.",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "since"
+},
+{
+"key": "B",
+"text": "for"
+},
+{
+"key": "C",
+"text": "during to"
+},
+{
+"key": "D",
+"text": "while"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"For the winter holiday\" gives the reason or purpose."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "is"
+},
+{
+"key": "B",
+"text": "has"
+},
+{
+"key": "C",
+"text": "may"
+},
+{
+"key": "D",
+"text": "did"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"May be returned\" is the modal passive."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "The main entrance has a new door."
+},
+{
+"key": "B",
+"text": "Reading is a popular hobby for all ages."
+},
+{
+"key": "C",
+"text": "The library was built in 1965."
+},
+{
+"key": "D",
+"text": "Borrowers who need materials during this time may visit another branch."
+}
+],
+"correctAnswer": "D",
+"explanation": "The sentence should explain what readers can do during the closure."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "accessible"
+},
+{
+"key": "B",
+"text": "access"
+},
+{
+"key": "C",
+"text": "accessibly"
+},
+{
+"key": "D",
+"text": "accessing"
+}
+],
+"correctAnswer": "A",
+"explanation": "After \"will be\", an adjective is needed."
+}
+]
+},
+{
+"id": "p6x-012",
+"title": "Office Renovation Schedule",
+"type": "Memo",
+"text": "To: All Staff\nSubject: Renovation of the third floor\nRenovation work on the third floor is scheduled to begin on April 8 and is expected [131] eight weeks. During this time, the accounting and legal departments will relocate to the fifth floor. Staff will be notified [132] their new desk assignments by April 1. [133]. The building will remain open as usual, but some noise should be expected during working hours. We [134] your cooperation and apologize for any disturbance.",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "lasting"
+},
+{
+"key": "B",
+"text": "last"
+},
+{
+"key": "C",
+"text": "lasted"
+},
+{
+"key": "D",
+"text": "to last"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"Is expected to\" is followed by the infinitive."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "of"
+},
+{
+"key": "B",
+"text": "for to"
+},
+{
+"key": "C",
+"text": "on"
+},
+{
+"key": "D",
+"text": "at"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Notified of\" is the standard collocation."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "The fifth floor has a large terrace."
+},
+{
+"key": "B",
+"text": "Moving boxes will be provided by the facilities team."
+},
+{
+"key": "C",
+"text": "The legal team recently hired two lawyers."
+},
+{
+"key": "D",
+"text": "Eight weeks is approximately two months."
+}
+],
+"correctAnswer": "B",
+"explanation": "The sentence should give practical information about the move."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "appreciation"
+},
+{
+"key": "B",
+"text": "appreciative"
+},
+{
+"key": "C",
+"text": "appreciate"
+},
+{
+"key": "D",
+"text": "appreciating"
+}
+],
+"correctAnswer": "C",
+"explanation": "After the subject \"We\", a present-tense verb is needed."
+}
+]
+},
+{
+"id": "p6x-013",
+"title": "Interview Invitation",
+"type": "Email",
+"text": "Dear Ms. Navarro,\nThank you for applying for the position of marketing coordinator. We were [131] impressed by your résumé and would like to invite you for an interview. The interview is scheduled for Tuesday, May 7, at 10:30 a.m. at our office on Harbor Street. [132]. You will meet with the marketing director and a member of the human resources team. Please bring a copy of your portfolio and two [133] of identification. If this time is not convenient, please let us know and we will [134] another appointment.\nSincerely,\nElena Brooks, Human Resources",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "favorable"
+},
+{
+"key": "B",
+"text": "favoring"
+},
+{
+"key": "C",
+"text": "favor"
+},
+{
+"key": "D",
+"text": "favorably"
+}
+],
+"correctAnswer": "D",
+"explanation": "An adverb modifies the participle \"impressed\"."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "Our company has over two hundred employees."
+},
+{
+"key": "B",
+"text": "The meeting should take about forty-five minutes."
+},
+{
+"key": "C",
+"text": "Harbor Street is a busy road."
+},
+{
+"key": "D",
+"text": "Parking is difficult downtown."
+}
+],
+"correctAnswer": "B",
+"explanation": "The sentence should give more detail about the interview."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "form"
+},
+{
+"key": "B",
+"text": "formal"
+},
+{
+"key": "C",
+"text": "forms"
+},
+{
+"key": "D",
+"text": "formation"
+}
+],
+"correctAnswer": "C",
+"explanation": "After \"two\", a plural noun is needed."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "arrange"
+},
+{
+"key": "B",
+"text": "arranged"
+},
+{
+"key": "C",
+"text": "arranging"
+},
+{
+"key": "D",
+"text": "arrangement"
+}
+],
+"correctAnswer": "A",
+"explanation": "After \"will\", the base verb is needed."
+}
+]
+},
+{
+"id": "p6x-014",
+"title": "Visitor Badge Procedure",
+"type": "Email",
+"text": "To: All Staff\nFrom: Security Office\nSubject: Visitor badges\nEffective Monday, every visitor to the building must wear a badge at all times. Please [131] your guests at the front desk, where they will sign in and receive a badge. Visitors who arrive without an appointment will be asked to wait in the lobby. [132], staff members are responsible for accompanying their visitors on all floors. Badges must be returned when the visitor [133]. We [134] that these steps will keep our workplace safe.",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "meet"
+},
+{
+"key": "B",
+"text": "met"
+},
+{
+"key": "C",
+"text": "meets"
+},
+{
+"key": "D",
+"text": "meeting"
+}
+],
+"correctAnswer": "A",
+"explanation": "After \"please\", the base verb is needed."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "Instead"
+},
+{
+"key": "B",
+"text": "Nevertheless"
+},
+{
+"key": "C",
+"text": "For example"
+},
+{
+"key": "D",
+"text": "In addition"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"In addition\" adds another rule to the procedure."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "will leave"
+},
+{
+"key": "B",
+"text": "leaving"
+},
+{
+"key": "C",
+"text": "leaves"
+},
+{
+"key": "D",
+"text": "left"
+}
+],
+"correctAnswer": "C",
+"explanation": "After \"when\", a present-tense verb is used for a future event."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "believes"
+},
+{
+"key": "B",
+"text": "believe"
+},
+{
+"key": "C",
+"text": "believing"
+},
+{
+"key": "D",
+"text": "belief"
+}
+],
+"correctAnswer": "B",
+"explanation": "After the subject \"We\", a present-tense plural verb is needed."
+}
+]
+},
+{
+"id": "p6x-015",
+"title": "Water Supply Interruption",
+"type": "Notice",
+"text": "Notice to Residents of Fairview Heights\nThe water supply to all buildings on Fairview Heights will be [131] on Tuesday, April 9, from 9:00 a.m. to 1:00 p.m. The interruption is necessary so that workers can replace an old pipe on Orchard Lane. [132]. Residents are advised to store enough water for cooking and drinking before the work begins. Water service will return to normal as soon as the work is [133]. For any questions, please [134] the Public Works Department.",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "shuts off"
+},
+{
+"key": "B",
+"text": "shut off to"
+},
+{
+"key": "C",
+"text": "shutting off"
+},
+{
+"key": "D",
+"text": "shut off"
+}
+],
+"correctAnswer": "D",
+"explanation": "After \"will be\", the past participle \"shut off\" forms the passive."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "We apologize for any inconvenience this may cause."
+},
+{
+"key": "B",
+"text": "Many residents have lived here for decades."
+},
+{
+"key": "C",
+"text": "Orchard Lane is a popular shopping street."
+},
+{
+"key": "D",
+"text": "The pipe was installed in the year 1975."
+}
+],
+"correctAnswer": "A",
+"explanation": "The sentence should respond to the problem caused by the work."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "completion"
+},
+{
+"key": "B",
+"text": "completed"
+},
+{
+"key": "C",
+"text": "completing"
+},
+{
+"key": "D",
+"text": "complete"
+}
+],
+"correctAnswer": "B",
+"explanation": "After \"is\", the past participle completes the passive."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "contacted"
+},
+{
+"key": "B",
+"text": "contacts"
+},
+{
+"key": "C",
+"text": "contact"
+},
+{
+"key": "D",
+"text": "contacting"
+}
+],
+"correctAnswer": "C",
+"explanation": "After \"please\", the base verb is needed."
+}
+]
+},
+{
+"id": "p6x-016",
+"title": "Membership Renewal",
+"type": "Letter",
+"text": "Dear Ms. Okafor,\nYour membership at the Greenway Fitness Club will expire on June 30. To continue enjoying our facilities, please renew [131] the end of the month. As a long-time member, you are [132] for a twenty percent discount if you renew for a full year. [133], this offer is available only until June 15. You can renew online or at the front desk. If you have [134] questions about the new rates, we would be happy to help.\nSincerely,\nCustomer Service Team",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "until"
+},
+{
+"key": "B",
+"text": "by"
+},
+{
+"key": "C",
+"text": "during"
+},
+{
+"key": "D",
+"text": "since"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"By the end of the month\" sets a deadline."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "eligibility"
+},
+{
+"key": "B",
+"text": "eligibleness"
+},
+{
+"key": "C",
+"text": "eligibly"
+},
+{
+"key": "D",
+"text": "eligible"
+}
+],
+"correctAnswer": "D",
+"explanation": "After \"are\", an adjective is needed."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "Moreover"
+},
+{
+"key": "B",
+"text": "Likewise"
+},
+{
+"key": "C",
+"text": "However"
+},
+{
+"key": "D",
+"text": "Therefore"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"However\" introduces a limit on the offer."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "any"
+},
+{
+"key": "B",
+"text": "every"
+},
+{
+"key": "C",
+"text": "another"
+},
+{
+"key": "D",
+"text": "each"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Any\" is used with plural nouns in an if-clause."
+}
+]
+},
+{
+"id": "p6x-017",
+"title": "New Public Library Opens",
+"type": "Article",
+"text": "The city's new public library will open its doors on Saturday, August 3. Located next to Riverside Park, the building has three floors and room for more than one hundred thousand books. [131] a large children's section, the library also offers a quiet study area and a small café. Librarian Helen Ruiz said that the building was designed to be [132] to everyone, including people with limited mobility. [133]. Visitors can register for free library cards at the information desk. The grand opening ceremony will [134] at ten o'clock.",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "Whereas"
+},
+{
+"key": "B",
+"text": "Unless"
+},
+{
+"key": "C",
+"text": "Despite"
+},
+{
+"key": "D",
+"text": "Besides"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"Besides a large children's section\" adds more features."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "accessing"
+},
+{
+"key": "B",
+"text": "accessible"
+},
+{
+"key": "C",
+"text": "access"
+},
+{
+"key": "D",
+"text": "accessibly"
+}
+],
+"correctAnswer": "B",
+"explanation": "After \"be\", an adjective is needed."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "The park next door was built in 1990."
+},
+{
+"key": "B",
+"text": "The café sells coffee and cakes."
+},
+{
+"key": "C",
+"text": "Ramps and elevators have been installed on every floor."
+},
+{
+"key": "D",
+"text": "Books are made of paper."
+}
+],
+"correctAnswer": "C",
+"explanation": "The sentence should support the claim about accessibility."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "begin"
+},
+{
+"key": "B",
+"text": "began"
+},
+{
+"key": "C",
+"text": "begins"
+},
+{
+"key": "D",
+"text": "beginning"
+}
+],
+"correctAnswer": "A",
+"explanation": "After \"will\", the base verb is needed."
+}
+]
+},
+{
+"id": "p6x-018",
+"title": "Mountain View Hotel Spring Package",
+"type": "Advertisement",
+"text": "Escape the city this spring with the Mountain View Hotel's special package. For just two hundred dollars per night, you will receive a [131] room with a view of the lake, breakfast for two, and free use of our spa. [132], guests who book three nights or more will enjoy a free dinner at our restaurant. The offer is valid from April 1 through May 31. Rooms are limited, so we [133] that you book early. To make a reservation, [134] our Web site or call 555-0147.",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "space"
+},
+{
+"key": "B",
+"text": "spacious"
+},
+{
+"key": "C",
+"text": "spaciousness"
+},
+{
+"key": "D",
+"text": "spaciously"
+}
+],
+"correctAnswer": "B",
+"explanation": "Before the noun \"room\", an adjective is needed."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "Additionally"
+},
+{
+"key": "B",
+"text": "Instead"
+},
+{
+"key": "C",
+"text": "Otherwise"
+},
+{
+"key": "D",
+"text": "Meanwhile"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Additionally\" adds another benefit to the package."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "recommending"
+},
+{
+"key": "B",
+"text": "recommendation"
+},
+{
+"key": "C",
+"text": "recommends"
+},
+{
+"key": "D",
+"text": "recommend"
+}
+],
+"correctAnswer": "D",
+"explanation": "After the subject \"we\", a present-tense plural verb is needed."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "visiting"
+},
+{
+"key": "B",
+"text": "visited"
+},
+{
+"key": "C",
+"text": "visit"
+},
+{
+"key": "D",
+"text": "visits"
+}
+],
+"correctAnswer": "C",
+"explanation": "After \"to make a reservation\", an imperative verb is needed."
+}
+]
+},
+{
+"id": "p6x-019",
+"title": "Remote Work Equipment",
+"type": "Memo",
+"text": "To: All Employees\nFrom: Information Technology\nEmployees who work from home at least two days a week may now request a company laptop and a second monitor. Requests must be [131] through the IT portal and approved by a manager. [132]. Employees should expect delivery within ten business days of approval. All equipment remains company [133] and must be returned when employment ends. If you have a technical problem, you can reach the help desk [134] e-mail or telephone.",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "submission"
+},
+{
+"key": "B",
+"text": "submitting"
+},
+{
+"key": "C",
+"text": "submitted"
+},
+{
+"key": "D",
+"text": "submit"
+}
+],
+"correctAnswer": "C",
+"explanation": "After \"must be\", the past participle is needed."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "Equipment will be shipped directly to the employee's home."
+},
+{
+"key": "B",
+"text": "Many companies use cloud software."
+},
+{
+"key": "C",
+"text": "The IT department has twenty-five employees."
+},
+{
+"key": "D",
+"text": "The portal was launched in 2018."
+}
+],
+"correctAnswer": "A",
+"explanation": "The sentence should give more information about the process after approval."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "propertied"
+},
+{
+"key": "B",
+"text": "property"
+},
+{
+"key": "C",
+"text": "properties"
+},
+{
+"key": "D",
+"text": "proper"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Company property\" is the correct noun phrase."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "of"
+},
+{
+"key": "B",
+"text": "at"
+},
+{
+"key": "C",
+"text": "on"
+},
+{
+"key": "D",
+"text": "by"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"By e-mail or telephone\" shows the method."
+}
+]
+},
+{
+"id": "p6x-020",
+"title": "Conference Registration Confirmation",
+"type": "Email",
+"text": "Dear Mr. Haddad,\nThank you for registering for the Asia Pacific Trade Conference. Your registration is now [131]. The conference will take place at the Marina Convention Center from June 12 to 14. [132], please bring a photo ID to the registration desk to collect your badge. A shuttle will run between the conference center and the main hotels [133] the three days. If you need to cancel, you must notify us in writing [134] May 30 to receive a full refund.\nBest regards,\nConference Office",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "completely"
+},
+{
+"key": "B",
+"text": "completing"
+},
+{
+"key": "C",
+"text": "completion"
+},
+{
+"key": "D",
+"text": "complete"
+}
+],
+"correctAnswer": "D",
+"explanation": "After \"is\", an adjective is needed."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "On arrival"
+},
+{
+"key": "B",
+"text": "In conclusion"
+},
+{
+"key": "C",
+"text": "As a result"
+},
+{
+"key": "D",
+"text": "By contrast"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"On arrival\" tells when the photo ID is needed."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "since"
+},
+{
+"key": "B",
+"text": "between"
+},
+{
+"key": "C",
+"text": "throughout"
+},
+{
+"key": "D",
+"text": "until"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Throughout the three days\" means during the whole period."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "among"
+},
+{
+"key": "B",
+"text": "before"
+},
+{
+"key": "C",
+"text": "beside"
+},
+{
+"key": "D",
+"text": "during"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Before May 30\" sets the deadline."
+}
+]
+},
+{
+"id": "p6x-021",
+"title": "Employee Wellness Program",
+"type": "Announcement",
+"text": "We are excited to announce the launch of our new employee wellness program. Starting next month, all staff will have access to a discounted gym membership, free yoga classes, and a monthly health [131]. Employees who participate for six months will [132] a bonus day off. [133]. Participation is voluntary, and all personal health information will be kept confidential. We hope that many of you will [134] advantage of these new benefits.",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "screens"
+},
+{
+"key": "B",
+"text": "screening"
+},
+{
+"key": "C",
+"text": "screen"
+},
+{
+"key": "D",
+"text": "screened"
+}
+],
+"correctAnswer": "B",
+"explanation": "After \"health\", a noun is needed."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "receiving"
+},
+{
+"key": "B",
+"text": "received"
+},
+{
+"key": "C",
+"text": "receive"
+},
+{
+"key": "D",
+"text": "receives"
+}
+],
+"correctAnswer": "C",
+"explanation": "After \"will\", the base verb is needed."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "Employees are paid every two weeks."
+},
+{
+"key": "B",
+"text": "The gym was built in 2005."
+},
+{
+"key": "C",
+"text": "Yoga originated in India."
+},
+{
+"key": "D",
+"text": "Details can be found on the company intranet."
+}
+],
+"correctAnswer": "D",
+"explanation": "The sentence should lead the reader to more information."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "take"
+},
+{
+"key": "B",
+"text": "do"
+},
+{
+"key": "C",
+"text": "make"
+},
+{
+"key": "D",
+"text": "get"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Take advantage of\" is the correct expression."
+}
+]
+},
+{
+"id": "p6x-022",
+"title": "Supplier Agreement Extension",
+"type": "Letter",
+"text": "Dear Mr. Lindgren,\nThank you for your letter regarding the extension of our supply agreement. We have [131] reviewed the terms, and we would be glad to continue working together. [132], we would like to discuss a few changes to the delivery schedule. Currently, shipments arrive on the first and fifteenth of each month. We would prefer [133] shipments weekly, since our storage space is limited. Please let us know when you are available to [134] this proposal.\nYours sincerely,\nPaula Nunez",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "careful"
+},
+{
+"key": "B",
+"text": "caring"
+},
+{
+"key": "C",
+"text": "care"
+},
+{
+"key": "D",
+"text": "carefully"
+}
+],
+"correctAnswer": "D",
+"explanation": "An adverb is needed between \"have\" and the participle \"reviewed\"."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "Unless"
+},
+{
+"key": "B",
+"text": "However"
+},
+{
+"key": "C",
+"text": "Therefore"
+},
+{
+"key": "D",
+"text": "Because"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"However\" introduces a contrast with the previous welcome statement."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "receive"
+},
+{
+"key": "B",
+"text": "receiving of"
+},
+{
+"key": "C",
+"text": "to receive"
+},
+{
+"key": "D",
+"text": "received"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Would prefer\" is followed by \"to + verb\"."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "discuss"
+},
+{
+"key": "B",
+"text": "discussion"
+},
+{
+"key": "C",
+"text": "discussed"
+},
+{
+"key": "D",
+"text": "discussing"
+}
+],
+"correctAnswer": "A",
+"explanation": "After \"to\", the base verb is needed."
+}
+]
+},
+{
+"id": "p6x-023",
+"title": "Electric Buses Arrive",
+"type": "Article",
+"text": "Starting next week, the city transit authority will put twenty new electric buses into service on routes 4, 9, and 15. The buses are [131] quieter than diesel models and produce no exhaust. [132], the buses can travel up to three hundred kilometers on a single charge. Transit officials say that the [133] will save about two million dollars in fuel and maintenance over the next decade. [134]. Passengers will notice that the new buses have free wireless Internet and charging ports at every seat.",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "much"
+},
+{
+"key": "B",
+"text": "many"
+},
+{
+"key": "C",
+"text": "very"
+},
+{
+"key": "D",
+"text": "most"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Much quieter\" modifies the comparative adjective."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "Likewise"
+},
+{
+"key": "B",
+"text": "For instance"
+},
+{
+"key": "C",
+"text": "Nevertheless"
+},
+{
+"key": "D",
+"text": "In addition"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"In addition\" introduces another advantage."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "changes to"
+},
+{
+"key": "B",
+"text": "change"
+},
+{
+"key": "C",
+"text": "changed"
+},
+{
+"key": "D",
+"text": "changing"
+}
+],
+"correctAnswer": "B",
+"explanation": "After \"the\", a noun is needed."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "The authority was founded in 1960."
+},
+{
+"key": "B",
+"text": "Many cities have rivers."
+},
+{
+"key": "C",
+"text": "Other improvements are also visible inside."
+},
+{
+"key": "D",
+"text": "Diesel prices rose last year."
+}
+],
+"correctAnswer": "C",
+"explanation": "The sentence introduces the passenger features that follow."
+}
+]
+},
+{
+"id": "p6x-024",
+"title": "Using the Conference Phone",
+"type": "Instructions",
+"text": "To start a conference call, first press the green button on the base of the phone. Wait for the tone, and then [131] the number of the first participant. When the call is answered, press the \"Add\" button and repeat the process for each additional person. [132]. If the sound quality is poor, move the phone [133] from the computer or other devices. To end the call, press the red button once. Do not unplug the unit while it is [134].",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "dials"
+},
+{
+"key": "B",
+"text": "dialing"
+},
+{
+"key": "C",
+"text": "dial"
+},
+{
+"key": "D",
+"text": "dialed"
+}
+],
+"correctAnswer": "C",
+"explanation": "In instructions, the base verb is used."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "Up to six people can join the same call."
+},
+{
+"key": "B",
+"text": "The red button is larger than the green one."
+},
+{
+"key": "C",
+"text": "Conference rooms are available on the second floor."
+},
+{
+"key": "D",
+"text": "The phone was manufactured in Germany."
+}
+],
+"correctAnswer": "A",
+"explanation": "The sentence should give a helpful limit or fact about the procedure."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "beside"
+},
+{
+"key": "B",
+"text": "away"
+},
+{
+"key": "C",
+"text": "toward"
+},
+{
+"key": "D",
+"text": "inside"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Away from\" gives the correct direction for reducing interference."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "operate"
+},
+{
+"key": "B",
+"text": "operation"
+},
+{
+"key": "C",
+"text": "operated"
+},
+{
+"key": "D",
+"text": "operating"
+}
+],
+"correctAnswer": "D",
+"explanation": "After \"is\", the present participle shows the current action."
+}
+]
+},
+{
+"id": "p6x-025",
+"title": "Delayed Job Start Date",
+"type": "Email",
+"text": "Dear Ms. Patel,\nI am writing to confirm the new start date for your position as research assistant. Because of a delay in processing your work permit, your first day will now be March 18 [131] March 4. I apologize for the inconvenience. [132]. In the meantime, we have sent a copy of the employee handbook to your e-mail address. Please read it carefully and [133] any questions to me. On your first day, you should report to the front desk at nine o'clock, and someone will [134] you to your department.\nBest wishes,\nKaren Lowe, Human Resources",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "in spite"
+},
+{
+"key": "B",
+"text": "instead of"
+},
+{
+"key": "C",
+"text": "rather"
+},
+{
+"key": "D",
+"text": "as well"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Instead of March 4\" shows the replaced date."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "The research department has a new director."
+},
+{
+"key": "B",
+"text": "The office closes at six."
+},
+{
+"key": "C",
+"text": "We understand that you may have made travel plans."
+},
+{
+"key": "D",
+"text": "Work permits are issued by the government."
+}
+],
+"correctAnswer": "C",
+"explanation": "The sentence should show concern for the delay's effect on the employee."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "send"
+},
+{
+"key": "B",
+"text": "sent"
+},
+{
+"key": "C",
+"text": "sends"
+},
+{
+"key": "D",
+"text": "sending"
+}
+],
+"correctAnswer": "A",
+"explanation": "After \"and\" in a polite request, the base verb continues the imperative."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "go"
+},
+{
+"key": "B",
+"text": "come"
+},
+{
+"key": "C",
+"text": "bring"
+},
+{
+"key": "D",
+"text": "take"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"Take you to your department\" means to guide someone there."
+}
+]
+},
+{
+"id": "p6x-026",
+"title": "Fire Drill Reminder",
+"type": "Notice",
+"text": "A fire drill will be held on Wednesday, October 16, at 10:30 a.m. When the alarm sounds, all employees [131] leave the building immediately by the nearest exit. Do not use the elevators. Please walk to the assembly point in the parking lot, [132] each department leader will check attendance. The drill should take no more than [133] minutes. [134]. Visitors will be guided by their hosts, and anyone who needs assistance should inform the safety officer in advance.",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "must"
+},
+{
+"key": "B",
+"text": "would"
+},
+{
+"key": "C",
+"text": "can"
+},
+{
+"key": "D",
+"text": "may"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Must\" expresses a required action."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "when"
+},
+{
+"key": "B",
+"text": "where"
+},
+{
+"key": "C",
+"text": "which"
+},
+{
+"key": "D",
+"text": "what"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Where\" refers to the place, the parking lot."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "a fifteen"
+},
+{
+"key": "B",
+"text": "fifteens"
+},
+{
+"key": "C",
+"text": "fifteen"
+},
+{
+"key": "D",
+"text": "fifteenth"
+}
+],
+"correctAnswer": "C",
+"explanation": "A cardinal number is needed before \"minutes\"."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "Wednesday is a busy day."
+},
+{
+"key": "B",
+"text": "The parking lot was resurfaced recently."
+},
+{
+"key": "C",
+"text": "The safety officer joined the company last year."
+},
+{
+"key": "D",
+"text": "Everyone is required to take part."
+}
+],
+"correctAnswer": "D",
+"explanation": "The sentence should state who must participate."
+}
+]
+},
+{
+"id": "p6x-027",
+"title": "Cafe Bella Review",
+"type": "Review",
+"text": "Cafe Bella, which opened last month on Hayes Street, is already a favorite among local professionals. The menu is [131] but well-chosen, with six salads, five sandwiches, and a daily soup. [132], the prices are lower than at most other cafés in the area. The staff is friendly and fast, and the dining room is bright and clean. [133]. The only complaint is that the café can become crowded at lunchtime. Customers who want to avoid the rush [134] arrive before noon.",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "shorten"
+},
+{
+"key": "B",
+"text": "shortness"
+},
+{
+"key": "C",
+"text": "short"
+},
+{
+"key": "D",
+"text": "shortly"
+}
+],
+"correctAnswer": "C",
+"explanation": "After \"is\", an adjective is needed."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "Otherwise"
+},
+{
+"key": "B",
+"text": "Despite"
+},
+{
+"key": "C",
+"text": "For example"
+},
+{
+"key": "D",
+"text": "Moreover"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"Moreover\" adds another positive point."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "Coffee beans come from many countries."
+},
+{
+"key": "B",
+"text": "The coffee is also freshly roasted every morning."
+},
+{
+"key": "C",
+"text": "The café has two doors."
+},
+{
+"key": "D",
+"text": "The street was named after a mayor."
+}
+],
+"correctAnswer": "B",
+"explanation": "The sentence should add another positive detail about the café."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "should"
+},
+{
+"key": "B",
+"text": "will to"
+},
+{
+"key": "C",
+"text": "ought"
+},
+{
+"key": "D",
+"text": "might to"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Should arrive\" gives advice."
+}
+]
+},
+{
+"id": "p6x-028",
+"title": "Online Banking Upgrade",
+"type": "Announcement",
+"text": "Starting on May 20, First Harbor Bank will [131] a new online banking system. The new system will be easier to use and will offer additional security features. [132], online banking will be unavailable from midnight on May 18 until six a.m. on May 20 while we make the change. Customers will [133] to create a new password the first time they log in. [134]. For help, please call our customer service line or visit any branch.",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "introduces"
+},
+{
+"key": "B",
+"text": "introduced"
+},
+{
+"key": "C",
+"text": "introducing"
+},
+{
+"key": "D",
+"text": "introduce"
+}
+],
+"correctAnswer": "D",
+"explanation": "After \"will\", the base verb is needed."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "In case of"
+},
+{
+"key": "B",
+"text": "Please note that"
+},
+{
+"key": "C",
+"text": "As soon as"
+},
+{
+"key": "D",
+"text": "Even though"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Please note that\" introduces the necessary warning."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "needs"
+},
+{
+"key": "B",
+"text": "needing"
+},
+{
+"key": "C",
+"text": "need"
+},
+{
+"key": "D",
+"text": "needed"
+}
+],
+"correctAnswer": "C",
+"explanation": "After \"will\", the base verb is needed."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "Instructions will be sent to your e-mail address."
+},
+{
+"key": "B",
+"text": "Interest rates changed last year."
+},
+{
+"key": "C",
+"text": "The bank has branches in several cities."
+},
+{
+"key": "D",
+"text": "Banking began in ancient times."
+}
+],
+"correctAnswer": "A",
+"explanation": "The sentence should tell customers where to find directions for the new password."
+}
+]
+},
+{
+"id": "p6x-029",
+"title": "Office Supply Order Problem",
+"type": "Email",
+"text": "Dear Customer Service,\nI am writing about order number 78114, which I [131] on March 3. The shipment arrived yesterday, but it contained only half of the items I ordered. [132], the printer paper and the ink cartridges are missing. Because we are running out of both items, I need them [133]. [134]. Please let me know when I can expect them. If they cannot be sent within three days, I would like to cancel the missing items and receive a refund.\nRegards,\nTomas Weber",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "am placing"
+},
+{
+"key": "B",
+"text": "placing"
+},
+{
+"key": "C",
+"text": "placed"
+},
+{
+"key": "D",
+"text": "have placed"
+}
+],
+"correctAnswer": "C",
+"explanation": "The past simple verb refers to a specific past date."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "In particular"
+},
+{
+"key": "B",
+"text": "In the meantime"
+},
+{
+"key": "C",
+"text": "On the other hand"
+},
+{
+"key": "D",
+"text": "By contrast"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"In particular\" specifies which items are missing."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "urgent"
+},
+{
+"key": "B",
+"text": "urgently"
+},
+{
+"key": "C",
+"text": "more urgent"
+},
+{
+"key": "D",
+"text": "urgency"
+}
+],
+"correctAnswer": "B",
+"explanation": "An adverb modifies the verb \"need\"."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "Office supplies are sold in many stores."
+},
+{
+"key": "B",
+"text": "Your Web site was easy to use."
+},
+{
+"key": "C",
+"text": "I have been a customer for six years."
+},
+{
+"key": "D",
+"text": "I would appreciate it if you could send them immediately."
+}
+],
+"correctAnswer": "D",
+"explanation": "The sentence should make a request that follows from the problem."
+}
+]
+},
+{
+"id": "p6x-030",
+"title": "Interview Feedback",
+"type": "Email",
+"text": "To: Jonas Weber\nFrom: Shirin Haddad\nSubject: Your interview on Tuesday\nDear Jonas,\nThank you for taking the time to interview for the sales analyst position. The panel was [131] impressed by your knowledge of our industry. [132], we have decided to move forward with another candidate whose experience in forecasting is more extensive. This was a difficult decision, as the competition was [133]. We will keep your résumé on file and [134] you if a suitable position becomes available.\nBest wishes,\nShirin Haddad",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "favorably"
+},
+{
+"key": "B",
+"text": "favoring"
+},
+{
+"key": "C",
+"text": "favor"
+},
+{
+"key": "D",
+"text": "favorable"
+}
+],
+"correctAnswer": "A",
+"explanation": "An adverb modifies the participle \"impressed\"."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "Therefore"
+},
+{
+"key": "B",
+"text": "Moreover"
+},
+{
+"key": "C",
+"text": "Nevertheless"
+},
+{
+"key": "D",
+"text": "Similarly"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Nevertheless\" introduces the unexpected negative decision after praise."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "strongly"
+},
+{
+"key": "B",
+"text": "strong"
+},
+{
+"key": "C",
+"text": "strength"
+},
+{
+"key": "D",
+"text": "strengthen"
+}
+],
+"correctAnswer": "B",
+"explanation": "After \"was\", an adjective is needed."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "contacting"
+},
+{
+"key": "B",
+"text": "contacted"
+},
+{
+"key": "C",
+"text": "contacts"
+},
+{
+"key": "D",
+"text": "contact"
+}
+],
+"correctAnswer": "D",
+"explanation": "After \"will\", the base verb is needed."
+}
+]
+},
+{
+"id": "p6x-031",
+"title": "Street Cleaning Schedule",
+"type": "Notice",
+"text": "Residents of Elm Park are reminded that street cleaning will take place on the first and third Monday of each month from 8:00 a.m. to 11:00 a.m. Vehicles parked on the street [131] be moved before 8:00 a.m. [132]. Cars that remain on the street will be towed at the owner's expense, and a fine of seventy-five dollars will [133]. Free parking is available in the lot behind the community center during cleaning hours. [134] information, please visit the city's Web site.",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "might"
+},
+{
+"key": "B",
+"text": "must"
+},
+{
+"key": "C",
+"text": "would"
+},
+{
+"key": "D",
+"text": "could"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Must\" expresses a requirement."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "Elm Park is a quiet neighborhood."
+},
+{
+"key": "B",
+"text": "Street cleaning machines are very large."
+},
+{
+"key": "C",
+"text": "Please make sure that no vehicles are left on the street."
+},
+{
+"key": "D",
+"text": "The community center was built in 1985."
+}
+],
+"correctAnswer": "C",
+"explanation": "The sentence should state what residents need to do."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "apply"
+},
+{
+"key": "B",
+"text": "applying"
+},
+{
+"key": "C",
+"text": "applied"
+},
+{
+"key": "D",
+"text": "applies"
+}
+],
+"correctAnswer": "A",
+"explanation": "After \"will\", the base verb is needed."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "With few"
+},
+{
+"key": "B",
+"text": "At much"
+},
+{
+"key": "C",
+"text": "Of any"
+},
+{
+"key": "D",
+"text": "For more"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"For more information\" is the standard expression."
+}
+]
+},
+{
+"id": "p6x-032",
+"title": "City Introduces Bike Sharing",
+"type": "Article",
+"text": "Starting this spring, the city of Ravenswood will offer a new bike-sharing program with two hundred bikes available at forty stations around town. Users can [131] a bike with a smartphone app and return it to any station. [132]. A thirty-minute ride will cost one dollar, and monthly passes are available for fifteen dollars. City officials hope the program will [133] traffic and pollution downtown. Similar programs in other cities have been very [134], with many residents using them to commute.",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "unlock"
+},
+{
+"key": "B",
+"text": "unlocked"
+},
+{
+"key": "C",
+"text": "unlocks"
+},
+{
+"key": "D",
+"text": "unlocking"
+}
+],
+"correctAnswer": "A",
+"explanation": "After \"can\", the base verb is needed."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "Smartphones are becoming more common."
+},
+{
+"key": "B",
+"text": "The city was founded in 1850."
+},
+{
+"key": "C",
+"text": "Bicycles have two wheels."
+},
+{
+"key": "D",
+"text": "The prices are designed to be affordable for everyone."
+}
+],
+"correctAnswer": "D",
+"explanation": "The sentence introduces the price information that follows."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "reduced"
+},
+{
+"key": "B",
+"text": "reduce"
+},
+{
+"key": "C",
+"text": "reduction"
+},
+{
+"key": "D",
+"text": "reducing"
+}
+],
+"correctAnswer": "B",
+"explanation": "After \"will\", the base verb is needed."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "success"
+},
+{
+"key": "B",
+"text": "successfully"
+},
+{
+"key": "C",
+"text": "successful"
+},
+{
+"key": "D",
+"text": "succeed"
+}
+],
+"correctAnswer": "C",
+"explanation": "After \"very\", an adjective is needed."
+}
+]
+},
+{
+"id": "p6x-033",
+"title": "Job Offer Letter",
+"type": "Letter",
+"text": "Dear Ms. Tan,\nWe are pleased to [131] you the position of financial analyst at Corbett & Associates. Your annual salary will be $68,000, and you will be eligible for health insurance after ninety days. [132]. Your first day of work will be Monday, July 8. On that day, please report to the human resources office on the fourth floor, [133] you will complete some paperwork. Please sign and return the enclosed copy of this letter [134] June 21 to confirm your acceptance.\nSincerely,\nBrian Holt",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "offering"
+},
+{
+"key": "B",
+"text": "offers"
+},
+{
+"key": "C",
+"text": "offered"
+},
+{
+"key": "D",
+"text": "offer"
+}
+],
+"correctAnswer": "D",
+"explanation": "After \"to\", the base verb is needed."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "The fourth floor has a large kitchen."
+},
+{
+"key": "B",
+"text": "Corbett & Associates was founded in 1972."
+},
+{
+"key": "C",
+"text": "You will also receive twenty days of paid vacation each year."
+},
+{
+"key": "D",
+"text": "Many analysts work in the finance industry."
+}
+],
+"correctAnswer": "C",
+"explanation": "The sentence adds a further benefit of the job."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "where"
+},
+{
+"key": "B",
+"text": "who"
+},
+{
+"key": "C",
+"text": "what"
+},
+{
+"key": "D",
+"text": "when"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Where\" refers to the human resources office, a place."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "in"
+},
+{
+"key": "B",
+"text": "by"
+},
+{
+"key": "C",
+"text": "on"
+},
+{
+"key": "D",
+"text": "at"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"By June 21\" sets a deadline."
+}
+]
+},
+{
+"id": "p6x-034",
+"title": "Software Update",
+"type": "Email",
+"text": "To: All Users\nFrom: IT Help Desk\nSubject: System update this weekend\nThis weekend, we will update the company's accounting software to the latest version. The system will be [131] from Saturday at 6 p.m. until Sunday at noon. [132], you will not be able to log in or run reports during this time. We recommend that you save your work and log out before 5:30 p.m. on Saturday. After the update, you [133] to enter a new password. [134]. Please contact the help desk if you encounter any issues.",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "unavailability"
+},
+{
+"key": "B",
+"text": "unavailably"
+},
+{
+"key": "C",
+"text": "unavailing"
+},
+{
+"key": "D",
+"text": "unavailable"
+}
+],
+"correctAnswer": "D",
+"explanation": "After \"will be\", an adjective is needed."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "Rather"
+},
+{
+"key": "B",
+"text": "Similarly"
+},
+{
+"key": "C",
+"text": "Accordingly"
+},
+{
+"key": "D",
+"text": "Otherwise"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Accordingly\" introduces the consequence of the update."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "to ask"
+},
+{
+"key": "B",
+"text": "will be asked"
+},
+{
+"key": "C",
+"text": "asked"
+},
+{
+"key": "D",
+"text": "are asking"
+}
+],
+"correctAnswer": "B",
+"explanation": "The future passive is needed here."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "A guide to the new features is attached to this e-mail."
+},
+{
+"key": "B",
+"text": "Passwords should never be shared."
+},
+{
+"key": "C",
+"text": "The software was invented in 1990."
+},
+{
+"key": "D",
+"text": "The help desk is located on the first floor."
+}
+],
+"correctAnswer": "A",
+"explanation": "The sentence gives useful information related to the update."
+}
+]
+},
+{
+"id": "p6x-035",
+"title": "Renovation Services",
+"type": "Advertisement",
+"text": "Is your kitchen outdated? At Hartwell Renovations, we turn old kitchens into modern spaces you will love. Our team of experienced designers will visit your home, [131] your needs, and suggest ideas that fit your budget. [132]. Each project includes a three-year guarantee on all work, and we use only high-quality materials. Contact us this month and receive a free estimate. [133] you book a renovation before August 31, you will also receive a twenty percent discount on appliances. Call 555-0189 to [134] an appointment.",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "assess"
+},
+{
+"key": "B",
+"text": "assessed"
+},
+{
+"key": "C",
+"text": "assessment"
+},
+{
+"key": "D",
+"text": "assessing"
+}
+],
+"correctAnswer": "A",
+"explanation": "After \"will visit, ___, and suggest\", the base verb continues the parallel structure."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "Our offices are closed on holidays."
+},
+{
+"key": "B",
+"text": "Kitchens are used for cooking."
+},
+{
+"key": "C",
+"text": "Most projects are completed within three weeks."
+},
+{
+"key": "D",
+"text": "Hartwell is a common surname."
+}
+],
+"correctAnswer": "C",
+"explanation": "The sentence adds a relevant fact about the service."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "Although"
+},
+{
+"key": "B",
+"text": "Whereas"
+},
+{
+"key": "C",
+"text": "Unless"
+},
+{
+"key": "D",
+"text": "If"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"If you book...\" gives the condition for the discount."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "scheduled"
+},
+{
+"key": "B",
+"text": "schedule"
+},
+{
+"key": "C",
+"text": "scheduling"
+},
+{
+"key": "D",
+"text": "schedules"
+}
+],
+"correctAnswer": "B",
+"explanation": "After \"to\", the base verb is needed."
+}
+]
+},
+{
+"id": "p6x-036",
+"title": "Parking Lot Resurfacing",
+"type": "Memo",
+"text": "To: All Employees\nFrom: Facilities Department\nThe east parking lot will be [131] from Friday, May 10, until Monday, May 13. During this time, employees [132] park in the west lot or on Cooper Street. [133]. Please note that the west lot fills up quickly, so we recommend arriving early. The east lot will reopen on Tuesday morning with newly painted spaces. We [134] you for your patience.",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "closed"
+},
+{
+"key": "B",
+"text": "closing"
+},
+{
+"key": "C",
+"text": "close"
+},
+{
+"key": "D",
+"text": "closure"
+}
+],
+"correctAnswer": "A",
+"explanation": "After \"will be\", the past participle is needed."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "are"
+},
+{
+"key": "B",
+"text": "should"
+},
+{
+"key": "C",
+"text": "should be"
+},
+{
+"key": "D",
+"text": "have"
+}
+],
+"correctAnswer": "B",
+"explanation": "\"Should park\" gives instruction."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "Painting takes about two days."
+},
+{
+"key": "B",
+"text": "The lot was last repaired in 2011."
+},
+{
+"key": "C",
+"text": "Cooper Street is named after a mayor."
+},
+{
+"key": "D",
+"text": "Carpooling is encouraged to reduce the number of vehicles."
+}
+],
+"correctAnswer": "D",
+"explanation": "The sentence should offer a practical suggestion about parking."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "thanking"
+},
+{
+"key": "B",
+"text": "thanked"
+},
+{
+"key": "C",
+"text": "thank"
+},
+{
+"key": "D",
+"text": "thanks"
+}
+],
+"correctAnswer": "C",
+"explanation": "After \"We\", a present-tense verb is needed."
+}
+]
+},
+{
+"id": "p6x-037",
+"title": "Museum Extends Opening Hours",
+"type": "Article",
+"text": "The Hamilton Museum of Science announced that it will extend its opening hours during the summer. From June 1 to August 31, the museum will stay open until eight o'clock every evening, [131] the usual closing time of five. The decision was made [132] visitor numbers rose sharply last year. [133]. The museum is also planning a new exhibit on space travel, which will open in July. Admission will remain at twelve dollars for adults, and children under six will [134] enter free.",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "instead of"
+},
+{
+"key": "B",
+"text": "as for"
+},
+{
+"key": "C",
+"text": "in case of"
+},
+{
+"key": "D",
+"text": "because of"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Instead of the usual closing time\" contrasts the new and old hours."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "despite"
+},
+{
+"key": "B",
+"text": "so"
+},
+{
+"key": "C",
+"text": "because"
+},
+{
+"key": "D",
+"text": "but"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Because\" gives the reason for the decision."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "Science is an interesting subject."
+},
+{
+"key": "B",
+"text": "Evening visitors will also be able to use the café."
+},
+{
+"key": "C",
+"text": "The museum was founded in 1920."
+},
+{
+"key": "D",
+"text": "The building has a large parking lot."
+}
+],
+"correctAnswer": "B",
+"explanation": "The sentence adds an extra benefit of the longer hours."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "soon"
+},
+{
+"key": "B",
+"text": "ever"
+},
+{
+"key": "C",
+"text": "yet"
+},
+{
+"key": "D",
+"text": "still"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"Will still enter free\" indicates continuation."
+}
+]
+},
+{
+"id": "p6x-038",
+"title": "Supplier Meeting Request",
+"type": "Email",
+"text": "Dear Mr. Agarwal,\nI am the purchasing manager at Brightway Foods. We [131] your company's products at last month's trade show, and we would like to explore a possible business relationship. [132]. Specifically, we are looking for a supplier of organic rice that can deliver weekly to our three warehouses. Would you be [133] to meet with us next Thursday or Friday? We could come to your office, or [134] you could visit ours. Please let me know which option you prefer.\nSincerely,\nLinda Cruz",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "noticed"
+},
+{
+"key": "B",
+"text": "notice"
+},
+{
+"key": "C",
+"text": "noticing"
+},
+{
+"key": "D",
+"text": "have noticed"
+}
+],
+"correctAnswer": "A",
+"explanation": "The past simple verb refers to last month's event."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "Warehouses are usually located near highways."
+},
+{
+"key": "B",
+"text": "We are particularly interested in your range of organic products."
+},
+{
+"key": "C",
+"text": "Our company was founded by two brothers."
+},
+{
+"key": "D",
+"text": "The trade show was held in a convention center."
+}
+],
+"correctAnswer": "B",
+"explanation": "The sentence introduces what the writer wants, followed by \"Specifically\"."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "avail"
+},
+{
+"key": "B",
+"text": "availably"
+},
+{
+"key": "C",
+"text": "availability"
+},
+{
+"key": "D",
+"text": "available"
+}
+],
+"correctAnswer": "D",
+"explanation": "After \"be\", an adjective is needed."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "besides"
+},
+{
+"key": "B",
+"text": "since"
+},
+{
+"key": "C",
+"text": "alternatively"
+},
+{
+"key": "D",
+"text": "therefore"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Alternatively\" offers another option."
+}
+]
+},
+{
+"id": "p6x-039",
+"title": "Assembling the Bookcase",
+"type": "Instructions",
+"text": "Thank you for purchasing the Oakline bookcase. Before you begin, please check that all parts are [131] the packing list. You will need a screwdriver and a hammer, which are not included. [132], lay out the side panels on a soft surface to avoid scratching them. Attach the shelves to the side panels with the screws provided, and [133] the back panel last. [134]. If any part is missing or damaged, please call our customer service line, and we will send a replacement free of charge.",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "listing at"
+},
+{
+"key": "B",
+"text": "listed of"
+},
+{
+"key": "C",
+"text": "listed on"
+},
+{
+"key": "D",
+"text": "list in"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"Listed on the packing list\" is correct."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "First"
+},
+{
+"key": "B",
+"text": "Instead"
+},
+{
+"key": "C",
+"text": "Finally"
+},
+{
+"key": "D",
+"text": "Nevertheless"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"First\" starts the sequence of steps."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "attaching"
+},
+{
+"key": "B",
+"text": "attach"
+},
+{
+"key": "C",
+"text": "attaches"
+},
+{
+"key": "D",
+"text": "attached"
+}
+],
+"correctAnswer": "B",
+"explanation": "After \"and\" in instructions, the base verb continues the imperative."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "Bookcases have been popular for centuries."
+},
+{
+"key": "B",
+"text": "Oak is a type of wood."
+},
+{
+"key": "C",
+"text": "The packing list is written in four languages."
+},
+{
+"key": "D",
+"text": "The assembly should take about forty-five minutes."
+}
+],
+"correctAnswer": "D",
+"explanation": "The sentence gives a useful fact about the procedure."
+}
+]
+},
+{
+"id": "p6x-040",
+"title": "Charity Run Registration",
+"type": "Announcement",
+"text": "Registration is now open for the Harbor City Charity Run, which will be held on Sunday, September 22. Participants can [131] between a five-kilometer and a ten-kilometer route. All proceeds will benefit the children's hospital. [132], every runner who raises at least one hundred dollars will receive a free T-shirt. [133]. The race will begin at nine o'clock at Memorial Park, and runners are asked to [134] by eight thirty to collect their numbers.",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "choose"
+},
+{
+"key": "B",
+"text": "choice"
+},
+{
+"key": "C",
+"text": "chosen"
+},
+{
+"key": "D",
+"text": "choosing"
+}
+],
+"correctAnswer": "A",
+"explanation": "After \"can\", the base verb is needed."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "In contrast"
+},
+{
+"key": "B",
+"text": "In case"
+},
+{
+"key": "C",
+"text": "In addition"
+},
+{
+"key": "D",
+"text": "In spite"
+}
+],
+"correctAnswer": "C",
+"explanation": "\"In addition\" adds another benefit."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "Running is good exercise."
+},
+{
+"key": "B",
+"text": "Water will be provided at several points along both routes."
+},
+{
+"key": "C",
+"text": "The park was named in 1950."
+},
+{
+"key": "D",
+"text": "Hospitals provide many services."
+}
+],
+"correctAnswer": "B",
+"explanation": "The sentence adds a practical detail about the event."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "arriving"
+},
+{
+"key": "B",
+"text": "arrival"
+},
+{
+"key": "C",
+"text": "arrives"
+},
+{
+"key": "D",
+"text": "arrive"
+}
+],
+"correctAnswer": "D",
+"explanation": "After \"to\", the base verb is needed."
+}
+]
+},
+{
+"id": "p6x-041",
+"title": "Apology for Billing Error",
+"type": "Letter",
+"text": "Dear Mr. Fitzgerald,\nI am writing to [131] for the mistake on your most recent bill. Our records show that you were charged twice for the same service. This error was caused by a problem in our billing system, which has now been [132]. [133]. The refund of $85.00 will appear on your account within five business days. In the future, please [134] us immediately if you notice any irregularities.\nSincerely,\nCustomer Care Manager",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "apologize"
+},
+{
+"key": "B",
+"text": "apologizing"
+},
+{
+"key": "C",
+"text": "apology"
+},
+{
+"key": "D",
+"text": "apologetic"
+}
+],
+"correctAnswer": "A",
+"explanation": "After \"to\", the base verb is needed."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "correction"
+},
+{
+"key": "B",
+"text": "correcting"
+},
+{
+"key": "C",
+"text": "corrected"
+},
+{
+"key": "D",
+"text": "correct"
+}
+],
+"correctAnswer": "C",
+"explanation": "After \"has been\", the past participle is needed."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "Your account number is on the back of the card."
+},
+{
+"key": "B",
+"text": "We have already started the process of issuing a refund."
+},
+{
+"key": "C",
+"text": "Billing systems are complicated."
+},
+{
+"key": "D",
+"text": "Our company serves customers in five countries."
+}
+],
+"correctAnswer": "B",
+"explanation": "The sentence tells what action is being taken."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "notifying"
+},
+{
+"key": "B",
+"text": "notified"
+},
+{
+"key": "C",
+"text": "notification"
+},
+{
+"key": "D",
+"text": "notify"
+}
+],
+"correctAnswer": "D",
+"explanation": "After \"please\", the base verb is needed."
+}
+]
+},
+{
+"id": "p6x-042",
+"title": "Team Building Day",
+"type": "Memo",
+"text": "To: All Department Heads\nFrom: Human Resources\nDate: May 20\nOur annual team building day will take place on Friday, June 28 at Lakeside Park. All departments are [131] to attend, and the company will provide transportation. The day will include games, a group lunch, and a short talk by a guest speaker. [132], employees who prefer a quieter activity can join a nature walk. Please inform your staff and ask them to confirm their attendance by June 14. [133]. We [134] a successful and enjoyable event.",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "expected"
+},
+{
+"key": "B",
+"text": "expect"
+},
+{
+"key": "C",
+"text": "expectation"
+},
+{
+"key": "D",
+"text": "expecting"
+}
+],
+"correctAnswer": "A",
+"explanation": "After \"are\", the past participle works as an adjective in the passive."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "Therefore"
+},
+{
+"key": "B",
+"text": "Previously"
+},
+{
+"key": "C",
+"text": "Consequently"
+},
+{
+"key": "D",
+"text": "Alternatively"
+}
+],
+"correctAnswer": "D",
+"explanation": "\"Alternatively\" offers another choice of activity."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "Lunch is usually served at noon."
+},
+{
+"key": "B",
+"text": "Lakeside Park has a large lake."
+},
+{
+"key": "C",
+"text": "The confirmations can be sent to the HR office by e-mail."
+},
+{
+"key": "D",
+"text": "Teams are a part of every company."
+}
+],
+"correctAnswer": "C",
+"explanation": "The sentence says how to send the confirmation."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "anticipation"
+},
+{
+"key": "B",
+"text": "anticipate"
+},
+{
+"key": "C",
+"text": "anticipated"
+},
+{
+"key": "D",
+"text": "anticipating"
+}
+],
+"correctAnswer": "B",
+"explanation": "After \"We\", a present-tense verb is needed."
+}
+]
+},
+{
+"id": "p6x-043",
+"title": "Restaurant Wins Award",
+"type": "Article",
+"text": "Chef Raul Mendes has been named Best New Chef by the regional dining association. His restaurant, Casa Mendes, opened [131] eighteen months ago and has already become one of the most popular dining spots in the city. [132]. Mr. Mendes, who trained in Spain, uses local ingredients in all of his dishes. \"I [133] my menu every season so that the food is always fresh,\" he said. The restaurant is [134] booked for the next three months, but a limited number of seats are available at the bar.",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "only"
+},
+{
+"key": "B",
+"text": "just as"
+},
+{
+"key": "C",
+"text": "ever"
+},
+{
+"key": "D",
+"text": "lately"
+}
+],
+"correctAnswer": "A",
+"explanation": "\"Only eighteen months ago\" stresses how recent it was."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "Many restaurants are open on Sundays."
+},
+{
+"key": "B",
+"text": "Spain is famous for its beaches."
+},
+{
+"key": "C",
+"text": "The association was founded in 1998."
+},
+{
+"key": "D",
+"text": "Critics praise the creative menu and friendly service."
+}
+],
+"correctAnswer": "D",
+"explanation": "The sentence adds a reason for the restaurant's popularity."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "am changing"
+},
+{
+"key": "B",
+"text": "change"
+},
+{
+"key": "C",
+"text": "changed"
+},
+{
+"key": "D",
+"text": "will have changed"
+}
+],
+"correctAnswer": "B",
+"explanation": "The simple present describes a habitual action."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "fuller"
+},
+{
+"key": "B",
+"text": "fullness"
+},
+{
+"key": "C",
+"text": "fully"
+},
+{
+"key": "D",
+"text": "full"
+}
+],
+"correctAnswer": "C",
+"explanation": "An adverb modifies the participle \"booked\"."
+}
+]
+},
+{
+"id": "p6x-044",
+"title": "Meeting Reschedule",
+"type": "Email",
+"text": "Dear Colleagues,\nDue to a conflict with a client visit, I need to [131] our weekly planning meeting from Monday to Wednesday. The new time is 10:00 a.m. in Conference Room B. [132]. If you cannot attend at the new time, please [133] me by tomorrow. In that case, we will [134] a different day that suits everyone. I am sorry for any inconvenience.\nBest regards,\nMark Duval",
+"questions": [
+{
+"number": 131,
+"options": [
+{
+"key": "A",
+"text": "moving"
+},
+{
+"key": "B",
+"text": "move"
+},
+{
+"key": "C",
+"text": "moves"
+},
+{
+"key": "D",
+"text": "moved"
+}
+],
+"correctAnswer": "B",
+"explanation": "After \"need to\", the base verb is needed."
+},
+{
+"number": 132,
+"options": [
+{
+"key": "A",
+"text": "The agenda is the same as the one sent earlier."
+},
+{
+"key": "B",
+"text": "Planning is an important task."
+},
+{
+"key": "C",
+"text": "Clients often visit on Mondays."
+},
+{
+"key": "D",
+"text": "Conference Room B has a new table."
+}
+],
+"correctAnswer": "A",
+"explanation": "The sentence gives useful information about the rescheduled meeting."
+},
+{
+"number": 133,
+"options": [
+{
+"key": "A",
+"text": "informed"
+},
+{
+"key": "B",
+"text": "information"
+},
+{
+"key": "C",
+"text": "inform"
+},
+{
+"key": "D",
+"text": "informing"
+}
+],
+"correctAnswer": "C",
+"explanation": "After \"please\", the base verb is needed."
+},
+{
+"number": 134,
+"options": [
+{
+"key": "A",
+"text": "chooses"
+},
+{
+"key": "B",
+"text": "choosing"
+},
+{
+"key": "C",
+"text": "chosen"
+},
+{
+"key": "D",
+"text": "choose"
+}
+],
+"correctAnswer": "D",
+"explanation": "After \"will\", the base verb is needed."
+}
+]
+}
+]

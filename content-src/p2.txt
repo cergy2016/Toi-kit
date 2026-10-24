@@ -1,0 +1,108 @@
+When|When does the new sales manager start?|Next Monday, I think.|In the main office downtown.|She was hired by Mr. Kim.|"When" asks about time, and "Next Monday" gives a time.
+When|When is the budget report due?|By the end of the week.|It's about forty pages long.|Yes, the budget is large.|The answer gives a deadline, which answers "When".
+When|When will the parking lot be repaved?|They haven't announced a date yet.|It's on the left side of the building.|Yes, I parked there yesterday.|An indirect answer that says the date is unknown is a typical correct response to "When".
+When|When did you last update the client database?|Sometime last month.|Mostly the Canadian clients.|With the new software.|"Last month" answers "When".
+When|When can we expect the shipment to arrive?|Probably Thursday morning.|The shipping label is torn.|About two hundred boxes.|"Thursday morning" gives a time.
+When|When does the museum open on weekends?|At ten o'clock.|It's near the train station.|Two tickets, please.|"At ten o'clock" gives a time.
+When|When are you moving to the new office?|At the end of next month.|Because the rent is lower.|The new office is quite spacious.|The question is about time and "end of next month" answers it.
+Where|Where should I put these invoices?|In the top drawer of my desk.|Yes, they were paid already.|Before lunchtime.|"Where" asks about place and "top drawer" gives one.
+Where|Where is the staff meeting being held today?|In the third-floor conference room.|At two thirty.|Mr. Alvarez is leading it.|"In the third-floor conference room" gives a place.
+Where|Where can I get a visitor badge?|At the reception desk.|He's visiting from Seoul.|It's a blue badge.|The reception desk is a place that answers "Where".
+Where|Where did you buy that laptop bag?|At the airport store last week.|It's very comfortable.|Around fifty dollars.|"At the airport store" gives a place.
+Where|Where is the nearest copy machine?|Just down the hall, next to the kitchen.|Yes, it makes good copies.|Twenty pages, please.|The answer describes a location.
+Where|Where are the quarterly sales figures stored?|On the shared drive under "Reports".|They increased by ten percent.|Ms. Lin prepared them.|A location on the shared drive answers "Where".
+Where|Where will the awards ceremony take place?|In the Grand Ballroom of the Harbor Hotel.|On Friday evening.|Ms. Moore won last year.|The answer gives a place.
+Who|Who is in charge of the Denver project?|Ms. Ortega, I believe.|It's due in March.|At the Denver branch.|"Who" asks about a person; "Ms. Ortega" is a person.
+Who|Who ordered the extra printer paper?|I think it was Greg.|Two boxes of letter size.|By the supply closet.|The answer names a person.
+Who|Who's going to present at the board meeting?|The finance director is.|At three o'clock.|The slides are almost ready.|"The finance director" answers "Who".
+Who|Who should I contact about my expense report?|Anyone in the accounting office.|Yes, it was approved.|The report is on my desk.|A group of people answers "Who should I contact".
+Who|Who left this umbrella in the conference room?|It might belong to one of the clients.|It's raining outside.|I'll take the elevator.|The answer suggests a possible owner.
+Who|Who's the new graphic designer?|The tall man in the blue jacket.|Yes, the design looks great.|A new software program.|A description of a person answers "Who".
+Who|Who approved the vacation request?|The department head did.|Next week, for ten days.|It's at the beach.|The answer names the person responsible.
+What|What time does the train to Boston leave?|At 4:15 from platform six.|It takes about four hours.|Yes, I bought a ticket.|"What time" asks for a time.
+What|What do you think of the revised proposal?|It's much clearer than the first one.|Yes, he proposed to her.|I revised it twice.|The question asks for an opinion, and the answer gives one.
+What|What's the best way to reach the client?|Send her an e-mail.|The reach is about fifty miles.|She's the best client.|A method of contact answers "What's the best way".
+What|What kind of software does the team use for scheduling?|Mostly a cloud-based calendar.|Every Tuesday at nine.|They are scheduled to finish soon.|The answer names a type of software.
+What|What happened to the projector in Room 3?|The bulb burned out yesterday.|It's near the window.|At the front of the room.|The answer explains what happened.
+What|What's your estimate for the renovation cost?|About fifty thousand dollars.|It was renovated in 2020.|I estimated it on Monday.|"About fifty thousand dollars" answers the question about cost.
+What|What did the customer say about our new packaging?|She said it was easy to open.|It's packed in boxes.|At the customer service desk.|The answer reports what was said.
+What|What's included in the monthly subscription?|Unlimited downloads and phone support.|Every first day of the month.|I subscribed online.|The answer lists what is included.
+Why|Why was the training session canceled?|The trainer got sick.|At nine o'clock tomorrow.|In the training room.|"Why" asks for a reason, and "got sick" is a reason.
+Why|Why are the sales figures so low this month?|We had fewer customers in the store.|They are on the second page.|Yes, they were low last month too.|The answer gives a reason.
+Why|Why did you choose this supplier?|Their prices are the lowest.|By e-mail this morning.|Two suppliers called.|A reason answers "Why".
+Why|Why is the office closed early today?|There's a power outage in the building.|Yes, it's closed on Sundays.|Around four o'clock.|The answer gives the reason.
+Why|Why hasn't the package arrived yet?|It was sent to the wrong address.|It arrived by truck.|Because I was there.|The answer explains the delay.
+Why|Why don't we take a short break?|Sure, I could use some coffee.|It broke last week.|About ten minutes long.|"Why don't we" is a suggestion, and "Sure" accepts it.
+How|How did the job interview go?|Quite well, I think.|At the downtown office.|By subway.|The question asks about the result, and "Quite well" answers it.
+How|How do I log in to the new system?|Use the password from the e-mail.|About three times a day.|It's an old system.|The answer explains the steps.
+How|How many people are attending the workshop?|Around thirty so far.|Next to the stage.|It starts at ten.|"Around thirty" gives a number.
+How|How much does the express shipping cost?|Twelve dollars for each package.|Within two business days.|By airmail.|The answer gives a price.
+How|How long will the maintenance take?|About two hours.|Every month or so.|On the second floor.|"About two hours" gives a duration.
+How|How often do you check your e-mail?|Every hour or so.|Last Tuesday.|On my laptop.|The answer gives a frequency.
+How|How far is the airport from the hotel?|About twenty minutes by taxi.|It's a large airport.|Yes, I flew last week.|The answer gives distance as travel time.
+How|How can I get a refund for this item?|Bring the receipt to the service counter.|Yes, it was expensive.|He's a great accountant.|The answer explains how.
+Which|Which printer should I use for the color copies?|The one on the second floor.|Black and white is fine.|Yes, I printed it already.|"Which" asks to choose, and the answer identifies one.
+Which|Which candidate did you prefer?|The one with the sales background.|She prefers tea.|At the front desk.|The answer identifies a candidate.
+Which|Which route is faster to the convention center?|The highway is usually quicker.|It's held every year.|About four hundred guests.|The answer chooses a route.
+Which|Which conference room is available this afternoon?|Room 5 is empty after one.|The conference starts today.|Yes, I have an afternoon appointment.|The answer names the available room.
+Yes/No|Did you finish the sales report?|Yes, I sent it this morning.|The sales team meets on Fridays.|It's due on the fifteenth.|A direct "Yes" with a detail answers the yes/no question.
+Yes/No|Is the meeting still scheduled for Friday?|No, it's been moved to Monday.|At the main office.|I'll bring the handouts.|A direct "No" with the new day answers the question.
+Yes/No|Have you seen the updated schedule?|Not yet, where is it posted?|The schedule is a little tight.|Yes, I saw him in the lobby.|"Not yet" answers the question and asks for the location.
+Yes/No|Are you attending the product demonstration?|I have another appointment at that time.|The demonstration lasts an hour.|It's a new product.|An indirect "no" that gives a reason.
+Yes/No|Can I borrow your stapler for a moment?|Sure, it's on my desk.|I borrowed it from the library.|The staplers are out of stock.|"Sure" accepts the request and says where the stapler is.
+Yes/No|Do you have the keys to the storage room?|They're hanging by the door.|It's a large storage room.|The keys were expensive.|The answer says where the keys are.
+Yes/No|Did the client approve the design?|Not yet; she's still reviewing it.|The design team is on the second floor.|Yes, the client called me.|"Not yet" answers the question and adds a reason.
+Yes/No|Is there a pharmacy near the hotel?|Yes, one is right across the street.|The hotel has a pool.|About two blocks long.|A direct "Yes" with a location.
+Yes/No|Will you be able to work this weekend?|I'd have to check my schedule first.|The weekend is on the calendar.|Yes, I worked there for years.|An indirect answer: the speaker is not sure yet.
+Yes/No|Has the new hire started yet?|She begins on the fifteenth.|He hired a new assistant.|It started on time.|The start date shows she has not started yet.
+Tag Question|The conference starts at nine, doesn't it?|Actually, it starts at nine thirty.|At the convention center.|Yes, I attended it last year.|The speaker corrects the time.
+Tag Question|You've already booked the flights, haven't you?|I'm doing it right now.|The flights were very crowded.|Yes, to the Chicago office.|The speaker says the action is in progress.
+Tag Question|The new policy is easier to follow, isn't it?|Yes, it's much more straightforward.|The policy is on page twelve.|I'll follow you to the lobby.|A direct agreement.
+Tag Question|Mr. Chu works in the finance department, right?|No, he moved to marketing last year.|The finance report is ready.|Yes, he works at Chu Street.|A correction of the fact.
+Tag Question|It's going to be a busy week, isn't it?|Yes, we have three deadlines.|There are seven days in a week.|It's on the busy street.|A direct agreement with a reason.
+Negative Question|Don't you want to join us for lunch?|I have to finish this first.|The lunch menu is on the table.|Yes, we joined last year.|An indirect refusal with a reason.
+Negative Question|Isn't the printer broken again?|No, the technician fixed it this morning.|The printer is next to the window.|I printed twenty copies.|A direct answer correcting the assumption.
+Negative Question|Haven't they hired a replacement yet?|They're interviewing candidates this week.|The replacement parts are in storage.|Yes, I hired a car.|The answer says it is still in progress.
+Negative Question|Why isn't the air conditioning working?|The repair crew is on its way.|It works the same as the old one.|At the end of the corridor.|The answer explains the situation.
+Statement|I can't find the sales report anywhere.|Did you check the shared folder?|The sales office is closed.|I reported it yesterday.|A helpful question in response to a problem.
+Statement|The projector isn't working again.|I'll call the IT department.|The project starts tomorrow.|It's a large screen.|An offer of help in response.
+Statement|We're running low on printer paper.|I'll order some this afternoon.|The printer is on the left.|Yes, it's very light paper.|The speaker offers to fix the problem.
+Statement|I'm having trouble logging in to my account.|Have you tried resetting your password?|The account is in the bank.|I'll log the hours.|A suggestion in response to a problem.
+Statement|The client wants to move the deadline up.|That's going to be difficult.|The client called at noon.|Next to the clock.|A reaction to the statement.
+Statement|I just got a promotion!|Congratulations, you deserve it.|The promotion video is online.|I got lost on the way.|A suitable response to good news.
+Statement|The keynote speaker is stuck in traffic.|Let's start with the panel discussion.|He'll speak in the main hall.|The traffic report is on the radio.|A practical solution to the problem.
+Statement|Our flight to Chicago has been delayed.|Let's let the client know.|The flight attendant was friendly.|We left Chicago last year.|A practical next step.
+Statement|I haven't received my paycheck yet.|Let me check with payroll.|The check is made out to you.|Yes, we received the shipment.|The speaker offers to look into the problem.
+Statement|This printer jams all the time.|Maybe we should replace it.|It prints in color.|Usually before noon.|A suggestion in response to a complaint.
+Choice|Would you like to meet in the morning or the afternoon?|Whichever is better for you.|Yes, I met him in the morning.|The meeting room is on the left.|The speaker lets the other person choose.
+Choice|Should we take a taxi or the subway?|The subway is cheaper.|The taxi is a yellow one.|I took the train yesterday.|The speaker chooses one option and gives a reason.
+Choice|Do you prefer the blue folders or the green ones?|I don't have a preference.|The folders are in the cabinet.|Yes, I prefer working alone.|The speaker says either is fine.
+Choice|Will you pay by credit card or in cash?|I'll use my card.|The cashier is on break.|Yes, I paid last week.|The speaker chooses one option.
+Choice|Is the meeting at the main office or at the branch?|At the main office, as usual.|The meeting went very well.|The branch manager is away.|The speaker chooses one option.
+Choice|Would you rather start the project now or wait until next month?|Let's wait until the budget is approved.|The project manager is new.|Yes, we started on time.|The speaker chooses one option and gives a reason.
+Choice|Do you want a window seat or an aisle seat?|An aisle seat, please.|The window needs cleaning.|Yes, the flight is full.|The speaker chooses one option.
+Choice|Should I send the documents by mail or e-mail?|E-mail will be faster.|The documents are in the drawer.|Yes, I sent a letter.|The speaker chooses one option and gives a reason.
+Suggestion|Why don't we order lunch for the team?|Good idea, I'll make a list.|Because the team is large.|The lunch break is at noon.|The speaker accepts the suggestion.
+Suggestion|Let's review the budget before the meeting.|Sure, I have time now.|The meeting is on Thursday.|The budget airline is cheaper.|The speaker accepts the suggestion.
+Suggestion|How about holding the workshop in March?|That works for me.|The workshop is downstairs.|Yes, it's a long march.|The speaker accepts the suggestion.
+Suggestion|Shall we start the presentation now?|Let's wait for Ms. Cruz to arrive.|The presentation is ten slides.|It's a great present.|The speaker suggests waiting for someone.
+Suggestion|Would you like me to carry those boxes for you?|Thanks, that would be a big help.|The boxes are made of cardboard.|Yes, I carried them yesterday.|The speaker accepts the offer.
+Suggestion|Could you send me the final invoice today?|I'll get it to you by noon.|The invoice has a tax line.|I'm in the final week.|The speaker agrees and gives a time.
+Request|Could you cover my shift on Saturday?|Let me check my calendar first.|The shift ends at six.|I'll cover the cost.|The speaker needs to check before answering.
+Request|Would you mind closing the window?|Not at all.|The window faces north.|Yes, it's closed on Sundays.|"Not at all" means the speaker does not mind.
+Request|Can you e-mail me the agenda for tomorrow?|I'll send it right away.|Tomorrow is Thursday.|The mail came early today.|The speaker agrees to act immediately.
+Request|Please let me know when the report is ready.|I'll call you as soon as it's finished.|The report is twenty pages.|Yes, it was a good read.|The speaker promises to call.
+Request|Could you give me a hand with these files?|Sure, where do you want them?|The file cabinet is full.|Yes, I have a handout.|The speaker agrees and asks where to put them.
+Opinion|What did you think of the keynote speech?|It was a bit too long.|It was held in the main hall.|The speaker came from Tokyo.|The speaker gives an opinion.
+Opinion|How do you like your new office?|It gets a lot of natural light.|The office opens at eight.|I like the new manager.|The speaker gives an opinion with a detail.
+Opinion|Do you think we should raise our prices?|Not until we talk to our customers.|The prices are on the menu.|Yes, the raise was approved.|The speaker gives a conditional opinion.
+Opinion|What's your impression of the new manager?|She seems very organized.|He manages two shops.|The impression is on the form.|The speaker gives an impression.
+Duration|How long have you worked at this company?|Almost eight years now.|It takes about an hour.|At the main office.|"Almost eight years" gives a duration.
+Duration|How soon can you finish the design?|By the end of tomorrow.|It's a modern design.|The design is on the second floor.|A deadline answers "How soon".
+Quantity|How many copies do you need?|Twenty should be enough.|At the copy center.|I copied them last week.|A number answers "How many".
+Quantity|How much is the monthly parking fee?|It's seventy-five dollars.|The parking lot is full.|At the garage across the street.|A price answers "How much".
+Unknown|Do you know when the elevator will be repaired?|You should ask the building manager.|It's on the fifth floor.|Yes, the elevator is new.|The speaker does not know and suggests who to ask.
+Unknown|Do you know who is hosting the retirement party?|I haven't heard yet.|The party starts at seven.|Yes, he's retiring soon.|The speaker says they do not know.
+Unknown|Can you tell me where the training room is?|It's at the end of the corridor.|The training starts on Monday.|The room is quite expensive.|The answer gives the location.
+Indirect|Would it be possible to extend the deadline?|Let me ask my supervisor.|The deadline was yesterday.|I extended the cable.|The speaker needs to check with someone.
+Indirect|Do you know how to use this scanner?|I'm not sure; the manual is in the drawer.|The scan was black and white.|Yes, I scanned it twice.|The speaker admits uncertainty and points to the manual.

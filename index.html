@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TOEIC Mastery Toolkit, 2026 Edition</title>
+    <meta name="description" content="Independent offline study toolkit for the TOEIC Listening and Reading test: diagnostic tests, 7-part strategies, 150+ practice items, 500 business vocabulary terms, grammar lessons, and study planner." />
+    <meta property="og:title" content="TOEIC Mastery Toolkit, 2026 Edition" />
+    <meta property="og:description" content="Master TOEIC Listening & Reading with offline practice tests, strategies, business vocabulary, grammar drills, and error logging." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <script>
+      (function() {
+        const theme = localStorage.getItem('toeic_theme');
+        if (theme === 'dark' || (!theme && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
+          document.documentElement.classList.add('dark');
+        } else {
+          document.documentElement.classList.remove('dark');
+        }
+      })();
+    </script>
+  </head>
+  <body class="bg-slate-50 dark:bg-slate-950 text-slate-900 dark:text-slate-100 min-h-screen antialiased selection:bg-indigo-500 selection:text-white">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+
